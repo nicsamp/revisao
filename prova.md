@@ -1,0 +1,1061 @@
+# Biologia 1
+
+## Cap. 7
+
+Digestão - Quebra de macromoléculas (que são os nutrientes maiores) nos alimentos em micromoléculas (monômeros) que são absorvidas para uso pelo organismo
+
+- Nutrientes - Substâncias utilizadas pelo organismo. Ex: proteínas, carboidratos, lipídios, vitaminas
+
+- Grelina - Substância produzida pelo estômago que dá a sensação de fome
+
+- Leptina - Substância produzida pelo tecido adiposo que retira a sensação de fome
+
+---
+
+Tipos de Digestão por Processo
+
+- Mecânica - Não há a ação de substâncias. Ex: mastigação
+
+- Química - Por ação de enzimas (hidrólise enzimática). Ex: estômago
+
+---
+
+Tipo de Digestão por Local
+
+- Intracelular - Ocorre dentro das células
+
+- Extracelular - Ocorre fora das células, mas dentro do corpo
+
+- Extracorpórea - Ocorre fora do corpo
+
+---
+
+Sistema Digestório
+
+- Boca - Realiza a trituração mecânica do alimento pelos dentes e língua, e digestão química com a saliva. Possui pH neutro
+  
+  - Bolo Alimentar - Formado após a trituração e mistura com a saliva
+  
+  - Saliva - Formado por água, mucina (proteção do esôfago) e pela amilase salivar (ou ptialina), que é a primeira enzima digestiva. Quebra o amido para carboidratos simples. A saliva é secretada por 3 pares glândulas salivares
+  
+  - Deglutição - “Engolimento” do alimento, em que a língua empurra o bolo alimentar para o esôfago
+    
+    - Epiglote - Bloqueia a traqueia quando o alimento é engolido
+
+- Esôfago - Realiza os movimentos peristálticos, contrações musculares nas paredes do esôfago para levar o bolo alimentar ao estômago
+
+- Estômago - Realiza digestão química pelo suco gástrico. Possui pH ácido
+  
+  - Suco Gástrico - Formado por água, HCl e enzimas como pepsina
+    
+    - Pepsina - Realiza digestão proteica
+  
+  - Células
+    
+    - Mucosas - Liberam muco que protege a parede do estômago
+    
+    - Parietais - Liberam o HCl
+    
+    - Principais - Liberam a pepsina
+  
+  - Quimo - O bolo alimentar passa a ser chamado de quimo
+  
+  - Valvas - Fecham para evitar a volta do bolo alimentar pelo sentido contrário
+    
+    - Cardia - Entre o esôfago e estômago
+    
+    - Pilo - Entre o intestino delgado e estômago
+
+- Intestino Delgado - Realiza digestão química por várias enzimas e absorve os nutrientes. Possui pH básico. Formado pelo duodeno, jejuno e íleo
+  
+  - Quilo - O quimo passa a ser chamado de quilo
+  
+  - Bile - Substância que emulsifica gorduras. Produzida pelo fígado e armazenada na vesícula biliar, onde é secretada no intestino
+  
+  - Suco Pancreático - Formado por água, bicarbonato de sódio (para mudar o pH) e enzimas. Produzido pelo pâncreas
+    
+    - Amilase Pancreática - Quebra o amido
+    
+    - Nuclease - Quebra DNA e RNA em nucleotídeos
+    
+    - Tripsina e Quimotripsina - Quebra proteínas
+    
+    - Lipase - Quebra lipídios
+  
+  - Suco Entérico (ou Intestinal) - Formado por água e enzimas. Produzido pelo duodeno (início do intestino)
+    
+    - Maltase - Quebra maltose em glicose
+    
+    - Sacarase - Quebra sacarose em glicose e frutose
+    
+    - Lactase - Quebra lactose em glicose e galactose
+    
+    - Peptidase - Quebra polipeptídeos em aminoácidos
+    
+    - Nucleotidase - Quebra nucleotídeos
+  
+  - Vilosidades - Sinuosidades no intestino que aumentam a superfície de contato para absorção. Também presente nas células (microvilosidades)
+    
+    - Intolerância a Glúten (ou Doença Celíaca) - Doença autoimune causada pelo glúten em que há a destruição das vilosidades do intestino, levando à má absorção de nutrientes
+
+- Intestino Grosso - Absorve água e sais minerais
+  
+  - Cólon - Tubo que absorve a água e sais, formado pelo cólon ascendente, transverso e descendente
+  
+  - Apêndice Vermiforme (ou Ceco) - Órgão vestigial do intestino sem função
+
+- Ânus - Por onde sai os resíduos da digestão
+
+## Cap. 8 [NÃO FEITO]
+
+# Biologia 2
+
+## Cap. 6
+
+Biotecnologia - Uso de seres vivos ou seus derivados para fabricar ou modificar produtos ou processos. Ex: fermentação, cruzamento de espécies, vacinas, clonagem, diagnósticos, biocombustíveis
+
+- Engenharia Genética - Manipulação do DNA de seres vivos
+  
+  - Organismos Geneticamente Modificados (OGMs) - Ser que teve seu material genético alterado
+    
+    - Transgênicos - OGMs que receberam genes de outra espécie
+    
+    - Silenciamento Gênico - Um gene do ser é inativado
+  
+  - DNA Recombinante - Técnica em que fitas de DNA são cortadas e unidas pelo DNA ligase, normalmente feito com um plasmídeo e um DNA de outro ser, que pode ser introduzido em outro ser, usado para produzir uma enzima como insulina ou para criar cópias do DNA unido
+    
+    - Enzimas de Restrição (ou Endonuclease de Restrição) - Enzimas que cortam o DNA em sequências de nucleotídeos específicos (sítios de restrição)
+    
+    - Gene Artificial - Uma fita de RNA é sintetizada em laboratório com um gene artificial, sendo transformado em DNA pela proteína transcriptase reversa
+  
+  - Vetores Virais - Modificação do DNA de um vírus para um de interesse, para quando o vírus infectar células esse material genético é introduzido
+    
+    - Terapia Gênica - Genes defeituosos são corrigidos e introduzidos no ser por vetores virais
+    
+    - Terapia CART - Linfócitos T são modificados por vetores virais para expressar o receptor CAR que reconhece algumas células cancerígenas
+    
+    - Células-Tronco Pluripotentes Induzidas (iPS) - Células somáticas voltam a ser pluripotentes por vetores virais
+  
+  - CRISPR - Técnica de edição do DNA de forma específica. Utiliza a enzima Cas9 e o RNA guia para cortar partes específicas do DNA, direcionadas pela ligação do RNA CRISPR ao DNA
+  
+  - Biobalística - Partículas pequenas de metal pesado são revestidas de DNA e atiradas a alta velocidade nas células, chegando ao núcleo da célula
+  
+  - RNA de Interferência - Um RNA complementar a um RNAm é introduzido, levando ao pareamento e a interrupção da formação da proteína do RNAm
+
+- Eletroforese - Técnica em que fitas de DNA são colocadas em um gel poroso, separando-os por tamanho por meio de um campo elétrico
+  
+  - DNA Fingerprint (ou Identificação por DNA) - Técnica de diferenciação de indivíduos pelo DNA, comparando bandas de DNA formadas na eletroforese por meio da divisão do DNA pelas regiões intergênicas, regiões entre genes funcionais em que há a repetição de sequência de nucleotídeo
+
+- Células-Tronco - Células indiferenciadas, podendo se diferenciar em qualquer tipo de célula, por meio da expressão de genes específicos de DNA
+  
+  - Totipotentes - Células-tronco que se diferenciam em qualquer célula, inclusive anexos embrionários. Encontrado na mórula
+  
+  - Pluripotentes - Células-tronco que se diferenciam em qualquer célula, menos os anexos embrionários. Encontrado na blástula
+  
+  - Multipotentes - Células-tronco que se diferenciam em células de mesma origem embrionária do tecido. Encontrado na medula óssea (células sanguíneas)
+  
+  - Unipotentes - Células-tronco que se diferenciam em células do mesmo tecido. Encontrado nos tecidos
+
+- Clonagem Reprodutiva - Produção de um indivíduo geneticamente igual a outro. O núcleo de uma célula somática do indivíduo clonado é colocada em um óvulo cujo núcleo foi retirado
+
+- Clonagem Terapêutica - Técnica de tratamento de doenças degenerativas, genéticas e para transplantes, onde é formado um óvulo da mesma forma que na clonagem reprodutiva, mas as células pluripotentes do embrião são retiradas, para ser usada sua capacidade regenerativa
+
+- Proteína C-Reativa (PCR) - Técnica de multiplicação de DNA, pela desnaturação (quebra) e anelamento (preenchimento dos fragmentos)
+
+- Sequenciamento do Genoma - Processo de determinação da sequência de bases do DNA
+
+## Cap. 7
+
+Pré-Formismo - Crença antiga de que os seres já eram pré-formados nos gametas
+
+Genética - Estuda a hereditariedade
+
+- Hereditariedade - Transmissão de características de um indivíduo para filhos. Depende dos genes, transferidos pelos gametas
+
+- 1a Lei de Mendel (ou Lei da Segregação Independente) - Diz que características de um ser são determinadas por genes no material genético, que é um par de alelos
+  
+  - Gregor Mendel - Responsável por criar as bases para a genética, pelos seus experimentos com características de ervilhas *Pisum sativum*, por ter ciclo de vida curto, várias sementes, autofecundação e características simples, como cor e forma da flor, semente e vagem
+  
+  - Alelo - Forma o gene, com um vindo do pai e outro da mãe, pela separação dos alelos deles na meiose I. Representado por A ou a
+  
+  - Gene - Determina uma característica em um ser, sendo representado por AA, Aa ou aa
+    
+    - Genoma - Conjunto de genes de um ser
+  
+  - Dominância - Quando uma característica precisa de apenas um alelo para se manifestar. Representado por AA ou Aa
+  
+  - Recessividade - Quando uma característica precisa dos dois alelos para se manifestar. Representando por aa
+  
+  - Homozigose (ou Pureza) - Quando o par de alelos é igual. Pode ser dominante (AA) ou recessivo (aa)
+  
+  - Heterozigose (ou Hibridez) - Quando o par de alelos é diferente, sendo dominante (Aa)
+  
+  - Genótipo - Conjunto de alelos de um ser, sendo imutável
+  
+  - Fenótipo - Características expressas pelo genótipo, mas que podem ser influenciadas por outros fatores
+
+- Cruzamento-Teste - Utilizado para determinar os alelos de um gene dominante em um ser, por poder ser AA ou Aa. É feito pelo cruzamento deste com um recessivo (aa). Caso seja AA, formará apenas dominantes (Aa), mas se for Aa, pode formar recessivos (aa)
+
+- Diagrama de Punnett - Representação do cruzamento de indivíduos para analisar os genótipos e fenótipos formados
+  
+  - ![](assets/image1.png)Diagrama de Punnett para dois heterozigotos (Aa)
+
+## Cap. 8
+
+Proporção Fenotípica - Proporção entre fenótipos formados em um cruzamento. Ex: Aa x Aa: AA, Aa, Aa, aa (proporção 3:1)
+
+Proporção Genotípica - Proporção entre genótipos formados em um cruzamento. Ex: Aa x Aa: AA, Aa, Aa, aa (proporção 1:2:1)
+
+---
+
+Herança Dicotômica (ou Mendeliana) - Há um alelo dominante em relação ao outro, em que o homozigoto dominante (AA) e o heterozigoto (Aa) tem o mesmo fenótipo
+
+Dominância Incompleta (ou Herança sem Dominância) - O heterozigoto é um fenótipo intermediário, sendo diferente dos dois homozigotos, pois os dois alelos se manifestam. Nela, o genótipo e fenótipo são iguais
+
+- Herança Intermediária - O fenótipo do heterozigoto é um meio termo entre o dos homozigotos. Ex: flor vermelha (VV), flor branca (BB) e flor rosa (VB)
+
+- Codominância - O fenótipo dos dois alelos ficam aparentes, mas não misturados. Ex: gado vermelho (VV), gado branco (BB) e gado malhado (branco e vermelho, VB)
+  
+  - Ruão - Pelagem com mais de uma cor, podendo ser causada pela codominância
+
+---
+
+Alelos Letais - Quando um dos alelos em homozigose causa a morte do ser. Nela, os seres que morrem não participam da proporção fenotípica e genotípica. Ex: camudongo amarelo (Aa), camudongo aguti (aa), gene letal (AA)
+
+# Biologia SSA
+
+## Vírus
+
+Vírus - Partícula com capacidade infecciosa, não considerada um ser vivo, por não ter metabolismo próprio e ser um parasita intracelular obrigatório, sendo, portanto, acelulado. Não é afetado por antibióticos
+
+- Especificidade Viral - O vírus só atinge seres e tipos de células específicas
+
+---
+
+Estrutura do Vírus - Formada por proteínas e material genético
+
+- Nucleocapsídeo - Guarda o material genético
+  
+  - Capsídeo - Parede ao redor do material genético, formada por proteínas capsômero
+  
+  - Material Genético - Pode ser de DNA ou RNA ou ambos e pode sofrer mutação
+
+---
+
+Tipos de Vírus
+
+- Envelopados - Possui envelope celular ao redor do nucleocapsídeo
+
+- Não Envelopados - Não possui envelope celular
+
+- Bacteriófagos
+
+---
+
+Ciclos do Vírus
+
+- Ciclo Lisogênico - Ciclo mais longo e duradouro, ocorre quando o vírus se conecta à célula e introduz o material genético viral. A célula eventualmente se divide formando 2 células infectadas e assim por diante
+
+- Ciclo Lítico - Mais curto, ocorre em células já infectadas, normalmente em quedas de imunidade. O material genético viral faz a célula produzir proteínas virais, criando novos vírus que eventualmente rompem a célula e saem
+  
+  - Transcriptase Reversa - Enzima que converte o RNA em DNA
+
+## Viroses [INACABADO]
+
+Viroses - Doenças causadas por vírus
+
+- Síndrome da Imunodeficiência Adquirida (AIDS) - Causada pelo vírus HIV, que invade o linfócito TCD4 (responsável pela resposta imunológico), injetando seu RNA, que é convertido em DNA pela célula, que começa a criar novos vírus, causando lise celular e portanto, imunodeficiência. É uma IST
+
+## Bactérias
+
+Bactérias - Setes pertencentes ao antigo reino Monera. São coloniais e são afetadas por antibióticos
+
+- Tipos de Bactérias
+  
+  - Arqueias (ou Arqueobactérias) - Bactérias extremófilas (vivem em ambientes extremos)
+    
+    - Halófilas Extremas - Ambientes de extrema salinidade
+    
+    - Termófilas Extremas - Ambientes de extrema temperatura
+    
+    - Metanogênicas - Vivem no sistema digestivo de ruminantes, sendo responsáveis pela digestão da celulose, liberando gás metano (CH<sub>4</sub>)
+  
+  - Eubactérias
+
+- Estrutura - São seres unicelulares e procariontes (sem núcleo)
+  
+  - Cápsula - Substância que reveste a parede celular
+  
+  - Parede Celular - Feita de peptidoglicano, função de proteção
+    
+    - Bactérias Gram-Positivas - Com parede celular mais espessa
+    
+    - Bactérias Gram-Negativas - Parede celular menor
+  
+  - Membrana Celular - Bicamada de lipoproteína, sem colesterol (diferente da membrana animal). Possuem enzimas responsáveis pelo metabolismo
+  
+  - Flagelo - Estrutura alongada para locomoção
+  
+  - Fímbrias - Cílios mais alongados
+  
+  - Pili - Fímbria alongada com função de troca de material genético
+  
+  - Ribossomos - Produção de proteínas
+  
+  - Material Genético - Exposto ao citoplasma, sem presença de nucleo, ficando em uma região chamada de nucleoide
+    
+    - Plasmídeo - Sequências pequenas de DNA circular responsáveis pela resistência a antibióticos
+
+- Alimentação - Podem ser heterótrofas (respiração celular e fermentação) ou autótrofas (fotossintese e quimiossintese)
+  
+  - Cianobactérias - Bactérias que realizam fotossíntese
+
+- Metabolismo Energético - Podem ser aeróbias, morrendo na falta de oxigênio, anaeróbias, morrendo na presença de oxigênio, ou anaeróbicas facultativas, podendo sobreviver em ambos os ambientes
+
+- Reprodução
+  
+  - Assexuada - Ocorre por fissão binária (ou divisão binária, ou bipartição, ou divisão simples ou cissiparidade)
+  
+  - "Sexuada" - Transferência de material genético entre bactérias, mas não criando novos seres
+    
+    - Conjugação - Ocorre por meio da pili
+    
+    - Transformação - Plasmídeo solto no ambiente (por morte de uma bactéria) é incorporada
+    
+    - Transdução - Bacteriófago com DNA bacteriano infecta uma célula
+
+- Tipos Morfológicos
+  
+  - Cocos - Bactérias próximas de esféricas individuais
+    
+    - Diplococos - Duas bactérias cocos unidas
+    
+    - Tetrades - Quatro bactérias cocos
+    
+    - Estreptococos - Várias bactérias cocos unidas em linha
+    
+    - Estafilococos - Várias bactérias cocos unidas de forma tridimensional
+  
+  - Bacilos - Bactérias alongadas. Podem ser diplobacilos ou estreptobacilos também
+  
+  - Vibriões - Bactérias em formato de vírgula
+  
+  - Espirilo - Bactérias com formato de espiral leve
+  
+  - Espiroquetas - Bactérias em formato de espiral
+
+## Bacterioses
+
+Antibióticos - Substâncias que impedem a proliferação de bactérias, por meio de intervenções em processos ou estruturas essenciais
+
+- Bactericidas - Antibióticos que matam bactériam
+
+- Bacteriostáticos - Antibióticos que impedem a duplicação de bactérias
+
+****
+
+Bacterioses - Doenças causadas por bactérias
+
+- Transmissão por Gotículas - Transmissão por meio de gotículas de muco e saliva suspensas no ar
+  
+  - Coqueluche - Causado por *Bordetella pertussis*, tem como principal sintoma a tosse
+  
+  - Pneumonia - Tem como sintomas febre, dor no peito e tosse com secreção
+  
+  - Tuberculose - Tem como sintomas tosse, febre, fadiga e emagracimento
+  
+  - Meningite - Tem cono sintomas febre, náusea, vômito e rigidez da nuca
+
+- Transmissão por Água e Alimentos Contaminados
+  
+  - Cólera - Tem como sintomas náusea, vômito e diarreia. Causado por alimentos contaminados por fezes
+  
+  - Botulismo - Tem como sintomas dificuldade de engolir, vômito e cólica abdominal
+
+- Tétano - Tem como sintomas espasmos musculares, febre e dor de cabeça. Transmitido por meio de ferimentos
+
+- Hanseníase - Causada por *Mycobacterium leprae*, tem como sintomas lesões na pele e mucosas. Transmitida por contato
+
+- Peste Bubônica - Tem como sintomas inchaço nos gânglios e febre. Transmitida por picada de pulga do rato
+
+- Leptospirose - Tem como sintomas febre, dor muscular, tosse, náusea e infecção renal. Transmitida por urina de ratos contaminados
+
+- Infecções Sexualmente Transmissíveis (ISTs)
+  
+  - Gonorreia - Tem como sintomas dor e pus ao urinar. É uma IST
+  
+  - Sífilis - Causado por *Treponema pallidum*, tem como sintomas feridas, podendo causar paralisia
+
+# Filosofia
+
+## Cap. 5
+
+Friedrich Nietzsche - Conhecido como "filósofo do martelo", sendo considerado a transição entre filosofia moderna e contemporânea
+
+- Verdade - Ele era contra a verdade absoluta, primordial, dizendo que é uma ilusão
+  
+  - Razão - Também era contra, bem como a moral, por serem fontes da verdade. Defende que, junto com a verdade e Deus, foram criados pelo homem por medo
+  
+  - Religião - Era contra como a razão, por ser um conjunto de leis morais consideradas absolutas, sobretudo sendo contra o cristianismo
+    
+    - Paulo de Tarso - Criticado por Nietzsche, por criar os dogmas
+  
+  - Busca pela Verdade - Considera que afastou a filosofia de sua verdadeira finalidade, que deve ser o agora, a vida, que é manifestada pela vontade, prazer e gosto, e é muitas vezes negada por ela. Por isso, critica filósofos como Sócrates e Platão
+    
+    - Niilismo - Negação da vida. Ex: cristianismo (nega a vida por uma recompensa após a morte)
+    
+    - Sócrates - Comparado a Jesus, por ambos serem mártires valorizados pelas suas humildades, trajetórias de vida e por serem injustiçados. Para ele, o problema é que guiam para um futuro não confirmado (verdade absoluta e vida após a morte)
+  
+  - "Deus está morto" - Manifesta a necessidade do fim da moral cristã, além da razão, que substituiu Deus após o iluminismo, ambos metafísicos
+
+- Dualidade - Defende a necessidade de união entre a razão (filosofia) e emoção (arte), formando uma nova totalidade
+  
+  - Apolo - Divindade da clareza e harmonia, utlizado como metáfora para a razão, pensamento racional. Defende que Apolo foi herdado na filosofia ocidental desde os gregos
+  - Dionísio - Divindade do vinho, festa, utilizado como metáfora para a emoção, excesso e paixão, ainda presente nas artes
+
+- Transvaloração de Valores - A destruição de todos os valores já estabelecidos para haver o surgimento de novos valores
+  
+  - Vontade de Potência - Vontade que é uma força afirmadora da vida, crucial para a transvaloração. É fortalecida pela emoção, paixão, arte, entretenimento e enfraquecida pela moral cristã, trabalho repetitivo
+  - Super-Homem (ou Übermensch) - Surge após a transvaloração dos valores
+
+- Tempo - É visto como circular, metáfora que busca mudar o modo de vida
+
+## Cap. 1
+
+Fenomenologia - Corrente criada por Edmund Husserl que busca a origem do conhecimento objetivo direto da consciência, sendo contra o psicologismo (baseado no relativismo), sem passar por processo de julgamento
+
+- Atitude Natural (ou Orientação Natural) - Visão exterior da realidade, como ela existe por si mesma
+
+- Atitude Fenomenológica - Forma como as coisas parecem para nós
+  
+  - Epoché (ou Redução Fenomenológica) - Abandono da atitude natural, refletindo sobre como as coisas são percebidas, e buscando sua essência (ou realidade transcendental, comum a tudo, sendo objetiva e absoluta). Ex: ver algo como azul (tem como essência o conceito de "cor")
+  
+  - Visão Apodítica - Defende a existência de uma verdade absoluta, sendo a essência
+
+- Intencionalidade - Defende que toda consciência é consciência de algo, não havendo consciência sem objeto e objeto sem consciência, havendo sempre parcialidade
+
+----
+
+Merleau-Ponty - Filósofo que fala sobre a aplicação da fenomenologia na percepção dos sentidos
+
+- Compatibilidade - Defende que o corpo e mente (ou espírito ou alma ou pensamento) são únicos, contrariando a visão dualista (em que o corpo e mente são diferentes, com a mente recebendo dados puros dos sentidos, que eram então interpretados pela razão)
+  
+  - Psicologia da Forma (ou Gestalt) - Diz que a percepção já ocorre de forma organizada e estruturada em relações, não sendo pura. Portanto, não há separação entre percepção e pensamento, únicos e ambos necessários para o outro, e logo corpo e mente
+  
+  - Pensamento - É visto como parte da experiência corporal, não sendo separado do resto da natureza (mundo físico)
+  
+  - Linguagem - É vista como objeto de uma consciência, dando existência ao pensamento mas de forma parcial (intencional)
+
+---
+
+Jean-Paul Sartre - Filósofo que criou a corrente existencialista, defende que não há essência antes de existência, inclusive para o humano, sendo contra a busca pela essência
+
+- Ser em Si - Coisas físicas
+
+- Ser para Si - Indivíduo consciente capaz de se perceber e perceber as coisas
+
+- Humano - Não é possível definir o humano sem considerar sua existência no mundo, não havendo uma essência humana, e logo causa para a sua existência
+  
+  - Consciência - É vista como um nada que é preenchido a partir da existência pelos atos
+  
+  - Liberdade - Possibilidade humana de agir de qualquer forma em qualquer circunstância, defendendo que os humanos são "condenados a serem livres", e a exerção da liberdade dá sentido a existência e define o destino
+  
+  - Dissimulação (ou Autoengano ou Má-Fé) - Rejeição da liberdade, dando justificativas de que o ambiente não permitiu a liberdade, se tornando um ser em si
+  
+  - Outro - Relação entre humanos (sujeitos), em que o outro é responsável por atestar e definir nossa existência total, mas que pode revelar que nã somos quem nós queremos ser, com muitos acabando vivendo pela aprovação do Outro
+
+# Geografia
+
+## Cap. 6
+
+Migração - Deslocamento de pessoas de um local para outro. Causado por fatores atrativos, como oferta de trabalho e estudo, disponibilidade de serviços, moradia, melhores condições de vida, e por fatores repulsivos do local de origem, como pobreza, desemprego, desastres naturais, guerras e perseguições
+
+- Imigração - Entrada de pessoas (imigrantes) em um local, chamado de área de afluxo
+
+- Emigração - Saída de pessoas (emigrantes) de um local, chamado de área de refluxo
+
+---
+
+Tipos de Migração
+
+- Por Espaço
+  
+  - Interna - Ocorre entre locais de um mesmo país
+  
+  - Externa - Ocorre entre países
+
+- Por Tempo - Temporária ou definitiva
+
+- Por Organização
+  
+  - Espontânea - Causada por vontade própria dos moradores
+  
+  - Estimulada - Estimulado economicamente
+  
+  - Forçada - Obrigado a migrar, como em emprego, guerras e desastres naturais
+
+- Por Causa
+  
+  - Migração Pendular - Ocorre entre uma cidade pequena e grande ou entre o subúrbio e centro de uma cidade, para trabalhar e depois voltar, sendo diária
+    
+    - Cidades Dormitório (ou Satélites) - Cidades mais residenciais em que a maioria dos seus moradores trabalham em outra cidade
+  
+  - Migração Sazonal (ou Transumância) - Migração temporária causada pelas estações do ano, sendo muitas vezes rural. Ex: sertão (períodos de chuva) e zona da mata (períodos de estiagem)
+    
+    - Cidades Viúvas da Seca - Cidades em que há grande fluxo migratório de migração sazonal
+  
+  - Êxodo Rural - Migração definitiva em que há a saída do campo para a cidade, por fatores como mecanização do trabalho, falta de infraestrutura e de reformas agrárias. Contudo, pode causar macrocefalia urbana, periferização, favelização, desigualdade social e aumento na criminalidade
+  
+  - Êxodo Urbano - Migração definitiva em que há a saída da cidade para o campo, por causa da criminalidade e caos urbano
+
+---
+
+Fluxos Migratórios Internacionais - Caracterizada pela busca por melhores condições de vida. Aumentou muito com a globalização
+
+- Europa - Até o fim da 2a guerra mundial era área de emigração pela superpopulação, desemprego e miséria, para países como EUA, Canadá, Brasil e Argentina (migração transatlântica). Depois, se tornou de imigração pela qualidade de vida e oferta de emprego
+
+- África - Área de emigração antes pela escravidão e depois pelos conflitos étnicos e baixa qualidade de vida, com destaque para a Primavera Árabe
+
+- Ásia - Área de emigração por conflitos étnicos (oriente médio) e crises
+
+- América - Até o fim da 2a guerra mundial era área de imigração pela oferta de emprego, industrialização e urbanização recente e doação de terras. Depois, se tornou de emigração na américa latina, pela busca de melhores condições de vida
+  
+  - Brasil - Após a escravidão, houve muita imigração por incentivos à chegada de mão-de-obra estrangeira, sobretudo europeia e japonesa
+
+- Refugiados - Pessoas que saem de seu país por perseguição étnica, política, religiosa ou de grupos social
+
+---
+
+Fluxos Migratórios no Brasil - É alta pela diferença socioeconômica entre regiões. Tem como principal característica a saída do Nordeste e a entrada no Sudeste
+
+- Pré-República - Influenciada pelos ciclos econômicos, como mineração (Minas Gerais) e café (Vale do Paraíba e Oeste Paulista)
+
+- Industrialização - Fluxo para o sudeste, principal área urbanizada e industrializada, além de para o Centro-Oeste e Norte pelo avanço da fronteira agrícola e construção de Brasília
+
+- Atual - Fluxo do sudeste para o nordeste, por crises econômicas e desenvolvimento agropecuário, também aumentando o fluxo para o Norte e Centro-Oeste
+
+## Cap. 7
+
+Cidade - Aglomerado humano concentrado, organizado em ruas e com ampla presença de serviços do setor terciário
+
+- Função Urbana - Atividade econômica predominante da cidade
+
+---
+
+Urbanização - Concentração da população de um local na área urbana. Causada pelo êxodo rural, industrialização e crescimento vegetativo urbano
+
+- Urbanização de Países Desenvolvidos - Ocorreu de forma lenta e ordenada, como na Europa e posteriormente mais rápida nos EUA e Japão
+
+- Urbanização de Países em Desenvolvimento e Subdesenvolvidos - Ocorreu de forma rápida e caótica, como no Brasil
+  
+  - Urbanização Brasileira - Iniciou no Sudeste pela industrialização, depois Centro-Oeste pela concentração agrícola, depois no Sul, Norte e Nordeste
+
+---
+
+Rede Urbana - Conjunto de cidades de um local conectadas por transporte e telecomunicações
+
+Hierarquia Urbana - Classificação das cidades de uma rede urbana de acordo com seu tamanho, economia e influência em outras cidades
+
+- Metrópole - Cidade formada por vários municípios conectados com grande influência nacional
+  
+  - Região Metropolitana - Cidades conurbadas (unidas por causa do crescimento urbano)
+  
+  - Metrópole Mundial (ou Cidade Global) - Metrópole com grande influência econômica internacional
+  
+  - Megacidades - Cidades com mais de 10 milhões de habitantes
+  
+  - Megalópole - União de várias metrópoles/regiões metropolitanas
+  
+  - Metropolização - Processo de conurbação de cidades, com o desaparecimento de limites visíveis entre elas, formando as metrópoles
+
+---
+
+Tipos de Cidade por Origem - Espontânea ou planejada
+
+## Cap. 8
+
+Poluição Atmosférica - Causada pela emissão de poluentes (como CO2, CO, CH4, NOx e SO2), sobretudo por indústrias, termelétricas e veículos. Causa o aumento de doenças cardiorrespiratórias
+
+- Inversão Térmica - Fenômeno em que, ao invés de ocorrer o fluxo de convecção normal do ar (ar quente sobe e frio desce), o ar de baixo resfria mais que o do alto, impedindo o fluxo, dificultando a saída do ar frio e logo a dispersão de poluentes. Ocorre mais durante o inverno. Aumenta doenças cardiorrespiratórias
+
+- Chuva Ácida - Chuva com caráter ácido, pela formação de ácido sulfúrico e nítrico a partir dos poluentes SO2 e NO2 e o vapor d’água. Causa a corrosão de edifícios e danos ao solo, fauna e flora e recursos hídricos
+
+---
+
+Impermeabilização do Solo - Causada pela falta de áreas verdes e superfícies permeáveis pelo adensamento urbano
+
+- Ilhas de Calor - Aquecimento em áreas mais edificadas, em que eles prendem o calor, e há a falta de áreas verdes para facilitar a circulação de ar. Pode levar ao aumento de doenças e afetar as chuvas urbanas
+
+- Enchentes - Alagamento de vias pavimentadas, podendo causar danos econômicos e sociais, além de provocarem a proliferação de doenças e poluição de rios
+
+---
+
+Desmatamento - Pela expansão urbana, causada pelo aumento populacional. Causa danos à fauna e flora, diminuindo a biodiversidade
+
+Lixo - Causado pela maior produção e consumo de produtos, além da destinação do lixo gerado por eles (como os lixões), e a falta de destinação correta (reciclagem, coleta seletiva, aterro sanitário). Sua decomposição gera o gás de efeito estufa metano, além do líquido chorume, que pode poluir o solo e lençois freáticos
+
+- Tipos de Lixo
+  
+  - Lixo Doméstico - Lixo gerado no dia a dia
+  
+  - Lixo Industrial - Resíduos gerados por indústrias, como produtos químicos
+  
+  - Lixo Hospitalar - Lixo de material infectado, devendo ser incinerado
+  
+  - Lixo Eletrônico - Produtos eletrônicos, causando danos graves ao meio ambiente se descartados de forma incorreta
+
+- Aterro Sanitário - O lixo é enterrado e seus produtos são tratados
+
+- Aterro Controlado - O lixo é apenas enterrado. É melhor que o lixão, mas ainda polui o ambiente. Usado por ser mais barato que o aterro sanitário
+
+---
+
+Falta de Moradia (ou Déficit Habitacional) - Pela pobreza, especulação imobiliária e falta de planejamento urbano, causando favelização, periferização e segregação social
+
+Falta de Mobilidade - Pela superpopulação e baixa qualidade de transporte urbano
+
+# História
+
+## Cap. 7
+
+República da Espada - Período inicial da república brasileira, caracterizada pelo controle militar da presidência. Houve grande inspiração francesa e estadunidense para a república e nacionalismo, e houve discussões entre o liberalismo, positivismo e jacobinismo (republicanismo radical)
+
+- Deodoro da Fonseca - Governo caracterizado pela retirada de influências do império, inflação, ampliação da cidadania e escolha do próximo presidente pela Assembleia Nacional enquanto era elaborada a constituição
+  
+  - Encilhamento - Houve a falência de muitas empresas nacionais pela especulação nas recém ampliadas bolsas de valores, além de muito fraude nelas
+
+- Constituição de 1891 - Primeira constituição republicana do Brasil. Caracterizado por oficializar o Estado laico, e garantir a liberdade de imprensa e habeas corpus
+  
+  - Sistema Eleitoral - Três poderes, eleição direta para presidente, membros do congresso nacional, governadores, congresso estadual, prefeitos e câmaras municipais, com voto semi-universal (exclui analfabetos e mendigos, e não era secreta, permitindo o fraude)
+
+- Floriano Peixoto - Houve a retirada de Deodoro do governo, assumindo o vice. Caracterizado por medidas favoráveis e combate a opositores do republicanismo, levando a Revolta da Armada. Houve muita instabilidade
+
+- Prudente de Morais - Caracterizado por mais instabilidade e transição para a república oligárquica
+  
+  - Guerra de Canudos (ou do Belo Monte) - Conflito entre a oligarquia e o arraial de Canudos, na Bahia. Acabou com a derrota de Canudos
+    
+    - Canudos - Comunidade formada por pequenos proprietários fugindo da exploração da elite, caracterizada pelo messianismo (misticismo religioso). Foi vista como ameaça pela elite
+    
+    - Antônio Conselheiro - Fundador e líder de Canudos, era contra a república e a favor da democracia
+
+---
+
+República Oligárquica (ou Primeira República) - Período caracterizado pela política do café com leite e domínio dos coroneis, além da urbanização e modernização urbana, aumentando desigualdades sociais nas cidades, o aumento na produção de café e borracha e o aumento na criação de escolas e universidades
+
+- Coronelismo - Elite econômica (agrária, sobretudo cafeeira) e política que controla a população local, responsáveis pelo fraude nas eleições
+  
+  - Voto de Cabresto - Fraude eleitoral em que pessoas eram forçadas pelo coronel a votarem em quem ele quisesse
+  
+  - Jagunços e Capangas - Matadores/seguranças que trabalhavam para o coronel, garantindo sua influência pela força
+
+- Política do Café com Leite - Aliança entre as oligarquias de São Paulo e Minas Gerais para ficar no poder
+  
+  - Oligarquia Estadual - Elite de coroneis que detém o poder estadual
+  
+  - Política dos Governadores (ou dos Favores ou dos Estados) - O poder federal favorecia as oligarquias estaduais e não interviam e apoiavam fraude eleitoral estadual, e as oligarquias garantiam a eleição de pessoas do interesse federal
+
+- Revoltas
+  
+  - Cangaço - Reação ao coronelismo, miséria e exploração no setor agrário
+    
+    - Lampião - Líder do processo
+    
+    - Banditismo Social
+  
+  - Guerra do Contestado - Revolta na fronteira do Paraná e Santa Catarina, pela expulsão de pessoas de terras para a implantação de uma ferrovia e exploração da madeira nessa região. Teve como líder o monge José Maria, também messiânico como Canudos
+  
+  - Revolta da Vacina - Revolta urbana no Rio de Janeiro, contra a vacinação obrigatória da varíola, além da miséria social causada pela urbanização
+    
+    - Oswaldo Cruz - Médico responsável pela vacinação obrigatória, além de planejar o saneamento como um todo de Rio de Janeiro
+  
+  - Revolta da Chibata - Revolta no Rio de Janeiro pelos maus tratos, más condições e baixo salário a marinheiros na marinha nacional. Houve o ocupamento de navios, mas foi duramente reprimido mas houve o fim do castigo físico
+    
+    - Almirante Negro - Líder do processo
+
+- Cafeicultura - Houve a expansão da produção do café, havendo a criação de ferrovias e portos para o escoamento do café, aumento da imigração europeia
+  
+  - Convênio de Taubaté - Criado para combater a queda no preço do café pela superprodução, por meio da compra pelo governo do excesso de café e estocando-o. Funcionou, mas ampliou a inflação
+
+- Salvações - Retirada do poder feita por Hermes da Fonseca pela substituição das oligarquias contra a política do café com leite. Foi combatida
+
+- Anexação do Acre - Resultado da ocupação de brasileiros de uma região desocupada da Bolívia, que acabou com a compra do Acre
+
+- Saneamento Físico - Processo de combate à inflação, que ocorreu por meio de empréstimos, negociação de dívidas e diminuição de gastos governamentais
+
+- Arte - Caracterizada pelo academicismo europeu, sobretudo na arquitetura, mas com temas brasileiros
+
+## Cap. 8
+
+Classes Sociais na República Oligárquica - Teve influência da expansão industrial e urbana, causada pelo grande crescimento populacional, influenciado pela entrada de imigrantes
+
+- Burguesia - Caracterizada pela elite industrial, que muitas vezes era também a elite cafeeira. Alguns defendiam maior autonomia, mas o vínculo com o café dificultou a oposição significativa
+
+- Operariado - Formado pelos trabalhadores urbanos, incluindo os imigrantes, que trouxeram influências do pensamento anarquista. Caracterizado pela formação de sindicatos, bem como protestos e greves por melhores condições de trabalho
+  
+  - Greve Geral - Ocorreu inicialmente em São Paulo, mas se expandiu para todo o país. Queriam direitos trabalhistas
+  
+  - Partido Comunista Brasileiro (PCB) - Criado após a greve geral, com influências da revolução russa
+
+- Classe Média - Eram contra o coronelismo e fraude eleitoral (defendiam a moralização), mas tinham pouca participação política
+
+- Minorias - São os afrodescendentes e as mulheres, também tendo pouca participação, mas houve aumento de mobilizações, sobretudo feministas
+
+---
+
+Semana da Arte Moderna - Evento que buscou romper com padrões tradicionais de arte, valorizando a liberdade de expressão e cultura brasileira
+
+Tenentismo - Ascensão de tenentes (jovens oficiais) no Exército, defendendo a moralização, com ideal de salvação nacional, além de serem contra restrições na ascensão militar. Por isso, simpatizou com a classe média
+
+- Revolta do Forte de Copacabana - Primeira revolta armada contra a oligarquia, ocorreu após a reação republicana
+  
+  - Reação Republicana - Estados como Rio de Janeiro, Rio Grande do Sul, Pernambuco e Bahia se juntaram, junto com o apoio da imprensa, para tentar desafiar a política do café com leite nas eleições, como o candidato Nilo Peçanha, que defendia a moralização. Porém, por causa de eleições fraudadas, perderam, criando insatisfação sobretudo no exército. Além disso, houve a intensificação de caráter autoritário nesse governo de Artur Bernardes
+
+- Revolução Paulista - Revolução que retirou o governador paulista do poder, criando um governo provisório que eventualmente foi combatido
+
+- Coluna Prestes - Revolta contra o governo liderada por Luís Carlos Prestes, com apoio dos revoltosos da Revolução Paulista, buscando reformas sociais e políticas
+
+---
+
+Washington Luís - Governo marcado por mudanças técnico-científicas
+
+---
+
+Revolução de 1930 - Golpe político, marcou o fim da república oligárquica, influenciada pela insatisfação de outros estados da política do café com leite, bem como a insatisfação popular. “Façamos a revolução antes que o povo a faça”
+
+- Eleições de 1930 - Composta por Júlio Prestes e Getúlio Vargas. Houve vitória de Prestes, mas a oposição acusou ele de fraude eleitoral, criando tensão
+  
+  - Júlio Prestes - Representando o PRP (partido republicano paulista). Pela política do café com leite, o próximo presidente deveria ser mineiro, causando a oposição do PRM (partido republicano mineiro)
+  
+  - Getúlio Vargas - Representando o PRR (partido republicano rio-grandense), mas com forte apoio do PRM e da Paraíba (oligarquias dissidentes), formando a aliança liberal, sendo a favor da moralização e democratização, tendo amplo apoio da classe média e tenentes
+  
+  - João Pessoa - Vice-presidente de Vargas, foi assassinado após a eleição, aumentando a tensão e levando ao golpe. Houve a retirada de Washington Luís, impedindo a posse de Júlio Prestes
+
+- Novo Governo - O golpe levou Vargas ao poder, criando um governo populista, nacionalista e trabalhista
+
+## Cap. 9
+
+Estados Unidos pré-Crise - Caracterizado por suposta prosperidade econômica, após se tornarem a maior economia do mundo após a 1a guerra mundial
+
+- American Way of Life - Visão difundida mundialmente do jeito americano de viver, caracterizado pelo consumo. Contudo, causou o aumento da concentração de renda e criminalidade
+
+---
+
+Europa pré-Crise - Caracterizada pelos efeitos da 1a guerra mundial, além da dependência econômica dos EUA
+
+---
+
+Crise de 1929 - Crise mundial do capitalismo, com o desequilíbrio dos Estados Unidos, mas causando efeitos de desequilíbrio mundiais. Ocorreu após a 2a guerra mundial
+
+- Causas
+  
+  - Superprodução - Produção em massa, característica do sistema fordista, intensificada ainda mais no setor bélico durante a 1a guerra mundial
+  
+  - Subconsumo - Causado pela pobreza e segregação racial, além de perda de mercados, com o consumo não acompanhando o crescimento na produção
+  
+  - Liberalismo Econômico - Dinâmica do capitalismo antes da crise, caracterizada pela não intervenção do Estado na economia. Causou a crise
+  
+  - Quebra da Bolsa de Valores de Nova Iorque (ou Quebra de Wall Street) - Evento que marca a crise de 1929, causado pela especulação financeira, criando uma bolha especulativa e gerando aparentes lucros sem ocorrer o aumento na venda de produtos
+    
+    - Quinta-Feira Negra - Momento em que ocorreu a quebra, pela venda em massa de ações, pelo medo de um colapso
+
+---
+
+Grande Depressão - Consequência da crise de 1929 nos EUA, caracterizado pela falência de empresas e bancos, desemprego em massa, diminuição de preços (deflação, causando ainda mais falência) e colapso do comércio internacional e da economia estadunidense
+
+---
+
+New Deal - Política econômica estabelecida pelo presidente estadunidense Roosevelt, baseado em reformas financeiras buscando retirar o país da grande depressão, que se recuperou de forma lenta. Marca o fim do liberalismo clássico. Caracterizado pela intervenção do Estado na economia, estatização de empresas (gerando emprego e consumo, recuperando a produção e criando ainda mais emprego) e outras políticas de bem-estar social
+
+# Literatura
+
+## Cap. 5
+
+Modernismo - Movimento artístico caracterizado pela liberdade formal, experimentalismo, humor e criação de uma cultura brasileira, sem influências externas, criando um nacionalismo crítico. Muito inspirada nas vanguardas europeias, trazidas ao Brasil por artistas que foram fazer intercâmbio
+
+Fase Heroica - Primeira fase do modernismo brasileiro
+
+- Semana da Arte Moderna - Exposição que ocorreu em São Paulo, marcando o início do modernismo
+  
+  - Paranóia ou Mistificação - Artigo de Monteiro Lobato que duramente criticava a exposição de Anita Malfatti. Contribuiu para o crescimento do modernismo
+
+- Literatura Modernista - Caracterizada por versos livres, linguagem coloquial, temas cotidianos, liberdade de expressão, humor e outros
+  
+  - Oswald de Andrade - Considerado o líder do movimento modernista, junto com Mário de Andrade. Criou diversos manifestos modernistas, como o pau-brasil e o antropófago
+    
+    - Memórias Sentimentais de João Miramar - Livro por Oswald de Andrade, caracterizado por inovação estrutural, como capítulos bem curtos, em que João Miramar conta sobre sua vida. Era de família abastada, terminando a escola e viajando para vários lugares da Europa. Depois, sua família mandou seu retorno para assumir responsabilidades no negócio, onde seus pais morreram e ele assumiu a herança. Casou com sua prima Célia, viajando para diversos lugares e voltando para o Brasil com a 1a guerra mundial. Depois, viajou para o interior de São Paulo para conhecer a terra de seus antepassados, eventualmente se separando de Célia e indo à falência. No final, a sua filha Celiazinha se reaproxima dele, amenizando sua solidão
+    
+    - Serafim Ponte Grande - Conta a história de Serafim, trabalhador de São Paulo. A obra é caracterizada pela crítica à burguesia e mais inovações estéticas
+  
+  - Mário de Andrade - Outro escritor bem influencial no modernismo. Tinha mais crítica social e ironia nas suas obras e escrevia mais prosa
+    
+    - Macunaíma - Livro escrito por Mário de Andrade, muito influenciado por lendas, sobretudo amazônicas. Conta a história de Macunaíma, um indígena negro, que gostava de enganar seus irmãos e “brincar” com as mulheres. Um dia, ele conheceu Ci, e tiveram um filho que morreu precocemente. Depois, Ci decidiu virar estrela (transcender ao mundo dos mitos, literalmente estrela), mas deu uma pedra preciosa para Macunaíma como lembrança. Mas, ele perdeu a pedra e descobriu que ela estava com um gigante antropófago. Após muitas experiências, ele conseguiu matar o gigante, mas seus irmãos viraram estrelas e ele ficou na solidão, eventualmente decidindo virar estrela também
+    
+    - Amar, Verbo Intransitivo - Livro escrito por Mário de Andrade. Fala sobre Carlos, que tem relações sexuais com Elsa, que depois parte, e ele sofre no início, mas depois aprende a lidar com essa emoção, reencontrando-a sem emoção
+  
+  - Manuel Bandeira - Escritor caracterizado por linguagem simples e coloquial, temas variados e cotidianos e ironia
+    
+    - Libertinagem - Primeiro livro modernista de Manuel Bandeira
+
+- Movimentos e Manifestos
+  
+  - Prefácio Interessantíssimo - Prefácio de um dos livros de Mário de Andrade, sendo similar com um manifesto embora não seja um oficialmente
+  
+  - Pau-Brasil - Criado por Oswald de Andrade, defendia a poesia de exportação, sendo contra a influência europeia nas formas e cultura, valorizando a realidade e cultura brasileira, além da simplicidade. Buscava a “redescoberta do Brasil”
+  
+  - Verde-Amarelismo - Reação ao movimento pau-brasil, caracterizado pelo nacionalismo ufanista
+  
+  - Antropofagia - Também criado por Oswald de Andrade, sendo o principal e o mais radical, defendia a assimilação da cultura estrangeira, “devorando”-a
+  
+  - Anta - Reação ao movimento antropofágico, sendo mais político
+
+## Cap. 6 (Modernismo 2a Fase - Poesia)
+
+Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de ideais na 1ª fase, além de maior foco na crítica social e na política, com a consolidação do modernismo no Brasil. Ocorreu durante o período que queda da bolsa, golpe de Estado de Getúlio Vargas (com fechamento de congresso e perseguição de escritores) e segunda guerra mundial
+
+- Poesia - Caracterizada por versos tanto livres e regulares, espiritualidade, questionamento da realidade e do papel do artista (metalinguagem) e a busca do "eu-indivíduo" e sua relação com o mundo, mostrando sua fragilidade
+  
+  - Cecília Meireles - Poeta caracterizada por musicalidade, versos curtos, sonho e transitoriedade da vida
+  
+  - Vinícius de Moraes - Poeta caracterizado por tanto falar do mundo espiritural quanto o mundo material e cotidiano, tendo como principais temas o amor, morte e denúncia social
+  
+  - Jorge de Lima - Caracterizado pela temática negra em suas obras
+  
+  - Murilo Mendes - Muito inspirado no surrealismo, com o sonho, inconsciente
+  
+  - Carlos Drummond de Andrade - Principal poeta da geração, com uma temática muito variada, como situações cotidianas, existencialismo, questões sociais da época (fascismo, guerra, transformação social, justiça e igualdade), metalinguagem, muitas vezes inclusive misturados em fases de suas obras
+    
+    - Alguma Poesia - Sua primeira obra, inspirada na Semana de Arte Moderna, sendo caracterizada pelo humor, cotidiano, linguagem coloquial e versos livres
+
+# Português
+
+## Cap. 9
+
+Crase - Fusão da preposição a com o artigo a, formando o a com acento grave (à), ocorrendo com um objeto indireto e um substantivo feminino nesse objeto
+
+- Casos Especiais
+  
+  - Termo Oculto - O termo feminino pode estar escondido. Ex: quero um frango **à** (moda de) Milanesa
+  
+  - Termos Proibidos - Não há crase antes de verbos, pronomes pessoais e de tratamento e artigo indefinido. Ex: Pietro começou **a** explicar química orgânica
+  
+  - Tempo e Distância - Não há crase indicando distância nem minutos e segundos, mas há horas. Ex: o evento será **às** 17 horas
+  
+  - Expressões Duplicadas - Não há crase em expressões de palavras repetidas. Ex: Whatsapp encripta conversas de ponta **a** ponta
+  
+  - Lugares - Nomes de lugares podem ou não levar crase, dependendo se aceitam artigo. Ex: Fui **a** Brasília (voltei de Brasília, sem artigo)
+  
+  - Casos Opcionais - Nomes próprios e pronomes possessivos possuem crase opcional. Ex: Cabe **a/à** Darlan representar o 2º B
+  
+  - Pronomes Demonstrativos - Pode ocorrer crase com pronomes demonstrativos e relativos que começam com a. Ex: Fui **àquele** estacionamento
+  
+  - Expressões Adverbiais - Recebem crase diferencial. Ex: Avançou **à** noite (durante a noite) / Avançou **a** noite (a noite avançou)
+
+## Cap. 10
+
+Predicativo - Termo que atribui uma característica ao sujeito ou objeto. Necessita de verbo
+
+- Sujeito - Dá uma característica ao sujeito, por meio da ligação do predicativo ao sujeito com um verbo de ligação. Ex: Heitor é **viciado em damas**
+
+- Objeto - Dá uma característica ao objeto, precisando de VTD. Ex: Consideraram José Fernandes **o pior professor**
+
+---
+
+Complemento Nominal - Completa o sentido de um nome, que pode ser substantivo abstrato, adjetivo ou advérbio. Necessita de preposição
+
+- Substantivo Abstrato - Ex: O amor **à Fabão** é supernatural
+
+- Adjetivo - Ex: A sala estava morrendo **de frio**
+
+- Advérbio - Ex: A sala fica longe **da escada**
+
+---
+
+Adjunto Adnominal - Caracteriza um nome que é agente ou paciente de uma ação. Pode ser artigo, numeral adjetivo, pronome adjetivo e adjetivo em si. Ex: **Um** louro **de 4 pétalas** dá sorte
+
+---
+
+Vocativo - Indica chamamento. Ex: **Professor**!
+
+---
+
+Aposto - Explica ou esclarece um termo. Ex: Fernando Vieira, **o rei do caos**, vai dar aula
+
+## Interpretação Textual
+
+Interpretação Textual - Entender o propósito comunicativo (finalidade, função social) e mensagem do texto
+
+- Gênero Textual - Tipo de texto ligado às práticas sociais (dia a dia) e à função social. Exemplos:
+  
+  - Informar - Expor uma informação. Ex: notícia
+  
+  - Expor (ou Dissertar) - Expor uma ideia/conhecimento. Ex: texto didático
+  
+  - Argumentar - Defender um ponto de vista. Ex: artigo de opinião
+  
+  - Descrever - Descrever, caracterizado pela subjetividade. Ex: relato pessoal
+  
+  - Narrar - Contar uma história. Ex: conto
+  
+  - Instruir (ou Texto Injuntivo) - Dar orientação, caracterizado pelo verbo no imperativo. Ex: receita
+
+- Tipologia Textual - Tipo de texto ligado a uma estrutura de organização do texto. Exemplos:
+  
+  - Literário - Destaque para recursos expressivos
+  
+  - Jornalístico - Função informativa
+  
+  - Publicitário - Tem estratégias persuasivas
+
+- Linguagem - Pode ser formal ou informal e objetiva ou subjetiva
+
+## Cap. 11
+
+Frase Nominal - Frase que não apresenta verbo. Ex: bom dia!
+
+Período - Frase com um ou mais orações (frases com um verbo)
+
+- Período Simples - Contém apenas 1 oração. Ex: **tenha** um bom dia!
+
+- Período Composto - Contém mais de uma oração. Ex: **tenha** um bom dia e **aproveite**!
+
+---
+
+Orações Coordenadas - Orações relacionadas em sentido, mas independentes entre si
+
+- Coordenadas Assindéticas - Não possuem conjunção. Ex: nada se cria, nada se perde, tudo se transforma
+
+- Coordenadas Sindéticas - Possuem conjunção
+  
+  - Aditiva - Conjunção com ideia de adição. Ex: estudei **e** trabalhei muito
+  
+  - Adversativa - Conjunção com ideia de oposição. Ex: estudei, **mas** fui mal na prova
+  
+  - Alternativa - Ideia de alternância entre dois termos. Ex: **ou** eu estudo, **ou** eu trabalho
+  
+  - Explicativa - Ideia de explicação da oração anterior. Ex: vou parar de trabalhar, **pois** quero estudar
+  
+  - Conclusiva - Ideia de conclusão. Ex: não gosto de estudar, **portanto** não tiro notas boas
+    
+    - Pois - Pode também ter valor conclusivo se vinher depois do verbo. Ex: não gosto de estudar, não tiro, **pois**, notas boas
+
+# Sociologia
+
+## Cap. 7
+
+Cultura - Toda produção humana material e imaterial. Contribui para a identidade e comportamento de um grupo social, por ser compartilhada e adquirida de forma coletiva, podendo também mudar ao longo do tempo
+
+- Endoculturação - Fenômeno de assimilação da cultura desde o nascimento
+
+- Aculturação - Apropriação e ressignificação de uma cultura por outra
+
+- Alteridade - Capacidade de enxergar o outro com base na cultura dele, e não a sua
+
+- Relativismo Cultural - Visão em que todas as culturas são equivalentes
+
+- Etnocentrismo - Visão de superioridade de uma cultura sobre a outra
+
+---
+
+Conhecimento - Conjunto de informações e princípios acumulados por populações humanas. Contribui para a formação da cultura e mudanças ao longo do tempo nela
+
+---
+
+Cultura Erudita (ou de Elite) - Visão elitista de cultura das classes dominantes, imposta como “superior” à cultura popular pela elite (podendo inclusive ser vista como meio de ascensão social), com a elite buscando limitar essa cultura a si mesmos e rejeitar a popular
+
+- Capital Cultural - Visão em que a cultura se tornou meio de dominação, acentuando desigualdades sociais, pois a cultura assimilada (habitus) é diferente em diferentes condições socioeconômicas
+
+---
+
+Cultura Popular - Visão elitista de cultura das massas populares, sendo considerada inferior, a negação do Saber (visto adiante)
+
+- Folclore - Cultura popular associada pela elite à tradição nacional, sendo a única popular valorizada
+
+---
+
+Saber - Conhecimento aceito por grande parte da sociedade, que é imposto é detido pela classe dominantes, sendo mais valorizado e desejado do que outros saberes, considerados inferiores. Ex: conhecimento científico (cultura científica)
+
+- Coerção Cultural - Imposição de culturas
+
+---
+
+Cultura em Massa - Cultura padronizada transformada em mercadoria
+
+Contracultura - Rejeição da cultura em massa e culturas consideradas elitistas, buscando transformação social pela valorização da cultura popular. Muitas vezes é combatida pela elite por meio de sua massificação. Ex: rap
+
+---
+
+Ideologia - Conjunto de valores filosóficos, sociais e políticos de um grupo, pressupondo seu julgamento, sendo influenciada pela cultura e conhecimento
+
+---
+
+Trabalho - Transformação da natureza em coisas
+
+Arte - Produção com potencialidade de elevar o espírito humano (catarse ou aura)
+
+## Cap. 8
+
+Racionalidade - Capacidade humana de cognição avançada, originado da capacidade de abstração e articulação. É necessária para o surgimento da cultura e memória
+
+Memória - Capacidade de armazenamento e manutenção de informações, também crucial para o desenvolvimento da razão. Contudo, pode ser fabricada, tanto para lembrar quanto para esquecer
+
+- Memória Coletiva - Memória compartilhada entre grupos, que surge a partir da linguagem, podendo ser influenciada pela cultura. Além disso, é responsável pela manutenção da cultura
+
+---
+
+Língua - Meio de comunicação internalizado para definir o mundo, contribuindo para a troca de experiências e socialização. Pode ser tanto oral, mais temporária só que mais comum, ou escrita, que permite o armazenamento de informações, ambos contribuindo para a memória
+
+---
+
+Dominação Cultural - Da mesma forma que culturas podem ser impostas e aculturadas, a memória coletiva também pode, criando relações de poder nela. Por isso, pode também haver a perda de culturas e memórias
+
+- Patrimônio Cultural (ou Histórico e Artístico) - Bens que contribuem para a preservação e imortalização de uma cultura, podendo ser material ou imaterial (como línguas, danças), sendo importante sua valorização
+  
+  - Instituições de Preservação Cultural - Instituições que tem como objetivo a preservação dos patrimônios culturais. Ex: Unesco, Iphan
+
+## Cap. 9
+
+Mídia - Meios de comunicação e grande escala e distância. Ex: internet, televisão, rádio, telefone
+
+Sociedade Midiática - Nossa sociedade, em que há uma forte presença das mídia em nosso cotidiano
+
+---
+
+Meios de Comunicação em Massa - Meios de comunicaç~ao em que há bem menos produtores do que receptores de informações, esses últimos sendo atingindo em grande escala, havendo a massificação e busca por influenciar
+
+- Cultura Pop - Cultura popular disseminada pelos meios de comunicação em massa, sendo então massificadas, levando à dominação e padronização, além de ser produto da indústria cultural
+
+- Redes Sociais - Tipo de comunicação em massa caracterizado pela aproximação entre pessoas e organizações com desejos e valores semelhantes, horizontalidade (não há hierarquia, todos podem produzir e consumir) e descentralização. Mesmo assim, ainda segue a lógica de poucos produtores e muitos consimudores e pode levar à aculturação e consumismo, pois contribui negativamente para a diversidade
+
+## Cap. 11
+
+Indústria Cultural - Ccultura criada pelas classes dominantes com o intuito de atingir as massas ao máximo
+
+- Theodor Adorno e Max Horkheimer (Escola de Frankfurt) - Criaram o termo. Para eles, a indústria cultural contribui para a desumanização, por silenciar o pensamento crítico e a individualidade. Além disso, diziam que a cultura de massas é produto da indústria cultural
+
+- Mercantilização da Cultura - O mercado e dinheiro prevalecem sobre a liberdade de criação, com a cultura sendo transformada em mercadoria e transmitindo as ideologias das classes dominantes, que detêm os meios de comunicação, contribuindo para a manutenção da desigualdade e para a padronização de comportamentos
+
+- Padronização - Há a repetição e imitação constante de produtos bem-sucedidos, térnicas, fórmulas e formatos
+
+- Massificação - A produção em massa busca atingir e moldar os interesses, mantendo modelos prontos de produções culturais que parecem variar, mas são iguais
+
+- Lazer Viciado - Contribui para a criação de um lazer industrializado, genérico e fácil, contrariando o ócio criativo
+
+Reificação (ou Coisificação) - Tratar tudo como produto, comum na sociedade capitalista atual, ocorrendo inclusive com a cultura
+
+Alienação - Apropriação do próprio trabalho dos trabalhadores, presente na indústria cultural pela dominação dos meios de comunicação
+
+---
+
+Cultura das Massas - Cultura padronizada e massificada
+
+- Regimes Socialistas - O Estado age como produtor da cultura em massa
+
+- Regimes Capitalistas - O estado autoriza e policia empresas privadas que produzem a cultura (Estado-polícia), além de realizarem sua própria produção (Estado-soberano)
+
+- Regimes Autoritários - Força sua cultura pela censura e controle de atividades
+
+- Regimes Liberais - Sistemas privados buscam agradar ao máximo o público pelo divertimento, buscando o lucro máximo, ainda havendo a monopolização e baixo investimento culturas em todos os sistemas
+
+- Desintegração do Poder Cultural - Uma ideia é avaliada por sua rentabilidade (sistema privado) ou oportunidade política (do Estado), e depois é manipulada na parte técnica, havendo a despersonalização da invenção em si e a racionalização da produção
+  
+  - Contradição Invenção-Padronização - Há a padronização na produção cultural, mas as massas buscam a personalidade e originalidade
