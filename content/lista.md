@@ -18,15 +18,13 @@ Lutas e Danças
 
 Monera?
 
-Cap. 11 sociologia
+Cap. 11 sociologia (sociedade espetáculo)
 
 Surgimento da Sociologia
 
 Sistema Respiratório
 
 Fungos
-
-Nietzsche (Parte de filosofia contemporânea)
 
 ---
 
