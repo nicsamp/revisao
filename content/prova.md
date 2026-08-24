@@ -191,7 +191,7 @@ Coração - Responsável pelo bombeamento do sangue pelos vasos
   - Tetracavitário - Possui dois átrios e dois ventrículos. Presente nos crocodilianos, aves e mamíferos
     
     - Câmaras Direitas - Veia cava -> átrio direito -> ventrículo direito -> artéria pulmonar. Recebem sangue pobre
-
+    
     - Câmaras Esquerdas - Veia pulmonar -> átrio esquerdo -> ventrículo esquerdo -> artéria aorta. Recebem sangue rico
       
       - Artéria Aorta - Nas aves, curva para o lado direito, e nos mamíferos, para o esquerdo
@@ -891,10 +891,11 @@ Fase Heroica - Primeira fase do modernismo brasileiro
 - Semana da Arte Moderna - Exposição que ocorreu em São Paulo, marcando o início do modernismo
   
   - Paranóia ou Mistificação - Artigo de Monteiro Lobato que duramente criticava a exposição de Anita Malfatti. Contribuiu para o crescimento do modernismo
+  - Klaxon - Primeira revista modernista, criada após o evento
 
 - Literatura Modernista - Caracterizada por versos livres, linguagem coloquial, temas cotidianos, liberdade de expressão, humor e outros
   
-  - Oswald de Andrade - Considerado o líder do movimento modernista, junto com Mário de Andrade. Criou diversos manifestos modernistas, como o pau-brasil e o antropófago
+  - Oswald de Andrade - Considerado o líder do movimento modernista, junto com Mário de Andrade. Criou diversos manifestos modernistas, como o pau-brasil e o antropófago. Escrita caracterizada pelo experimentalismo radical, humor debochado e busca da identidade nacional
     
     - Memórias Sentimentais de João Miramar - Livro por Oswald de Andrade, caracterizado por inovação estrutural, como capítulos bem curtos, em que João Miramar conta sobre sua vida. Era de família abastada, terminando a escola e viajando para vários lugares da Europa. Depois, sua família mandou seu retorno para assumir responsabilidades no negócio, onde seus pais morreram e ele assumiu a herança. Casou com sua prima Célia, viajando para diversos lugares e voltando para o Brasil com a 1a guerra mundial. Depois, viajou para o interior de São Paulo para conhecer a terra de seus antepassados, eventualmente se separando de Célia e indo à falência. No final, a sua filha Celiazinha se reaproxima dele, amenizando sua solidão
     
@@ -902,7 +903,7 @@ Fase Heroica - Primeira fase do modernismo brasileiro
   
   - Mário de Andrade - Outro escritor bem influencial no modernismo. Tinha mais crítica social e ironia nas suas obras e escrevia mais prosa
     
-    - Macunaíma - Livro escrito por Mário de Andrade, muito influenciado por lendas, sobretudo amazônicas. Conta a história de Macunaíma, um indígena negro, que gostava de enganar seus irmãos e “brincar” com as mulheres. Um dia, ele conheceu Ci, e tiveram um filho que morreu precocemente. Depois, Ci decidiu virar estrela (transcender ao mundo dos mitos, literalmente estrela), mas deu uma pedra preciosa para Macunaíma como lembrança. Mas, ele perdeu a pedra e descobriu que ela estava com um gigante antropófago. Após muitas experiências, ele conseguiu matar o gigante, mas seus irmãos viraram estrelas e ele ficou na solidão, eventualmente decidindo virar estrela também
+    - Macunaíma - Livro escrito por Mário de Andrade caracterizado pela mistura de culturas, mitos e modos de falar de diferentes regiões brasileiras, com personagens diversos e protagonista sem caráter fixo, que é a mistura de identidades, contribuindo para a criação de uma identidade cultural brasileira
     
     - Amar, Verbo Intransitivo - Livro escrito por Mário de Andrade. Fala sobre Carlos, que tem relações sexuais com Elsa, que depois parte, e ele sofre no início, mas depois aprende a lidar com essa emoção, reencontrando-a sem emoção
   
@@ -914,11 +915,11 @@ Fase Heroica - Primeira fase do modernismo brasileiro
   
   - Prefácio Interessantíssimo - Prefácio de um dos livros de Mário de Andrade, sendo similar com um manifesto embora não seja um oficialmente
   
-  - Pau-Brasil - Criado por Oswald de Andrade, defendia a poesia de exportação, sendo contra a influência europeia nas formas e cultura, valorizando a realidade e cultura brasileira, além da simplicidade. Buscava a “redescoberta do Brasil”
+  - Pau-Brasil - Criado por Oswald de Andrade, defendia a poesia de exportação, sendo contra a influência europeia, valorizando a realidade e cultura brasileira, além da simplicidade. Buscava a “redescoberta do Brasil”
   
   - Verde-Amarelismo - Reação ao movimento pau-brasil, caracterizado pelo nacionalismo ufanista
   
-  - Antropofagia - Também criado por Oswald de Andrade, sendo o principal e o mais radical, defendia a assimilação da cultura estrangeira, “devorando”-a
+  - Antropofagia - Também criado por Oswald de Andrade, sendo o principal e o mais radical, defendia a assimilação da cultura estrangeira, mantendo apenas o útil e criando uma nova arte nacional
   
   - Anta - Reação ao movimento antropofágico, sendo mais político
 
