@@ -106,7 +106,7 @@ Sistema Digestório
 
 - Ânus - Por onde sai os resíduos da digestão
 
-## Cap. 8 [INACABADO]
+## Cap. 8
 
 Animais sem Sistema Circulatório - Não está presente em Poríferos, Cnidários, Platelmintos e Nematelmintos, com a troca de substâncias ocorrendo direto com o meio por difusão, por seus tecidos terem poucas camadas
 
@@ -140,23 +140,29 @@ Circulação Fechada - O sangue sempre fica dentro dos vasos. Presente nos anel�
     
     - Completa (ou sem Mistura) - Não há a mistura. Ocorre nas aves e mamíferos
 
-- Vasos Sanguíneos
+---
+
+Vasos Sanguíneos
+
+- Artérias - Vasos que saem do coração. São mais grossos, por ter maior pressão e são mais profundos
   
-  - Artérias - Vasos que saem do coração. São mais grossos, por ter maior pressão e são mais profundos
-    
-    - Arteríolas - Artérias ramificadas
+  - Arteríolas - Artérias ramificadas
+
+- Veias - Vasos que chegam no coração. Possuem parede menos grossa que as artérias, e pressão menor. Possuem válvulas
   
-  - Veias - Vasos que chegam no coração. Possuem parede menos grossa que as artérias, e pressão menor. Possuem válvulas
-    
-    - Válvulas - Estruturas nas veias que contribuem para o retorno venoso, por evitar a volta do sangue para o corpo, garantindo fluxo unidirecional. O retorno também é auxiliado pelos músculos, sobretudo da perna
-    
-    - Vênulas - Veias ramificadas
+  - Válvulas - Estruturas nas veias que contribuem para o retorno venoso, por evitar a volta do sangue para o corpo, garantindo fluxo unidirecional. O retorno também é auxiliado pelos músculos, sobretudo da perna
   
-  - Capilares - Vasos com camada de apenas uma célula (chamada de endotélio), por onde ocorre a troca de substâncias, além de conectar as arteríolas com as vênulas
+  - Vênulas - Veias ramificadas
+
+- Capilares - Vasos com camada de apenas uma célula (chamada de endotélio), por onde ocorre a troca de substâncias, além de conectar as arteríolas com as vênulas
+  
+  - Troca de Substâncias - Ocorre entre o sangue e as células por meio de difusão, sendo facilitada pela pressão arterial e osmótica
+  
+  - Líquido Intersticial - Líquido que temporariamente sai dos capilares e toca nas células
     
-    - Troca de Substâncias - Ocorre entre o sangue e as células por meio de difusão, sendo facilitada pela pressão arterial e osmótica
-    
-    - Líquido Intersticial - Líquido que temporariamente sai dos capilares e toca nas células
+    - Vasos Linfáticos - Devolvem o líquido intersticial (chamado agora de linfa) para o sangue por uma veia. Formam o sistema linfátidos
+      
+      - Linfonodos - Estruturas presentes nos vasos com leucócitos
 
 ---
 
@@ -168,9 +174,31 @@ Coração - Responsável pelo bombeamento do sangue pelos vasos
   
   - Ventrículos - Câmaras cardíacas por onde o sangue sai pelas artérias
 
+- Valvas - Valvas que abrem e fecham para impedir a volta de sangue. Causam o som das batidas do coração
+  
+  - Atrioventricular Esquerda (ou Bicúspide ou Mitral) - Separa o átrio esquerdo e ventrículo esquerdo
+  
+  - Atrioventricular Direita (ou Tricúspide ou ) - Separa o átrio direito e ventrículo direito
+  
+  - Semilunar (ou do Tronco Aórtico) - Fica entre o ventrículo direito e a artéria aorta
+  
+  - Valva Pulmonar - Fica entre o ventrículo esquerdo e a artéria pulmonar
+
 - Miocárdio - Musculatura do coração, responsável pelo bombeamento. Sua contração se chama de sístole e seu relaxamento, diástole
   
   - Artérias Coronárias - Artérias que transportam sangue para o miocárdio
+  
+  - Sístole - Movimento de contração, podendo ser tanto do átrio (atrial) quando do ventrículo (ventricular), permitindo a saída de sangue dessa câmara
+  
+  - Diástole - Movimento de relaxamento, permitindo a entrada do sangue na câmara cardíaca
+
+- Nós - Responsáveis por geral os estímulos nervosos do coração
+  
+  - Nó Sinoatrial (SA) - Fica na parede do átrio direito, passando pelos dois átrios
+  
+  - Nó Atrioventricular (AV) - Fica na parte de baixo do ventrículo, recebendo o estímulo do sinoatrial e subindo pelo fascículo atrial (ou feixe de Hess) e pelos ramos subendocárdicos (ou fibras de Purkinge)
+  
+  - Frequência Cardíaca - Frequência em que ocorre a contração do coração
 
 - Tipos
   
@@ -212,11 +240,40 @@ Doenças Cardiovasculares - Doenças relacionadas ao sistema cardiovascular
 
 ---
 
-Sangue
+Sangue - Tecido conjuntivo formado pelo plasma e elementos figurados
 
-- Sangue Venoso - Sangue rico em CO<sub>2</sub> e pobre em O<sub>2</sub>
+- Tipos
+  
+  - Sangue Venoso - Sangue rico em CO<sub>2</sub> e pobre em O<sub>2</sub>
+  
+  - Sangue Arterial - Sangue rico em O<sub>2</sub> e pobre em CO<sub>2</sub>
 
-- Sangue Arterial - Sangue rico em O<sub>2</sub> e pobre em CO<sub>2</sub>
+- Plasma - Matriz extracelular do sangue, composta por água com nutrientes, gases, excretas, hormônios e anticorpos
+
+- Elementos Figurados - São as células sanguíneas
+  
+  - Medula Óssea - Origina os elementos figurados, pelas células-tronco hematopoiéticas
+    
+    - Hematopoiese - Processo de produção dos elementos figurados
+  
+  - Hemácias (ou Eritrócitos) - Células com função de transportar oxigênio, pela proteína hemoglobina. Podem também transportar CO<sub>2</sub>, mas esse é mais transportado na forma de bicarbonato (HCO<sub>3</sub><sup>-</sup>) no plasma
+    
+    - Eritroblastos - Hemácias jovens, que ainda possuem núcleo, para produzir hemoglobina. Quando fica adulta, perde o núcleo e organelas
+    
+    - Eritropoetina - Estimula a produção de hemácias, como em locais onde o ar é rarefeito
+    
+    - Anemia - Falta de hemácias no sangue
+  - Plaquetas (ou Trombócitos) - Fragmentos de células chamadas de megacariócitos, responsáveis pela coagulação do sangue
+    - Coagulação - Processo de reparamento de um vaso sanguíneo rompido
+      - Cascata de Coagulação - Há a acumulação de plaquetas que iberam a tromboplastina, que transforma a protrombina em trombina, essa transformando o fibrinogênio em fibrina, que forma uma rede que prende as hemácias e forma o coágulo
+  - Leucócitos (ou Glóbulos Brancos) - Células responsáveis pela defesa do organismo, formando o sistema imune
+    - Macrófagos - Tipos de leucócitos que vão para os tecidos e fagocitam partículas e microorganismos indesejados
+      - Neutrófilo - Fagocita células estranhas e liberam substâncias que destroem bactérias
+      - Eosinófilo - Combate os efeitos da reação alérgica
+      - Basófilo - Libera histamina e heparina nas reações alérgicas, causando vermelhidão e coceira
+    - Linfócitos - Tipos de leucócitos que produzem as proteínas de anticorpos
+      - Linfócito B - Produz os anticorpos
+      - Linfócitos TCD4 - Recebem os antígenos fagocitados e estimulam os linfócitos B
 
 # Biologia 2
 
@@ -372,9 +429,35 @@ Ciclos do Vírus
 
 ## Viroses
 
-Viroses - Doenças causadas por vírus
+Viroses - Doenças causadas por vírus. Combatidas por meio da higienização, vacinação e distanciamento de pessoas infectadas
 
 - Síndrome da Imunodeficiência Adquirida (AIDS) - Causada pelo vírus HIV, que invade o linfócito TCD4 (responsável pela resposta imunológico), injetando seu RNA, que é convertido em DNA pela célula, que começa a criar novos vírus, causando lise celular e portanto, imunodeficiência. É uma IST
+
+- Arboviroses - Viroses transmitidas por artrópodes, sobretudo o mosquito Aedes Aegypti
+  
+  - Dengue - Causa febre e dores
+  
+  - Zika - Manchas vermelhas e conjuntivite
+  
+  - Chikungunya - Dores e inchaços em articulações
+  
+  - Febre Amarela
+
+- Viroses Respiratórias - Afetam o sistema respiratório
+  
+  - Gripe - Causada pelo vírus Influenza. Tem como sintomas febre, tosse e dores
+  
+  - COVID-19
+  
+  - Resfriado - Causa coriza e espirros
+
+- Sarampo - Causa febre e erupções avermelhadas, sendo bem contagiosa
+
+- Catapora (ou Varicela) - Causa coceira na pele
+
+- Hepatite - Causa inflamação do fígado e pele amarelada
+
+- Herpes - Gera pequenas feridas, principalmente nos lábios
 
 ## Bactérias
 
