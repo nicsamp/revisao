@@ -24,7 +24,7 @@ Embriologia - Estuda o desenvolvimento do embrião. Normalmente é usado o anfio
 
 - Blástula - Com o aumento do número de células, as células ficam na superfície (blastoderme) com uma cavidade dentro (blastocele)  
 
-- Gastrulação - A blástula invagina em si mesmo, formando uma cavidade (arquêntero ou gastrocele, um intestino primitivo) e um orifício (blastóporo) que conecta o arquêntero ao exterior. Além disso, as paredes possuem duas camadas de células (ectoderme, a externa e endoderme, a interna)  
+- Gastrulação - A blástula invagina em si mesma, formando uma cavidade (arquêntero ou gastrocele, um intestino primitivo) e um orifício (blastóporo) que conecta o arquêntero ao exterior. Além disso, as paredes possuem duas camadas de células (ectoderme, a externa e endoderme, a interna)  
   
   - Mesoderme - Terceira camada que forma entre a ecto e endoderme. Origina os folhetos embrionários junto com as outras camadas  
   
@@ -452,9 +452,9 @@ Tipos de Esqueleto
 
 Digestão - Quebra de macromoléculas (que são os nutrientes maiores) nos alimentos em micromoléculas (monômeros) que são absorvidas para uso pelo organismo
 
-- Nutrientes - Substâncias utilizadas pelo organismo. Ex: proteínas, carboidratos, lipídios, vitaminas  
+- Nutrientes - Substâncias utilizadas pelo organismo. Ex: proteínas, carboidratos, lipídios, vitaminas
 
-- Grelina - Substância produzida pelo estômago que dá a sensação de fome  
+- Grelina - Substância produzida pelo estômago que dá a sensação de fome
 
 - Leptina - Substância produzida pelo tecido adiposo que retira a sensação de fome
 
@@ -462,7 +462,7 @@ Digestão - Quebra de macromoléculas (que são os nutrientes maiores) nos alime
 
 Tipos de Digestão por Processo
 
-- Mecânica - Não há a ação de substâncias. Ex: mastigação  
+- Mecânica - Não há a ação de substâncias. Ex: mastigação
 
 - Química - Por ação de enzimas (hidrólise enzimática). Ex: estômago
 
@@ -470,9 +470,9 @@ Tipos de Digestão por Processo
 
 Tipo de Digestão por Local
 
-- Intracelular - Ocorre dentro das células  
+- Intracelular - Ocorre dentro das células
 
-- Extracelular - Ocorre fora das células, mas dentro do corpo  
+- Extracelular - Ocorre fora das células, mas dentro do corpo
 
 - Extracorpórea - Ocorre fora do corpo
 
@@ -480,77 +480,77 @@ Tipo de Digestão por Local
 
 Sistema Digestório
 
-- Boca - Realiza a trituração mecânica do alimento pelos dentes e língua, e digestão química com a saliva. Possui pH neutro  
+- Boca - Realiza a trituração mecânica do alimento pelos dentes e língua, e digestão química com a saliva. Possui pH neutro
   
-  - Bolo Alimentar - Formado após a trituração e mistura com a saliva  
+  - Bolo Alimentar - Formado após a trituração e mistura com a saliva
   
-  - Saliva - Formado por água, mucina (proteção do esôfago) e pela amilase salivar (ou ptialina), que é a primeira enzima digestiva. Quebra o amido para carboidratos simples. A saliva é secretada por 3 pares glândulas salivares  
+  - Saliva - Formado por água, mucina (proteção do esôfago) e pela amilase salivar (ou ptialina), que é a primeira enzima digestiva. Quebra o amido para carboidratos simples. A saliva é secretada por 3 pares glândulas salivares
   
-  - Deglutição - “Engolimento” do alimento, em que a língua empurra o bolo alimentar para o esôfago  
+  - Deglutição - “Engolimento” do alimento, em que a língua empurra o bolo alimentar para o esôfago
     
-    - Epiglote - Bloqueia a traqueia quando o alimento é engolido  
+    - Epiglote - Bloqueia a traqueia quando o alimento é engolido
 
-- Esôfago - Realiza os movimentos peristálticos, contrações musculares nas paredes do esôfago para levar o bolo alimentar ao estômago  
+- Esôfago - Realiza os movimentos peristálticos, contrações musculares nas paredes do esôfago para levar o bolo alimentar ao estômago
 
-- Estômago - Realiza digestão química pelo suco gástrico. Possui pH ácido  
+- Estômago - Realiza digestão química pelo suco gástrico. Possui pH ácido
   
-  - Suco Gástrico - Formado por água, HCl e enzimas como pepsina  
+  - Suco Gástrico - Formado por água, HCl e enzimas como pepsina
     
-    - Pepsina - Realiza digestão proteica  
+    - Pepsina - Realiza digestão proteica
   
-  - Células  
+  - Células
     
-    - Mucosas - Liberam muco que protege a parede do estômago  
+    - Mucosas - Liberam muco que protege a parede do estômago
     
-    - Parietais - Liberam o HCl  
+    - Parietais - Liberam o HCl
     
-    - Principais - Liberam a pepsina  
+    - Principais - Liberam a pepsina
   
-  - Quimo - O bolo alimentar passa a ser chamado de quimo  
+  - Quimo - O bolo alimentar passa a ser chamado de quimo
   
-  - Valvas - Fecham para evitar a volta do bolo alimentar pelo sentido contrário  
+  - Valvas - Fecham para evitar a volta do bolo alimentar pelo sentido contrário
     
-    - Cardia - Entre o esôfago e estômago  
+    - Cardia - Entre o esôfago e estômago
     
-    - Pilo - Entre o intestino delgado e estômago  
+    - Pilo (ou Piloro) - Entre o intestino delgado e estômago
 
-- Intestino Delgado - Realiza digestão química por várias enzimas e absorve os nutrientes. Possui pH básico. Formado pelo duodeno, jejuno e íleo  
+- Intestino Delgado - Realiza digestão química por várias enzimas e absorve os nutrientes. Possui pH básico. Formado pelo duodeno, jejuno e íleo
   
-  - Quilo - O quimo passa a ser chamado de quilo  
+  - Quilo - O quimo passa a ser chamado de quilo
   
-  - Bile - Substância que emulsifica gorduras. Produzida pelo fígado e armazenada na vesícula biliar, onde é secretada no intestino  
+  - Bile - Substância que emulsifica gorduras. Produzida pelo fígado e armazenada na vesícula biliar, onde é secretada no intestino
   
-  - Suco Pancreático - Formado por água, bicarbonato de sódio (para mudar o pH) e enzimas. Produzido pelo pâncreas  
+  - Suco Pancreático - Formado por água, bicarbonato de sódio (para mudar o pH) e enzimas. Produzido pelo pâncreas
     
-    - Amilase Pancreática - Quebra o amido  
+    - Amilase Pancreática - Quebra o amido
     
-    - Nuclease - Quebra DNA e RNA em nucleotídeos  
+    - Nuclease - Quebra DNA e RNA em nucleotídeos
     
-    - Tripsina e Quimotripsina - Quebra proteínas  
+    - Tripsina e Quimotripsina - Quebra proteínas
     
-    - Lipase - Quebra lipídios  
+    - Lipase - Quebra lipídios
   
-  - Suco Entérico (ou Intestinal) - Formado por água e enzimas. Produzido pelo duodeno (início do intestino)  
+  - Suco Entérico (ou Intestinal) - Formado por água e enzimas. Produzido pelo duodeno (início do intestino)
     
-    - Maltase - Quebra maltose em glicose  
+    - Maltase - Quebra maltose em glicose
     
-    - Sacarase - Quebra sacarose em glicose e frutose  
+    - Sacarase - Quebra sacarose em glicose e frutose
     
-    - Lactase - Quebra lactose em glicose e galactose  
+    - Lactase - Quebra lactose em glicose e galactose
     
-    - Peptidase - Quebra polipeptídeos em aminoácidos  
+    - Peptidase - Quebra polipeptídeos em aminoácidos
     
-    - Nucleotidase - Quebra nucleotídeos  
+    - Nucleotidase - Quebra nucleotídeos
   
-  - Vilosidades - Sinuosidades no intestino que aumentam a superfície de contato para absorção. Também presente nas células (microvilosidades)  
+  - Vilosidades - Sinuosidades no intestino que aumentam a superfície de contato para absorção. Também presente nas células (microvilosidades)
     
-    - Intolerância a Glúten (ou Doença Celíaca) - Doença autoimune causada pelo glúten em que há a destruição das vilosidades do intestino, levando à má absorção de nutrientes  
+    - Intolerância a Glúten (ou Doença Celíaca) - Doença autoimune causada pelo glúten em que há a destruição das vilosidades do intestino, levando à má absorção de nutrientes
 
-- Intestino Grosso - Absorve água e sais minerais  
+- Intestino Grosso - Absorve água e sais minerais
   
-  - Cólon - Tubo que absorve a água e sais, formado pelo cólon ascendente, transverso e descendente  
+  - Cólon - Tubo que absorve a água e sais, formado pelo cólon ascendente, transverso e descendente
   
-  - Apêndice Vermiforme (ou Ceco) - Órgão vestigial do intestino sem função  
+  - Apêndice Vermiforme (ou Ceco) - Órgão vestigial do intestino sem função
 
 - Ânus - Por onde sai os resíduos da digestão
 
@@ -606,7 +606,7 @@ Cromossomo - Cromatina maximamente condensada
 
 - Cromátides-Irmãs - Dois filamentos idênticos que formam o cromossomo  
 
-- Centrossomo - Liga as duas cromátides-irmãs  
+- Centrômero - Liga as duas cromátides-irmãs  
 
 - Telômero - Regiões na extremidade dos cromossomos, servindo para proteção do material genético. Formado por cromatina sem genes funcionais. Vai diminuindo a cada divisão celular, eventualmente impossibilitando a  divisão celular (envelhecimento celular)
 
@@ -944,7 +944,7 @@ Dominância Incompleta (ou Herança sem Dominância) - O heterozigoto é um fen�
 
 ---
 
-Alelos Letais - Quando um dos alelos em homozigose causa a morte do ser. Nela, os seres que morrem não participam da proporção fenotípica e genotípica. Ex: camudongo amarelo (Aa), camudongo aguti (aa), gene letal (AA)
+Alelos Letais - Quando um dos alelos em homozigose causa a morte do ser. Nela, os seres que morrem não participam da proporção fenotípica e genotípica. Ex: camundongo amarelo (Aa), camundongo aguti (aa), gene letal (AA)
 
 ---
 
@@ -964,13 +964,13 @@ Penetrância - Proporção de pessoas com um genótipos que possuem o fenótipo 
 
 Epigenética - Estuda as mudanças de fenótipo que não são causadas pela alteração do DNA, e sim por outros fatores (estresse, deficiência nutricional, agente poluente...)
 
-- Metilação - Fenômeno causado pelos fatores anteriores em que há a inserção do grupo metl ao DNA, interferindo nas regiões de genes promovidos
+- Metilação - Fenômeno causado pelos fatores anteriores em que há a inserção do grupo metil ao DNA, interferindo nas regiões de genes promovidos
 
 # Biologia SSA
 
 ## Taxonomia
 
-Taxonomia - Ramo da biologia responsável pela identificação, descrição, nomeação e classificação de seres vivos em categorias taxonômicas, originalmente criada por Van Carl Linné (Lineu), que acreditava que era possível classificar todos os seres, por achar que eram imutáveis
+Taxonomia - Ramo da biologia responsável pela identificação, descrição, nomeação e classificação de seres vivos em categorias taxonômicas, originalmente criada por Carl von Linné (Lineu), que acreditava que era possível classificar todos os seres, por achar que eram imutáveis
 
 - Categorias Taxonômicas - Reúnem táxons (seres vivos ou grupos de seres vivos) em diferentes níveis de hierarquia, de abrangentes para mais restritos, com base em graus de parentesco e outros critérios fixos  
   
@@ -1003,6 +1003,194 @@ Taxonomia - Ramo da biologia responsável pela identificação, descrição, nom
 - Epíteto Específico - Segundo nome, define a espécie específica, é escrito com letra minúscula  
 
 - É escrita usando latim (língua morta) e é itálico
+
+## Vírus
+
+Vírus - Partícula com capacidade infecciosa, não considerada um ser vivo, por não ter metabolismo próprio e ser um parasita intracelular obrigatório, sendo, portanto, acelular. Não é afetado por antibióticos
+
+- Especificidade Viral - O vírus só atinge seres e tipos de células específicas
+
+---
+
+Estrutura do Vírus - Formada por proteínas e material genético
+
+- Nucleocapsídeo - Guarda o material genético
+  
+  - Capsídeo - Parede ao redor do material genético, formada por proteínas capsômero
+  
+  - Material Genético - Pode ser de DNA ou RNA ou ambos e pode sofrer mutação
+
+---
+
+Tipos de Vírus
+
+- Envelopados - Possui envelope celular ao redor do nucleocapsídeo
+
+- Não Envelopados - Não possui envelope celular
+
+- Bacteriófagos
+
+---
+
+Ciclos do Vírus
+
+- Ciclo Lisogênico - Ciclo mais longo e duradouro, ocorre quando o vírus se conecta à célula e introduz o material genético viral. A célula eventualmente se divide formando 2 células infectadas e assim por diante
+
+- Ciclo Lítico - Mais curto, ocorre em células já infectadas, normalmente em quedas de imunidade. O material genético viral faz a célula produzir proteínas virais, criando novos vírus que eventualmente rompem a célula e saem
+  
+  - Transcriptase Reversa - Enzima que converte o RNA em DNA
+
+## Viroses
+
+Viroses - Doenças causadas por vírus. Combatidas por meio da higienização, vacinação e distanciamento de pessoas infectadas
+
+- Síndrome da Imunodeficiência Adquirida (AIDS) - Causada pelo vírus HIV, que invade o linfócito TCD4 (responsável pela resposta imunológico), injetando seu RNA, que é convertido em DNA pela célula, que começa a criar novos vírus, causando lise celular e portanto, imunodeficiência. É uma IST
+
+- Arboviroses - Viroses transmitidas por artrópodes, sobretudo o mosquito Aedes Aegypti
+  
+  - Dengue - Causa febre e dores
+  
+  - Zika - Manchas vermelhas e conjuntivite
+  
+  - Chikungunya - Dores e inchaços em articulações
+  
+  - Febre Amarela
+
+- Viroses Respiratórias - Afetam o sistema respiratório
+  
+  - Gripe - Causada pelo vírus Influenza. Tem como sintomas febre, tosse e dores
+  
+  - COVID-19
+  
+  - Resfriado - Causa coriza e espirros
+
+- Sarampo - Causa febre e erupções avermelhadas, sendo bem contagiosa
+
+- Catapora (ou Varicela) - Causa coceira na pele
+
+- Hepatite - Causa inflamação do fígado e pele amarelada
+
+- Herpes - Gera pequenas feridas, principalmente nos lábios
+
+## Bactérias
+
+Bactérias - Setes pertencentes ao antigo reino Monera. São coloniais e são afetadas por antibióticos
+
+- Tipos de Bactérias
+  
+  - Arqueias (ou Arqueobactérias) - Bactérias extremófilas (vivem em ambientes extremos)
+    
+    - Halófilas Extremas - Ambientes de extrema salinidade
+    
+    - Termófilas Extremas - Ambientes de extrema temperatura
+    
+    - Metanogênicas - Vivem no sistema digestivo de ruminantes, sendo responsáveis pela digestão da celulose, liberando gás metano (CH<sub>4</sub>)
+  
+  - Eubactérias
+
+- Estrutura - São seres unicelulares e procariontes (sem núcleo)
+  
+  - Cápsula - Substância que reveste a parede celular
+  
+  - Parede Celular - Feita de peptidoglicano, função de proteção
+    
+    - Bactérias Gram-Positivas - Com parede celular mais espessa
+    
+    - Bactérias Gram-Negativas - Parede celular menor
+  
+  - Membrana Celular - Bicamada de lipoproteína, sem colesterol (diferente da membrana animal). Possuem enzimas responsáveis pelo metabolismo
+  
+  - Flagelo - Estrutura alongada para locomoção
+  
+  - Fímbrias - Cílios mais alongados
+  
+  - Pili - Fímbria alongada com função de troca de material genético
+  
+  - Ribossomos - Produção de proteínas
+  
+  - Material Genético - Exposto ao citoplasma, sem presença de nucleo, ficando em uma região chamada de nucleoide
+    
+    - Plasmídeo - Sequências pequenas de DNA circular responsáveis pela resistência a antibióticos
+
+- Alimentação - Podem ser heterótrofas (respiração celular e fermentação) ou autótrofas (fotossintese e quimiossintese)
+  
+  - Cianobactérias - Bactérias que realizam fotossíntese
+
+- Metabolismo Energético - Podem ser aeróbias, morrendo na falta de oxigênio, anaeróbias, morrendo na presença de oxigênio, ou anaeróbicas facultativas, podendo sobreviver em ambos os ambientes
+
+- Reprodução
+  
+  - Assexuada - Ocorre por fissão binária (ou divisão binária, ou bipartição, ou divisão simples ou cissiparidade)
+  
+  - "Sexuada" - Transferência de material genético entre bactérias, mas não criando novos seres
+    
+    - Conjugação - Ocorre por meio da pili
+    
+    - Transformação - Plasmídeo solto no ambiente (por morte de uma bactéria) é incorporada
+    
+    - Transdução - Bacteriófago com DNA bacteriano infecta uma célula
+
+- Tipos Morfológicos
+  
+  - Cocos - Bactérias próximas de esféricas individuais
+    
+    - Diplococos - Duas bactérias cocos unidas
+    
+    - Tetrades - Quatro bactérias cocos
+    
+    - Estreptococos - Várias bactérias cocos unidas em linha
+    
+    - Estafilococos - Várias bactérias cocos unidas de forma tridimensional
+  
+  - Bacilos - Bactérias alongadas. Podem ser diplobacilos ou estreptobacilos também
+  
+  - Vibriões - Bactérias em formato de vírgula
+  
+  - Espirilo - Bactérias com formato de espiral leve
+  
+  - Espiroquetas - Bactérias em formato de espiral
+
+## Bacterioses
+
+Antibióticos - Substâncias que impedem a proliferação de bactérias, por meio de intervenções em processos ou estruturas essenciais
+
+- Bactericidas - Antibióticos que matam bactérias
+
+- Bacteriostáticos - Antibióticos que impedem a duplicação de bactérias
+
+---
+
+Bacterioses - Doenças causadas por bactérias
+
+- Transmissão por Gotículas - Transmissão por meio de gotículas de muco e saliva suspensas no ar
+  
+  - Coqueluche - Causado por *Bordetella pertussis*, tem como principal sintoma a tosse
+  
+  - Pneumonia - Tem como sintomas febre, dor no peito e tosse com secreção
+  
+  - Tuberculose - Tem como sintomas tosse, febre, fadiga e emagracimento
+  
+  - Meningite - Tem como sintomas febre, náusea, vômito e rigidez da nuca
+
+- Transmissão por Água e Alimentos Contaminados
+  
+  - Cólera - Tem como sintomas náusea, vômito e diarreia. Causado por alimentos contaminados por fezes
+  
+  - Botulismo - Tem como sintomas dificuldade de engolir, vômito e cólica abdominal
+
+- Tétano - Tem como sintomas espasmos musculares, febre e dor de cabeça. Transmitido por meio de ferimentos
+
+- Hanseníase - Causada por *Mycobacterium leprae*, tem como sintomas lesões na pele e mucosas. Transmitida por contato
+
+- Peste Bubônica - Tem como sintomas inchaço nos gânglios e febre. Transmitida por picada de pulga do rato
+
+- Leptospirose - Tem como sintomas febre, dor muscular, tosse, náusea e infecção renal. Transmitida por urina de ratos contaminados
+
+- Infecções Sexualmente Transmissíveis (ISTs)
+  
+  - Gonorreia - Tem como sintomas dor e pus ao urinar. É uma IST
+  
+  - Sífilis - Causado por *Treponema pallidum*, tem como sintomas feridas, podendo causar paralisia
 
 # Educação Física
 
@@ -1606,7 +1794,7 @@ Impermeabilização do Solo - Causada pela falta de áreas verdes e superfícies
 
 Desmatamento - Pela expansão urbana, causada pelo aumento populacional. Causa danos à fauna e flora, diminuindo a biodiversidade  
 
-Lixo - Causado pela maior produção e consumo de produtos, além da destinação do lixo gerado por eles (como os lixões), e a falta de destinação correta (reciclagem, coleta seletiva, aterro sanitário). Sua decomposição gera o gás de efeito estufa metano, além do líquido chorume, que pode poluir o solo e lençois freáticos
+Lixo - Causado pela maior produção e consumo de produtos, além da destinação do lixo gerado por eles (como os lixões), e a falta de destinação correta (reciclagem, coleta seletiva, aterro sanitário). Sua decomposição gera o gás de efeito estufa metano, além do líquido chorume, que pode poluir o solo e lençóis freáticos
 
 - Tipos de Lixo  
   
@@ -2474,7 +2662,7 @@ Futuro do Pretérito - Evento futuro a outro evento do passado mas antes do mome
 
 Futuro do Presente - Ação que ocorrerá no futuro. Ex: eu **estudará** após a prova
 
-- Composto - Ação no futuro anterior a outro futuro. Ex: eu estudará e já **terá acontecido** a prova
+- Composto - Ação no futuro anterior a outro futuro. Ex: eu estudarei e já **terá acontecido** a prova
 
 ---
 
@@ -2640,6 +2828,34 @@ Vocativo - Indica chamamento. Ex: **Professor**!
 
 Aposto - Explica ou esclarece um termo. Ex: Fernando Vieira, **o rei do caos**, vai dar aula
 
+## Interpretação Textual
+
+Interpretação Textual - Entender o propósito comunicativo (finalidade, função social) e mensagem do texto
+
+- Gênero Textual - Tipo de texto ligado às práticas sociais (dia a dia) e à função social. Exemplos:
+  
+  - Informar - Expor uma informação. Ex: notícia
+  
+  - Expor (ou Dissertar) - Expor uma ideia/conhecimento. Ex: texto didático
+  
+  - Argumentar - Defender um ponto de vista. Ex: artigo de opinião
+  
+  - Descrever - Descrever, caracterizado pela subjetividade. Ex: relato pessoal
+  
+  - Narrar - Contar uma história. Ex: conto
+  
+  - Instruir (ou Texto Injuntivo) - Dar orientação, caracterizado pelo verbo no imperativo. Ex: receita
+
+- Tipologia Textual - Tipo de texto ligado a uma estrutura de organização do texto. Exemplos:
+  
+  - Literário - Destaque para recursos expressivos
+  
+  - Jornalístico - Função informativa
+  
+  - Publicitário - Tem estratégias persuasivas
+
+- Linguagem - Pode ser formal ou informal e objetiva ou subjetiva
+
 ## Cap. 11
 
 Frase Nominal - Frase que não apresenta verbo. Ex: bom dia!  
@@ -2668,7 +2884,7 @@ Orações Coordenadas - Orações relacionadas em sentido, mas independentes ent
   
   - Conclusiva - Ideia de conclusão. Ex: não gosto de estudar, **portanto** não tiro notas boas  
   
-  - Pois - Pode também ter valor conclusivo se vinher depois do verbo. Ex: não gosto de estudar, não tiro, **pois**, notas boas
+  - Pois - Pode também ter valor conclusivo se vier depois do verbo. Ex: não gosto de estudar, não tiro, **pois**, notas boas
 
 ## Cap. 12
 
@@ -2686,7 +2902,7 @@ Oração Subordinada - Oração que desempenha uma função sintática em outra 
   
   - Proporcional - Indica proporção. Ex: A sala ficava mais fria **à medida que** o tempo <u>passava</u>. (conforme, quanto mais ... menos)
   
-  - Conformativa - Ideia de conformidade (concordância). Ex: Caiu muitas questões de cilindro **conforme** <u>preveu</u> Allan. (como, de acordo com)
+  - Conformativa - Ideia de conformidade (concordância). Ex: Caiu muitas questões de cilindro **conforme** <u>previu</u> Allan. (como, de acordo com)
   
   - Concessiva - Ideia de oposição. Ex: **Embora** tenham estudado muito, a sala ainda <u>tirou</u> nota baixa na prova de Santana. (mesmo que, apesar de)
   

@@ -1,111 +1,5 @@
 # Biologia 1
 
-## Cap. 7
-
-Digestão - Quebra de macromoléculas (que são os nutrientes maiores) nos alimentos em micromoléculas (monômeros) que são absorvidas para uso pelo organismo
-
-- Nutrientes - Substâncias utilizadas pelo organismo. Ex: proteínas, carboidratos, lipídios, vitaminas
-
-- Grelina - Substância produzida pelo estômago que dá a sensação de fome
-
-- Leptina - Substância produzida pelo tecido adiposo que retira a sensação de fome
-
----
-
-Tipos de Digestão por Processo
-
-- Mecânica - Não há a ação de substâncias. Ex: mastigação
-
-- Química - Por ação de enzimas (hidrólise enzimática). Ex: estômago
-
----
-
-Tipo de Digestão por Local
-
-- Intracelular - Ocorre dentro das células
-
-- Extracelular - Ocorre fora das células, mas dentro do corpo
-
-- Extracorpórea - Ocorre fora do corpo
-
----
-
-Sistema Digestório
-
-- Boca - Realiza a trituração mecânica do alimento pelos dentes e língua, e digestão química com a saliva. Possui pH neutro
-  
-  - Bolo Alimentar - Formado após a trituração e mistura com a saliva
-  
-  - Saliva - Formado por água, mucina (proteção do esôfago) e pela amilase salivar (ou ptialina), que é a primeira enzima digestiva. Quebra o amido para carboidratos simples. A saliva é secretada por 3 pares glândulas salivares
-  
-  - Deglutição - “Engolimento” do alimento, em que a língua empurra o bolo alimentar para o esôfago
-    
-    - Epiglote - Bloqueia a traqueia quando o alimento é engolido
-
-- Esôfago - Realiza os movimentos peristálticos, contrações musculares nas paredes do esôfago para levar o bolo alimentar ao estômago
-
-- Estômago - Realiza digestão química pelo suco gástrico. Possui pH ácido
-  
-  - Suco Gástrico - Formado por água, HCl e enzimas como pepsina
-    
-    - Pepsina - Realiza digestão proteica
-  
-  - Células
-    
-    - Mucosas - Liberam muco que protege a parede do estômago
-    
-    - Parietais - Liberam o HCl
-    
-    - Principais - Liberam a pepsina
-  
-  - Quimo - O bolo alimentar passa a ser chamado de quimo
-  
-  - Valvas - Fecham para evitar a volta do bolo alimentar pelo sentido contrário
-    
-    - Cardia - Entre o esôfago e estômago
-    
-    - Pilo - Entre o intestino delgado e estômago
-
-- Intestino Delgado - Realiza digestão química por várias enzimas e absorve os nutrientes. Possui pH básico. Formado pelo duodeno, jejuno e íleo
-  
-  - Quilo - O quimo passa a ser chamado de quilo
-  
-  - Bile - Substância que emulsifica gorduras. Produzida pelo fígado e armazenada na vesícula biliar, onde é secretada no intestino
-  
-  - Suco Pancreático - Formado por água, bicarbonato de sódio (para mudar o pH) e enzimas. Produzido pelo pâncreas
-    
-    - Amilase Pancreática - Quebra o amido
-    
-    - Nuclease - Quebra DNA e RNA em nucleotídeos
-    
-    - Tripsina e Quimotripsina - Quebra proteínas
-    
-    - Lipase - Quebra lipídios
-  
-  - Suco Entérico (ou Intestinal) - Formado por água e enzimas. Produzido pelo duodeno (início do intestino)
-    
-    - Maltase - Quebra maltose em glicose
-    
-    - Sacarase - Quebra sacarose em glicose e frutose
-    
-    - Lactase - Quebra lactose em glicose e galactose
-    
-    - Peptidase - Quebra polipeptídeos em aminoácidos
-    
-    - Nucleotidase - Quebra nucleotídeos
-  
-  - Vilosidades - Sinuosidades no intestino que aumentam a superfície de contato para absorção. Também presente nas células (microvilosidades)
-    
-    - Intolerância a Glúten (ou Doença Celíaca) - Doença autoimune causada pelo glúten em que há a destruição das vilosidades do intestino, levando à má absorção de nutrientes
-
-- Intestino Grosso - Absorve água e sais minerais
-  
-  - Cólon - Tubo que absorve a água e sais, formado pelo cólon ascendente, transverso e descendente
-  
-  - Apêndice Vermiforme (ou Ceco) - Órgão vestigial do intestino sem função
-
-- Ânus - Por onde sai os resíduos da digestão
-
 ## Cap. 8
 
 Animais sem Sistema Circulatório - Não está presente em Poríferos, Cnidários, Platelmintos e Nematelmintos, com a troca de substâncias ocorrendo direto com o meio por difusão, por seus tecidos terem poucas camadas
@@ -160,7 +54,7 @@ Vasos Sanguíneos
   
   - Líquido Intersticial - Líquido que temporariamente sai dos capilares e toca nas células
     
-    - Vasos Linfáticos - Devolvem o líquido intersticial (chamado agora de linfa) para o sangue por uma veia. Formam o sistema linfátidos
+    - Vasos Linfáticos - Devolvem o líquido intersticial (chamado agora de linfa) para o sangue por uma veia. Formam o sistema linfático
       
       - Linfonodos - Estruturas presentes nos vasos com leucócitos
 
@@ -178,7 +72,7 @@ Coração - Responsável pelo bombeamento do sangue pelos vasos
   
   - Atrioventricular Esquerda (ou Bicúspide ou Mitral) - Separa o átrio esquerdo e ventrículo esquerdo
   
-  - Atrioventricular Direita (ou Tricúspide ou ) - Separa o átrio direito e ventrículo direito
+  - Atrioventricular Direita (ou Tricúspide) - Separa o átrio direito e ventrículo direito
   
   - Semilunar (ou do Tronco Aórtico) - Fica entre o ventrículo direito e a artéria aorta
   
@@ -196,7 +90,7 @@ Coração - Responsável pelo bombeamento do sangue pelos vasos
   
   - Nó Sinoatrial (SA) - Fica na parede do átrio direito, passando pelos dois átrios
   
-  - Nó Atrioventricular (AV) - Fica na parte de baixo do ventrículo, recebendo o estímulo do sinoatrial e subindo pelo fascículo atrial (ou feixe de Hess) e pelos ramos subendocárdicos (ou fibras de Purkinge)
+  - Nó Atrioventricular (AV) - Fica na parte de baixo do ventrículo, recebendo o estímulo do sinoatrial e subindo pelo fascículo atrial (ou feixe de Hess) e pelos ramos subendocárdicos (ou fibras de Purkinje)
   
   - Frequência Cardíaca - Frequência em que ocorre a contração do coração
 
@@ -204,7 +98,7 @@ Coração - Responsável pelo bombeamento do sangue pelos vasos
   
   - Bicavitário - Possui um átrio e um ventrículo. Presente nos peixes
     
-    - Fluxo - Átrio -> ventrículo -> artéria aorta -> brânquias -> artéria aorta -> tecidos -> veia cada -> átrio
+    - Fluxo - Átrio -> ventrículo -> artéria aorta -> brânquias -> artéria aorta -> tecidos -> veia cava -> átrio
   
   - Tricavitário - Possui dois átrios, mas apenas um ventrículo. Presente nos anfíbios e répteis não crocodilianos
     
@@ -212,7 +106,7 @@ Coração - Responsável pelo bombeamento do sangue pelos vasos
     
     - Átrio Esquerdo - Recebe o sangue rico pela veia pulmonar
     
-    - Ventrículo - Recebe o sangue dos dois átrios, misturando-os e mandando  para o pulmão (artéria pulmonar) e corpo (artéria aorta)
+    - Ventrículo - Recebe o sangue dos dois átrios, misturando-os e mandando para o pulmão (artéria pulmonar) e corpo (artéria aorta)
       
       - Septo Incompleto (ou Septo de Sabatier) - Septo nos répteis que dificulta a mistura, mas não barra-a completamente
   
@@ -232,9 +126,9 @@ Coração - Responsável pelo bombeamento do sangue pelos vasos
 
 Doenças Cardiovasculares - Doenças relacionadas ao sistema cardiovascular
 
-- Aneurismo - Doença em que há a formação de uma bolsa externa ao vaso, pelo enfraquecimento da parede. Caso rompida, pode causar hemorragia, AVC e morte
+- Aneurisma - Doença em que há a formação de uma bolsa externa ao vaso, pelo enfraquecimento da parede. Caso rompida, pode causar hemorragia, AVC e morte
 
-- Varises - Causadas pelo mal funcionamento das válvulas das veias
+- Varizes - Causadas pelo mal funcionamento das válvulas das veias
 
 - Infarto - Causado pelo entupimento das artérias coronárias, causando a parada cardíaca
 
@@ -263,10 +157,14 @@ Sangue - Tecido conjuntivo formado pelo plasma e elementos figurados
     - Eritropoetina - Estimula a produção de hemácias, como em locais onde o ar é rarefeito
     
     - Anemia - Falta de hemácias no sangue
+  
   - Plaquetas (ou Trombócitos) - Fragmentos de células chamadas de megacariócitos, responsáveis pela coagulação do sangue
-    - Coagulação - Processo de reparamento de um vaso sanguíneo rompido
-      - Cascata de Coagulação - Há a acumulação de plaquetas que iberam a tromboplastina, que transforma a protrombina em trombina, essa transformando o fibrinogênio em fibrina, que forma uma rede que prende as hemácias e forma o coágulo
+    
+    - Coagulação - Processo de reparação de um vaso sanguíneo rompido
+      - Cascata de Coagulação - Há a acumulação de plaquetas que liberam a tromboplastina, que transforma a protrombina em trombina, essa transformando o fibrinogênio em fibrina, que forma uma rede que prende as hemácias e forma o coágulo
+  
   - Leucócitos (ou Glóbulos Brancos) - Células responsáveis pela defesa do organismo, formando o sistema imune
+    
     - Macrófagos - Tipos de leucócitos que vão para os tecidos e fagocitam partículas e microorganismos indesejados
       - Neutrófilo - Fagocita células estranhas e liberam substâncias que destroem bactérias
       - Eosinófilo - Combate os efeitos da reação alérgica
@@ -274,6 +172,14 @@ Sangue - Tecido conjuntivo formado pelo plasma e elementos figurados
     - Linfócitos - Tipos de leucócitos que produzem as proteínas de anticorpos
       - Linfócito B - Produz os anticorpos
       - Linfócitos TCD4 - Recebem os antígenos fagocitados e estimulam os linfócitos B
+
+## Cap. 9 [NÃO FEITO]
+
+## Cap. 10 [NÃO FEITO]
+
+## Cap. 11 [NÃO FEITO]
+
+## Cap. 12 [NÃO FEITO]
 
 # Biologia 2
 
@@ -387,199 +293,55 @@ Dominância Incompleta (ou Herança sem Dominância) - O heterozigoto é um fen�
 
 ---
 
-Alelos Letais - Quando um dos alelos em homozigose causa a morte do ser. Nela, os seres que morrem não participam da proporção fenotípica e genotípica. Ex: camudongo amarelo (Aa), camudongo aguti (aa), gene letal (AA)
-
-# Biologia SSA
-
-## Vírus
-
-Vírus - Partícula com capacidade infecciosa, não considerada um ser vivo, por não ter metabolismo próprio e ser um parasita intracelular obrigatório, sendo, portanto, acelulado. Não é afetado por antibióticos
-
-- Especificidade Viral - O vírus só atinge seres e tipos de células específicas
+Alelos Letais - Quando um dos alelos em homozigose causa a morte do ser. Nela, os seres que morrem não participam da proporção fenotípica e genotípica. Ex: camundongo amarelo (Aa), camundongo aguti (aa), gene letal (AA)
 
 ---
 
-Estrutura do Vírus - Formada por proteínas e material genético
+Expressão Gênica - Como o gene é traduzido em moléculas, que resultam no fenótipo. Não dependem apenas do gene em si, mas também de fatores como outros genes e fatores ambientais
 
-- Nucleocapsídeo - Guarda o material genético
+- Pleiotropia - Ocorre quando um único gene é responsável por mais de uma característica
   
-  - Capsídeo - Parede ao redor do material genético, formada por proteínas capsômero
-  
-  - Material Genético - Pode ser de DNA ou RNA ou ambos e pode sofrer mutação
+  - Síndrome de Marfan - Doença autossômica dominante com pleiotropia, causada pela mutação de um gene específico, resultando na não produção de fibrilina, causando estatura alta, dedos longos, depressão no tórax e problemas na artéria aorta
+
+Expressividade Gênica - É o modo e intensidade que um gene se manifesta, que pode variar (expressividade variável)
+
+- Polidactilia - Doença autossômica dominante com expressividade variável, que tem como consequência a formação de dedos a mais, podendo ocorrer nas mãos, pés ou ambos
+
+Penetrância - Proporção de pessoas com um genótipos que possuem o fenótipo esperado. Pode ser completa (sempre tem fenótipo) ou incompleta
 
 ---
 
-Tipos de Vírus
+Epigenética - Estuda as mudanças de fenótipo que não são causadas pela alteração do DNA, e sim por outros fatores (estresse, deficiência nutricional, agente poluente...)
 
-- Envelopados - Possui envelope celular ao redor do nucleocapsídeo
+- Metilação - Fenômeno causado pelos fatores anteriores em que há a inserção do grupo metil ao DNA, interferindo nas regiões de genes promovidos
 
-- Não Envelopados - Não possui envelope celular
+## Cap. 9 [NÃO FEITO]
 
-- Bacteriófagos
+## Cap. 10 [NÃO FEITO]
 
----
+# Educação Física
 
-Ciclos do Vírus
+## Danças e Lutas [INACABADO]
 
-- Ciclo Lisogênico - Ciclo mais longo e duradouro, ocorre quando o vírus se conecta à célula e introduz o material genético viral. A célula eventualmente se divide formando 2 células infectadas e assim por diante
+Lutas Modernas
 
-- Ciclo Lítico - Mais curto, ocorre em células já infectadas, normalmente em quedas de imunidade. O material genético viral faz a célula produzir proteínas virais, criando novos vírus que eventualmente rompem a célula e saem
-  
-  - Transcriptase Reversa - Enzima que converte o RNA em DNA
+- Karatê - Arte marcial japonesa com foco em golpes de impacto e defesa com foco nas mãos e pés
 
-## Viroses
+- Taekwondo - Arte marcial coreana focada em chutes altos e rápidos, com uso de protetores
 
-Viroses - Doenças causadas por vírus. Combatidas por meio da higienização, vacinação e distanciamento de pessoas infectadas
+- Muay Thai - Arte marcial tailandesa com foco nos punhos, cotovelos, joelhos e canelas
 
-- Síndrome da Imunodeficiência Adquirida (AIDS) - Causada pelo vírus HIV, que invade o linfócito TCD4 (responsável pela resposta imunológico), injetando seu RNA, que é convertido em DNA pela célula, que começa a criar novos vírus, causando lise celular e portanto, imunodeficiência. É uma IST
+- Judô - Arte marcial japonesa com objetivo de desequilíbrio e imobilização, sendo luta de chão
 
-- Arboviroses - Viroses transmitidas por artrópodes, sobretudo o mosquito Aedes Aegypti
-  
-  - Dengue - Causa febre e dores
-  
-  - Zika - Manchas vermelhas e conjuntivite
-  
-  - Chikungunya - Dores e inchaços em articulações
-  
-  - Febre Amarela
+- Sumô - Japonesa, com objetivo de desequilibrar ou empurrar o outro para fora de um círculo, com empurrões e agarrões
 
-- Viroses Respiratórias - Afetam o sistema respiratório
-  
-  - Gripe - Causada pelo vírus Influenza. Tem como sintomas febre, tosse e dores
-  
-  - COVID-19
-  
-  - Resfriado - Causa coriza e espirros
+- Mixed Martial Arts (MMA) - Luta que mistura técnicas de diversas artes marciais, com regras mais amplas
 
-- Sarampo - Causa febre e erupções avermelhadas, sendo bem contagiosa
+- Kickboxing - Mistura socos do boxe com técnicas de chute
 
-- Catapora (ou Varicela) - Causa coceira na pele
+- Boxe - Usa apenas os punhos para defesa e ataque, ocorrendo em um ringue quadrado
 
-- Hepatite - Causa inflamação do fígado e pele amarelada
-
-- Herpes - Gera pequenas feridas, principalmente nos lábios
-
-## Bactérias
-
-Bactérias - Setes pertencentes ao antigo reino Monera. São coloniais e são afetadas por antibióticos
-
-- Tipos de Bactérias
-  
-  - Arqueias (ou Arqueobactérias) - Bactérias extremófilas (vivem em ambientes extremos)
-    
-    - Halófilas Extremas - Ambientes de extrema salinidade
-    
-    - Termófilas Extremas - Ambientes de extrema temperatura
-    
-    - Metanogênicas - Vivem no sistema digestivo de ruminantes, sendo responsáveis pela digestão da celulose, liberando gás metano (CH<sub>4</sub>)
-  
-  - Eubactérias
-
-- Estrutura - São seres unicelulares e procariontes (sem núcleo)
-  
-  - Cápsula - Substância que reveste a parede celular
-  
-  - Parede Celular - Feita de peptidoglicano, função de proteção
-    
-    - Bactérias Gram-Positivas - Com parede celular mais espessa
-    
-    - Bactérias Gram-Negativas - Parede celular menor
-  
-  - Membrana Celular - Bicamada de lipoproteína, sem colesterol (diferente da membrana animal). Possuem enzimas responsáveis pelo metabolismo
-  
-  - Flagelo - Estrutura alongada para locomoção
-  
-  - Fímbrias - Cílios mais alongados
-  
-  - Pili - Fímbria alongada com função de troca de material genético
-  
-  - Ribossomos - Produção de proteínas
-  
-  - Material Genético - Exposto ao citoplasma, sem presença de nucleo, ficando em uma região chamada de nucleoide
-    
-    - Plasmídeo - Sequências pequenas de DNA circular responsáveis pela resistência a antibióticos
-
-- Alimentação - Podem ser heterótrofas (respiração celular e fermentação) ou autótrofas (fotossintese e quimiossintese)
-  
-  - Cianobactérias - Bactérias que realizam fotossíntese
-
-- Metabolismo Energético - Podem ser aeróbias, morrendo na falta de oxigênio, anaeróbias, morrendo na presença de oxigênio, ou anaeróbicas facultativas, podendo sobreviver em ambos os ambientes
-
-- Reprodução
-  
-  - Assexuada - Ocorre por fissão binária (ou divisão binária, ou bipartição, ou divisão simples ou cissiparidade)
-  
-  - "Sexuada" - Transferência de material genético entre bactérias, mas não criando novos seres
-    
-    - Conjugação - Ocorre por meio da pili
-    
-    - Transformação - Plasmídeo solto no ambiente (por morte de uma bactéria) é incorporada
-    
-    - Transdução - Bacteriófago com DNA bacteriano infecta uma célula
-
-- Tipos Morfológicos
-  
-  - Cocos - Bactérias próximas de esféricas individuais
-    
-    - Diplococos - Duas bactérias cocos unidas
-    
-    - Tetrades - Quatro bactérias cocos
-    
-    - Estreptococos - Várias bactérias cocos unidas em linha
-    
-    - Estafilococos - Várias bactérias cocos unidas de forma tridimensional
-  
-  - Bacilos - Bactérias alongadas. Podem ser diplobacilos ou estreptobacilos também
-  
-  - Vibriões - Bactérias em formato de vírgula
-  
-  - Espirilo - Bactérias com formato de espiral leve
-  
-  - Espiroquetas - Bactérias em formato de espiral
-
-## Bacterioses
-
-Antibióticos - Substâncias que impedem a proliferação de bactérias, por meio de intervenções em processos ou estruturas essenciais
-
-- Bactericidas - Antibióticos que matam bactériam
-
-- Bacteriostáticos - Antibióticos que impedem a duplicação de bactérias
-
-****
-
-Bacterioses - Doenças causadas por bactérias
-
-- Transmissão por Gotículas - Transmissão por meio de gotículas de muco e saliva suspensas no ar
-  
-  - Coqueluche - Causado por *Bordetella pertussis*, tem como principal sintoma a tosse
-  
-  - Pneumonia - Tem como sintomas febre, dor no peito e tosse com secreção
-  
-  - Tuberculose - Tem como sintomas tosse, febre, fadiga e emagracimento
-  
-  - Meningite - Tem cono sintomas febre, náusea, vômito e rigidez da nuca
-
-- Transmissão por Água e Alimentos Contaminados
-  
-  - Cólera - Tem como sintomas náusea, vômito e diarreia. Causado por alimentos contaminados por fezes
-  
-  - Botulismo - Tem como sintomas dificuldade de engolir, vômito e cólica abdominal
-
-- Tétano - Tem como sintomas espasmos musculares, febre e dor de cabeça. Transmitido por meio de ferimentos
-
-- Hanseníase - Causada por *Mycobacterium leprae*, tem como sintomas lesões na pele e mucosas. Transmitida por contato
-
-- Peste Bubônica - Tem como sintomas inchaço nos gânglios e febre. Transmitida por picada de pulga do rato
-
-- Leptospirose - Tem como sintomas febre, dor muscular, tosse, náusea e infecção renal. Transmitida por urina de ratos contaminados
-
-- Infecções Sexualmente Transmissíveis (ISTs)
-  
-  - Gonorreia - Tem como sintomas dor e pus ao urinar. É uma IST
-  
-  - Sífilis - Causado por *Treponema pallidum*, tem como sintomas feridas, podendo causar paralisia
-
-# Filosofia
+# Filosofia [ASSUNTO NÃO SAIU]
 
 ## Cap. 5
 
@@ -607,7 +369,7 @@ Friedrich Nietzsche - Conhecido como "filósofo do martelo", sendo considerado a
 
 - Dualidade - Defende a necessidade de união entre a razão (filosofia) e emoção (arte), formando uma nova totalidade
   
-  - Apolo - Divindade da clareza e harmonia, utlizado como metáfora para a razão, pensamento racional. Defende que Apolo foi herdado na filosofia ocidental desde os gregos
+  - Apolo - Divindade da clareza e harmonia, utilizado como metáfora para a razão, pensamento racional. Defende que Apolo foi herdado na filosofia ocidental desde os gregos
   - Dionísio - Divindade do vinho, festa, utilizado como metáfora para a emoção, excesso e paixão, ainda presente nas artes
 
 - Transvaloração de Valores - A destruição de todos os valores já estabelecidos para haver o surgimento de novos valores
@@ -631,7 +393,7 @@ Fenomenologia - Corrente criada por Edmund Husserl que busca entender a experiê
 
 - Intencionalidade - Defende que toda consciência é direcionada, sendo consciência de algo, não havendo consciência sem objeto e objeto sem consciência, havendo sempre parcialidade
 
-----
+---
 
 Merleau-Ponty - Filósofo que fala sobre a aplicação da fenomenologia na percepção dos sentidos
 
@@ -655,119 +417,13 @@ Jean-Paul Sartre - Filósofo que criou a corrente existencialista, baseada na fe
   
   - Consciência - É vista como um nada que é preenchido a partir da existência pelos atos
   
-  - Liberdade - Possibilidade humana de agir de qualquer forma em qualquer circunstância, defendendo que os humanos são "condenados a serem livres", e a exerção da liberdade dá sentido a existência e define o destino
+  - Liberdade - Possibilidade humana de agir de qualquer forma em qualquer circunstância, defendendo que os humanos são "condenados a serem livres", e o exercício da liberdade dá sentido a existência e define o destino
   
   - Dissimulação (ou Autoengano ou Má-Fé) - Rejeição da liberdade, dando justificativas de que o ambiente não permitiu a liberdade, se tornando um ser em si
   
-  - Outro - Relação entre humanos (sujeitos), em que o outro é responsável por atestar e definir nossa existência total, mas que pode revelar que nã somos quem nós queremos ser, com muitos acabando vivendo pela aprovação do Outro
+  - Outro - Relação entre humanos (sujeitos), em que o outro é responsável por atestar e definir nossa existência total, mas que pode revelar que não somos quem nós queremos ser, com muitos acabando vivendo pela aprovação do Outro
 
 # Geografia
-
-## Cap. 6
-
-Migração - Deslocamento de pessoas de um local para outro. Causado por fatores atrativos, como oferta de trabalho e estudo, disponibilidade de serviços, moradia, melhores condições de vida, e por fatores repulsivos do local de origem, como pobreza, desemprego, desastres naturais, guerras e perseguições
-
-- Imigração - Entrada de pessoas (imigrantes) em um local, chamado de área de afluxo
-
-- Emigração - Saída de pessoas (emigrantes) de um local, chamado de área de refluxo
-
----
-
-Tipos de Migração
-
-- Por Espaço
-  
-  - Interna - Ocorre entre locais de um mesmo país
-  
-  - Externa - Ocorre entre países
-
-- Por Tempo - Temporária ou definitiva
-
-- Por Organização
-  
-  - Espontânea - Causada por vontade própria dos moradores
-  
-  - Estimulada - Estimulado economicamente
-  
-  - Forçada - Obrigado a migrar, como em emprego, guerras e desastres naturais
-
-- Por Causa
-  
-  - Migração Pendular - Ocorre entre uma cidade pequena e grande ou entre o subúrbio e centro de uma cidade, para trabalhar e depois voltar, sendo diária
-    
-    - Cidades Dormitório (ou Satélites) - Cidades mais residenciais em que a maioria dos seus moradores trabalham em outra cidade
-  
-  - Migração Sazonal (ou Transumância) - Migração temporária causada pelas estações do ano, sendo muitas vezes rural. Ex: sertão (períodos de chuva) e zona da mata (períodos de estiagem)
-    
-    - Cidades Viúvas da Seca - Cidades em que há grande fluxo migratório de migração sazonal
-  
-  - Êxodo Rural - Migração definitiva em que há a saída do campo para a cidade, por fatores como mecanização do trabalho, falta de infraestrutura e de reformas agrárias. Contudo, pode causar macrocefalia urbana, periferização, favelização, desigualdade social e aumento na criminalidade
-  
-  - Êxodo Urbano - Migração definitiva em que há a saída da cidade para o campo, por causa da criminalidade e caos urbano
-
----
-
-Fluxos Migratórios Internacionais - Caracterizada pela busca por melhores condições de vida. Aumentou muito com a globalização
-
-- Europa - Até o fim da 2a guerra mundial era área de emigração pela superpopulação, desemprego e miséria, para países como EUA, Canadá, Brasil e Argentina (migração transatlântica). Depois, se tornou de imigração pela qualidade de vida e oferta de emprego
-
-- África - Área de emigração antes pela escravidão e depois pelos conflitos étnicos e baixa qualidade de vida, com destaque para a Primavera Árabe
-
-- Ásia - Área de emigração por conflitos étnicos (oriente médio) e crises
-
-- América - Até o fim da 2a guerra mundial era área de imigração pela oferta de emprego, industrialização e urbanização recente e doação de terras. Depois, se tornou de emigração na américa latina, pela busca de melhores condições de vida
-  
-  - Brasil - Após a escravidão, houve muita imigração por incentivos à chegada de mão-de-obra estrangeira, sobretudo europeia e japonesa
-
-- Refugiados - Pessoas que saem de seu país por perseguição étnica, política, religiosa ou de grupos social
-
----
-
-Fluxos Migratórios no Brasil - É alta pela diferença socioeconômica entre regiões. Tem como principal característica a saída do Nordeste e a entrada no Sudeste
-
-- Pré-República - Influenciada pelos ciclos econômicos, como mineração (Minas Gerais) e café (Vale do Paraíba e Oeste Paulista)
-
-- Industrialização - Fluxo para o sudeste, principal área urbanizada e industrializada, além de para o Centro-Oeste e Norte pelo avanço da fronteira agrícola e construção de Brasília
-
-- Atual - Fluxo do sudeste para o nordeste, por crises econômicas e desenvolvimento agropecuário, também aumentando o fluxo para o Norte e Centro-Oeste
-
-## Cap. 7
-
-Cidade - Aglomerado humano concentrado, organizado em ruas e com ampla presença de serviços do setor terciário
-
-- Função Urbana - Atividade econômica predominante da cidade
-
----
-
-Urbanização - Concentração da população de um local na área urbana. Causada pelo êxodo rural, industrialização e crescimento vegetativo urbano
-
-- Urbanização de Países Desenvolvidos - Ocorreu de forma lenta e ordenada, como na Europa e posteriormente mais rápida nos EUA e Japão
-
-- Urbanização de Países em Desenvolvimento e Subdesenvolvidos - Ocorreu de forma rápida e caótica, como no Brasil
-  
-  - Urbanização Brasileira - Iniciou no Sudeste pela industrialização, depois Centro-Oeste pela concentração agrícola, depois no Sul, Norte e Nordeste
-
----
-
-Rede Urbana - Conjunto de cidades de um local conectadas por transporte e telecomunicações
-
-Hierarquia Urbana - Classificação das cidades de uma rede urbana de acordo com seu tamanho, economia e influência em outras cidades
-
-- Metrópole - Cidade formada por vários municípios conectados com grande influência nacional
-  
-  - Região Metropolitana - Cidades conurbadas (unidas por causa do crescimento urbano)
-  
-  - Metrópole Mundial (ou Cidade Global) - Metrópole com grande influência econômica internacional
-  
-  - Megacidades - Cidades com mais de 10 milhões de habitantes
-  
-  - Megalópole - União de várias metrópoles/regiões metropolitanas
-  
-  - Metropolização - Processo de conurbação de cidades, com o desaparecimento de limites visíveis entre elas, formando as metrópoles
-
----
-
-Tipos de Cidade por Origem - Espontânea ou planejada
 
 ## Cap. 8
 
@@ -789,7 +445,7 @@ Impermeabilização do Solo - Causada pela falta de áreas verdes e superfícies
 
 Desmatamento - Pela expansão urbana, causada pelo aumento populacional. Causa danos à fauna e flora, diminuindo a biodiversidade
 
-Lixo - Causado pela maior produção e consumo de produtos, além da destinação do lixo gerado por eles (como os lixões), e a falta de destinação correta (reciclagem, coleta seletiva, aterro sanitário). Sua decomposição gera o gás de efeito estufa metano, além do líquido chorume, que pode poluir o solo e lençois freáticos
+Lixo - Causado pela maior produção e consumo de produtos, além da destinação do lixo gerado por eles (como os lixões), e a falta de destinação correta (reciclagem, coleta seletiva, aterro sanitário). Sua decomposição gera o gás de efeito estufa metano, além do líquido chorume, que pode poluir o solo e lençóis freáticos
 
 - Tipos de Lixo
   
@@ -810,6 +466,16 @@ Lixo - Causado pela maior produção e consumo de produtos, além da destinaçã
 Falta de Moradia (ou Déficit Habitacional) - Pela pobreza, especulação imobiliária e falta de planejamento urbano, causando favelização, periferização e segregação social
 
 Falta de Mobilidade - Pela superpopulação e baixa qualidade de transporte urbano
+
+## Cap. 9 [NÃO FEITO]
+
+## Cap. 10 [NÃO FEITO]
+
+## Cap. 11 [NÃO FEITO]
+
+## Cap. 12 [NÃO FEITO]
+
+## Cap. 13 [NÃO FEITO]
 
 # História
 
@@ -865,7 +531,7 @@ República Oligárquica (ou Primeira República) - Período caracterizado pela p
     
     - Oswaldo Cruz - Médico responsável pela vacinação obrigatória, além de planejar o saneamento como um todo de Rio de Janeiro
   
-  - Revolta da Chibata - Revolta no Rio de Janeiro pelos maus tratos, más condições e baixo salário a marinheiros na marinha nacional. Houve o ocupamento de navios, mas foi duramente reprimido mas houve o fim do castigo físico
+  - Revolta da Chibata - Revolta no Rio de Janeiro pelos maus tratos, más condições e baixo salário a marinheiros na marinha nacional. Houve a ocupação de navios, mas foi duramente reprimido mas houve o fim do castigo físico
     
     - Almirante Negro - Líder do processo
 
@@ -963,6 +629,102 @@ Grande Depressão - Consequência da crise de 1929 nos EUA, caracterizado pela f
 
 New Deal - Política econômica estabelecida pelo presidente estadunidense Roosevelt, baseado em reformas financeiras buscando retirar o país da grande depressão, que se recuperou de forma lenta. Marca o fim do liberalismo clássico. Caracterizado pela intervenção do Estado na economia, estatização de empresas (gerando emprego e consumo, recuperando a produção e criando ainda mais emprego) e outras políticas de bem-estar social
 
+## Cap. 10
+
+Fascismo - Regime totalitário (ou autocrático) que surgiu antes da segunda guerra mundial, caracterizado pelo autoritarismo e unipartidarismo
+
+- Antiliberalismo e Antidemocracia - O fascismo é contra a democracia, defendendo uma desigualdade natural entre povos, sendo apenas uma minoria os "superiores", e a maioria, valorizada na democracia,"inferiores". Por isso, defendiam o autoritarismo
+
+- Nacionalismo Extremo - Caracterizado por racismo, xenofobia e antissemitismo (discriminação de judeus), havendo forte discriminação e intolerância, bem como o culto ao líder
+
+- Militarismo - Também era extremo, caracterizado pela disciplina, obediência, hierarquia, heroísmo e culto à beleza e forma física (que inclusive chegavam na sociedade comum), pois havia a ideia de disputa entre nações e valorização da guerra
+
+- Anticomunismo - Era contra a igualdade e internacionalização do comunismo, valorizando a superioridade de raças
+
+- Irracionalismo (ou Romantismo ou Simbolismo) - Havia forte uso da propaganda e da política, sobretudo para a adoração e exaltação do líder, com forte apelo emocional e carismático, buscando seduzir as massas
+
+- Corporativismo - Controle dos trabalhadores por meio de sindicatos controlados pelo Estado, disfarçado por meio da promessa de valorização do trabalho
+
+---
+
+Nazismo - Regime fascista alemão, caracterizado pelo preconceito, forte política expansionista, intervenção do Estado na economia, que levou a um período de prosperidade econômica, e forte militarização e produção bélica
+
+- República de Weimar - Governo anterior ao nazista, que surgiu após a derrota na Primeira Guerra Mundial, caracterizada por forte crise política e econômica, sobretudo pelo Tratado de Versalhes, além da valorização da arte moderna
+
+- Partido Nazista - Partido radical e violento caracterizado pelo anticomunismo, antissemitismo e nacionalismo extremo. Liderado por Adolf Hitler. Teve grande crescimento, sobretudo pelo forte uso da propaganda e promessa de superação da crise. Hitler eventualmente se tornou primeiro-ministro e implantou uma ditadura
+  
+  - Putsch - Primeira tentativa de golpe, mas foi combatida
+
+- Führer - Nome dado à Adolf Hitler, o ditador alemão
+
+- Reich - Nome dado ao Império Alemão Nazista
+
+- Arianos - Raça "superior" defendida pelos alemãos, sendo necessário sua expansão
+  
+  - Holocausto - Massacre da população judaica por meio dos campos de concentração e extermínio
+
+- Olimpíada de 1936 - Ocorreu na Alemanha, utilizada como forma de mostrar a evolução alemã, buscando provar a "superioridade de raça" nos eventos
+
+- Totalitarismo - Característica do regime nazifascista, pelo Estado controlar e vigiar todos os aspectos da vida e sociedade, ditadura política, em que o Estado também é o partido, culto ao líder
+  
+  - Gestapo - Órgão de viligância
+
+---
+
+Fascismo Italiano - Regime fascista na Itália, caracterizado pelo militarismo e política de expansionismo agressivo
+
+- Partido Nacional Fascista - Surgiu após a Primeira Guerra Mundial, com a destruição econômica, social e política na Itália. Liderado por Benito Mussolini, era bem apoiada pela burguesia e Igreja, além do povo como um todo, por ser contra a esquerda e prometer a superação da crise econômica de 1929
+  
+  - Marcha sobre Roma - Movimento do partido fascista que resultou na derrubada da monarquia e ascensão de Mussolini, que instaurou uma ditadura, por meio de fraude eleitoral e perseguição de líderes de outros partidos, que eventualmente levou à extinção dos três poderes
+  
+  - Organização de Vigilância e Repressão ao Antifascismo (Ovra) - Organização de perseguição que contribuiu para a instauração da ditadura
+
+- Duce - Nome dado à Mussolini, o ditador
+
+- Eixo Berlim-Roma - Acordo de amizade entre a Alemanha nazista e a Itália fascista
+
+## Cap. 11 [INACABADO]
+
+Guerra Civil Espanhola - Guerra civil após a implantação do totalitarismo fascista na espanha por um golpe de Estado, gerando insatisfação interna. Houve a vitória fascista
+
+- Nacionalistas (ou Falange Nacional) - Eram a favor do fascismo, sendo os camponeses, parte da classe média, as elites, a Igreja e as Forças Armadas. Receberam apoio da Alemanha e Itália
+  
+  - Francisco Franco (ou General Franco) - Líder do fascismo espanhol
+
+- Republicanos - Defendiam um governo de esquerda, sendo contra o fascismo. Representado pelos operários, parte da classe média e anarquistas. Receberam apoio da URSS e das Brigadas Internacionais
+  
+  - Brigadas Internacionais - Grupos de voluntários antifascistas
+- Bombardeio de Guernica - Os nazistas bombearam, por um ataque aéreo, a cidade de Guernica para ajudar o governo fascista e mostrar sua superioridade
+  - Guernica - Obra feita por Pablo Picasso que denúncia a violência desse ataque, se tornando símbolo da guerra
+
+---
+
+Entreguerra - Período entre a primeira e segunda guerra mundial, marcada pelo domínio da França e Inglaterra, além da consolidação dos EUA como principal economia
+
+Segunda Guerra Mundial
+
+- Causas - Revanchismo alemão (sobretudo do Tratado de Versalhes), a ideologia nazista da raça ariana, expansionismo (busca por autossuficiência econômica), polarização ideológica (ideologias extremas opostas, gerando instabilidade política), militarismo e crise econômica (pela crise de 1929 e grande depressão)
+  
+  - Anchluss - Anexação da Áustria pela Alemanha, marcando o início do seu expansionismo e quebrando o Tratado de Versalhes
+  
+  - Expansionismo Japonês - Mais motivados pela expulsão da Inglaterra e França da Ásia, e rivalidade com os EUA
+
+- Grupos
+  
+  - Eixo - Composto pela Alemanha (como líder), Itália e Japão, acabaram perdendo
+  
+  - Aliados - Composto pela Inglaterra (como líder, França e posteriormente a União Soviética e Estados Unidos
+    
+    - Brasil - Apoiaram os aliados, mas se envolveram pouco na guerra
+- Eventos
+  - Polônia - Foi invadida pelos nazistas, marcou o início da guerra
+  - Pacto de Não Agressão - Acordo entre a Alemanha e URSS, mas foi eventualmente quebrada pela Alemanha
+  - Pearl Harbor - Base militar estadunidense no Havaí, foi atacada pelo Japão
+  - Dia D - Dia em que ocorreu a invasão final da Alemanha na Normandia, pela operação Overlord. Houve a ocupação da Alemanha pelos aliados. Marcou o fim da guerra
+  - Hiroshima e Nagasaki - Os EUA lançaram um ataque nuclear no Japão, que se rendeu
+- Fim da Guerra - Houve a ascensão dos EUA e URSS e a revelação do genocídio nazista nos campos de concentração
+  - Organização das Nações Unidas (ONU) - Foi criada para evitar futuras guerras, substituindo a Liga das Nações. Também houve a criação da declaração universal dos direitos humanos
+
 # Literatura
 
 ## Cap. 5
@@ -1006,7 +768,7 @@ Fase Heroica - Primeira fase do modernismo brasileiro
   
   - Anta - Reação ao movimento antropofágico, sendo mais político
 
-## Cap. 6 (Modernismo 2a Fase - Poesia)
+## Cap. 6 [INACABADO]
 
 Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de ideais na 1ª fase, além de maior foco na crítica social e na política, com a consolidação do modernismo no Brasil. Ocorreu durante o período que queda da bolsa, golpe de Estado de Getúlio Vargas (com fechamento de congresso e perseguição de escritores) e segunda guerra mundial
 
@@ -1024,7 +786,39 @@ Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de idea
     
     - Alguma Poesia - Sua primeira obra, inspirada na Semana de Arte Moderna, sendo caracterizada pelo humor, cotidiano, linguagem coloquial e versos livres
 
+## Cap. 7 [NÃO FEITO]
+
 # Português
+
+## Cap. 8
+
+Concordância Verbal - O verbo deve concordar com o sujeito em número e pessoa, independente da posição do sujeito na oração e de outros termos
+
+- Acento Diferencial - Presente em ter, vir e derivados, diferenciando o singular e o plural. Ex: ele tem muitos livros, eles têm muita habilidade no futebol; O legislativo não intervém nas decisões do executivo, greves intervêm no funcionamento da cidade
+
+- Silepse - Desvio de concordância pelo verbo concordar com uma ideia implícita. Ex: o grupo é pequeno, mas **fizeram** um bom trabalho
+
+- Exceções
+  
+  - Expressões Partitivas ou Coletivas - O verbo pode concordar com ele ou com o termo mais próximo. Ex: Grande parte dos brasileiros **mora/moram** na cidade
+  
+  - Verbos Impessoais - Ficam na 3a pessoa do singular. São fenômenos da natureza, fazer indicando tempo e haver no sentido de existir
+  
+  - Sujeito Composto por Gradação - O verbo fica no plural ou concorda com o termo mais próximo. Ex: Apenas o Brasil, a Alemanha, a Argentina e a França ainda **está/estão** na Copa do Mundo
+  
+  - Sujeito Composto de Sinônimos - O verbo pode ser singular ou plural. Ex: o rancor e ódio **é/são** muito perigoso(s)
+
+---
+
+Concordância Nominal - O artigo, adjetivo, numeral adjetivo e pronome adjetivo concordam com o substantivo em gênero e número
+
+- Meio e Bastante - Quando é advérbio, não flexiona em gênero e número. Ex: Essas coisas são **meio** estranhas
+
+- Ser + Adjetivo - Se o sujeito não tem artigo, são invariáveis, se tem, concordam com ele. Ex: praia é **bom**; a praia é **boa**
+
+- Substantivo Composto - Caso o adjetivo venha antes, concorda com o mais próximo ou ambos, mas caso venha antes, concorda com o mais próximo. Ex: o mar e céu **azul/azuis**; **azul** mar e céu
+
+- Anexo - Concorda com o substantivo, exceto se houver a expressão “em anexo”. Ex: Seguem **anexas** as imagens; Seguem **em anexo** as imagens
 
 ## Cap. 9
 
@@ -1078,34 +872,6 @@ Vocativo - Indica chamamento. Ex: **Professor**!
 
 Aposto - Explica ou esclarece um termo. Ex: Fernando Vieira, **o rei do caos**, vai dar aula
 
-## Interpretação Textual
-
-Interpretação Textual - Entender o propósito comunicativo (finalidade, função social) e mensagem do texto
-
-- Gênero Textual - Tipo de texto ligado às práticas sociais (dia a dia) e à função social. Exemplos:
-  
-  - Informar - Expor uma informação. Ex: notícia
-  
-  - Expor (ou Dissertar) - Expor uma ideia/conhecimento. Ex: texto didático
-  
-  - Argumentar - Defender um ponto de vista. Ex: artigo de opinião
-  
-  - Descrever - Descrever, caracterizado pela subjetividade. Ex: relato pessoal
-  
-  - Narrar - Contar uma história. Ex: conto
-  
-  - Instruir (ou Texto Injuntivo) - Dar orientação, caracterizado pelo verbo no imperativo. Ex: receita
-
-- Tipologia Textual - Tipo de texto ligado a uma estrutura de organização do texto. Exemplos:
-  
-  - Literário - Destaque para recursos expressivos
-  
-  - Jornalístico - Função informativa
-  
-  - Publicitário - Tem estratégias persuasivas
-
-- Linguagem - Pode ser formal ou informal e objetiva ou subjetiva
-
 ## Cap. 11
 
 Frase Nominal - Frase que não apresenta verbo. Ex: bom dia!
@@ -1134,9 +900,41 @@ Orações Coordenadas - Orações relacionadas em sentido, mas independentes ent
   
   - Conclusiva - Ideia de conclusão. Ex: não gosto de estudar, **portanto** não tiro notas boas
     
-    - Pois - Pode também ter valor conclusivo se vinher depois do verbo. Ex: não gosto de estudar, não tiro, **pois**, notas boas
+    - Pois - Pode também ter valor conclusivo se vier depois do verbo. Ex: não gosto de estudar, não tiro, **pois**, notas boas
 
-# Sociologia
+## Cap. 12
+
+Oração Subordinada - Oração que desempenha uma função sintática em outra oração (chamada de principal), sendo dependente dela
+
+- Oração Subordinada Adverbial - Desempenha função de adjunto adverbial, dando ideia de circunstância (que varia dependendo do conectivo e às vezes do contexto)
+  
+  - Condicional - Indica uma condição. Ex: **Se** não guardarem o celular, Thayná <u>vai</u> chamar Carol (a não ser que, caso)
+  
+  - Causal - Dá ideia de causa. Ex: Ele saiu **porque** o professor <u>permitiu</u>. (já que, visto que)
+  
+  - Consecutiva - Ideia de consequência. Ex: O projetor já quebrou tanto **que** Henrique <u>perdeu</u> a paciência. (tão ... que, de modo que)
+  
+  - Final - Indica finalidade. Ex: Rose chamou Kael **para que** ele <u>guardasse</u> o celular. (a fim de que, para que)
+  
+  - Proporcional - Indica proporção. Ex: A sala ficava mais fria **à medida que** o tempo <u>passava</u>. (conforme, quanto mais ... menos)
+  
+  - Conformativa - Ideia de conformidade (concordância). Ex: Caiu muitas questões de cilindro **conforme** <u>previu</u> Allan. (como, de acordo com)
+  
+  - Concessiva - Ideia de oposição. Ex: **Embora** tenham estudado muito, a sala ainda <u>tirou</u> nota baixa na prova de Santana. (mesmo que, apesar de)
+  
+  - Comparativa - Indica comparação. Ex: A nota de P vale **mais que** a nota de PM (<u>vale</u>). (tanto quanto, maior que)
+  
+  - Temporal - Indica tempo. Ex: O povo todo desceu **assim que** <u>terminou</u> a aula de Maria. (quando, enquanto)
+
+## Cap. 13 [NÃO FEITO]
+
+# Redação (Assunto)
+
+## Cap. 4 [NÃO FEITO]
+
+## Cap. 5 [NÃO FEITO]
+
+# Sociologia [ASSUNTO NÃO SAIU]
 
 ## Cap. 7
 
@@ -1218,21 +1016,21 @@ Sociedade Midiática - Nossa sociedade, em que há uma forte presença das mídi
 
 ---
 
-Meios de Comunicação em Massa - Meios de comunicaç~ao em que há bem menos produtores do que receptores de informações, esses últimos sendo atingindo em grande escala, havendo a massificação e busca por influenciar
+Meios de Comunicação em Massa - Meios de comunicação em que há bem menos produtores do que receptores de informações, esses últimos sendo atingindo em grande escala, havendo a massificação e busca por influenciar
 
 - Cultura Pop - Cultura popular disseminada pelos meios de comunicação em massa, sendo então massificadas, levando à dominação e padronização, além de ser produto da indústria cultural
 
-- Redes Sociais - Tipo de comunicação em massa caracterizado pela aproximação entre pessoas e organizações com desejos e valores semelhantes, horizontalidade (não há hierarquia, todos podem produzir e consumir) e descentralização. Mesmo assim, ainda segue a lógica de poucos produtores e muitos consimudores e pode levar à aculturação e consumismo, pois contribui negativamente para a diversidade
+- Redes Sociais - Tipo de comunicação em massa caracterizado pela aproximação entre pessoas e organizações com desejos e valores semelhantes, horizontalidade (não há hierarquia, todos podem produzir e consumir) e descentralização. Mesmo assim, ainda segue a lógica de poucos produtores e muitos consumidores e pode levar à aculturação e consumismo, pois contribui negativamente para a diversidade
 
 ## Cap. 11
 
-Indústria Cultural - Ccultura criada pelas classes dominantes com o intuito de atingir as massas ao máximo
+Indústria Cultural - Cultura criada pelas classes dominantes com o intuito de atingir as massas ao máximo
 
 - Theodor Adorno e Max Horkheimer (Escola de Frankfurt) - Criaram o termo. Para eles, a indústria cultural contribui para a desumanização, por silenciar o pensamento crítico e a individualidade. Além disso, diziam que a cultura de massas é produto da indústria cultural
 
 - Mercantilização da Cultura - O mercado e dinheiro prevalecem sobre a liberdade de criação, com a cultura sendo transformada em mercadoria e transmitindo as ideologias das classes dominantes, que detêm os meios de comunicação, contribuindo para a manutenção da desigualdade e para a padronização de comportamentos
 
-- Padronização - Há a repetição e imitação constante de produtos bem-sucedidos, térnicas, fórmulas e formatos
+- Padronização - Há a repetição e imitação constante de produtos bem-sucedidos, técnicas, fórmulas e formatos
 
 - Massificação - A produção em massa busca atingir e moldar os interesses, mantendo modelos prontos de produções culturais que parecem variar, mas são iguais
 

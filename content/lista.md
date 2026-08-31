@@ -1,6 +1,8 @@
 Todo:
 
-Sistema Cardiovascular
+Lutas e Danças
+
+2a Guerra Mundial
 
 ---
 
@@ -12,9 +14,7 @@ Oração Subordinada
 
 Agricultura (geo)
 
-Lutas e Danças
-
-2a Guerra Mundial
+Governo Vargas
 
 Monera?
 
