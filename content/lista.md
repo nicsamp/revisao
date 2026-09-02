@@ -2,7 +2,11 @@ Todo:
 
 Lutas e Danças
 
-2a Guerra Mundial
+Governo Vargas (cap. 12)
+
+Agricultura (geo)
+
+Sistema Respiratório
 
 ---
 
@@ -12,7 +16,7 @@ Modernismo 2a fase (prosa)
 
 Oração Subordinada
 
-Agricultura (geo)
+Indústria
 
 Governo Vargas
 
@@ -22,7 +26,7 @@ Cap. 11 sociologia (sociedade espetáculo)
 
 Surgimento da Sociologia
 
-Sistema Respiratório
+Sistema Excretor
 
 Fungos
 

@@ -467,7 +467,76 @@ Falta de Moradia (ou Déficit Habitacional) - Pela pobreza, especulação imobil
 
 Falta de Mobilidade - Pela superpopulação e baixa qualidade de transporte urbano
 
-## Cap. 9 [NÃO FEITO]
+## Cap. 9 [INACABADO]
+
+Agricultura - Atividade do setor primário caracterizada pelo cultivo de vegetais. Foi a evolução da coleta para o plantio
+
+Tipos de Agricultura
+
+- por Finalidade
+  
+  - de Subsistência - Para consumo próprio
+  
+  - Comercial - Para venda
+
+- por Técnica (ou Rendimento do Solo) - Dependem da terra, da quantidade de trabalho, de capital e do mercado
+  
+  - Extensiva - Baixa produtividade. Ex: agricultura itinerante
+  
+  - Intensiva - Alta produtividade. Ex: agricultura empresarial
+
+---
+
+Sistemas Agrícola
+
+- Temperados - Ocorrem nas zonas temperadas
+  
+  - Contemporâneo (ou Agricultura 4.0) - Caracterizada pelo uso de tecnologia de ponta e alta produção destinada para a indústria. Mais comum em áreas desenvolvidas
+
+---
+
+Agronegócio - Toda a infraestrutura de preparação, produção, comercialização e escoamento de produtos agrícolas
+
+Agroindústria - Produção agrícola destinada para a industrialização, podendo haver o beneficiamento do produto
+
+Revolução Verde - Caracterizada pelo desenvolvimento da tecnologia na agropecuária (máquinas e insumos - adubo, fertilizante, agrotóxico), buscando o aumento da produção de alimentos
+
+---
+
+Agropecuária Mundial
+
+- Estados Unidos - Caracterizada pela produtividade, produção, agronegócio, uso da tecnologia e diversidade de produtos altos, além de políticas de auxílio e protecionismo do governo. Organizada em cinturões agrícolas
+
+- Europa - Caracterizado pela alta produtividade e diversidade, presença da tecnologia, abastecimento da agroindústria (há maior importação de alimentos), e políticas
+
+- China - Muitos incentivos estatais, modernização recente, com aumento de tecnologia e produtividade, mas é limitada pela escassez de terras e água, havendo maior concentração na parte ocidental do país
+
+- Índia - Grande parte da população ativa do país, avanços tecnológicos recentes, mas limitada pela má infraestrutura de irrigação, abastecimento e comercialização
+
+- África - Maior presença de sistemas de baixa produtividade (como initerante e transumante), prática de plantation pela elite para exportação, mas é limitada falta de tecnologia e vulnnerabilidade
+
+Agropecuária Brasileira - Maior presença de exportação, mas variando dependendo do desenvolvimento regional
+
+- Tradicional (ou Familiar) - Caracterizada pela subsistência, pequenas propriedades, técnicas rudimentares e ser destinada ao mercado interno
+
+- Moderna (ou Patronal ou Empresarial) - Produção comercial (para o mercado externo), com grandes propriedades, alta mecanização e maior produtividade, além de grandes cadeias de agronegócio
+
+- Regiões
+  
+  - Sudeste - Maior concentração de agricultura moderna, com destaque ara o café e cana-de-açúcar
+    
+    - Corredores de Exportação - Porto de Santos e Paranaguá como destaque
+  
+  - Sul - Maior produção familiar do país, mas com presença de tecnologia, insumos e agronegócio, além da agropecuária comercial mais recentemente
+  
+  - Centro-Oeste - Produção comercial consolidada recentemente, sobretudo por incentivos governamentais e mecanização e uso de insumos
+  
+  - Nordeste - Maior produção familiar
+    
+    - Vale do São Francisco - Região de destaque do nordeste, com agricultura contemporânea de fruticultura
+    
+    - Matopiba - Mais recente no nordeste, com destaque para a produção de grãos e soja
+  - Norte - Presença tanto da agricultura tradicional quanto comercial (levando à intensificação do desmatamento)
 
 ## Cap. 10 [NÃO FEITO]
 
@@ -683,7 +752,7 @@ Fascismo Italiano - Regime fascista na Itália, caracterizado pelo militarismo e
 
 - Eixo Berlim-Roma - Acordo de amizade entre a Alemanha nazista e a Itália fascista
 
-## Cap. 11 [INACABADO]
+## Cap. 11
 
 Guerra Civil Espanhola - Guerra civil após a implantação do totalitarismo fascista na espanha por um golpe de Estado, gerando insatisfação interna. Houve a vitória fascista
 
@@ -694,7 +763,9 @@ Guerra Civil Espanhola - Guerra civil após a implantação do totalitarismo fas
 - Republicanos - Defendiam um governo de esquerda, sendo contra o fascismo. Representado pelos operários, parte da classe média e anarquistas. Receberam apoio da URSS e das Brigadas Internacionais
   
   - Brigadas Internacionais - Grupos de voluntários antifascistas
+
 - Bombardeio de Guernica - Os nazistas bombearam, por um ataque aéreo, a cidade de Guernica para ajudar o governo fascista e mostrar sua superioridade
+  
   - Guernica - Obra feita por Pablo Picasso que denúncia a violência desse ataque, se tornando símbolo da guerra
 
 ---
@@ -716,14 +787,40 @@ Segunda Guerra Mundial
   - Aliados - Composto pela Inglaterra (como líder, França e posteriormente a União Soviética e Estados Unidos
     
     - Brasil - Apoiaram os aliados, mas se envolveram pouco na guerra
+
+- Conferência de Munique - Conferência onde foi dada parte da tchecoeslováquia pelos aliados aos alemães em troca de fim do seu expansionismo
+
 - Eventos
-  - Polônia - Foi invadida pelos nazistas, marcou o início da guerra
-  - Pacto de Não Agressão - Acordo entre a Alemanha e URSS, mas foi eventualmente quebrada pela Alemanha
-  - Pearl Harbor - Base militar estadunidense no Havaí, foi atacada pelo Japão
-  - Dia D - Dia em que ocorreu a invasão final da Alemanha na Normandia, pela operação Overlord. Houve a ocupação da Alemanha pelos aliados. Marcou o fim da guerra
+  
+  - Polônia - Foi invadida pelos nazistas, quebrando a Conferência de Munique, marcou o início da guerra, com França e Inglaterra declarando guerra à Alemanha
+  
+  - Blitzkrieg (ou Guerra-Relâmpago) - Táctica militar que levou as vitórias alemãs iniciais, com tanques e aviações. Invadiram a Dinamarca, Bélgica, Holanda e França. Tentaram invadir a Inglaterra, mas falharam
+    
+    - França de Vichy - A França se tornou estado fantoche da Alemanha
+    - Campos de Concentração - Inicialmente criados para submeter os judeus a trabalho forçado, mas se tornaram campos de extermínio deles, a qual ficou chamada de Holocausto
+  
+  - Pacto de Não Agressão (ou Germano-Soviético) - Acordo entre a Alemanha e URSS, mas foi eventualmente quebrada pela Alemanha, invadindo a URSS
+    
+    - Batalha de Stalingrado - Guerra onde houve a vitória soviética sobre as tropas alemãs, havendo um reviravolta no seu então sucesso
+  
+  - Estados Unidos - Inicialmente não participaram, apenas fornecendo armas para a Inglaterra, mas entraram após a Alemanha impedir a circulação transatlântica de seus navios e pelo ataque de Pearl Harbor
+    
+    - Pearl Harbor - Base militar estadunidense no Havaí, foi atacada pelo Japão, além de atacarem diversos territórios asiáticos que eram de países europeus
+  
+  - Derrota Alemã - Causada pela entrada da URSS e Estados Unidos, criando superioridade tanto em produção bélica quanto em número de soldados para os Aliados. Com isso, houve o aumento de revoltas internas territórios conquistados alemães
+  
+  - Dia D - Dia em que ocorreu a invasão final da Alemanha na Normandia, pela operação Overlord, ao mesmo tempo que os soviéticos chegavam em Berlim. Houve a ocupação da Alemanha pelos aliados. Marcou o fim da guerra
+  
   - Hiroshima e Nagasaki - Os EUA lançaram um ataque nuclear no Japão, que se rendeu
-- Fim da Guerra - Houve a ascensão dos EUA e URSS e a revelação do genocídio nazista nos campos de concentração
-  - Organização das Nações Unidas (ONU) - Foi criada para evitar futuras guerras, substituindo a Liga das Nações. Também houve a criação da declaração universal dos direitos humanos
+
+- Fim da Guerra - Houve a ascensão econômica e política dos EUA e URSS
+  
+  - Conferência de Yalta - Conferência pós-guerra entre os líderes dos EUA, URSS e Inglaterra. Houve a divisão da Europa entre um lado comunista e outro capitalista, além da divisão da Alemanha entre os três e a França
+    - República Democrática Alemã (ou Alemanha Oriental) - Alemanha comunista
+    - República Federal da Alemanha (ou Alemanha Ocidental) - Alemanha capitalista
+  - Organização das Nações Unidas (ONU) - Foi criada para evitar futuras guerras, substituindo a antiga Liga das Nações. Também houve a criação da declaração universal dos direitos humanos
+    - Conselho de Segurança - Órgão da ONU responsável pelas decisões da organização. Composto por 10 países temporários e 5 permanentes (EUA, Rússia, Reino Undo, França e China)
+  - Nova Ordem Econômica - Houve a escolha do dólar como moeda internacional, além da criação do Bird e FMI para ajudar na recuperação dos países afetados pelo conflito
 
 # Literatura
 
