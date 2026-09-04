@@ -4,6 +4,8 @@ Lutas e Danças
 
 Governo Vargas (cap. 12)
 
+Cap. 13 história
+
 Agricultura (geo)
 
 Sistema Respiratório
@@ -18,7 +20,7 @@ Oração Subordinada
 
 Indústria
 
-Governo Vargas
+Guerra Fria
 
 Monera?
 

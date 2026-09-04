@@ -173,9 +173,190 @@ Sangue - Tecido conjuntivo formado pelo plasma e elementos figurados
       - Linfócito B - Produz os anticorpos
       - Linfócitos TCD4 - Recebem os antígenos fagocitados e estimulam os linfócitos B
 
-## Cap. 9 [NÃO FEITO]
+## Cap. 9
 
-## Cap. 10 [NÃO FEITO]
+Respiração Celular - Quebra de substâncias para a produção de energia, ocorrendo nas células
+
+Respiração Sistêmica - Função de troca gasosa entre o ambiente e o ser, ocorrendo por meio da difusão dos gases entre um órgão e o ar
+
+---
+
+Tipos de Respiração Sistêmica
+
+- Difusão Simples - Ocorre pela difusão direta entre as células e o ambiente, pela membrana plasmática. Ex: seres unicelulares, poríferos e cnidários
+
+- Traqueal - Ocorre pelas traqueias. Ex: insetos, centopeias
+  
+  - Traqueias - Sistema de tubos que se ramificam e vão para todo o corpo, permitindo a troca de gases com as células
+
+- Cutânea - Ocorre pela pele por difusão, mas entre o sangue e o ambiente, sendo distribuída pelo sistema circulatório. Ex: minhocas e anfíbios
+
+- Branquial - Ocorre pelas brânquias. Ex: peixes, moluscos, crustáceos, equinodermos
+  
+  - Brânquias - Órgãos bem ramificados e finos, permitindo a troca gasosa com o vaso sanguíneo em meio aquático
+
+- Pulmonar - Ocorre pelos pulmões. Ex: répteis, aves, mamíferos
+  
+  - Pulmões - Cavidades internas bem vascularizadas com diversas ramificações para aumentar a superfície de contato para obter o oxigênio
+
+---
+
+Sistema Respiratório Humano
+
+- Fossas Nasais (ou Cavidade Nasal) - Por onde passa o ar após entrar nas narinas, sendo filtrado pelos pelos presentes, que retêm partículas
+
+- Faringe (ou Garganta) - Local onde os tubos digestório (esôfago) e respiratório (laringe) se separam
+  
+  - Epigote - Cartilagem responsável por bloquear a laringe durante a deglutição, impedindo a entrada de comida na traqueia
+  
+  - Engasgo - Causado pela entrada de líquido ou comida na laringe
+
+- Laringe (ou Caixa de Voz) - Tubo que conecta a faringe à traqueia. Onde ficam as pregas vocais
+
+- Traqueia - Tubo que conecta a laringe aos dois brônquios, pela sua ramificação
+  
+  - Células Calciformes (ou Células de Goblet) - Células presentes na traqueia e brônquios que produzem muco, o qual retêm partículas suspensas no ar. Esse muco sobe por meio de cílios e é deglutido com a saliva
+
+- Brônquios - Um dos brônquios leva ar para o pulmão direito, e o outro para o esquerdo
+  
+  - Musculatura - É involuntária, podendo contrair para diminuir o fluxo de ar (quando o ar está poluído com poeira ou fumaça, por exemplo)
+
+- Pulmões
+  
+  - Bronquíolos - Ramificações dos brônquios
+  - Bronquíolos Terminais - Ramificações finais dos bronquíolos
+  - Alvéolos - Sacos de parede fina revestidos por muitos capilares, por onde ocorre a troca gasosa. Ficam no final dos bronquíolos terminais
+    - Hematose - Troca de gases entre o ar e o sangue nos alvéolos, ocorrendo por difusão. Há a entrada de O<sub>2</sub> no sangue e saída de CO<sub>2</sub> para o ar
+
+---
+
+Movimentos Respiratórios (ou Ventilação Pulmonar) - Movimentos que permitem a entrada e saída de ar, sendo realizados pelo diafragma (fica embaixo da caixa) e músculos intercostais (controlam as costelas)
+
+- Inspiração - Permite a entrada de ar. Nela, os intercostais e diafragma aumentam o volume da caixa torácica, diminuindo a pressão dentro dos pulmões
+
+- Expiração - Permite a saída de ar. Os intercostais e diafragma relaxam, diminuindo a caixa torácica e aumentando a pressão do ambiente
+
+---
+
+Bulbo - Região do encéfalo responsável por controlar o ritmo respiratório, mas que pode ser interrompido voluntariamente. A velocidade é controlada com base no pH do sangue, que é reduzido pela presença de CO<sub>2</sub>
+
+---
+
+Doenças Respiratórias
+
+- Asma - Causada pela inflamação e obstrução das vias aéreas, podendo ocorrer pela contração dos bronquíolos ou aumento da secreção do muco, causada normalmente por alergias. Tem como sintomas dificuldade de respirar e fadiga
+  
+  - Broncodilatadores - Medicamentos que relaxam os músculos dos bronquíolos
+
+- Bronquite - Causada pela produção de muco em excesso, produzindo mais células produtoras e aumentando a espessura da parede dos brônquios
+  
+  - Aguda - Causada por infecções virais ou bacterianas
+  
+  - Crônica - Causada pela exposição constante a agentes irritantes, como cigarro, não tendo cura
+
+- Enfisema - Destruição das paredes os alvéolos, criando lugares onde o ar a ficar preso, dificultando sua renovação. Muito causado pelo cigarro
+
+- Câncer de Pulmão - Causado principalmente pelo tabagismo
+
+## Cap. 10
+
+Homeostase - Equilíbrio de composição corporal realizada pelos seres, pela absorção de água, nutrientes, sais e oxigênio, e eliminação de resíduos tóxicos
+
+Sistema Excretor - Responsável por eliminar excretas (resíduos metabólicos tóxicos) e manter a osmorregulação
+
+- Osmorregulação (ou Equilíbrio Osmótico) - Equilíbrio da quantidade de água e sais, que pode ser por meio da osmose
+  
+  - Peixes de Água Doce (ou Dulcícolas) - São hipertônicos (maior concentração de sais do que do ambiente), havendo a entrada de água por osmose
+  
+  - Peixes de Água Salgada (ou Marinhos) - São hipotônicos (menor concentração do que o ambiente), perdendo água por osmose
+
+- Excretas Nitrogenadas - Geradas pela metabolização de aminoácidos
+  
+  - Amônia - Produzida pelos peixes ósseos e girinos (animais amoniotélicos). É a mais tóxica, precisando de muita água para ser diluída
+  - Ureia - Produzida por peixes cartilaginosos, anfíbios e mamíferos (ureotélicos). Menos tóxica e precisa de menos água
+  - Ácido Úrico - Produzido pelos insetos, aves e répteis (uricotélicos). O menos tóxico de todos, não precisando de água, economizando-a
+
+---
+
+Sistemas Excretores Animais
+
+- Difusão - Por poríferos e cnidários
+
+- Vacúolos Pulsáteis - Estruturas que bombeiam o excesso de água. Presente em alguns protozoários
+
+- Células-Flama - Nos platelmintos, ocorre por meio do movimento de cílios
+
+- Nefrídios - Nos anelídeos e moluscos, por um tubo excretor com cílios que movimentam as substâncias
+
+- Túbulos de Malpighi - Dos insetos e miriápodes. Tubo que tira excretas da hemolinfa e joga no tubo digestório
+
+- Glândulas Verdes (ou Antenais) - Nos crustáceos, eliminando excretas por um poro abaixo das antenas
+
+- Glândulas Coxais - Dos aracnídeos. Parecido com as verdes, mas ficam do lado das coxas da perna
+
+- Rins - Dos vertebrados
+
+---
+
+Sistema Urinário Humano
+
+- Rins - Órgão responsável pela filtração do sangue, reabsorvendo água, nutrientes e solutos, formando a urina
+  
+  - Regiões
+    
+    - Córtex - Parte mais externa do rim
+    
+    - Medula - Parte mais interna
+  
+  - Artérias Renais - Levam o sangue aos rins
+  
+  - Néfrons - Estruturas microscópicas responsáveis pela filtração
+    
+    - Glomérulo Renal - Conjunto de capilares enovelados, formados pela ramificação da arteríola
+      
+      - Arteríola Aferente - Leva o sangue ao néfron
+      
+      - Arteríola Eferente - Leva o sangue para fora do glomérulo
+      
+      - Filtrado Glomerular - Líquido que sai do sangue pela alta pressão nos capilares, que já barra partículas maiores
+    
+    - Cápsula Glomerular - Recebe o filtrado, levando-o para o túbulo proximal
+    
+    - Capilares Peritubulares - Capilares formados a partir da arteríola eferente responsável pela reabsorção de substâncias nos túbulos
+      
+      - Túbulo Contorcido Proximal - Reabsorção de aminoácidos, glicose e sais, esses últimos causando a saída de água por osmose
+      
+      - Alça Néfrica (ou de Henle) - Reabsorve água e sais
+      
+      - Túbulo Contorcido Distal - Leva o filtrado ao ducto coletor
+    
+    - Ducto Coletor - Reabsorção de água e excreção de H<sup>+</sup> e K<sup>+</sup>. Depois disso, o líquido que sobra é a urina
+  - Hormônios
+    - Hormônio Antidiurético (ou ADH ou Vasopressina) - Aumenta a absorção de água no túbulo distal e coletor. Liberado quando há falta de água no sangue levando à liberação de menos urina
+      - Diabetes Insípido - Doença em que há a difícil produção de ADH
+      - Álcool - Dificulta a produção de ADH
+    - Aldosterona - Aumenta a absorção nos túbulos distal e coletor de sais como sódio, que também leva ao aumento da retirada de água
+      - Sistema Renina Angiotensina Aldosterina (SRAA) - Leva à produção de aldosterona
+        - Renina - Substância liberada pelo rim quando há queda de pressão
+        - Angiotensinogênio - Liberado pelo fígado, se transforma em angiotensina I na presença de renina
+        - Enzima Conversora de Angiotensina (ECA) - Liberada pelo pulmão, converte angiotensina I em II
+        - Angiotensina II - Causa a diminuição do diâmetro das arteríolas (aumentando a pressão) e estimula a glândura suprarrenal a produzir aldosterona
+
+- Ureter - Tubo que leva a urina para a bexiga
+
+- Bexiga Urinária
+
+- Uretra - Elimina a urina para o meio externo
+
+---
+
+Infecções do Trato Urinário (ITUs) - Contaminação do sistema urinário por microorganismo. Mais comum em mulheres por terem uma uretra menor. Pode ser causada por falta de higiene na região ou por relações sexuais
+
+Doenças Renais
+
+- Insuficiência Renal - Perda do funcionamento dos rins. Pode ser aguda (ocorre do nada e é reversível), ou crônica (ocorre lentamente e é irreversível)
+
+- Cálculo Renal - Partículas sólidas formadas nos cálices renais pelo acúmulo de substâncias, podendo ir aos ureteres, uretra e bexiga
 
 ## Cap. 11 [NÃO FEITO]
 
@@ -341,7 +522,21 @@ Lutas Modernas
 
 - Boxe - Usa apenas os punhos para defesa e ataque, ocorrendo em um ringue quadrado
 
-# Filosofia [ASSUNTO NÃO SAIU]
+# Filosofia
+
+## Cap. 4 [INACABADO]
+
+Utilitarismo - Filosofia moral (prática) que avalia ações por suas consequências (consequencialismo), buscando maximizar o bem estar coletivo
+
+- Jeremy Bentham - Criador do utilitarismo, defendendo que é preciso fazer a soma das felicidades individuais para o cálculo, que deveria ser uma das funções do governo, garantindo a felicidade máxima com normas e alta vigilância
+  
+  - Cálculo da Felicidade ou Dor - Deve ser feitas para as ações, avaliando o nível de felicidade, que deve ser o maior possível (intensidade), para o maior número de pessoas (alcance) e pelo maior tempo (duração)
+  
+  - Panóptico - Símbolo da filosofia de Bentham, sendo edifício circular com celas ao redor do pátio, e no meio uma torre de vigilância. Os prisioneiros sabem que são vigiados, mesmo sem ver os guardas, reparando seu comportamento sem ordens diretas
+
+- John Stuart Mill - Era contra a ideia de Bentham, defendendo que a vigilância excessiva ameaça a liberdade, além de ser contra os cálculos fixos de felicidade. Defende uma sociedade focada na participação política e ampliação das oportunidades
+  
+  - Individualismo - Respeito ao indivíduo, defendido por ele, pois a liberdade coletiva pode ameaçar a liberdade individual
 
 ## Cap. 5
 
@@ -379,7 +574,7 @@ Friedrich Nietzsche - Conhecido como "filósofo do martelo", sendo considerado a
 
 - Tempo - É visto como circular, metáfora que busca mudar o modo de vida
 
-## Cap. 1
+## Cap. 6 [INACABADO]
 
 Fenomenologia - Corrente criada por Edmund Husserl que busca entender a experiência subjetiva e objetiva, bem como a essência das coisas, sendo contra o psicologismo (baseado no relativismo), sem passar por processo de julgamento
 
@@ -467,7 +662,7 @@ Falta de Moradia (ou Déficit Habitacional) - Pela pobreza, especulação imobil
 
 Falta de Mobilidade - Pela superpopulação e baixa qualidade de transporte urbano
 
-## Cap. 9 [INACABADO]
+## Cap. 9 [RESUMIDO]
 
 Agricultura - Atividade do setor primário caracterizada pelo cultivo de vegetais. Foi a evolução da coleta para o plantio
 
@@ -536,9 +731,60 @@ Agropecuária Brasileira - Maior presença de exportação, mas variando depende
     - Vale do São Francisco - Região de destaque do nordeste, com agricultura contemporânea de fruticultura
     
     - Matopiba - Mais recente no nordeste, com destaque para a produção de grãos e soja
+  
   - Norte - Presença tanto da agricultura tradicional quanto comercial (levando à intensificação do desmatamento)
 
-## Cap. 10 [NÃO FEITO]
+## Cap. 10 [INACABADO]
+
+Indústria - Atividade de transformação de matéria-prima em produtos comerciais
+
+Evolução da Indústria
+
+- Artesanato - Transformação pelo artesão, responsável por todo o processo, e utilizando ferramentas mais simples. É mais única
+
+- Manufatura - Divisão do trabalho de produção entre operários por etapas, aumentando a produtividade
+
+- Maquinofatura - Utilização de máquinas e maior divisão do trabalho. Maior produtividade e desenvolvimento tecnológico ainda, mas aumentou o desemprego
+  
+  - Revolução Industrial - Iniciou a maquinofatura, pelo uso de máquinas a vapor
+  
+  - Atualidade - Uso de robôs, alta mecanização e padronização das mercadorias
+
+---
+
+Tipos de Indústria
+
+- Indústria Extrativa - Beneficia um recurso natural. Ex: madeira
+
+- Indústria de Base (ou de Bens de Produção ou de Bens de Capital ou Pesada) - Produz outra matéria-prima para uso por outra indústria. Ex: siderúrgica (minério -> ferro)
+
+- Indústria de Bens Intermediários) - Produz produtos ou equipamentos utilizados por outras indústrias. Ex: produção de rodas (para carros)
+
+- Indústria de Bens de Consumo Duráveis - Produção de produtos não perecíveis. Ex: eletrodomésticos
+
+- Indústria de Bens de Consumo não Duráveis - Produção de produtos perecíveis ou de curto prazo. Ex: alimentos
+
+Tipos de Indústria por Grau de Tecnologia
+
+- Tradicional (ou de Trabalho Intensivo) - Muita mão de obra e baixo uso de tecnologia. Ex: metalúrgica
+
+- Moderna (ou de Alta Tecnologia ou de Capital Intensivo) - Menor quantidade de mão de obra e alto uso de tecnologia. Ex: eletrônica
+
+---
+
+Concentrações Financeiras
+
+- Truste - Fusão financeira entre empresas. Ex: sadia + perdigão
+
+- Monopólio - Domínio do mercado por uma empresa. Ex: Google
+
+- Oligopólio - Domínio do mercado por poucas empresas. Ex: Coca-Cola e PepsiCo
+
+- Cartel - Acordo financeiro entre empresas de mesmo ramo para criar um preço fixo. Ex: postos de gasolina próximos
+
+- Conglomerado (ou Holding) - Empresas que detém ações majoritárias de várias empresas. Ex: Unilever
+
+- Dumping - Abaixamento de preços para abaixo do mercado para eliminar concorrência
 
 ## Cap. 11 [NÃO FEITO]
 
@@ -1023,7 +1269,26 @@ Oração Subordinada - Oração que desempenha uma função sintática em outra 
   
   - Temporal - Indica tempo. Ex: O povo todo desceu **assim que** <u>terminou</u> a aula de Maria. (quando, enquanto)
 
-## Cap. 13 [NÃO FEITO]
+## Cap. 13
+
+Adjunto Adnominal - Função sintática do adjetivo, locução adjetiva e oração adjetiva, em que há a caracterização de um nome
+
+---
+
+Oração Subordinada Adjetiva - Desempenha função de adjunto adnominal, qualificando um nome
+
+- Pronome Relativo - Conector da oração adjetiva, retomando um nome e relacionando as orações
+  
+  - Onde - Refere-se a lugar. Ex: o lugar **onde** <u>vivo</u> é lindo
+  - Quem - Refere-se a pessoa, com preposição a. Ex: aquele **quem** <u>quebrou o teto da sala</u> vai ver só!
+  - Cujo - Indica posse. Ex: Gustavo, **cuja** <u>nota foi baixa</u>, será espancado por Fabão
+  - Quanto - Vem depois de "tudo", "todo", "tanto". Ex: O 2ºB tentou ganhar tanto **quanto** <u>pôde</u>
+  - Que, o Qual - Serve para qualquer coisa. Ex: A nossa sala, **que** <u>tá sem projetor</u>, precisa ser consertada
+
+- Tipos
+  
+  - Restritiva - Dá ideia de restrição, não tendo vírgula. Ex: Os alunos **que** <u>subiram mais cedo</u> tiveram que descer. (nem todos os alunos)
+  - Explicativa - Dá ideia de explicação, não especificando nada. Tem vírgula. Ex: Os alunos, **que** <u>não querem ficar no pátio</u>, não puderam subir. (todos os que não subiram não queriam ficar no patio)
 
 # Redação (Assunto)
 
@@ -1031,7 +1296,7 @@ Oração Subordinada - Oração que desempenha uma função sintática em outra 
 
 ## Cap. 5 [NÃO FEITO]
 
-# Sociologia [ASSUNTO NÃO SAIU]
+# Sociologia
 
 ## Cap. 7
 
@@ -1118,6 +1383,8 @@ Meios de Comunicação em Massa - Meios de comunicação em que há bem menos pr
 - Cultura Pop - Cultura popular disseminada pelos meios de comunicação em massa, sendo então massificadas, levando à dominação e padronização, além de ser produto da indústria cultural
 
 - Redes Sociais - Tipo de comunicação em massa caracterizado pela aproximação entre pessoas e organizações com desejos e valores semelhantes, horizontalidade (não há hierarquia, todos podem produzir e consumir) e descentralização. Mesmo assim, ainda segue a lógica de poucos produtores e muitos consumidores e pode levar à aculturação e consumismo, pois contribui negativamente para a diversidade
+
+## Cap. 10 [NÃO FEITO]
 
 ## Cap. 11
 

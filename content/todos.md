@@ -1320,7 +1320,7 @@ Kant - Filósofo modernista que junta a razão (racionalismo) e experiência (se
     
     - Hipotético (ou Condicional) - Agir considerando consequências, hipóteses e condições de agir mediante ao dever. Ex: estudar para não ir para a recuperação, mentir para não magoar alguém
 
-## Cap. 4 [NÃO TERMINADO]
+## Cap. 4 [INACABADO]
 
 Utilitarismo - Filosofia moral (prática) que avalia ações por suas consequências (consequencialismo), buscando maximizar o bem estar coletivo
 
