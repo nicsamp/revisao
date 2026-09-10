@@ -6,17 +6,9 @@ Governo Vargas (cap. 12)
 
 Cap. 13 história
 
-Agricultura (geo)
-
-Sistema Respiratório
-
 ---
 
 In progress:
-
-Modernismo 2a fase (prosa)
-
-Oração Subordinada
 
 Indústria
 
@@ -27,8 +19,6 @@ Monera?
 Cap. 11 sociologia (sociedade espetáculo)
 
 Surgimento da Sociologia
-
-Sistema Excretor
 
 Fungos
 

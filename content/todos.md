@@ -1334,6 +1334,32 @@ Utilitarismo - Filosofia moral (prática) que avalia ações por suas consequên
   
   - Individualismo - Respeito ao indivíduo, defendido por ele, pois a liberdade coletiva pode ameaçar a liberdade individual
 
+---
+
+Hegel
+
+- Racionalidade - Ele defende que e objetiva, sendo a própria essência e realidade das coisas, diferente do que é sentido, que é abstrato, captando apenas as aparências
+
+- Historicidade - Defende analisar o lugar que sistemas de ideias ocupam na história da evolução do pensamento humano, como meio de busca pela verdade
+
+- Devir - Característica da filosofia de Hegel, em que há foco no constante movimento da natureza, pensamento, história, arte...
+  
+  - Método Dialético - Lei universal responsável pelas mudanças na História, natureza e pensamento
+    
+    - Ideias - Estão em contrante mudança, por meio de um pensamento original (tese), e com ele surgindo sua oposição (antítese), e os dois resultam na criação da síntese, com a conciliação dos dois pensamento, sendo uma ideia nova. A síntese se torna tese e o processo continua. Ex: racionalismo (tese) -> empirismo (antítese) -> criticismo kantiano (síntese)
+
+- Percurso da Consciência - Caminho da consciência humana em relação com o mundo material, indo da relação imediata com as coisas atè o conhecimento absoluto
+  
+  - Consciência - Primeira etapa, em que há a percepção e ordenação inicial de essência nas coisas por meio das sensações, além da consciência de si (a própria consciência faz parte do mundo)
+    - Metáfora do Senhor e Escravo - Diz que o escravo depende do senhor para sua sobrevivência, mas que o senhor também depende do escravo para "ser senhor", destacando a necessidade do reconhecimento da consciência individual e de superar o conhecimento imediato do mundo, percebendo outras relações, e indo para a segunda etapa
+  - Razão - Desenvolvimento do espírito. Diz que ocorreu primeiro na arte e depois na religião
+  - Espírito em Si - Elevação máxima do pensamento ao absoluto, expresso na própria filosofia, em que há o pleno reconhecimento do espírito pelo espírito (a filosofia pensa em si mesma)
+    - Espírito do Mundo - Relação dialética entre a razão subjetiva (consciência de si) e objetiva (interação entre pessoas), levando ao surgimento de espíritos absolutos, como a arte, religião e filosofia
+
+- Liberdade - Diz que é a realização de fins universais, após o uso da razão e o seguimento de paixões e desejos antes, sendo crucial a liberdade plena para o desenvolvimento do espírito
+  
+  - Estado - Diz que permite a síntese entre o progresso universal da consciência (tese) com a liberdade individual, instintiva (antítese), obtendo a liberdade plena
+
 ## Cap. 5
 
 Friedrich Nietzsche - Conhecido como "filósofo do martelo", sendo considerado a transição entre filosofia moderna e contemporânea

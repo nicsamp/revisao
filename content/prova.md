@@ -260,7 +260,7 @@ Doenças Respiratórias
 
 ## Cap. 10
 
-Homeostase - Equilíbrio de composição corporal realizada pelos seres, pela absorção de água, nutrientes, sais e oxigênio, e eliminação de resíduos tóxicos
+- Equilíbrio de composição corporal realizada pelos seres, pela absorção de água, nutrientes, sais e oxigênio, e eliminação de resíduos tóxicos
 
 Sistema Excretor - Responsável por eliminar excretas (resíduos metabólicos tóxicos) e manter a osmorregulação
 
@@ -331,7 +331,9 @@ Sistema Urinário Humano
       - Túbulo Contorcido Distal - Leva o filtrado ao ducto coletor
     
     - Ducto Coletor - Reabsorção de água e excreção de H<sup>+</sup> e K<sup>+</sup>. Depois disso, o líquido que sobra é a urina
+  
   - Hormônios
+    
     - Hormônio Antidiurético (ou ADH ou Vasopressina) - Aumenta a absorção de água no túbulo distal e coletor. Liberado quando há falta de água no sangue levando à liberação de menos urina
       - Diabetes Insípido - Doença em que há a difícil produção de ADH
       - Álcool - Dificulta a produção de ADH
@@ -358,7 +360,34 @@ Doenças Renais
 
 - Cálculo Renal - Partículas sólidas formadas nos cálices renais pelo acúmulo de substâncias, podendo ir aos ureteres, uretra e bexiga
 
-## Cap. 11 [NÃO FEITO]
+## Cap. 11 [INACABADO]
+
+Sistema Nervoso - Responsável pelo controle e integração de informações externas e o corpo
+
+- Tecido Nervoso - Compõe a maioria do sistema
+  
+  - Neurônios - Células básicas do sistema nervoso, responsável por conduzir o impulso nervoso
+    
+    - Corpo Celular - Onde fica o núcleo e organelas
+    
+    - Dendritos - Prolongamentos ramificados e pequenos do corpo celular que captam e respondem aos estímulos (excitabilidade), sejam eles elétricos, físicos ou químicos
+    
+    - Axônio - Prolongamento grande do corpo celular. Conduzem o impulso nervoso (condutibilidade)
+      
+      - Botões Terminais (ou Terminações do Axônio) - Ramificações finais do axônio, onde há a transmissão de informações para outra célula
+      
+      - Impulso Nervoso - Alterações elétricas que se propagam pela membrana do axônio, dos dendritos para o corpo celular e depois axônio
+        
+        - Lei do Tudo ou Nada - Estímulos abaixo da intensidade mínima (limiar de excitação) não geram impulso, mas todos acima geram com intensidade máxima
+        
+        - Bomba de Sódio e Potássio - Responsável por deixar o neurônio em seu potencial de repouso, pela expulsão de Na<sup>+</sup>, deixando a célula negativa pela presença de Cl<sup>-</sup>, mesmo com a entrada menor de K<sup>+</sup> (polarização)
+        
+        - Canais de Sódio - São abertos quando há estímulo, permitindo a entrada de Na<sup>+</sup> e a despolarização da membrana, gerando o impulso
+        
+        - Canais de Potássio - Abrem após a despolarização, causando a saída do K<sup>+</sup>, gerando a repolarização e voltando ao potencial pela bomba
+      - 
+  
+  - Células da Glia (ou Neuroglia) - Responsáveis por proteger e nutrir os neurônios
 
 ## Cap. 12 [NÃO FEITO]
 
@@ -524,7 +553,7 @@ Lutas Modernas
 
 # Filosofia
 
-## Cap. 4 [INACABADO]
+## Cap. 4
 
 Utilitarismo - Filosofia moral (prática) que avalia ações por suas consequências (consequencialismo), buscando maximizar o bem estar coletivo
 
@@ -537,6 +566,10 @@ Utilitarismo - Filosofia moral (prática) que avalia ações por suas consequên
 - John Stuart Mill - Era contra a ideia de Bentham, defendendo que a vigilância excessiva ameaça a liberdade, além de ser contra os cálculos fixos de felicidade. Defende uma sociedade focada na participação política e ampliação das oportunidades
   
   - Individualismo - Respeito ao indivíduo, defendido por ele, pois a liberdade coletiva pode ameaçar a liberdade individual
+
+---
+
+Há mais assuntos no capítulo, mas as questões deles, se houver, serão anuladas, pois o professor não deu
 
 ## Cap. 5
 
@@ -574,7 +607,7 @@ Friedrich Nietzsche - Conhecido como "filósofo do martelo", sendo considerado a
 
 - Tempo - É visto como circular, metáfora que busca mudar o modo de vida
 
-## Cap. 6 [INACABADO]
+## Cap. 6
 
 Fenomenologia - Corrente criada por Edmund Husserl que busca entender a experiência subjetiva e objetiva, bem como a essência das coisas, sendo contra o psicologismo (baseado no relativismo), sem passar por processo de julgamento
 
@@ -617,6 +650,10 @@ Jean-Paul Sartre - Filósofo que criou a corrente existencialista, baseada na fe
   - Dissimulação (ou Autoengano ou Má-Fé) - Rejeição da liberdade, dando justificativas de que o ambiente não permitiu a liberdade, se tornando um ser em si
   
   - Outro - Relação entre humanos (sujeitos), em que o outro é responsável por atestar e definir nossa existência total, mas que pode revelar que não somos quem nós queremos ser, com muitos acabando vivendo pela aprovação do Outro
+
+---
+
+Há mais assuntos no capítulo, mas as questões deles, se houver, serão anuladas, pois o professor não deu
 
 # Geografia
 
@@ -788,7 +825,25 @@ Concentrações Financeiras
 
 ## Cap. 11 [NÃO FEITO]
 
-## Cap. 12 [NÃO FEITO]
+## Cap. 12
+
+Industrialização Brasileira
+
+- Período Colonial - Quase não houve desenvolvimento de atividades além da agropecuária, por restrições portuguesas para manter o Brasil como fonte de matéria-prima e consumidor de produtos manufaturados
+
+- Período do Café - Onde iniciou o dsesenvolvimento industrial, pela imigração, urbanização e criação de ferrovias
+
+- Crise do Café - A crise do café e fim das oligarquias permitiu o maior desenvolvimento industrial
+
+- Governo Getúlio Vargas - Criou uma política de industrialização, com grandes investimentos estatais sobretudo nas indústrias de base para subsituir a importação. Criou a Petrobrás, o Vale do Rio Doce e a Companhia Siderúrgica Nacional, entre outros
+
+- Governo Juscelino Kubitschek (JK) - Houve a ampliação e consolidação das medidas de Vargas, com grande desenvolvimento industrial
+  
+  - Plano de Metas - Política governamental que buscava acelerar o desenvolvimento econômico. Houve a abertura e incentivo ao capital estrangeiro (sobretudo no setor automobilístico e eletroeletrônico), por exemplo
+- Ditadura Militar - Aumentou ainda mais a internacionalização, com a entrada de bem mais empresas estrangeias, aumentando a dependência econômica
+  - Milagre Econômico - Período de grande crescimento econômico, causado pela construção de obras de infraestrutura e por empréstimos, mas não houve o crescimento social pela exclusão social
+  - Década Perdida - Crises econômicas que surgiram após o milagre, descentralizando o parque industrial brasileira
+- Globalização - Aumentou a entrada do capital estrangeiro, a privatização. O Brasil continua sendo um país de baixa importância no comércio industrial internacional, pela falta de infraestrutura de transporte e grande carga tributária, entre outros
 
 ## Cap. 13 [NÃO FEITO]
 
@@ -1111,9 +1166,9 @@ Fase Heroica - Primeira fase do modernismo brasileiro
   
   - Anta - Reação ao movimento antropofágico, sendo mais político
 
-## Cap. 6 [INACABADO]
+## Cap. 6
 
-Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de ideais na 1ª fase, além de maior foco na crítica social e na política, com a consolidação do modernismo no Brasil. Ocorreu durante o período que queda da bolsa, golpe de Estado de Getúlio Vargas (com fechamento de congresso e perseguição de escritores) e segunda guerra mundial
+Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de ideais na 1ª fase, além de maior foco na crítica social e na política, com a consolidação do modernismo no Brasil. Ocorreu durante o período que queda da bolsa, golpe de Estado de Getúlio Vargas (com fechamento de congresso e perseguição de escritores) e segunda guerra mundial, além do aumento do êxodo rural, a seca de 1915, reformas educacionais e difusão do rádio
 
 - Poesia - Caracterizada por versos tanto livres e regulares, espiritualidade, questionamento da realidade e do papel do artista (metalinguagem) e a busca do "eu-indivíduo" e sua relação com o mundo, mostrando sua fragilidade
   
@@ -1129,7 +1184,51 @@ Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de idea
     
     - Alguma Poesia - Sua primeira obra, inspirada na Semana de Arte Moderna, sendo caracterizada pelo humor, cotidiano, linguagem coloquial e versos livres
 
-## Cap. 7 [NÃO FEITO]
+- Prosa (ou Romance de 30) - Caracterizado por princípios modernistas como cotidiano e liberdade formal, mas também o maior foco no regionalismo, com linguagem regional e direta e temáticas locais como seca, coronelismo e exploração, sobretudo no nordeste, havendo um olhar mais realista, crítico e subjetivo sobre a realidade, com autores inclusive se baseando nas suas próprias memórias pessoais
+  
+  - Gilberto Freyre - Sociólogo que defendia a democracia racial, que diz que a harmonia prevaleceu nas relações interraciais no Brasil. Serviu de inspiração para diversos artistas
+  - Neorrealismo - Corrente desse período caracterizada pelo grande aprofundamento psicológico de personagens e temáticas sociais de fome, desamparo, corrupção, desigualdade e analfabetismo
+    - Semi-Determinismo - Defendiam a influência do meio nas pessoas, mas que pode ser transgredida
+  - Homem Sertanejo - Era visto como uma vida sacrificada e desumana, inclusive animalizada
+  - Autores
+    - Graciliano Ramos - Principal autor do regionalismo nordestino. Escreveu livros como São Bernardo, Angústia e Vidas Secas, todos falando dos efeitos da vida no Sertão, além dos efeitos da cidade, desigualdade, opressão e sentimento de inferioridade. Caracterizado por uma linguagem mais "seca", sem muito sentimentalismo
+      - Vidas Secas - Fala sobre uma família sertaneja que busca um lugar no nordeste seco para viver, e depois de ser encontrado, com muita dificuldade e sofrimento, fala sobre os efeitos das visitas à cidade neles, com muitos momentos de estabilidade e instabilidade na família, destacando sobretudo a exploração do trabalhador rural dominado e o uso da linguagem como meio de dominação
+    - José Lins do Rego - Fala mais sobre a zona da mata, com destaque para um povo simples, suas tradições e histórias, melancolia e linguagem simples. Tem como principal tema a chegada das usinas na produção do açúcar, substituindo os costumes antigos
+    - Jorge Amado - Fala sobre a diversidade cultural e miscigenação, sobretudo na Bahia, denunciando desigualdades sociais e violência
+    - Rachel de Queiroz - Busca conscientizar sobre os problemas naturais e sociais enfrentados pelos nordestinos
+    - Erico Verissimo  - Fala sobre o Rio Grande do Sul, sua cidade natal
+
+## Cap. 7
+
+3ª Fase do Modernismo (ou Poesia e Prosa de 45)
+
+- Contexto Histórico - Fim da segunda guerra mundial e da ditadura de Vargas e Guerra Fria
+
+- Características - Maior foco na dimensão psicológica, existencial e do indivídio, com introspecções, reflexões e investigação do indivídio
+
+- Autores
+  
+  - João Cabral de Melo Neto - Principal poeta da geração. Caracterizado pela poesia racionalista (baseada no mundo concreto, descrito de forma racional e precisa, sem exagero sentimental), temáticas sociais (como o sertão) e experimentalismo
+    
+    - Duas Águas - Seu primeiro livro de poesia. Caracterizado por maior rigor formal, com versos regulares, e atenção à sonoridade (rimas, aliterações)
+    
+    - Morte e Vida Severina - Seu principal livro, sendo uma peça curta com mensagens espirituais e moralizantes. Fala sobre Severino, um retirante da seca, que segue um rio buscando um abrigo, passando por vários locais mas desistindo de viver lá pela manifestação da morte no local. Eventualmente, chegou em Recife, onde achou que estaria salvo, mas vendo a morte novamente na cidade, ele planeja se entregar a ela e se matar. Contudo, no final, ele é salvo por um carpinteiro, encontrando a vida que procurava
+  
+  - Romance Brasileiro - Caracterizado pelo maior foco no simbólico e metafísico, mas ainda havendo menor referência da realidade brasileira
+  
+  - Clarice Lispector - Escrita caracterizada pela epifania, introspecção e autoconhecimento, transformando momentos cotidianos em momentos de profunda reflexão. Usa técnicas como o tempo psicológico em suas obras, que tem como cenário a cidade urbana. Escreveu Perto do Coração Selvagem e A Hora da Estrela, entre outros
+    
+    - Epifania - Momento de revelação e descoberta íntima existencial
+  
+  - João Guimarães Rosa - Caracterizado por forte caráter simbólico, com reflexões sobre o bem, amor, vida, violência e existência de Deus. Escreveu Sagarana, Corpo de Baile, Grande Sertão Veredas, e outros
+    
+    - Regionalismo Universal - Característica de suas obras, em que há um espaço regional específico (sertão de Minas Gerais), mas não com postura de denúncia como na fase anterior, mas sim narrativas com significação universal (poderia ser em qualquer lugar)
+      
+      - Ascese - Elevação espiritual, acontecendo muito com seus personagens
+    
+    - Linguagem - Ela é chamada de pessoal, por ser muito inovadora e inventiva, com neologismos, grande liberdade, oralidade, figuras de linguagem
+    
+    - Grande Sertão: Veredas - Seu principal livro. Fala sobre o fazendeiro Riobaldo, destacando a violência sofrida durante a República Velha, com forte lirismo e reflexões existenciais
 
 # Português
 
