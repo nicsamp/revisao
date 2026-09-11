@@ -360,7 +360,7 @@ Doenças Renais
 
 - Cálculo Renal - Partículas sólidas formadas nos cálices renais pelo acúmulo de substâncias, podendo ir aos ureteres, uretra e bexiga
 
-## Cap. 11 [INACABADO]
+## Cap. 11
 
 Sistema Nervoso - Responsável pelo controle e integração de informações externas e o corpo
 
@@ -405,9 +405,124 @@ Tecido Nervoso - Compõe a maioria do sistema nervoso
 - Sinapse - Transmissão do impulso nervoso entre neurônios ou neurônios e fibras musculares ou secretoras
   
   - Neurônio Pré-Sináptico - Transmite o impulso para a outra célula, pelos botões terminais
+    
     - Neurotransmissores - Substâncias liberadas para transmitir informações. São armazenados nas vesículas sinápticas
+  
   - Neurônio Pós-Sináptico - Recebe o impulso pelos dendritos
+  
   - Fenda Sináptica - Espaço entre o pré-sináptico e pós-sináptico
+
+---
+
+Sistema Nervoso Humano
+
+- Sistema Nervoso Central (SNC) - Onde os estímulos são processados
+  
+  - Encéfalo
+    
+    - Crânio - Osso que envolve e protege o encéfalo
+    - Meninges - Membranas que protegem o encéfalo e medula espinal, ficando entre os órgãos em si e os ossos
+      - Dura-Máter - Membrana mais externa da meninge, sendo a única vascularizada e com nervos
+      - Aracnoide - Membrana do meio
+      - Líquido Cefalorraquidiano (LCR, ou Cerebroespinal ou Líquor) - Líquido que fica entre o aracnoide e pia-máter, absorvendo choques mecânicos
+      - Pia-Máter - Mais interna
+    - Cérebro - Principal região do encéfalo, dividida em dois hemisférios, responsável pelas funções mais complexas como raciocínio, sensações e memória, entre outros
+      - Corpo Caloso - Estrutura que conecta os hemisférios cerebrais
+      - Lobos Cerebrais - Divisões de cada hemisfério do cérebro
+        - Frontal - Fica na frente. Responsável principalmente pelo pensamento e fala
+        - Parietal - Fica atrás da frontal, responsável principalmente pelo tato
+        - Occipital - Fica na nuca, responsável principalmente pela visão
+        - Temporal - Fica nas laterais, responsável principalmente pela audição
+    - Cerebelo - Fica na parte de trás do encéfalo, conectado ao cérebro, tronco cerebral e medula espinal. Responsável sobretudo pelo equilíbrio e postura
+    - Bulbo - Conecta o encéfalo ao tronco cerebral. Responsável pela frequência cardíaca e respiração
+    - Diencéfalo
+      - Tálamo - Responsável por receber as informações sensorias (exceto olfato) e transmitir-las para os locais adequados
+      - Hipotálamo - Fica abaixo do tálamo, responsável pela homeostase do organismo
+  
+  - Medula Espinal (ou Nervosa) - Estrutura que fica na parte dorsal do corpo
+    
+    - Coluna Vertebral - Envolve e protege a medula
+    - Nervos Espinais - Estruturas que saem da medula de forma perpendicular
+      - Raízes dos Nervos Espinais
+        - Raíz Ventral (ou Anterior) - Por onde o impulso nervoso vai aos órgãos efetores
+        - Raiz Dorsal (ou Posterior) - Por onde chega o impulso nervoso dos neurônios sensitivos
+    - Via Aferente - Axônios da medula que levam informações ao encéfalo
+    - Via Eferente - Axônios que levam informações aos músculos esqueléticos
+  - Atos Reflexos - Reações imediatas a estímulos externos
+    - Arco Reflexo Medular (ou Simples) - A resposta a um estímulo não é feita pelo encéfalo, e sim apenas pela medula. Ex: mão na chapa quente
+  
+  - Tipos de Fibras Nervosas
+    
+    - Substância Branca - Formada pelos axônios mielinizados dos neurônios. Ficam no interior do encéfalo e exterior da medula espinal
+    
+    - Substância Cinzenta - Formada pelos corpos celulares e dendritos. Ficam no exterior do encéfalo e interior da medula espinal
+
+- Sistema Nervoso Periférico (SNP)
+  
+  - Nervos - Cordões formados por neurofibras (axônios e dendritos) enfileirados e envolvidos por tecido conjuntivo, responsáveis por transportar impulsos nervosos. Podem ser cranianos (ligados ao encéfalo) ou medulares (ou raquidianos, ligados a medula)
+    
+    - Nervo Sensitivo (ou Aferente) - Possui apenas axônios de neurônios sensoriais
+    
+    - Nervo Motor (ou Eferente - Apenas axônios de neurônios motores
+    
+    - Nervo Misto - Possui os dois tipos de axônios
+  
+  - Gânglios Nervosos - Dilatações nos nervos com corpos de neurônios
+
+---
+
+Tipos de Sistema Nervoso Humano
+
+- Somático (SNS, ou Voluntário) - Controla as ações que dependem da vontade
+
+- Autônomo (SNA, ou Involuntário) - Controlam ações involuntárias, por meio de fibras musculares lisas e cardíacas, e as células glandulares, sendo independente da vontade
+  
+  - Simpático (SNAS) - Faz as ações relacionadas a emergência ou estresse, o "fugir ou lutar", tendo os neurônios adrenérgicos. Tem como neurotransmissor a adrenalina. Ex: aumento da frequência cardíaca
+  
+  - Parassimpático (SNAP) - Faz as ações relacionadas a recuperação, repouso e conservação, além da digestão, tendo os neurônios colinérgicos. Tem como neurotransmissor a acetilcolina
+
+---
+
+Sistema Sensorial - Formado pelos órgãos sensorial, responsável por captar os estímulos do ambiente e encaminhá-los ao sistema nervoso
+
+- Células Receptoras (ou Transdutoras ou Receptores Sensoriais) - Células que detectam sinais físicos (luz, pressão) ou químicos (pH, concentração)
+  
+  - Tipos por Natureza
+    
+    - Quimiorreceptores - Detectam a concentração de substâncias químicas. Ex: olfato e gustação
+    
+    - Mecanorreceptores - Detectam variação de pressão e movimento. Ex: tato, audição e equilíbrio
+    
+    - Fotorreceptores - Detectam intensidade luminosa. Ex: visão
+    
+    - Termorreceptores - Detectam temperatura
+    
+    - Eletrorreceptores - Detectam campos elétricos
+  - Tipos por Origem
+    - Exteroceptores - Detectam estímulos do ambiente externo
+    - Proprioceptores - Informam sobre a posição dos braços, pernas e cabeça
+    - Interoceptores - Detectam fatores internos como pH, pressão osmótica e composição sanguínea
+- Tipos de Sensações
+  - Olfação - É o cheiro, detectado por órgãos olfatórios localizados no septo nasal
+  - Gustação (ou Gosto) - Detectado por receptores na língua e faringe
+    - Papilas Linguais (ou Gustativas ou Gustatórias) - Projeções na língua onde ficam os receptores gustativos
+  - Orelha - Órgão responsável tanto pela audição quanto pelo equilíbrio
+    - Orelha Externa - Formada pelo pavilhão auditivo (ou aurícula, sendo a orelha em si) e o meato acústico externo (ou canal auditivo)
+    - Orelha Média
+      - Ossículos Auditivos - Ossos que participam da audição. São o martelo, bigorna e estribo, o primeiro conectado à membrana timpânica no final do canal auditivo, que vibra na presença de som e causa o movimento dos ossículos
+    - Orelha Interna
+      - Labirinto Ósseo - Rede de canais e câmaras, sendo preenchidas por líquido
+        - Cóclea - Região do labirinto responsável pela audição, sendo um espiral conectado ao estribo pela janela do vestíbulo, convertendo a vibração em impulsos nervosos
+        - Labirinto Vestibular - Responsável pelo equilíbrio, que é detectado por cílios que são sensitivos ao movimento do líquido interno, além de grãos de carbonato de cálcio presentes nele
+  - Visão - Tem como órgão responsável o olho
+    - Córnea - Membrana transparente que protege o olho
+    - Íris - Músculo formado por fibras circulares, controlando a abertura da pupila
+    - Pupila - Abertura do olho, por onde entra os raios luminosos
+    - Cristalino (ou Lente) - Estrutura ligada a músculos, responsável pela focalização dos objetos
+    - Humor Vítreo - Líquido que preenche o olho
+    - Retina - Camada de trás que capta e converte a luz em impulsos nervosos
+      - Cones - Células que detectam as cores
+      - Bastonetes - Células responsáveis pela visão em preto e brancos
 
 ## Cap. 12 [NÃO FEITO]
 
@@ -582,14 +697,19 @@ Tipos Sanguíneos (ou Grupos Sanguíneos) - Sistemas de classificação do sangu
     - Tipo AB - É receptor universal, pois pode receber sangue tipo A, B ou O
     
     - Tipo O - É doador universal, pois pode doar para qualquer tipo. Contudo, só pode receber sangue tipo O
+
 - Fenótipo Bombaim (ou Falso O) - Condição genética em que uma pessoa não consegue gerar aglutinogênio, independente do genótipo do sistema ABO, sendo muito rara
+  
   - Antígeno H - Antígeno anterior que é necessário para formar os aglutinogênios, sendo sua não produção a causa do fenótipo Bombaim, e essas pessoas só podem receber sangue de outra pessoa com o fenótipo, senão há a produção de anticorpos anti-H
+
 - Sistema Rh - Outro sistema sanguíneo
+  
   - Fator Rh - Outra substância na membrana que funciona como antígeno em usuários que não tem ele, gerando anticorpos anti-Rh
   - Tipos
     - Tipo Rh<sup>+</sup> - Tem a presença do fator Rh, sendo a mais comum
     - Tipo Rh<sup>-</sup> - Não tem o fator Rh, não podendo receber sangue Rh<sup>+</sup>
   - Eritroblastose Fetal (ou Doença Hemolítica do Recém-Nascido) - Doença em que as hemácias de um feto são atacadas por anticorpos anti-Rh da mãe, causando sua morte. Normalmente ocorre quando a mãe Rh<sup>-</sup> já engravidou de outro feto Rh<sup>+</sup>, já tendo o anticorpo desenvolvido. Pode ser evitando pela injeção de medicamentos que neutralizam o antígeno
+
 - Sistema MN - Outro sistema, caracterizado pela presença dos antígenos M e N, com os tipos N (só o antígeno N), M e NM (ambos os antígenos), sendo condicionado por alelos codominantes
 
 # Educação Física
