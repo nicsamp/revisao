@@ -448,7 +448,9 @@ Sistema Nervoso Humano
         - Raiz Dorsal (ou Posterior) - Por onde chega o impulso nervoso dos neurônios sensitivos
     - Via Aferente - Axônios da medula que levam informações ao encéfalo
     - Via Eferente - Axônios que levam informações aos músculos esqueléticos
+  
   - Atos Reflexos - Reações imediatas a estímulos externos
+    
     - Arco Reflexo Medular (ou Simples) - A resposta a um estímulo não é feita pelo encéfalo, e sim apenas pela medula. Ex: mão na chapa quente
   
   - Tipos de Fibras Nervosas
@@ -498,23 +500,37 @@ Sistema Sensorial - Formado pelos órgãos sensorial, responsável por captar os
     - Termorreceptores - Detectam temperatura
     
     - Eletrorreceptores - Detectam campos elétricos
+  
   - Tipos por Origem
+    
     - Exteroceptores - Detectam estímulos do ambiente externo
     - Proprioceptores - Informam sobre a posição dos braços, pernas e cabeça
     - Interoceptores - Detectam fatores internos como pH, pressão osmótica e composição sanguínea
+
 - Tipos de Sensações
+  
   - Olfação - É o cheiro, detectado por órgãos olfatórios localizados no septo nasal
+  
   - Gustação (ou Gosto) - Detectado por receptores na língua e faringe
+    
     - Papilas Linguais (ou Gustativas ou Gustatórias) - Projeções na língua onde ficam os receptores gustativos
+  
   - Orelha - Órgão responsável tanto pela audição quanto pelo equilíbrio
+    
     - Orelha Externa - Formada pelo pavilhão auditivo (ou aurícula, sendo a orelha em si) e o meato acústico externo (ou canal auditivo)
+    
     - Orelha Média
+      
       - Ossículos Auditivos - Ossos que participam da audição. São o martelo, bigorna e estribo, o primeiro conectado à membrana timpânica no final do canal auditivo, que vibra na presença de som e causa o movimento dos ossículos
+    
     - Orelha Interna
+      
       - Labirinto Ósseo - Rede de canais e câmaras, sendo preenchidas por líquido
         - Cóclea - Região do labirinto responsável pela audição, sendo um espiral conectado ao estribo pela janela do vestíbulo, convertendo a vibração em impulsos nervosos
         - Labirinto Vestibular - Responsável pelo equilíbrio, que é detectado por cílios que são sensitivos ao movimento do líquido interno, além de grãos de carbonato de cálcio presentes nele
+  
   - Visão - Tem como órgão responsável o olho
+    
     - Córnea - Membrana transparente que protege o olho
     - Íris - Músculo formado por fibras circulares, controlando a abertura da pupila
     - Pupila - Abertura do olho, por onde entra os raios luminosos
@@ -616,7 +632,12 @@ Genética - Estuda a hereditariedade
 
 - Diagrama de Punnett - Representação do cruzamento de indivíduos para analisar os genótipos e fenótipos formados
   
-  - ![](assets/image1.png)Diagrama de Punnett para dois heterozigotos (Aa)
+  - Diagrama de Punnett para dois heterozigotos (Aa)
+    
+    | x   | A   | a   |
+    | --- | --- | --- |
+    | A   | AA  | Aa  |
+    | a   | Aa  | aa  |
 
 ## Cap. 8
 
@@ -1678,7 +1699,3 @@ Cultura das Massas - Cultura padronizada e massificada
 - Desintegração do Poder Cultural - Uma ideia é avaliada por sua rentabilidade (sistema privado) ou oportunidade política (do Estado), e depois é manipulada na parte técnica, havendo a despersonalização da invenção em si e a racionalização da produção
   
   - Contradição Invenção-Padronização - Há a padronização na produção cultural, mas as massas buscam a personalidade e originalidade
-    
-    ```
-    
-    ```
