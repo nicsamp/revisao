@@ -364,30 +364,50 @@ Doenças Renais
 
 Sistema Nervoso - Responsável pelo controle e integração de informações externas e o corpo
 
-- Tecido Nervoso - Compõe a maioria do sistema
+- Não Existente - Ocorre nos poríferos
+
+- Difuso - As células nervosas são espalhadas no corpo todo. Encontrada nos poríferos
+
+- Ganglionar - Há a presença de gânglios nervosos. Ocorre nos invertebrados e vertebrados
   
-  - Neurônios - Células básicas do sistema nervoso, responsável por conduzir o impulso nervoso
+  - Gânglios Nervosos - Massa de neurônios de onde partem fibras nervosas. Nos vertebrados, são o encéfalo e as fibras são a medula espinhal
     
-    - Corpo Celular - Onde fica o núcleo e organelas
-    
-    - Dendritos - Prolongamentos ramificados e pequenos do corpo celular que captam e respondem aos estímulos (excitabilidade), sejam eles elétricos, físicos ou químicos
-    
-    - Axônio - Prolongamento grande do corpo celular. Conduzem o impulso nervoso (condutibilidade)
-      
-      - Botões Terminais (ou Terminações do Axônio) - Ramificações finais do axônio, onde há a transmissão de informações para outra célula
-      
-      - Impulso Nervoso - Alterações elétricas que se propagam pela membrana do axônio, dos dendritos para o corpo celular e depois axônio
-        
-        - Lei do Tudo ou Nada - Estímulos abaixo da intensidade mínima (limiar de excitação) não geram impulso, mas todos acima geram com intensidade máxima
-        
-        - Bomba de Sódio e Potássio - Responsável por deixar o neurônio em seu potencial de repouso, pela expulsão de Na<sup>+</sup>, deixando a célula negativa pela presença de Cl<sup>-</sup>, mesmo com a entrada menor de K<sup>+</sup> (polarização)
-        
-        - Canais de Sódio - São abertos quando há estímulo, permitindo a entrada de Na<sup>+</sup> e a despolarização da membrana, gerando o impulso
-        
-        - Canais de Potássio - Abrem após a despolarização, causando a saída do K<sup>+</sup>, gerando a repolarização e voltando ao potencial pela bomba
-      - 
+    - Gânglio Cerebroide - Gânglio que centraliza a atividade nervosa
+
+Tecido Nervoso - Compõe a maioria do sistema nervoso
+
+- Neurônios - Células básicas do sistema nervoso, responsável por conduzir o impulso nervoso
   
-  - Células da Glia (ou Neuroglia) - Responsáveis por proteger e nutrir os neurônios
+  - Corpo Celular - Onde fica o núcleo e organelas
+  
+  - Dendritos - Prolongamentos ramificados e pequenos do corpo celular que captam e respondem aos estímulos (excitabilidade), sejam eles elétricos, físicos ou químicos
+  
+  - Axônio - Prolongamento grande do corpo celular. Conduzem o impulso nervoso (condutibilidade)
+    
+    - Botões Terminais (ou Terminações do Axônio) - Ramificações finais do axônio, onde há a transmissão de informações para outra célula
+    
+    - Impulso Nervoso - Alterações elétricas que se propagam pela membrana do axônio, dos dendritos para o corpo celular e depois axônio
+      
+      - Lei do Tudo ou Nada - Estímulos abaixo da intensidade mínima (limiar de excitação) não geram impulso, mas todos acima geram com intensidade máxima
+      
+      - Bomba de Sódio e Potássio - Responsável por deixar o neurônio em seu potencial de repouso, pela expulsão de Na<sup>+</sup>, deixando a célula negativa pela presença de Cl<sup>-</sup>, mesmo com a entrada menor de K<sup>+</sup> (polarização)
+      
+      - Canais de Sódio - São abertos quando há estímulo, permitindo a entrada de Na<sup>+</sup> e a despolarização da membrana, gerando o impulso
+      
+      - Canais de Potássio - Abrem após a despolarização, causando a saída do K<sup>+</sup>, gerando a repolarização e voltando ao potencial pela bomba
+
+- Células da Glia (ou Neuroglia) - Responsáveis por proteger e nutrir os neurônios
+  
+  - Estrato Mielínico (ou Bainha de Mielina ou Neurolenas ) - Estruturas que envolvem o axônio formada de lipídios que isolam eletricidade. Formada pelos oligodendrócitos
+    - Nódulos Neurofibrosos (ou de Ranvier) - Espaços entre bainhas de mielina, por onde o impulso nervoso salta (condução saltatória), aumentando sua velocidade
+  - Neurilemas (ou Células de Schwann) - Versão das bainhas de mielina no sistema nervoso periférico
+
+- Sinapse - Transmissão do impulso nervoso entre neurônios ou neurônios e fibras musculares ou secretoras
+  
+  - Neurônio Pré-Sináptico - Transmite o impulso para a outra célula, pelos botões terminais
+    - Neurotransmissores - Substâncias liberadas para transmitir informações. São armazenados nas vesículas sinápticas
+  - Neurônio Pós-Sináptico - Recebe o impulso pelos dendritos
+  - Fenda Sináptica - Espaço entre o pré-sináptico e pós-sináptico
 
 ## Cap. 12 [NÃO FEITO]
 
@@ -527,11 +547,54 @@ Epigenética - Estuda as mudanças de fenótipo que não são causadas pela alte
 
 ## Cap. 9 [NÃO FEITO]
 
-## Cap. 10 [NÃO FEITO]
+## Cap. 10
+
+Alelos Múltiplos (ou Polialelia) - Há mais de dois tipos de alelos que podem compor o gene, podendo haver mais de um tipo dominante. Ex: gado bovino (alelos S, s<sup>h</sup>, s<sup>c</sup> e s)
+
+Tipos Sanguíneos (ou Grupos Sanguíneos) - Sistemas de classificação do sangue por características presentes na membrana das hemácias
+
+- Sistema ABO - Principal sistema sanguíneo, em que há quatro tipos sanguíneos
+  
+  - Aglutinogênio - Substância presente na membrana das hemácias responsável por determinar os tipos sanguíneos do sistema, pondendo ser de tipo A ou B. Funcionam como antígenos para quem não tem elas, gerando anticorpos contra eles
+    
+    - Transfusão Sanguínea - Transferência de sangue de um doador para um receptor. Se for feita entre sangues incompatíveis, os anticorpos gerados podem causar a aglutinação das hemácias nos capilares, podendo gerar a morte
+  
+  - Aglutinina - Anticorpos gerados contra os aglutinogênios em pessoas sem eles, podendo ser anti-A ou anti-B
+  
+  - Alelos - São determinados por um par de alelos com polialelia, podendo ser I<sup>A</sup> ou I<sup>B</sup> (codominantes), ou i (recessivo)
+  
+  - Tipos do Sistema ABO
+    
+    - Tipo A - Apresenta o aglutinogênio A e a aglutinina anti-B. Formado pelo genótipo I<sup>A</sup>I<sup>A</sup> ou I<sup>A</sup>i
+    
+    - Tipo B - Apresenta o aglutinogênio B e a aglutinina anti-A. Formado pelo genótipo I<sup>B</sup>I<sup>B</sup> ou I<sup>B</sup>i
+    
+    - Tipo AB - Apresenta os aglutinogênios A e B e não tem aglutinina. Formado pelo genótipo I<sup>A</sup>I<sup>B</sup>
+    
+    - Tipo O (ou Zero) - Não possui aglutinogênio e tem tanto a aglutinina anti-A quanto a anti-B. Formado pelo genótipo ii
+  
+  - Compatibilidade
+    
+    - Tipo A - Apenas pode receber sangue tipo A ou O
+    
+    - Tipo B - Apenas pode receber sangue tipo B ou O
+    
+    - Tipo AB - É receptor universal, pois pode receber sangue tipo A, B ou O
+    
+    - Tipo O - É doador universal, pois pode doar para qualquer tipo. Contudo, só pode receber sangue tipo O
+- Fenótipo Bombaim (ou Falso O) - Condição genética em que uma pessoa não consegue gerar aglutinogênio, independente do genótipo do sistema ABO, sendo muito rara
+  - Antígeno H - Antígeno anterior que é necessário para formar os aglutinogênios, sendo sua não produção a causa do fenótipo Bombaim, e essas pessoas só podem receber sangue de outra pessoa com o fenótipo, senão há a produção de anticorpos anti-H
+- Sistema Rh - Outro sistema sanguíneo
+  - Fator Rh - Outra substância na membrana que funciona como antígeno em usuários que não tem ele, gerando anticorpos anti-Rh
+  - Tipos
+    - Tipo Rh<sup>+</sup> - Tem a presença do fator Rh, sendo a mais comum
+    - Tipo Rh<sup>-</sup> - Não tem o fator Rh, não podendo receber sangue Rh<sup>+</sup>
+  - Eritroblastose Fetal (ou Doença Hemolítica do Recém-Nascido) - Doença em que as hemácias de um feto são atacadas por anticorpos anti-Rh da mãe, causando sua morte. Normalmente ocorre quando a mãe Rh<sup>-</sup> já engravidou de outro feto Rh<sup>+</sup>, já tendo o anticorpo desenvolvido. Pode ser evitando pela injeção de medicamentos que neutralizam o antígeno
+- Sistema MN - Outro sistema, caracterizado pela presença dos antígenos M e N, com os tipos N (só o antígeno N), M e NM (ambos os antígenos), sendo condicionado por alelos codominantes
 
 # Educação Física
 
-## Danças e Lutas [INACABADO]
+## Lutas
 
 Lutas Modernas
 
@@ -566,10 +629,6 @@ Utilitarismo - Filosofia moral (prática) que avalia ações por suas consequên
 - John Stuart Mill - Era contra a ideia de Bentham, defendendo que a vigilância excessiva ameaça a liberdade, além de ser contra os cálculos fixos de felicidade. Defende uma sociedade focada na participação política e ampliação das oportunidades
   
   - Individualismo - Respeito ao indivíduo, defendido por ele, pois a liberdade coletiva pode ameaçar a liberdade individual
-
----
-
-Há mais assuntos no capítulo, mas as questões deles, se houver, serão anuladas, pois o professor não deu
 
 ## Cap. 5
 
@@ -632,28 +691,6 @@ Merleau-Ponty - Filósofo que fala sobre a aplicação da fenomenologia na perce
   - Pensamento - É visto como parte da experiência corporal, não sendo separado do resto da natureza (mundo físico)
   
   - Linguagem - É vista como objeto de uma consciência, dando existência ao pensamento mas de forma parcial (intencional)
-
----
-
-Jean-Paul Sartre - Filósofo que criou a corrente existencialista, baseada na fenomenologia, defende que não há essência antes de existência, inclusive para o humano, sendo contra a busca pela essência
-
-- Ser em Si - Coisas físicas
-
-- Ser para Si - Indivíduo consciente capaz de se perceber e perceber as coisas
-
-- Humano - Não é possível definir o humano sem considerar sua existência no mundo, não havendo uma essência humana, e logo causa para a sua existência
-  
-  - Consciência - É vista como um nada que é preenchido a partir da existência pelos atos
-  
-  - Liberdade - Possibilidade humana de agir de qualquer forma em qualquer circunstância, defendendo que os humanos são "condenados a serem livres", e o exercício da liberdade dá sentido a existência e define o destino
-  
-  - Dissimulação (ou Autoengano ou Má-Fé) - Rejeição da liberdade, dando justificativas de que o ambiente não permitiu a liberdade, se tornando um ser em si
-  
-  - Outro - Relação entre humanos (sujeitos), em que o outro é responsável por atestar e definir nossa existência total, mas que pode revelar que não somos quem nós queremos ser, com muitos acabando vivendo pela aprovação do Outro
-
----
-
-Há mais assuntos no capítulo, mas as questões deles, se houver, serão anuladas, pois o professor não deu
 
 # Geografia
 
@@ -840,9 +877,12 @@ Industrialização Brasileira
 - Governo Juscelino Kubitschek (JK) - Houve a ampliação e consolidação das medidas de Vargas, com grande desenvolvimento industrial
   
   - Plano de Metas - Política governamental que buscava acelerar o desenvolvimento econômico. Houve a abertura e incentivo ao capital estrangeiro (sobretudo no setor automobilístico e eletroeletrônico), por exemplo
+
 - Ditadura Militar - Aumentou ainda mais a internacionalização, com a entrada de bem mais empresas estrangeias, aumentando a dependência econômica
+  
   - Milagre Econômico - Período de grande crescimento econômico, causado pela construção de obras de infraestrutura e por empréstimos, mas não houve o crescimento social pela exclusão social
   - Década Perdida - Crises econômicas que surgiram após o milagre, descentralizando o parque industrial brasileira
+
 - Globalização - Aumentou a entrada do capital estrangeiro, a privatização. O Brasil continua sendo um país de baixa importância no comércio industrial internacional, pela falta de infraestrutura de transporte e grande carga tributária, entre outros
 
 ## Cap. 13 [NÃO FEITO]
@@ -1518,3 +1558,7 @@ Cultura das Massas - Cultura padronizada e massificada
 - Desintegração do Poder Cultural - Uma ideia é avaliada por sua rentabilidade (sistema privado) ou oportunidade política (do Estado), e depois é manipulada na parte técnica, havendo a despersonalização da invenção em si e a racionalização da produção
   
   - Contradição Invenção-Padronização - Há a padronização na produção cultural, mas as massas buscam a personalidade e originalidade
+    
+    ```
+    
+    ```

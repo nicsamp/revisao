@@ -1404,6 +1404,50 @@ Relativismo - Defende que toda forma de pensamento é relativa e equivalente, n�
 
 Perspectivismo - Reconhece que pensamentos diferentes dependem de seu contexto, mas ainda não são todos necessariamente iguais
 
+## Cap. 6
+
+Fenomenologia - Corrente criada por Edmund Husserl que busca entender a experiência subjetiva e objetiva, bem como a essência das coisas, sendo contra o psicologismo (baseado no relativismo), sem passar por processo de julgamento
+
+- Atitude Natural (ou Orientação Natural) - Visão exterior da realidade, como ela existe por si mesma
+
+- Atitude Fenomenológica - Forma como as coisas parecem para nós
+  
+  - Epoché (ou Redução Fenomenológica) - Abandono da atitude natural, refletindo sobre como as coisas são percebidas, e buscando sua essência (ou realidade transcendental, comum a tudo, sendo objetiva e absoluta). Ex: ver algo como azul (tem como essência o conceito de "cor")
+  
+  - Visão Apodítica - Defende a existência de uma verdade absoluta, sendo a essência
+
+- Intencionalidade - Defende que toda consciência é direcionada, sendo consciência de algo, não havendo consciência sem objeto e objeto sem consciência, havendo sempre parcialidade
+
+---
+
+Merleau-Ponty - Filósofo que fala sobre a aplicação da fenomenologia na percepção dos sentidos
+
+- Compatibilidade (ou Perspectiva Fenomenológica) - Defende que o corpo e mente (ou espírito ou alma ou pensamento) são únicos, contrariando a visão dualista (em que o corpo e mente são diferentes, com a mente recebendo dados puros dos sentidos, que eram então interpretados pela razão). Ele valoriza o corpo como forma de se conectar com o mundo
+  
+  - Psicologia da Forma (ou Gestalt) - Diz que a percepção já ocorre de forma organizada e estruturada em relações, não sendo pura. Portanto, não há separação entre percepção e pensamento, únicos e ambos necessários para o outro, e logo corpo e mente
+  
+  - Pensamento - É visto como parte da experiência corporal, não sendo separado do resto da natureza (mundo físico)
+  
+  - Linguagem - É vista como objeto de uma consciência, dando existência ao pensamento mas de forma parcial (intencional)
+
+---
+
+Jean-Paul Sartre - Filósofo que criou a corrente existencialista, baseada na fenomenologia, defende que não há essência antes de existência, inclusive para o humano, sendo contra a busca pela essência
+
+- Ser em Si - Coisas físicas
+
+- Ser para Si - Indivíduo consciente capaz de se perceber e perceber as coisas
+
+- Humano - Não é possível definir o humano sem considerar sua existência no mundo, não havendo uma essência humana, e logo causa para a sua existência
+  
+  - Consciência - É vista como um nada que é preenchido a partir da existência pelos atos
+  
+  - Liberdade - Possibilidade humana de agir de qualquer forma em qualquer circunstância, defendendo que os humanos são "condenados a serem livres", e o exercício da liberdade dá sentido a existência e define o destino
+  
+  - Dissimulação (ou Autoengano ou Má-Fé) - Rejeição da liberdade, dando justificativas de que o ambiente não permitiu a liberdade, se tornando um ser em si
+  
+  - Outro - Relação entre humanos (sujeitos), em que o outro é responsável por atestar e definir nossa existência total, mas que pode revelar que não somos quem nós queremos ser, com muitos acabando vivendo pela aprovação do Outro
+
 # Geografia
 
 ## Cap. 1
