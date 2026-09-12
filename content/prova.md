@@ -1654,7 +1654,17 @@ Oração Subordinada Adjetiva - Desempenha função de adjunto adnominal, qualif
 
 # Redação (Assunto)
 
-## Cap. 4 [NÃO FEITO]
+## Cap. 4
+
+Textos Jornalísticos - Textos caracterizados pela objetividade, mas que, querendo ou não, vão apresentar de alguma forma a opinião de alguém, mesmo se tentanto evitar
+
+Textos Jornalísticos Opinativos - Textos jornalísticos que são intencionalmente opinativos, defendendo um ponto de vista de forma mais direta
+
+- Editorial - É veiculada a opinião de uma instituição ou meio de comunicação (chamada de linha editorial), e não de um indivíduo, tendo linguagem de opinião menos radical
+
+- Artigo Assinado - Veiculam a opinião de um indivíduo específico, podendo usar linguagem mais radical e primeira pessoa
+  
+  - Resenha Crítica - Tipo de artigo assinado que resume e critica uma produção cultural (filme, livro, série, show, restaurante), também sendo bem opinativo
 
 ## Cap. 5 [NÃO FEITO]
 
