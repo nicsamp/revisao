@@ -532,15 +532,97 @@ Sistema Sensorial - Formado pelos órgãos sensorial, responsável por captar os
   - Visão - Tem como órgão responsável o olho
     
     - Córnea - Membrana transparente que protege o olho
+    
     - Íris - Músculo formado por fibras circulares, controlando a abertura da pupila
+    
     - Pupila - Abertura do olho, por onde entra os raios luminosos
+    
     - Cristalino (ou Lente) - Estrutura ligada a músculos, responsável pela focalização dos objetos
+    
     - Humor Vítreo - Líquido que preenche o olho
+    
     - Retina - Camada de trás que capta e converte a luz em impulsos nervosos
+      
       - Cones - Células que detectam as cores
+      
       - Bastonetes - Células responsáveis pela visão em preto e brancos
 
-## Cap. 12 [NÃO FEITO]
+## Cap. 12
+
+Glândulas - Tipo de tecido epitelial que libera secreção
+
+- Exócrinas - Liberam secreções no meio externo ou em cavidades corporais. Ex: sudoríferas (suor)
+
+- Endócrinas - Liberam a secreção (chamada de hormônio) diretamente no sangue. Ex: tireoide
+  
+  - Hormônios - Secreções de peptídeo, proteína ou esteroide que controlam funções corporais específicas, servindo como mensageiros químicos
+    - Células-Alvo - Células que são estimuladas por hormônios específicos, por terem receptores delas em sua membrana
+
+---
+
+Sistema Endócrino - Sistema responsável por manter a homeostase corporal (equilíbrio), formado pelas glândulas endócrinas
+
+- Feedback (ou Retroalimentação) - Mecanismo em que uma glândula estimula outra glândula-alvo (feedback positivo), e essa inibe a ação da primeira (feedback negativo). Isso ajuda no equilíbrio da concentração do hormônio
+  
+  - Trofinas (ou Tróficos) - Hormônios que estimulam outras glândulas endócrinas
+
+- Glândulas Endócrinas
+  
+  - Hipófise (ou Glândula Pituitária) - Localizada na base do encéfalo, ligada ao hipotálamo
+    
+    - Adenoipófise (ou Hipófise Anterior) - Região da hipófise que secreta a maioria de seus hormônios
+      
+      - Hormônio de Crescimento (GH, ou Somatotrofina ou Somatotropina) - Estimula o crescimento corporal, atuando em quase todos os tecidos. Sua produção reduz após a puberdade
+      
+      - Hormônio Estimulante da Tireoide (TSH, ou Tireotrofina) - Estimula a secreção de T<sub>3</sub> e T<sub>4</sub> pela tireoide
+      
+      - Hormônio Adrenocorticotrófico (ACTH, ou Adrenocorticotrofina) - Estimula as glândulas suprarrenais
+      
+      - Hormônios Gonadotróficos (ou Gonadotrofinas) - Estimulas as gônadas (testículos e ovários)
+        
+        - Hormônio Folículo Estimulante (FSH) - Estimula a produção de estrógeno ou a de espermatozoides
+        
+        - Hormônio Luteinizante (LH) - Promove a ovulação e produção de progesterona ou de testosterona
+      - Prolactina (ou Hormônio Lactogênico) - Estimula a produção de leite nas glândulas mamárias
+    
+    - Neuroipósife (ou Hipófise Posterior) - Região que não produz hormônios, apenas secretando os produzidos pelo hipotálamo
+      
+      - Ocitocina - Estimula a contração do útero durante o trabalho de parto, além da ejeção de leite pelas glândulas mamárias
+      
+      - Hormônio Antidiurético (ADH, ou Vasopressina) - Ajuda a reduzir o volume de urina produzida, economizando água
+  - Epífise (ou Glândula Pineal) - Fica na base do cérebro. Produz a melanina, que estimula o sono
+  - Tireoide - Localizada no pescoço
+    - Tri-Iodotironina e Tiroxina (T<sub>3</sub> e T<sub>4</sub>) - Aumentam o metabolismo corporal (de carboidratos e gordura, aumento da frequência cardíaca)
+    - Calcitonina - Promove a retirada de cálcio do sangue para os ossos
+    - Doenças da Tireoide
+      - Hipertireoidismo - Há o aumento do tamanho da tireoide, e logo da produção de hormônios. Causando alta excitabilidade, perda de peso e outros
+      - Hipotireoidismo - Degeneração da tireoide, causando diminuição na produção de hormônios
+      - Bócio Endêmico - Grande aumento no volume da tireoide, pela falta de iodo e logo de T<sub>3</sub> e T<sub>4</sub>
+  - Paratireoide - Fica na parte posterior da tireoide
+    - Paratormônio (PTH) - Retira cálcio dos ossos para o sangue, sendo antagonista da calcitonina
+  - Suprarrenais (ou Adrenais) - Ficam em cima de cada rim
+    - Córtex - Região mais externa, liberando hormônios esteroides
+      - Glicocorticoides - São o cortisol (ou hidrocortisona) e corticosterona, aumentando a produção de carboidratos por gordura e proteína
+      - Mineralocorticoides - Regulam a quantidade de sal e água no corpo. Ex: aldosterona
+      - Andrógenos - Nas mulheres, viram estrógeno
+    - Medula - Região mais interna
+      - Adrenalina e Noradrenalina (ou Epinefrina e Norepinefrina) - Liberados durante exercício físico e estresse, aumentando a atuação do sistema nervoso simpático
+  - Pâncreas - Produz o suco pancreático (exócrino) e hormônios
+    - Ilhas Pancreáticas - Glândulas endócrinas do pâncreas
+      - Células α - Produzem o glucagon
+      - Células β - Produzem a insulina
+      - Insulina - Liberada quando há grande concentração de glicose no sangue (hiperglicemina), facilitando sua entrada na célula e seu armazenamento na forma de glicogênio. Também aumenta a absorção de aminoácidos
+      - Glucagon - Liberado quando há baixa concentração de glicose no sangue (hipoglicemia), quebrando o glicogênio e transformando aminoácidos em glicose (gliconeogênese)
+    - Diabetes Melito - Síndrome em que há excesso de glicose no sangue. Tem como sintomas sede constante, grande quantidade de urina (a glicose dificulta a reabsorção de água nos rins), fraqueza e aumento do colesterol
+      - Tipo 1 (ou Dependente de Insulina) - Causado pelo comprometimento das células β, por genética, vírus ou doenças autoimunes. Tem como tratamento a injeção de insulina
+      - Tipo 2 (ou Adulto ou Resistente à Insulina) - Há a diminuição dos receptores de membrana para a insulina, dificultando a sua ação nas células. Tratado por dietas, perda de peso e exercícios físicos regulares
+  - Gônadas - Os ovários e testículos
+    - Estrógeno e Progesterona - São os hormônios dos ovários, determinando características sexuais secundárias femininas, o ciclo menstrual e fazem a manutenção da gravidez
+    - Testosterona - Hormônio dos testículos, determinando características secundárias masculinas e a produção de espermatozoides
+
+---
+
+Anabolizantes - Tipo de hormônios esteroides que estimulam o crescimento e desenvolvimento dos tecidos, podendo ser usados como forma de doping para aumentar massa muscular, mas esse uso pode causar problemas no fígado, hipertensão e atrofia dos testículos, entre outros
 
 # Biologia 2
 
