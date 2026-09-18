@@ -935,7 +935,9 @@ Gentrificação (ou Retrofit) - Recuperação/revitalização de centros urbanos
 
 Agricultura - Atividade do setor primário caracterizada pelo cultivo de vegetais. Foi a evolução da coleta para o plantio
 
-Tipos de Agricultura
+Pecuária - Criaçaõ de animais para uso de alimentação, transporte e pesquisa, entre outros
+
+Tipos de Agricultura e Pecuária
 
 - por Finalidade
   
@@ -944,16 +946,20 @@ Tipos de Agricultura
 
 - por Técnica (ou Rendimento do Solo) - Dependem da terra, da quantidade de trabalho, de capital e do mercado
   
-  - Extensiva - Baixa produtividade. Ex: agricultura itinerante
-  - Intensiva - Alta produtividade, com rendimento máximo do solo. Ex: agricultura empresarial
-
----
+  - Extensiva - Baixa produtividade, com baixo investimento de capital e tecnológico. Ex: agricultura itinerante
+    - Pecuária Extensiva - Caracterizada por rebanhos que vivem soltos, sem cuidados especiais, buscando seu próprio alimento, com menos mão-de-obra
+  - Intensivo de Mão de Obra - Alta produtividade, com rendimento máximo do solo. Ex: agricultura empresarial
 
 Sistemas Agrícola
 
-- Temperados - Ocorrem nas zonas temperadas
-  
-  - Contemporâneo (ou Agricultura 4.0) - Caracterizada pelo uso de tecnologia de ponta e alta produção destinada para a indústria, sendo de precisão. Mais comum em áreas desenvolvidas
+- Agricultura Itinerante (ou Roça Tropical) - Utilização do desmatamento e queimada para cultivo, esgotando o solo rapidamente e causando a mudança para outro solo, sendo extensiva e de subsistência
+- Contemporâneo (ou Agricultura 4.0) - Caracterizada pelo uso de tecnologia de ponta e alta produção destinada para a indústria, sendo de precisão. Mais comum em áreas desenvolvidas
+
+---
+
+Tipos de Pecuária
+
+- 
 
 ---
 

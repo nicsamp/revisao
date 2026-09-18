@@ -2474,6 +2474,91 @@ Fascismo Italiano - Regime fascista na Itália, caracterizado pelo militarismo e
 
 - Eixo Berlim-Roma - Acordo de amizade entre a Alemanha nazista e a Itália fascista
 
+## Cap. 12
+
+Governo Provisório - Governo após o Golpe de 1930, liderado por Getúlio Vargas. Tinha como base o trabalhismo, nacionalismo e populismo, buscando favorecer as classes trabalhadoras urbanas. Houve o fortalecimento do poder pessoal de Vargas
+
+- Apoio - Classe média, burguesia (sobretudo os cafeicultores) e Exército (sobretudo tenentistas, incentivados por Vargas)
+  
+  - Divisão dos Tenentes - Houve o fim do movimento tenentista, sobretudo pela falta de uma linha política específica, com muitos passando a apoiar o comunismo ou fascismo
+  
+  - Conselho Nacional do Café (CNC) - Organização estatal que promoveu a compra e estocagem de café, buscando recuperar seu valor após a Grande Depressão e o apoio dos cafeicultores. Funcionou, mas gerou estoques imensos qu eventualmente foram queimados
+
+- Frente Negra Brasileira - Organização negra caracterizada pela denúncia ao racismo, mas foi abolida por Vargas pela filiação a governos de direita
+
+- Revolução Constitucionalista (ou MMDC) - Levante armado/guerra civil liderada pela Frente Única Paulista contra o governo provisório para voltarem ao poder, exigindo a criação de uma constituição, já que o governo provisório ficava sendo adiado por Vargas. Eventualmente perderam, mas receberam baixa punição para "fazerem as pazes"
+  
+  - Frente Única Paulista - União do PRP com o Partido Democrático, recebendo apoio sobretudo da classe média
+
+- Constituição de 1934 (ou Nova Carta) - Criada pela convocada Assembleia Constituinte. Caracterizada pelo voto feminino e secreto, leis trabalhistas, justiça eleitorial, centralização política nacionalização de empresas e monopólios estatais
+  
+  - Leis Trabalhistas - Justiça do Trabalho, liberdade dos sindicatos e regulamentação do trabalho
+  
+  - Disposições Transitórias - Estabeleceu que o primeiro presidente seria eleito por voto indireto pela Assembleia Constituinte, em que Vargas foi eleito
+
+---
+
+Governo Constitucional - Também liderado por Vargas. Caracterizada pelo surgimento de movimentos políticos radicais
+
+- Ação Integralista Brasileira (AIB) - Movimento fascista contra a democracia, defendendo um governo autoritário, além do nacionalismo
+
+- Aliança Nacional Libertadora (ANL) - Movimento de oposição ao fascismo e autoritarismo, sendo comunista. Defendia a nacionalização de empresas, liberdade, governo popular e reforma agrária. Defendiam a criação de uma revolução pelas forças armadas para depois o povo a acompanhar. Foi ilegalizada por Vargas
+  
+  - Komitern - Órgão soviético que apoiava movimentos socialistas internacionais, dando ajuda financeira
+  
+  - Intentona Comunista - Tentativa de revolução, mas ela não foi muito generalizada e acabaram perdendo, havendo a forte repressão a defensores do comunismo
+    
+    - Comissão Nacional de Repressão ao Comunismo - Criada após a intentona. Também houve o aumento das forças policiais e diminuição do poder legislativo, pelo estado de guerra levantado, desrespeitando a constituição
+
+- Plano Cohen - Plano comunista para a obtenção do poder falso, fabricado pelo governo para realizar um golpe de Estado
+
+- Golpe - Houve o fechamento do Congresso, extinção de partidos políticos e suspensão das próximas eleições, instaurando uma Ditadura. Motivada pelo combate ao comunismo e preocupação acerca da seguranla nacional, sendo muito apoiada pelo Exército
+
+## Cap. 13
+
+Estado Novo - Governo autoritário de Vargas, caracterizado pela repressão, militarizaçãocombate ao comunismo. Não houve muita oposição
+
+- Intentona Integralista - Tentativa de golpe contra a recém-ditadura pelo Partido Integralista, mas falhou
+
+- Constituição (ou Polaca) - Foi criada uma nova constituição para legitimar o novo Estado, mas era autoritária, inspirada na semifascista da Polônia. Caracterizada pela centralização política (com o aumento da força policial) e medidas trabalhistas
+  
+  - Populismo - Aproximação do Estado aos trabalhadores urbanos, buscando agradá-los
+  
+  - Leis Trabalhistas - Houve a criação da CLT, além de outras medidas trabalhistas como salário mínimo
+    
+    - Sindicatos - Eram controlados pelo Estado
+    
+    - Consolidação das Leis Trabalhistas (CLT) - Implementa a jornada de trabalho máxima de 8 horas, a carteira assinada e férias remuneradas, por exemplo
+
+- Economia - Caracterizada pela intervenção do Estado na economia e substituição da importação. Tinha como base a cafeicultura, valorizada pelo estoque do café, mas que eventualmente foi substituída pela indústria
+  
+  - Indústria - Cresceu de forma expressiva, baseada no controle Estatal das empresas. Ex: CSN (siderúrgica), Vale do Rio Doce
+    
+    - Migração Interna - Houve grande migração interna, sobretudo para o Sudeste, pelo crescimento das indústrias
+
+- Urbanização - Houve o crescimento de cidades, com a construção demuitas pontes, viadutos e avenidas. Contudo, levou ao crescimento das periferias, gerando segregação social
+  
+  - Cangaço - Houve o crescimento do banditismo social do Nordeste pela perca de sua importância econômica. Liderada por Lampião
+
+- Departamento de Imprensa e Propaganda (DIP) - Controlava a censura e a propaganda do Estado (sobretudo no rádio), havendo a exaltação do presidente, visto como carismático
+  
+  - Cultura - Houve a valorização da criação de uma cultura única brasileira, buscando o que é "ser brasileiro", sendo liderada pelo movimento modernista, além da valorização dos recém criados patrimônios culturais
+    - Música - Uma das principais formas de arte valorizadas pelo governo, sobretudo o Samba, com muitas músicas de nacionalidade criadas noperíodo
+
+- Composição Social Brasileira - Muito investigada nesse período
+  
+  - Raízes do Brasil - Obra escrita por Sérgio Buarque de Holanda, falando sobre a cordialidade (tendência a priorizar desejos pessoais, contrariando a impessoalidade) do homem brasileiro e os problemas gerados por isso na vida pública, como corrupção
+  - Formação do Brasil Contemporâneo - Escrito por Caio Prado Júnior, defendendo a necessidade de uma mudança radical no país para combater a permanência da pobreza e dependência econômica
+  - Casa-Grande & Senzala - Escrito por Gilberto Freyre, defendendo a mestiçagem como fonte positiva na formação da identidade brasileira, defendendo uma sociedade sem segregação racial, pela mistura das raças. Muito valorizada pelo governo
+
+- Segunda Guerra Mundial - O Brasil inicialmente se posicionou de forma indecisa, mas eventualmente passou a apoiar os aliados, pelos Estados Unidos apoiando economicamente o país, buscando retirar influências do eixo na América, eventualmente declarando guerra ao eixo, com o FEB e FAB enviando tropas
+
+- Redemocratização - Vargas iniciou a diminuir o nível de censura, eventualmente reestabelecendo os partidos políticos e marcando eleições para 1945, visando ser eleito por "combater a ditadura"
+  
+  - Queremismo - Defendia a redemocratização do país com Vargas no poder, sendo apoiada pelo PCB e PTB (partido trabalhista), e logo sobretudo por operários e sindicatos. Tinha como líder Luís Carlos Prestes
+  
+  - Golpe de 1945 - Marcou o fim do Estado Novo, sendo um golpe armado realizado pelas Forças Armadas, recebendo apoio da classe média e das antigas oligarquias. Houve as eleições, mas sem a participação de Vargas
+
 # Literatura
 
 ## Cap. 1

@@ -1,6 +1,12 @@
 Todo:
 
-Lutas e Danças
+Agricultura
+
+Sistema Nervoso
+
+Fungos e Micoses
+
+Genealogias?
 
 Governo Vargas (cap. 12)
 
@@ -14,13 +20,9 @@ Indústria
 
 Guerra Fria
 
-Monera?
-
 Cap. 11 sociologia (sociedade espetáculo)
 
-Surgimento da Sociologia
-
-Fungos
+Surgimento da Sociologia (Max Weber)
 
 ---
 
