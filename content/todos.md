@@ -1192,6 +1192,70 @@ Bacterioses - Doenças causadas por bactérias
   
   - Sífilis - Causado por *Treponema pallidum*, tem como sintomas feridas, podendo causar paralisia
 
+## Fungos
+
+Fungi - Reino dos fungos, seres eucariontes uni ou pluricelulares, com parede celular de quitina e reserva energética de glicogênio
+
+- Micélio Vegetativo - Parte vegetativa (não reprodutiva) do fungo, formada por ramificações de hifas emaranhadas. Fica no interior do solo
+  
+  - Hifas - Filamentos enchidos de citoplasma e com diversos núcleos 
+    
+    - Septadas - Com divisões
+    
+    - Cenocíticas - Sem divisões
+
+- Micélio Reprodutivo - Parte reprodutiva do fundo, formado pelos corpos de frutificação. Fica voltado para o ar
+  
+  - Corpos de Frutificação - Estruturas formadas durante o ciclo reprodutivo sexuado
+
+- Reprodução
+  
+  - Assexuada - Pode ocorrer por brotamento, fragmentação, esporulação (liberação de esporos) e mitose
+  - Sexuada - Ocorre pelo encontro do material genético de duas hifas
+    - Plasmogamia - Fusão dos citoplasmas das células, sendo a fecundação
+    - Cariogamia - Os dois núcleos se juntam, formando um ser diploide
+    - Esporângio - Estrutura formada por meiose que libera esporos, que germinarão e formarão um novo ser
+  - Classificação
+    - Chytridiomycetes (ou Quitridiomicetos) - Possuem hifas cenocíticas e formas esporos flagelados
+    - Zygomycota (ou Zigomicetos) -  Possuem hifas cenocíticas, normalmente vivendo no solo. Ex: bolor negro
+    - Ascomycota (ou Ascomicetos) - Quando unicelulares, são as leveduras. Possuem hifas septadas. Ex: penicilina
+    - Basidiomycota (ou Basidiomicetos) - Capazes de degradar a lignina, além de formarem os cogumelos. Possuem hifas septadas
+    - Deuteromycota (ou Deuteromicetos) - Fungos sem classificação definida
+  - Micorrizas - Mutualismo entre fungos e raízes de plantas
+  - Líquens - Mutualismo entre fungos e cianobactérias
+
+## Micoses
+
+Micoses - Doenças causadas por fungos
+
+Micologia - Estuda as micoses
+
+---
+
+Tipos de Micoses
+
+- Superficiais (ou Cutâneas ou Dermatofitoses) - Há a invasão do fungo na pele, pelos ou unhas
+  
+  - Piedra Negra - Há a formação de nódulos duros e escuros nos pelos. Causado por *Piedra hortae*
+  
+  - Piedra Branca - Nódulos de hifas esbranquiçados. Causado por *Trichosporon*
+  
+  - Pitiríase Versicolor (ou Pano Branco) - Causado por *Malassezia*, já comumente presente na composição da pele, mas que pode formar hifas em baixas de imunidade
+  
+  - Candidíase - Causado por *Candida*, também comumente encontradas no corpo e intestino, mas podendo formar hifas
+  
+  - Esporotricose - Causa irritação da pele, sendo subcutânea. Causada por *Sporothrix schenckii*
+
+- Profundas (ou Sistêmicas) - Adquiridas pela inalação de esporos, normalmente causando problemas no pulmão, mas podendo entrar no sangue e ir ao resto do corpo
+  
+  - Histoplasmose - Causada por *Histoplasma capsulatum*, podendo se disseminar na pele, medula óssea, cérebro, fígado ou baço em baixas do sistema imunológico
+  
+  - Criptococose - Infecção pulmonar causada por *Cryptococcus neoformans*, tendo sintomas parecidos a pneumonia
+  
+  - Paracoccidiodomicose - Micose profunda mais comum do Brasil. Causada por *Paracoccidioides brasiliensis*. Mais comum em agricultores pelo contato com o solo
+  
+  - 
+
 # Educação Física
 
 ## Ginástica Não Competitiva e Benefícios da Atividade Física

@@ -8,10 +8,6 @@ Fungos e Micoses
 
 Genealogias?
 
-Governo Vargas (cap. 12)
-
-Cap. 13 história
-
 ---
 
 In progress:
