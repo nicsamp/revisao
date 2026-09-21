@@ -1,7 +1,5 @@
 Todo:
 
-Agricultura
-
 Sistema Nervoso
 
 Genealogias?
