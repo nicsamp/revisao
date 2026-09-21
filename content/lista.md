@@ -4,8 +4,6 @@ Agricultura
 
 Sistema Nervoso
 
-Fungos e Micoses
-
 Genealogias?
 
 ---

@@ -937,7 +937,9 @@ Agricultura - Atividade do setor primário caracterizada pelo cultivo de vegetai
 
 Pecuária - Criaçaõ de animais para uso de alimentação, transporte e pesquisa, entre outros
 
-Tipos de Agricultura e Pecuária
+---
+
+Tipos de Agricultura
 
 - por Finalidade
   
@@ -947,19 +949,27 @@ Tipos de Agricultura e Pecuária
 - por Técnica (ou Rendimento do Solo) - Dependem da terra, da quantidade de trabalho, de capital e do mercado
   
   - Extensiva - Baixa produtividade, com baixo investimento de capital e tecnológico. Ex: agricultura itinerante
-    - Pecuária Extensiva - Caracterizada por rebanhos que vivem soltos, sem cuidados especiais, buscando seu próprio alimento, com menos mão-de-obra
-  - Intensivo de Mão de Obra - Alta produtividade, com rendimento máximo do solo. Ex: agricultura empresarial
+  - Intensivo de Mão de Obra - Alta quantidade de mão-de-obra e médio investimento de capital. Ex: agricultura empresarial
+  - Intensivo de Capital - Alto investimento de capital e pouca mão-de-obra, a qual é especializada, com grande uso de tecnologia e produtividade. Ex: agricultura contemporânea
+
+- 
+
+Tipos de Pecuária
+
+- Pecuária Extensiva - Caracterizada por rebanhos que vivem soltos, sem cuidados especiais, buscando seu próprio alimento, com menos mão-de-obra
+- Pecuária Intensiva - Caracterizada por rebanhos em pequenas área, com muitos cuidados de higiene e saúde, com alta produtividade
+
+---
 
 Sistemas Agrícola
 
 - Agricultura Itinerante (ou Roça Tropical) - Utilização do desmatamento e queimada para cultivo, esgotando o solo rapidamente e causando a mudança para outro solo, sendo extensiva e de subsistência
-- Contemporâneo (ou Agricultura 4.0) - Caracterizada pelo uso de tecnologia de ponta e alta produção destinada para a indústria, sendo de precisão. Mais comum em áreas desenvolvidas
+- Agricultura de Jardinagem - Caracterizado pela utilização de grande quantidade de mão-de-obra em pequenas e médias propriedades com base em uma estrutura familiar, com produtividade relativamente alta. Muito comum no Sudeste da Ásia
+- Contemporâneo (ou Agricultura 4.0) - Caracterizada pelo uso de tecnologia de ponta (drones, sensores, sistemas de rastreamento) e alta produção destinada para a indústria, sendo de precisão. Mais comum em áreas desenvolvidas
 
----
+Técnicas Agrícolas
 
-Tipos de Pecuária
-
-- 
+- Terraceamento - Construção de degraus em encostas de montanhas para reduzir escoamento superficial e controlar a erosão, além de torná-la cultivável
 
 ---
 
@@ -967,46 +977,54 @@ Agronegócio - Toda a infraestrutura de preparação, produção, comercializaç
 
 Agroindústria - Produção agrícola destinada para a industrialização, podendo haver o beneficiamento do produto
 
-Revolução Verde - Caracterizada pelo desenvolvimento da tecnologia na agropecuária (máquinas e insumos - adubo, fertilizante, agrotóxic), buscando o aumento da produção e produtividade de alimentos
+Revolução Verde - Caracterizada pelo desenvolvimento da tecnologia na agropecuária (máquinas e insumos - adubo, fertilizante, agrotóxicos, OGMs), buscando o aumento da produção e produtividade de alimentos, mesmo em condições mais difíceis. COntudo, aumentou a poluição e desmatamento pela expansão de lavouras
+
+Agroecologia - Práticas agrícolas com finalidade de preservação da biodiversidade. Ex: agrofloresta
+
+- Agricultura Orgânica - Agricultura sem uso de agrotóxicos e pesticidas
 
 ---
 
 Agropecuária Mundial
 
-- Estados Unidos - Caracterizada pela produtividade, produção, agronegócio, uso da tecnologia e diversidade de produtos altos, além de políticas de auxílio e protecionismo do governo. Organizada em cinturões agrícolas
-- Europa - Caracterizado pela alta produtividade e diversidade, presença da tecnologia, abastecimento da agroindústria (há maior importação de alimentos), e políticas
-- China - Muitos incentivos estatais, modernização recente, com aumento de tecnologia e produtividade, mas é limitada pela escassez de terras e água, havendo maior concentração na parte ocidental do país
-- Índia - Grande parte da população ativa do país, avanços tecnológicos recentes, mas limitada pela má infraestrutura de irrigação, abastecimento e comercialização
-- África - Maior presença de sistemas de baixa produtividade (como initerante e transumante), prática de plantation pela elite para exportação, mas é limitada falta de tecnologia e vulnnerabilidade
-
-Agropecuária Brasileira - Maior presença de exportação, mas variando dependendo do desenvolvimento regional
-
-- Tradicional (ou Familiar) - Caracterizada pela subsistência, pequenas propriedades, técnicas rudimentares e ser destinada ao mercado interno
-
-- Moderna (ou Patronal ou Empresarial) - Produção comercial (para o mercado externo), com grandes propriedades, alta mecanização e maior produtividade, além de grandes cadeias de agronegócio
-
-- Regiões
-  
-  - Sudeste - Maior concentração de agricultura moderna, com destaque ara o café e cana-de-açúcar
-    
-    - Corredores de Exportação - Porto de Santos e Paranaguá como destaque
-  
-  - Sul - Maior produção familiar do país, mas com presença de tecnologia, insumos e agronegócio, além da agropecuária comercial mais recentemente
-  
-  - Centro-Oeste - Produção comercial consolidada recentemente, sobretudo por incentivos governamentais e mecanização e uso de insumos
-  
-  - Nordeste - Maior produção familiar
-    
-    - Vale do São Francisco - Região de destaque do nordeste, com agricultura contemporânea de fruticultura
-    - Matopiba - Mais recente no nordeste, com destaque para a produção de grãos e soja
-  
-  - Norte - Presença tanto da agricultura tradicional quanto comercial (levando à intensificação do desmatamento)
+- Países Desenvolvidos - Caracterizado pelo alto uso de mecanização, capital e tecnologia, realizada em grandes e médias propriedades, além de baixa mão-de-obra, com produtividade e produção altos. Há maior foco em abastecimento interno, tanto para alimentação quanto para agroindústria, além de muitas políticas de incentivo
+  - Estados Unidos - Produção organizada em cinturões agrícolas, sobretudo de trigo, milho e algodão
+  - Europa - Caracterizado pela alta diversidade, organizada em pequenas propriedades familiares, sobretudo para o abastecimento da agroindústria. Contudo, há desigualdades entre o leste e oeste europeu, além de grande protecionismo, aumentando sua competitividade artificialmente
+- Países em Desenvolvimento - Há a coexistência da agricultura moderna (grandes propriedades, com alto uso de tecnologia e produtividade, para exportação) e tradicional (pequenas propriedades, grande mão-de-obra, e subsistência)
+  - China - Muitos incentivos estatais, com modernização recente, mas é limitada pela escassez de terras e água, havendo maior concentração na parte ocidental do país. Destaque para o cultivo de arroz, chá, cereais e algodão
+  - Índia - Grande parte da população ativa do país, com avanços tecnológicos recentes, mas limitada pela má infraestrutura de irrigação, abastecimento e comercialização
+  - África - Maior presença de sistemas de baixa produtividade, limitada falta de tecnologia e vulnerabilidade
+    - África Setentrional (ou Norte da África) - Há maior concentração ao redor do rio Nilo e na região do Magreb
+    - África Subsaariana - Maior foco em agricultura tradicional e local, além de plantation
 
 ---
 
-Agroecologia - Práticas agrícolas com finalidade de preservação da biodiversidade. Ex: agrofloresta
+Agropecuária Brasileira - Maior presença de exportação, mas variando dependendo do desenvolvimento regional
 
-* Agricultura Orgânica - Agricultura sem uso de agrotóxicos e pesticidas
+- Tipos
+  
+  - Tradicional (ou Familiar) - Caracterizada pela subsistência, pequenas propriedades, técnicas rudimentares e ser destinada ao mercado interno. Há dificuldades de baixa produção
+  
+  - Moderna (ou Patronal ou Empresarial) - Produção comercial (para o mercado externo), com grandes propriedades, alta mecanização e maior produtividade, além de grandes cadeias de agronegócio
+
+- Regiões
+  
+  - Sudeste - Maior concentração de agricultura moderna, com destaque para a soja, trigo e arroz
+    - Oeste Paulista - Principal região de agronegócio, pelo solo fértil (terra roxa) e planície, bem como a infraestrutura de transporte
+    - Triâgulo Mineiro - Fica na divisa do centro-oeste com sudeste, outra região de destaque
+    - Corredores de Exportação - Porto de Santos e Paranaguá como destaque
+  - Sul - Maior produção familiar do país, mas com presença de tecnologia, insumos e agronegócio, além da agropecuária comercial mais recentemente
+  - Centro-Oeste - Produção comercial consolidada recentemente, sobretudo por incentivos governamentais e mecanização e uso de insumos
+    - Calagem - Técnica de correção da acidez do solo, que contribuiu para o desenvolvimento da atividade no cerrado
+  - Nordeste - Maior produção familiar
+    - Sub-Regiões
+      - Zona da Mata - Maior foco em grandes propriedades para exportação, pela umidade
+      - Agreste - Agricultura familiar, pela umidade mais baixa
+      - Sertão - Familiar, sobretudo de algodão e milho
+      - Meio-Norte - Produção comercial sobretudo de arroz
+    - Vale do São Francisco - Região de destaque do nordeste, com agricultura de fruticultura
+    - Matopiba (ou Mapitoba) - Região mais recente de destaque no nordeste, com destaque para a produção de grãos e soja. Composta por Maranhão, Piauí, Tocantins e Bahia
+  - Norte - Presença tanto da agricultura tradicional quanto comercial (levando à intensificação do desmatamento)
 
 ## Cap. 10
 
