@@ -4,6 +4,12 @@ document.addEventListener("DOMContentLoaded", async () => {
     const themeIcon = document.getElementById('theme-icon');
     const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
 
+    let md_path = './content/prova.md';
+    const params = new URLSearchParams(window.location.search);
+    if (params.has('src')) {
+        md_path = params.get('src');
+    }
+
     const updateThemeIcon = () => {
         if (body.classList.contains('dark-mode')) {
             themeIcon.textContent = 'light_mode'; // Show sun when dark mode is active
@@ -23,9 +29,9 @@ document.addEventListener("DOMContentLoaded", async () => {
         updateThemeIcon();
     });
     
-    const response = await fetch('./content/prova.md');
+    const response = await fetch(md_path);
     if (!response.ok) {
-        throw new Error(`Failed to load Markdown: ${response.status}`);
+        throw new Error(`Failed to load Markdown: ${response.status}, PATH: ${md_path}`);
     }
     const rawMarkdown = await response.text();
     const contentDiv = document.getElementById('content');

@@ -4,6 +4,12 @@ Sistema Nervoso
 
 Genealogias?
 
+Complemento Sangue
+
+Cap. 11 sociologia (sociedade espetáculo)
+
+Simone de Beauvoir
+
 ---
 
 In progress:
@@ -12,7 +18,15 @@ Indústria
 
 Guerra Fria
 
-Cap. 11 sociologia (sociedade espetáculo)
+Sistema Reprodutor
+
+Algas
+
+Complemento Modernismo 3a Fase
+
+Modais de Transporte
+
+Sociologia Livro
 
 Surgimento da Sociologia (Max Weber)
 
