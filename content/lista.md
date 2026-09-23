@@ -10,6 +10,8 @@ Cap. 11 sociologia (sociedade espetáculo)
 
 Simone de Beauvoir
 
+Indústria
+
 ---
 
 In progress:

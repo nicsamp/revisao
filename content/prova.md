@@ -1046,7 +1046,7 @@ Evolução da Indústria
 Tipos de Indústria
 
 - Indústria Extrativa - Beneficia um recurso natural. Ex: madeira
-- Indústria de Base (ou de Bens de Produção ou de Bens de Capital ou Pesada) - Produz outra matéria-prima para uso por outra indústria. Ex: siderúrgica (minério -> ferro)
+- Indústria de Base (ou de Bens de Produção ou de Bens de Capital ou Pesada) - Produz outra matéria-prima para uso por outra indústria, gastando mais energia que as outras. Ex: siderúrgica (minério -> ferro)
 - Indústria de Bens Intermediários) - Produz produtos ou equipamentos utilizados por outras indústrias. Ex: produção de rodas (para carros)
 - Indústria de Bens de Consumo Duráveis - Produção de produtos não perecíveis. Ex: eletrodomésticos
 - Indústria de Bens de Consumo não Duráveis - Produção de produtos perecíveis ou de curto prazo. Ex: alimentos
@@ -1066,6 +1066,29 @@ Concentrações Financeiras
 - Cartel - Acordo financeiro entre empresas de mesmo ramo para criar um preço fixo. Ex: postos de gasolina próximos
 - Conglomerado (ou Holding) - Empresas que detém ações majoritárias de várias empresas. Ex: Unilever
 - Dumping - Abaixamento de preços para abaixo do mercado para eliminar concorrência
+
+---
+
+Revoluções Industriais - Períodos de transformações na produção por maquinofatura
+
+- Primeira Revolução Industrial - Surgiu na Inglaterra, caracterizada pelo surgimento da maquinofatura, com a criação da máquina a vapor (surgindo o trem, por exemplo). Contudo, havia péssimas condições de trabalho, levando a revoltas
+  
+  - Fonte de Energia - Carvão mineral
+- Segunda Revolução Industrial - Caracterizado pelo maior desenvolvimento tecnológico, com o surgimento   do telégrafo, telefone, rádio, motor a combustão, além de organizações financeiras (bancos e bolsas) e blocos econômicos
+  - Fonte de Energia - Petróleo e eletricidade
+  - Taylorismo - Sistema de produção que defendia a sistematização e especialização do trabalhador, buscando a eficiência máxima, com o gerenciamento científico do trabalhador
+  - Fordismo - Outro sistema baseado no taylorismo, em que há a linha de montagem, e a padronização e produção em massa de um produto, visando produtividade e lucro máximo
+- Terceira Revolução Industrial (ou Revolução Técnico-Científica-Informacional) - Caracterizado pelo desenvolvimento de tecnologias de ponta (robótica, informática, telecomunicações, nanotecnologia) e fontes de energia alternativas, além da globalização
+  - Toyotismo - Sistema de produção baseado na flexibilidade no uso de mão de obra e a produção com base na demanda (just in time, JIT)
+  - Desemprego Estrutural - Resultado da maior automação do trabalho
+- Quarta Revolução Industrial (ou Indústria 4.0) - A fase atual, caracterizada pelo uso da internet nas indústrias, além da integração de tecnologias desenvolvidas na terceira fase
+  - Volvismo - Sistema caracterizado pelo grande treinamento e flexibilidade do operário, que inclusive participa de decisões mais importantes da produção
+
+---
+
+Desconcentração Industrial - Fenômeno recente de redução na concentração de indústrias nas grandes cidades e aumento nas médias e pequenas cidades, sobretudo por custo de terreno e impostos altos, trânsito e leis rígidas e incentivos fiscais das médias e pequenas cidades
+
+- Tecnopolos (ou Polos Tecnológicos) - Regiões normalmente ao redor de universidades e centros de pesquisas, onde há a concentração de indústrias de alta tecnologia. Ex: Vale do Silício
 
 ## Cap. 12
 
