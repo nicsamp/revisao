@@ -4,29 +4,25 @@ Sistema Nervoso
 
 Genealogias?
 
-Complemento Sangue
-
 Cap. 11 sociologia (sociedade espetáculo)
 
 Simone de Beauvoir
 
 Indústria
 
+Modais de Transporte
+
+Oração Subordinada Substantiva
+
 ---
 
 In progress:
-
-Indústria
 
 Guerra Fria
 
 Sistema Reprodutor
 
 Algas
-
-Complemento Modernismo 3a Fase
-
-Modais de Transporte
 
 Sociologia Livro
 

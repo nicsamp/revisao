@@ -1,7 +1,5 @@
 # Biologia 1
 
-
-
 ## Cap. 9
 
 Respiração Celular - Quebra de substâncias para a produção de energia, ocorrendo nas células
@@ -212,7 +210,7 @@ Tipos Sanguíneos (ou Grupos Sanguíneos) - Sistemas de classificação do sangu
 
 - Sistema Rh - Outro sistema sanguíneo
   
-  - Fator Rh - Outra substância na membrana que funciona como antígeno em usuários que não tem ele, gerando anticorpos anti-Rh
+  - Fator Rh (ou Antígeno D) - Outra substância na membrana que funciona como antígeno em usuários que não tem ele, gerando anticorpos anti-Rh
   - Tipos
     - Tipo Rh<sup>+</sup> - Tem a presença do fator Rh, sendo a mais comum
     - Tipo Rh<sup>-</sup> - Não tem o fator Rh, não podendo receber sangue Rh<sup>+</sup>
@@ -563,8 +561,9 @@ Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de idea
 
 - Autores
   
-  - João Cabral de Melo Neto - Principal poeta da geração. Caracterizado pela poesia racionalista (baseada no mundo concreto, descrito de forma racional e precisa, sem exagero sentimental), temáticas sociais (como o sertão) e experimentalismo
+  - João Cabral de Melo Neto - Principal poeta da geração. Caracterizado pela poesia racionalista (baseada no mundo concreto), temáticas sociais (como o sertão) e experimentalismo
     
+    - Linguagem - É objetiva, precisa e seca, com contenção sentimental e valorização do raciocínio e construção (metáfora de pedra, poesia de construção e poeta-engenheiro, selecionando, calculando e organizando)
     - Duas Águas - Seu primeiro livro de poesia. Caracterizado por maior rigor formal, com versos regulares, e atenção à sonoridade (rimas, aliterações)
     - Morte e Vida Severina - Seu principal livro, sendo uma peça curta com mensagens espirituais e moralizantes. Fala sobre Severino, um retirante da seca, que segue um rio buscando um abrigo, passando por vários locais mas desistindo de viver lá pela manifestação da morte no local. Eventualmente, chegou em Recife, onde achou que estaria salvo, mas vendo a morte novamente na cidade, ele planeja se entregar a ela e se matar. Contudo, no final, ele é salvo por um carpinteiro, encontrando a vida que procurava
   
