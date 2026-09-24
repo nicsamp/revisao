@@ -1,162 +1,6 @@
 # Biologia 1
 
-## Cap. 8
 
-Animais sem Sistema Circulatório - Não está presente em Poríferos, Cnidários, Platelmintos e Nematelmintos, com a troca de substâncias ocorrendo direto com o meio por difusão, por seus tecidos terem poucas camadas
-
-Sistema Circulatório - Sistema responsável pela distribuição de substâncias (gases, nutrientes, excretas, hormônios) pelo corpo
-
----
-
-Tipos de Circulação
-
-- Aberta (ou Lacunosa) - A hemolinfa sai do interior dos vasos e banha as células. Presente em artrópodes e moluscos não-cefalópodes
-  
-  - Hemolinfa - Líquido que circula
-
-- Fechada
-
----
-
-Circulação Fechada - O sangue sempre fica dentro dos vasos. Presente nos anelídeos, cefalópodes e vertebrados
-
-- Circulação Simples - O sangue passa pelo coração apenas uma vez por ciclo. Encontrado nos peixes (coração -> brânquias -> tecidos -> coração)
-
-- Circulação Dupla - O sangue passa duas vezes pelo coração a cada ciclo. Encontrado nos tetrápodes
-  
-  - Circulação Pulmonar (ou Pequena Circulação) - O sangue vai do coração para os pulmões e depois volta para o coração
-  
-  - Circulação Sistêmica (ou Grande Circulação) - O sangue vai do coração (depois da circulação pulmonar) para os tecidos e depois volta para o coração
-  
-  - Tipos
-    
-    - Incompleta (ou com Mistura) - Há a mistura de sangue venoso e arterial. Ocorre nos anfíbios e répteis
-    - Completa (ou sem Mistura) - Não há a mistura. Ocorre nas aves e mamíferos
-
----
-
-Vasos Sanguíneos
-
-- Artérias - Vasos que saem do coração. São mais grossos, por ter maior pressão e são mais profundos
-  
-  - Arteríolas - Artérias ramificadas
-
-- Veias - Vasos que chegam no coração. Possuem parede menos grossa que as artérias, e pressão menor. Possuem válvulas
-  
-  - Válvulas - Estruturas nas veias que contribuem para o retorno venoso, por evitar a volta do sangue para o corpo, garantindo fluxo unidirecional. O retorno também é auxiliado pelos músculos, sobretudo da perna
-  - Vênulas - Veias ramificadas
-
-- Capilares - Vasos com camada de apenas uma célula (chamada de endotélio), por onde ocorre a troca de substâncias, além de conectar as arteríolas com as vênulas
-  
-  - Troca de Substâncias - Ocorre entre o sangue e as células por meio de difusão, sendo facilitada pela pressão arterial e osmótica
-  
-  - Líquido Intersticial - Líquido que temporariamente sai dos capilares e toca nas células
-    
-    - Vasos Linfáticos - Devolvem o líquido intersticial (chamado agora de linfa) para o sangue por uma veia. Formam o sistema linfático
-      
-      - Linfonodos - Estruturas presentes nos vasos com leucócitos
-
----
-
-Coração - Responsável pelo bombeamento do sangue pelos vasos
-
-- Câmaras Cardíacas
-  
-  - Átrios (ou Aurículas) - Câmaras cardíacas por onde o sangue entra pelas veias
-  - Ventrículos - Câmaras cardíacas por onde o sangue sai pelas artérias
-
-- Valvas - Valvas que abrem e fecham para impedir a volta de sangue. Causam o som das batidas do coração
-  
-  - Atrioventricular Esquerda (ou Bicúspide ou Mitral) - Separa o átrio esquerdo e ventrículo esquerdo
-  - Atrioventricular Direita (ou Tricúspide) - Separa o átrio direito e ventrículo direito
-  - Semilunar (ou do Tronco Aórtico) - Fica entre o ventrículo direito e a artéria aorta
-  - Valva Pulmonar - Fica entre o ventrículo esquerdo e a artéria pulmonar
-
-- Miocárdio - Musculatura do coração, responsável pelo bombeamento. Sua contração se chama de sístole e seu relaxamento, diástole
-  
-  - Artérias Coronárias - Artérias que transportam sangue para o miocárdio
-  - Sístole - Movimento de contração, podendo ser tanto do átrio (atrial) quando do ventrículo (ventricular), permitindo a saída de sangue dessa câmara
-  - Diástole - Movimento de relaxamento, permitindo a entrada do sangue na câmara cardíaca
-
-- Nós - Responsáveis por geral os estímulos nervosos do coração
-  
-  - Nó Sinoatrial (SA) - Fica na parede do átrio direito, passando pelos dois átrios
-  - Nó Atrioventricular (AV) - Fica na parte de baixo do ventrículo, recebendo o estímulo do sinoatrial e subindo pelo fascículo atrial (ou feixe de Hess) e pelos ramos subendocárdicos (ou fibras de Purkinje)
-  - Frequência Cardíaca - Frequência em que ocorre a contração do coração
-
-- Tipos
-  
-  - Bicavitário - Possui um átrio e um ventrículo. Presente nos peixes
-    
-    - Fluxo - Átrio -> ventrículo -> artéria aorta -> brânquias -> artéria aorta -> tecidos -> veia cava -> átrio
-  
-  - Tricavitário - Possui dois átrios, mas apenas um ventrículo. Presente nos anfíbios e répteis não crocodilianos
-    
-    - Átrio Direito - Recebe o sangue pobre pela veia cava
-    
-    - Átrio Esquerdo - Recebe o sangue rico pela veia pulmonar
-    
-    - Ventrículo - Recebe o sangue dos dois átrios, misturando-os e mandando para o pulmão (artéria pulmonar) e corpo (artéria aorta)
-      
-      - Septo Incompleto (ou Septo de Sabatier) - Septo nos répteis que dificulta a mistura, mas não barra-a completamente
-  
-  - Tetracavitário - Possui dois átrios e dois ventrículos. Presente nos crocodilianos, aves e mamíferos
-    
-    - Câmaras Direitas - Veia cava -> átrio direito -> ventrículo direito -> artéria pulmonar. Recebem sangue pobre
-    
-    - Câmaras Esquerdas - Veia pulmonar -> átrio esquerdo -> ventrículo esquerdo -> artéria aorta. Recebem sangue rico
-      
-      - Artéria Aorta - Nas aves, curva para o lado direito, e nos mamíferos, para o esquerdo
-    
-    - Forame de Panizza - Septo que quase impede a mistura de sangue nos átrios, mas ainda mistura pouco. Encontrado nos crocodilianos
-    
-    - Septo Interventricular - Septo que separa completamente os ventrículos. Nas aves e mamíferos
-
----
-
-Doenças Cardiovasculares - Doenças relacionadas ao sistema cardiovascular
-
-- Aneurisma - Doença em que há a formação de uma bolsa externa ao vaso, pelo enfraquecimento da parede. Caso rompida, pode causar hemorragia, AVC e morte
-- Varizes - Causadas pelo mal funcionamento das válvulas das veias
-- Infarto - Causado pelo entupimento das artérias coronárias, causando a parada cardíaca
-
----
-
-Sangue - Tecido conjuntivo formado pelo plasma e elementos figurados
-
-- Tipos
-  
-  - Sangue Venoso - Sangue rico em CO<sub>2</sub> e pobre em O<sub>2</sub>
-  - Sangue Arterial - Sangue rico em O<sub>2</sub> e pobre em CO<sub>2</sub>
-
-- Plasma - Matriz extracelular do sangue, composta por água com nutrientes, gases, excretas, hormônios e anticorpos
-
-- Elementos Figurados - São as células sanguíneas
-  
-  - Medula Óssea - Origina os elementos figurados, pelas células-tronco hematopoiéticas
-    
-    - Hematopoiese - Processo de produção dos elementos figurados
-  
-  - Hemácias (ou Eritrócitos) - Células com função de transportar oxigênio, pela proteína hemoglobina. Podem também transportar CO<sub>2</sub>, mas esse é mais transportado na forma de bicarbonato (HCO<sub>3</sub><sup>-</sup>) no plasma
-    
-    - Eritroblastos - Hemácias jovens, que ainda possuem núcleo, para produzir hemoglobina. Quando fica adulta, perde o núcleo e organelas
-    - Eritropoetina - Estimula a produção de hemácias, como em locais onde o ar é rarefeito
-    - Anemia - Falta de hemácias no sangue
-  
-  - Plaquetas (ou Trombócitos) - Fragmentos de células chamadas de megacariócitos, responsáveis pela coagulação do sangue
-    
-    - Coagulação - Processo de reparação de um vaso sanguíneo rompido
-      - Cascata de Coagulação - Há a acumulação de plaquetas que liberam a tromboplastina, que transforma a protrombina em trombina, essa transformando o fibrinogênio em fibrina, que forma uma rede que prende as hemácias e forma o coágulo
-  
-  - Leucócitos (ou Glóbulos Brancos) - Células responsáveis pela defesa do organismo, formando o sistema imune
-    
-    - Macrófagos - Tipos de leucócitos que vão para os tecidos e fagocitam partículas e microorganismos indesejados
-      - Neutrófilo - Fagocita células estranhas e liberam substâncias que destroem bactérias
-      - Eosinófilo - Combate os efeitos da reação alérgica
-      - Basófilo - Libera histamina e heparina nas reações alérgicas, causando vermelhidão e coceira
-    - Linfócitos - Tipos de leucócitos que produzem as proteínas de anticorpos
-      - Linfócito B - Produz os anticorpos
-      - Linfócitos TCD4 - Recebem os antígenos fagocitados e estimulam os linfócitos B
 
 ## Cap. 9
 
@@ -328,399 +172,9 @@ Doenças Renais
 - Insuficiência Renal - Perda do funcionamento dos rins. Pode ser aguda (ocorre do nada e é reversível), ou crônica (ocorre lentamente e é irreversível)
 - Cálculo Renal - Partículas sólidas formadas nos cálices renais pelo acúmulo de substâncias, podendo ir aos ureteres, uretra e bexiga
 
-## Cap. 11
 
-Sistema Nervoso - Responsável pelo controle e integração de informações externas e o corpo
-
-- Não Existente - Ocorre nos poríferos
-
-- Difuso - As células nervosas são espalhadas no corpo todo. Encontrada nos poríferos
-
-- Ganglionar - Há a presença de gânglios nervosos. Ocorre nos invertebrados e vertebrados
-  
-  - Gânglios Nervosos - Massa de neurônios de onde partem fibras nervosas. Nos vertebrados, são o encéfalo e as fibras são a medula espinhal
-    
-    - Gânglio Cerebroide - Gânglio que centraliza a atividade nervosa
-
-Tecido Nervoso - Compõe a maioria do sistema nervoso
-
-- Neurônios - Células básicas do sistema nervoso, responsável por conduzir o impulso nervoso
-  
-  - Corpo Celular - Onde fica o núcleo e organelas
-  
-  - Dendritos - Prolongamentos ramificados e pequenos do corpo celular que captam e respondem aos estímulos (excitabilidade), sejam eles elétricos, físicos ou químicos
-  
-  - Axônio - Prolongamento grande do corpo celular. Conduzem o impulso nervoso (condutibilidade)
-    
-    - Botões Terminais (ou Terminações do Axônio) - Ramificações finais do axônio, onde há a transmissão de informações para outra célula
-    
-    - Impulso Nervoso - Alterações elétricas que se propagam pela membrana do axônio, dos dendritos para o corpo celular e depois axônio
-      
-      - Lei do Tudo ou Nada - Estímulos abaixo da intensidade mínima (limiar de excitação) não geram impulso, mas todos acima geram com intensidade máxima
-      - Bomba de Sódio e Potássio - Responsável por deixar o neurônio em seu potencial de repouso, pela expulsão de Na<sup>+</sup>, deixando a célula negativa pela presença de Cl<sup>-</sup>, mesmo com a entrada menor de K<sup>+</sup> (polarização)
-      - Canais de Sódio - São abertos quando há estímulo, permitindo a entrada de Na<sup>+</sup> e a despolarização da membrana, gerando o impulso
-      - Canais de Potássio - Abrem após a despolarização, causando a saída do K<sup>+</sup>, gerando a repolarização e voltando ao potencial pela bomba
-
-- Células da Glia (ou Neuroglia) - Responsáveis por proteger e nutrir os neurônios
-  
-  - Estrato Mielínico (ou Bainha de Mielina ou Neurolenas ) - Estruturas que envolvem o axônio formada de lipídios que isolam eletricidade. Formada pelos oligodendrócitos
-    - Nódulos Neurofibrosos (ou de Ranvier) - Espaços entre bainhas de mielina, por onde o impulso nervoso salta (condução saltatória), aumentando sua velocidade
-  - Neurilemas (ou Células de Schwann) - Versão das bainhas de mielina no sistema nervoso periférico
-
-- Sinapse - Transmissão do impulso nervoso entre neurônios ou neurônios e fibras musculares ou secretoras
-  
-  - Neurônio Pré-Sináptico - Transmite o impulso para a outra célula, pelos botões terminais
-    
-    - Neurotransmissores - Substâncias liberadas para transmitir informações. São armazenados nas vesículas sinápticas
-  
-  - Neurônio Pós-Sináptico - Recebe o impulso pelos dendritos
-  
-  - Fenda Sináptica - Espaço entre o pré-sináptico e pós-sináptico
-
----
-
-Sistema Nervoso Humano
-
-- Sistema Nervoso Central (SNC) - Onde os estímulos são processados
-  
-  - Encéfalo
-    
-    - Crânio - Osso que envolve e protege o encéfalo
-    - Meninges - Membranas que protegem o encéfalo e medula espinal, ficando entre os órgãos em si e os ossos
-      - Dura-Máter - Membrana mais externa da meninge, sendo a única vascularizada e com nervos
-      - Aracnoide - Membrana do meio
-      - Líquido Cefalorraquidiano (LCR, ou Cerebroespinal ou Líquor) - Líquido que fica entre o aracnoide e pia-máter, absorvendo choques mecânicos
-      - Pia-Máter - Mais interna
-    - Cérebro - Principal região do encéfalo, dividida em dois hemisférios, responsável pelas funções mais complexas como raciocínio, sensações e memória, entre outros
-      - Corpo Caloso - Estrutura que conecta os hemisférios cerebrais
-      - Lobos Cerebrais - Divisões de cada hemisfério do cérebro
-        - Frontal - Fica na frente. Responsável principalmente pelo pensamento e fala
-        - Parietal - Fica atrás da frontal, responsável principalmente pelo tato
-        - Occipital - Fica na nuca, responsável principalmente pela visão
-        - Temporal - Fica nas laterais, responsável principalmente pela audição
-    - Cerebelo - Fica na parte de trás do encéfalo, conectado ao cérebro, tronco cerebral e medula espinal. Responsável sobretudo pelo equilíbrio e postura
-    - Bulbo - Conecta o encéfalo ao tronco cerebral. Responsável pela frequência cardíaca e respiração
-    - Diencéfalo
-      - Tálamo - Responsável por receber as informações sensorias (exceto olfato) e transmitir-las para os locais adequados
-      - Hipotálamo - Fica abaixo do tálamo, responsável pela homeostase do organismo
-  
-  - Medula Espinal (ou Nervosa) - Estrutura que fica na parte dorsal do corpo
-    
-    - Coluna Vertebral - Envolve e protege a medula
-    - Nervos Espinais - Estruturas que saem da medula de forma perpendicular
-      - Raízes dos Nervos Espinais
-        - Raíz Ventral (ou Anterior) - Por onde o impulso nervoso vai aos órgãos efetores
-        - Raiz Dorsal (ou Posterior) - Por onde chega o impulso nervoso dos neurônios sensitivos
-    - Via Aferente - Axônios da medula que levam informações ao encéfalo
-    - Via Eferente - Axônios que levam informações aos músculos esqueléticos
-  
-  - Atos Reflexos - Reações imediatas a estímulos externos
-    
-    - Arco Reflexo Medular (ou Simples) - A resposta a um estímulo não é feita pelo encéfalo, e sim apenas pela medula. Ex: mão na chapa quente
-  
-  - Tipos de Fibras Nervosas
-    
-    - Substância Branca - Formada pelos axônios mielinizados dos neurônios. Ficam no interior do encéfalo e exterior da medula espinal
-    - Substância Cinzenta - Formada pelos corpos celulares e dendritos. Ficam no exterior do encéfalo e interior da medula espinal
-
-- Sistema Nervoso Periférico (SNP)
-  
-  - Nervos - Cordões formados por neurofibras (axônios e dendritos) enfileirados e envolvidos por tecido conjuntivo, responsáveis por transportar impulsos nervosos. Podem ser cranianos (ligados ao encéfalo) ou medulares (ou raquidianos, ligados a medula)
-    
-    - Nervo Sensitivo (ou Aferente) - Possui apenas axônios de neurônios sensoriais
-    - Nervo Motor (ou Eferente - Apenas axônios de neurônios motores
-    - Nervo Misto - Possui os dois tipos de axônios
-  
-  - Gânglios Nervosos - Dilatações nos nervos com corpos de neurônios
-
----
-
-Tipos de Sistema Nervoso Humano
-
-- Somático (SNS, ou Voluntário) - Controla as ações que dependem da vontade
-
-- Autônomo (SNA, ou Involuntário) - Controlam ações involuntárias, por meio de fibras musculares lisas e cardíacas, e as células glandulares, sendo independente da vontade
-  
-  - Simpático (SNAS) - Faz as ações relacionadas a emergência ou estresse, o "fugir ou lutar", tendo os neurônios adrenérgicos. Tem como neurotransmissor a adrenalina. Ex: aumento da frequência cardíaca
-  - Parassimpático (SNAP) - Faz as ações relacionadas a recuperação, repouso e conservação, além da digestão, tendo os neurônios colinérgicos. Tem como neurotransmissor a acetilcolina
-
----
-
-Sistema Sensorial - Formado pelos órgãos sensorial, responsável por captar os estímulos do ambiente e encaminhá-los ao sistema nervoso
-
-- Células Receptoras (ou Transdutoras ou Receptores Sensoriais) - Células que detectam sinais físicos (luz, pressão) ou químicos (pH, concentração)
-  
-  - Tipos por Natureza
-    
-    - Quimiorreceptores - Detectam a concentração de substâncias químicas. Ex: olfato e gustação
-    - Mecanorreceptores - Detectam variação de pressão e movimento. Ex: tato, audição e equilíbrio
-    - Fotorreceptores - Detectam intensidade luminosa. Ex: visão
-    - Termorreceptores - Detectam temperatura
-    - Eletrorreceptores - Detectam campos elétricos
-  
-  - Tipos por Origem
-    
-    - Exteroceptores - Detectam estímulos do ambiente externo
-    - Proprioceptores - Informam sobre a posição dos braços, pernas e cabeça
-    - Interoceptores - Detectam fatores internos como pH, pressão osmótica e composição sanguínea
-
-- Tipos de Sensações
-  
-  - Olfação - É o cheiro, detectado por órgãos olfatórios localizados no septo nasal
-  
-  - Gustação (ou Gosto) - Detectado por receptores na língua e faringe
-    
-    - Papilas Linguais (ou Gustativas ou Gustatórias) - Projeções na língua onde ficam os receptores gustativos
-  
-  - Orelha - Órgão responsável tanto pela audição quanto pelo equilíbrio
-    
-    - Orelha Externa - Formada pelo pavilhão auditivo (ou aurícula, sendo a orelha em si) e o meato acústico externo (ou canal auditivo)
-    
-    - Orelha Média
-      
-      - Ossículos Auditivos - Ossos que participam da audição. São o martelo, bigorna e estribo, o primeiro conectado à membrana timpânica no final do canal auditivo, que vibra na presença de som e causa o movimento dos ossículos
-    
-    - Orelha Interna
-      
-      - Labirinto Ósseo - Rede de canais e câmaras, sendo preenchidas por líquido
-        - Cóclea - Região do labirinto responsável pela audição, sendo um espiral conectado ao estribo pela janela do vestíbulo, convertendo a vibração em impulsos nervosos
-        - Labirinto Vestibular - Responsável pelo equilíbrio, que é detectado por cílios que são sensitivos ao movimento do líquido interno, além de grãos de carbonato de cálcio presentes nele
-  
-  - Visão - Tem como órgão responsável o olho
-    
-    - Córnea - Membrana transparente que protege o olho
-    
-    - Íris - Músculo formado por fibras circulares, controlando a abertura da pupila
-    
-    - Pupila - Abertura do olho, por onde entra os raios luminosos
-    
-    - Cristalino (ou Lente) - Estrutura ligada a músculos, responsável pela focalização dos objetos
-    
-    - Humor Vítreo - Líquido que preenche o olho
-    
-    - Retina - Camada de trás que capta e converte a luz em impulsos nervosos
-      
-      - Cones - Células que detectam as cores
-      - Bastonetes - Células responsáveis pela visão em preto e brancos
-
-## Cap. 12
-
-Glândulas - Tipo de tecido epitelial que libera secreção
-
-- Exócrinas - Liberam secreções no meio externo ou em cavidades corporais. Ex: sudoríferas (suor)
-
-- Endócrinas - Liberam a secreção (chamada de hormônio) diretamente no sangue. Ex: tireoide
-  
-  - Hormônios - Secreções de peptídeo, proteína ou esteroide que controlam funções corporais específicas, servindo como mensageiros químicos
-    - Células-Alvo - Células que são estimuladas por hormônios específicos, por terem receptores delas em sua membrana
-
----
-
-Sistema Endócrino - Sistema responsável por manter a homeostase corporal (equilíbrio), formado pelas glândulas endócrinas
-
-- Feedback (ou Retroalimentação) - Mecanismo em que uma glândula estimula outra glândula-alvo (feedback positivo), e essa inibe a ação da primeira (feedback negativo). Isso ajuda no equilíbrio da concentração do hormônio
-  
-  - Trofinas (ou Tróficos) - Hormônios que estimulam outras glândulas endócrinas
-
-- Glândulas Endócrinas
-  
-  - Hipófise (ou Glândula Pituitária) - Localizada na base do encéfalo, ligada ao hipotálamo
-    
-    - Adenoipófise (ou Hipófise Anterior) - Região da hipófise que secreta a maioria de seus hormônios
-      
-      - Hormônio de Crescimento (GH, ou Somatotrofina ou Somatotropina) - Estimula o crescimento corporal, atuando em quase todos os tecidos. Sua produção reduz após a puberdade
-      
-      - Hormônio Estimulante da Tireoide (TSH, ou Tireotrofina) - Estimula a secreção de T<sub>3</sub> e T<sub>4</sub> pela tireoide
-      
-      - Hormônio Adrenocorticotrófico (ACTH, ou Adrenocorticotrofina) - Estimula as glândulas suprarrenais
-      
-      - Hormônios Gonadotróficos (ou Gonadotrofinas) - Estimulas as gônadas (testículos e ovários)
-        
-        - Hormônio Folículo Estimulante (FSH) - Estimula a produção de estrógeno ou a de espermatozoides
-        - Hormônio Luteinizante (LH) - Promove a ovulação e produção de progesterona ou de testosterona
-      
-      - Prolactina (ou Hormônio Lactogênico) - Estimula a produção de leite nas glândulas mamárias
-    
-    - Neuroipósife (ou Hipófise Posterior) - Região que não produz hormônios, apenas secretando os produzidos pelo hipotálamo
-      
-      - Ocitocina - Estimula a contração do útero durante o trabalho de parto, além da ejeção de leite pelas glândulas mamárias
-      - Hormônio Antidiurético (ADH, ou Vasopressina) - Ajuda a reduzir o volume de urina produzida, economizando água
-  
-  - Epífise (ou Glândula Pineal) - Fica na base do cérebro. Produz a melanina, que estimula o sono
-  
-  - Tireoide - Localizada no pescoço
-    
-    - Tri-Iodotironina e Tiroxina (T<sub>3</sub> e T<sub>4</sub>) - Aumentam o metabolismo corporal (de carboidratos e gordura, aumento da frequência cardíaca)
-    - Calcitonina - Promove a retirada de cálcio do sangue para os ossos
-    - Doenças da Tireoide
-      - Hipertireoidismo - Há o aumento do tamanho da tireoide, e logo da produção de hormônios. Causando alta excitabilidade, perda de peso e outros
-      - Hipotireoidismo - Degeneração da tireoide, causando diminuição na produção de hormônios
-      - Bócio Endêmico - Grande aumento no volume da tireoide, pela falta de iodo e logo de T<sub>3</sub> e T<sub>4</sub>
-  
-  - Paratireoide - Fica na parte posterior da tireoide
-    
-    - Paratormônio (PTH) - Retira cálcio dos ossos para o sangue, sendo antagonista da calcitonina
-  
-  - Suprarrenais (ou Adrenais) - Ficam em cima de cada rim
-    
-    - Córtex - Região mais externa, liberando hormônios esteroides
-      - Glicocorticoides - São o cortisol (ou hidrocortisona) e corticosterona, aumentando a produção de carboidratos por gordura e proteína
-      - Mineralocorticoides - Regulam a quantidade de sal e água no corpo. Ex: aldosterona
-      - Andrógenos - Nas mulheres, viram estrógeno
-    - Medula - Região mais interna
-      - Adrenalina e Noradrenalina (ou Epinefrina e Norepinefrina) - Liberados durante exercício físico e estresse, aumentando a atuação do sistema nervoso simpático
-  
-  - Pâncreas - Produz o suco pancreático (exócrino) e hormônios
-    
-    - Ilhas Pancreáticas - Glândulas endócrinas do pâncreas
-      - Células α - Produzem o glucagon
-      - Células β - Produzem a insulina
-      - Insulina - Liberada quando há grande concentração de glicose no sangue (hiperglicemina), facilitando sua entrada na célula e seu armazenamento na forma de glicogênio. Também aumenta a absorção de aminoácidos
-      - Glucagon - Liberado quando há baixa concentração de glicose no sangue (hipoglicemia), quebrando o glicogênio e transformando aminoácidos em glicose (gliconeogênese)
-    - Diabetes Melito - Síndrome em que há excesso de glicose no sangue. Tem como sintomas sede constante, grande quantidade de urina (a glicose dificulta a reabsorção de água nos rins), fraqueza e aumento do colesterol
-      - Tipo 1 (ou Dependente de Insulina) - Causado pelo comprometimento das células β, por genética, vírus ou doenças autoimunes. Tem como tratamento a injeção de insulina
-      - Tipo 2 (ou Adulto ou Resistente à Insulina) - Há a diminuição dos receptores de membrana para a insulina, dificultando a sua ação nas células. Tratado por dietas, perda de peso e exercícios físicos regulares
-  
-  - Gônadas - Os ovários e testículos
-    
-    - Estrógeno e Progesterona - São os hormônios dos ovários, determinando características sexuais secundárias femininas, o ciclo menstrual e fazem a manutenção da gravidez
-    - Testosterona - Hormônio dos testículos, determinando características secundárias masculinas e a produção de espermatozoides
-
----
-
-Anabolizantes - Tipo de hormônios esteroides que estimulam o crescimento e desenvolvimento dos tecidos, podendo ser usados como forma de doping para aumentar massa muscular, mas esse uso pode causar problemas no fígado, hipertensão e atrofia dos testículos, entre outros
 
 # Biologia 2
-
-## Cap. 6
-
-Biotecnologia - Uso de seres vivos ou seus derivados para fabricar ou modificar produtos ou processos. Ex: fermentação, cruzamento de espécies, vacinas, clonagem, diagnósticos, biocombustíveis
-
-- Engenharia Genética - Manipulação do DNA de seres vivos
-  
-  - Organismos Geneticamente Modificados (OGMs) - Ser que teve seu material genético alterado
-    
-    - Transgênicos - OGMs que receberam genes de outra espécie
-    - Silenciamento Gênico - Um gene do ser é inativado
-  
-  - DNA Recombinante - Técnica em que fitas de DNA são cortadas e unidas pelo DNA ligase, normalmente feito com um plasmídeo e um DNA de outro ser, que pode ser introduzido em outro ser, usado para produzir uma enzima como insulina ou para criar cópias do DNA unido
-    
-    - Enzimas de Restrição (ou Endonuclease de Restrição) - Enzimas que cortam o DNA em sequências de nucleotídeos específicos (sítios de restrição)
-    - Gene Artificial - Uma fita de RNA é sintetizada em laboratório com um gene artificial, sendo transformado em DNA pela proteína transcriptase reversa
-  
-  - Vetores Virais - Modificação do DNA de um vírus para um de interesse, para quando o vírus infectar células esse material genético é introduzido
-    
-    - Terapia Gênica - Genes defeituosos são corrigidos e introduzidos no ser por vetores virais
-    - Terapia CART - Linfócitos T são modificados por vetores virais para expressar o receptor CAR que reconhece algumas células cancerígenas
-    - Células-Tronco Pluripotentes Induzidas (iPS) - Células somáticas voltam a ser pluripotentes por vetores virais
-  
-  - CRISPR - Técnica de edição do DNA de forma específica. Utiliza a enzima Cas9 e o RNA guia para cortar partes específicas do DNA, direcionadas pela ligação do RNA CRISPR ao DNA
-  
-  - Biobalística - Partículas pequenas de metal pesado são revestidas de DNA e atiradas a alta velocidade nas células, chegando ao núcleo da célula
-  
-  - RNA de Interferência - Um RNA complementar a um RNAm é introduzido, levando ao pareamento e a interrupção da formação da proteína do RNAm
-
-- Eletroforese - Técnica em que fitas de DNA são colocadas em um gel poroso, separando-os por tamanho por meio de um campo elétrico
-  
-  - DNA Fingerprint (ou Identificação por DNA) - Técnica de diferenciação de indivíduos pelo DNA, comparando bandas de DNA formadas na eletroforese por meio da divisão do DNA pelas regiões intergênicas, regiões entre genes funcionais em que há a repetição de sequência de nucleotídeo
-
-- Células-Tronco - Células indiferenciadas, podendo se diferenciar em qualquer tipo de célula, por meio da expressão de genes específicos de DNA
-  
-  - Totipotentes - Células-tronco que se diferenciam em qualquer célula, inclusive anexos embrionários. Encontrado na mórula
-  - Pluripotentes - Células-tronco que se diferenciam em qualquer célula, menos os anexos embrionários. Encontrado na blástula
-  - Multipotentes - Células-tronco que se diferenciam em células de mesma origem embrionária do tecido. Encontrado na medula óssea (células sanguíneas)
-  - Unipotentes - Células-tronco que se diferenciam em células do mesmo tecido. Encontrado nos tecidos
-
-- Clonagem Reprodutiva - Produção de um indivíduo geneticamente igual a outro. O núcleo de uma célula somática do indivíduo clonado é colocada em um óvulo cujo núcleo foi retirado
-
-- Clonagem Terapêutica - Técnica de tratamento de doenças degenerativas, genéticas e para transplantes, onde é formado um óvulo da mesma forma que na clonagem reprodutiva, mas as células pluripotentes do embrião são retiradas, para ser usada sua capacidade regenerativa
-
-- Proteína C-Reativa (PCR) - Técnica de multiplicação de DNA, pela desnaturação (quebra) e anelamento (preenchimento dos fragmentos)
-
-- Sequenciamento do Genoma - Processo de determinação da sequência de bases do DNA
-
-## Cap. 7
-
-Pré-Formismo - Crença antiga de que os seres já eram pré-formados nos gametas
-
-Genética - Estuda a hereditariedade
-
-- Hereditariedade - Transmissão de características de um indivíduo para filhos. Depende dos genes, transferidos pelos gametas
-
-- 1a Lei de Mendel (ou Lei da Segregação Independente) - Diz que características de um ser são determinadas por genes no material genético, que é um par de alelos
-  
-  - Gregor Mendel - Responsável por criar as bases para a genética, pelos seus experimentos com características de ervilhas *Pisum sativum*, por ter ciclo de vida curto, várias sementes, autofecundação e características simples, como cor e forma da flor, semente e vagem
-  
-  - Alelo - Forma o gene, com um vindo do pai e outro da mãe, pela separação dos alelos deles na meiose I. Representado por A ou a
-  
-  - Gene - Determina uma característica em um ser, sendo representado por AA, Aa ou aa
-    
-    - Genoma - Conjunto de genes de um ser
-  
-  - Dominância - Quando uma característica precisa de apenas um alelo para se manifestar. Representado por AA ou Aa
-  
-  - Recessividade - Quando uma característica precisa dos dois alelos para se manifestar. Representando por aa
-  
-  - Homozigose (ou Pureza) - Quando o par de alelos é igual. Pode ser dominante (AA) ou recessivo (aa)
-  
-  - Heterozigose (ou Hibridez) - Quando o par de alelos é diferente, sendo dominante (Aa)
-  
-  - Genótipo - Conjunto de alelos de um ser, sendo imutável
-  
-  - Fenótipo - Características expressas pelo genótipo, mas que podem ser influenciadas por outros fatores
-
-- Cruzamento-Teste - Utilizado para determinar os alelos de um gene dominante em um ser, por poder ser AA ou Aa. É feito pelo cruzamento deste com um recessivo (aa). Caso seja AA, formará apenas dominantes (Aa), mas se for Aa, pode formar recessivos (aa)
-
-- Diagrama de Punnett - Representação do cruzamento de indivíduos para analisar os genótipos e fenótipos formados
-  
-  - Diagrama de Punnett para dois heterozigotos (Aa)| x | A  | a  |
-    | - | -- | -- |
-    | A | AA | Aa |
-    | a | Aa | aa |
-
-## Cap. 8
-
-Proporção Fenotípica - Proporção entre fenótipos formados em um cruzamento. Ex: Aa x Aa: AA, Aa, Aa, aa (proporção 3:1)
-
-Proporção Genotípica - Proporção entre genótipos formados em um cruzamento. Ex: Aa x Aa: AA, Aa, Aa, aa (proporção 1:2:1)
-
----
-
-Herança Dicotômica (ou Mendeliana) - Há um alelo dominante em relação ao outro, em que o homozigoto dominante (AA) e o heterozigoto (Aa) tem o mesmo fenótipo
-
-Dominância Incompleta (ou Herança sem Dominância) - O heterozigoto é um fenótipo intermediário, sendo diferente dos dois homozigotos, pois os dois alelos se manifestam. Nela, o genótipo e fenótipo são iguais
-
-- Herança Intermediária - O fenótipo do heterozigoto é um meio termo entre o dos homozigotos. Ex: flor vermelha (VV), flor branca (BB) e flor rosa (VB)
-
-- Codominância - O fenótipo dos dois alelos ficam aparentes, mas não misturados. Ex: gado vermelho (VV), gado branco (BB) e gado malhado (branco e vermelho, VB)
-  
-  - Ruão - Pelagem com mais de uma cor, podendo ser causada pela codominância
-
----
-
-Alelos Letais - Quando um dos alelos em homozigose causa a morte do ser. Nela, os seres que morrem não participam da proporção fenotípica e genotípica. Ex: camundongo amarelo (Aa), camundongo aguti (aa), gene letal (AA)
-
----
-
-Expressão Gênica - Como o gene é traduzido em moléculas, que resultam no fenótipo. Não dependem apenas do gene em si, mas também de fatores como outros genes e fatores ambientais
-
-- Pleiotropia - Ocorre quando um único gene é responsável por mais de uma característica
-  
-  - Síndrome de Marfan - Doença autossômica dominante com pleiotropia, causada pela mutação de um gene específico, resultando na não produção de fibrilina, causando estatura alta, dedos longos, depressão no tórax e problemas na artéria aorta
-
-Expressividade Gênica - É o modo e intensidade que um gene se manifesta, que pode variar (expressividade variável)
-
-- Polidactilia - Doença autossômica dominante com expressividade variável, que tem como consequência a formação de dedos a mais, podendo ocorrer nas mãos, pés ou ambos
-
-Penetrância - Proporção de pessoas com um genótipos que possuem o fenótipo esperado. Pode ser completa (sempre tem fenótipo) ou incompleta
-
----
-
-Epigenética - Estuda as mudanças de fenótipo que não são causadas pela alteração do DNA, e sim por outros fatores (estresse, deficiência nutricional, agente poluente...)
-
-- Metilação - Fenômeno causado pelos fatores anteriores em que há a inserção do grupo metil ao DNA, interferindo nas regiões de genes promovidos
-
-## Cap. 9 [NÃO FEITO]
 
 ## Cap. 10
 
@@ -766,72 +220,83 @@ Tipos Sanguíneos (ou Grupos Sanguíneos) - Sistemas de classificação do sangu
 
 - Sistema MN - Outro sistema, caracterizado pela presença dos antígenos M e N, com os tipos N (só o antígeno N), M e NM (ambos os antígenos), sendo condicionado por alelos codominantes
 
-# Educação Física
+## Cap. 13 [NÃO FEITO]
 
-## Lutas
+## Cap. 14 [NÃO FEITO]
 
-Lutas Modernas
+# Biologia SSA [A CONFIRMAR]
 
-- Karatê - Arte marcial japonesa com foco em golpes de impacto e defesa com foco nas mãos e pés
-- Taekwondo - Arte marcial coreana focada em chutes altos e rápidos, com uso de protetores
-- Muay Thai - Arte marcial tailandesa com foco nos punhos, cotovelos, joelhos e canelas
-- Judô - Arte marcial japonesa com objetivo de desequilíbrio e imobilização, sendo luta de chão
-- Sumô - Japonesa, com objetivo de desequilibrar ou empurrar o outro para fora de um círculo, com empurrões e agarrões
-- Mixed Martial Arts (MMA) - Luta que mistura técnicas de diversas artes marciais, com regras mais amplas
-- Kickboxing - Mistura socos do boxe com técnicas de chute
-- Boxe - Usa apenas os punhos para defesa e ataque, ocorrendo em um ringue quadrado
+## Fungos
+
+Fungi - Reino dos fungos, seres eucariontes uni ou pluricelulares, com parede celular de quitina e reserva energética de glicogênio
+
+- Micélio Vegetativo - Parte vegetativa (não reprodutiva) do fungo, formada por ramificações de hifas emaranhadas. Fica no interior do solo
+  
+  - Hifas - Filamentos enchidos de citoplasma e com diversos núcleos
+    
+    - Septadas - Com divisões
+    
+    - Cenocíticas - Sem divisões
+
+- Micélio Reprodutivo - Parte reprodutiva do fundo, formado pelos corpos de frutificação. Fica voltado para o ar
+  
+  - Corpos de Frutificação - Estruturas formadas durante o ciclo reprodutivo sexuado
+
+- Reprodução
+  
+  - Assexuada - Pode ocorrer por brotamento, fragmentação, esporulação (liberação de esporos) e mitose
+  - Sexuada - Ocorre pelo encontro do material genético de duas hifas
+    - Plasmogamia - Fusão dos citoplasmas das células, sendo a fecundação
+    - Cariogamia - Os dois núcleos se juntam, formando um ser diploide
+    - Esporângio - Estrutura formada por meiose que libera esporos, que germinarão e formarão um novo ser
+  - Classificação
+    - Chytridiomycetes (ou Quitridiomicetos) - Possuem hifas cenocíticas e formas esporos flagelados
+    - Zygomycota (ou Zigomicetos) - Possuem hifas cenocíticas, normalmente vivendo no solo. Ex: bolor negro
+    - Ascomycota (ou Ascomicetos) - Quando unicelulares, são as leveduras. Possuem hifas septadas. Ex: penicilina
+    - Basidiomycota (ou Basidiomicetos) - Capazes de degradar a lignina, além de formarem os cogumelos. Possuem hifas septadas
+    - Deuteromycota (ou Deuteromicetos) - Fungos sem classificação definida
+  - Micorrizas - Mutualismo entre fungos e raízes de plantas
+  - Líquens - Mutualismo entre fungos e cianobactérias
+
+## Micoses
+
+Micoses - Doenças causadas por fungos
+
+Micologia - Estuda as micoses
+
+---
+
+Tipos de Micoses
+
+- Superficiais (ou Cutâneas ou Dermatofitoses) - Há a invasão do fungo na pele, pelos ou unhas
+  
+  - Piedra Negra - Há a formação de nódulos duros e escuros nos pelos. Causado por *Piedra hortae*
+  
+  - Piedra Branca - Nódulos de hifas esbranquiçados. Causado por *Trichosporon*
+  
+  - Pitiríase Versicolor (ou Pano Branco) - Causado por *Malassezia*, já comumente presente na composição da pele, mas que pode formar hifas em baixas de imunidade
+  
+  - Candidíase - Causado por *Candida*, também comumente encontradas no corpo e intestino, mas podendo formar hifas
+  
+  - Esporotricose - Causa irritação da pele, sendo subcutânea. Causada por *Sporothrix schenckii*
+
+- Profundas (ou Sistêmicas) - Adquiridas pela inalação de esporos, normalmente causando problemas no pulmão, mas podendo entrar no sangue e ir ao resto do corpo
+  
+  - Histoplasmose - Causada por *Histoplasma capsulatum*, podendo se disseminar na pele, medula óssea, cérebro, fígado ou baço em baixas do sistema imunológico
+  
+  - Criptococose - Infecção pulmonar causada por *Cryptococcus neoformans*, tendo sintomas parecidos a pneumonia
+  
+  - Paracoccidiodomicose - Micose profunda mais comum do Brasil. Causada por *Paracoccidioides brasiliensis*. Mais comum em agricultores pelo contato com o solo
+
+## Plantas [NÃO FEITO]
+
+## Briófitas [NÃO FEITO]
+
+## Pteridófitas [NÃO FEITO]
 
 # Filosofia
 
-## Cap. 4
-
-Utilitarismo - Filosofia moral (prática) que avalia ações por suas consequências (consequencialismo), buscando maximizar o bem estar coletivo
-
-- Jeremy Bentham - Criador do utilitarismo, defendendo que é preciso fazer a soma das felicidades individuais para o cálculo, que deveria ser uma das funções do governo, garantindo a felicidade máxima com normas e alta vigilância
-  
-  - Cálculo da Felicidade ou Dor - Deve ser feitas para as ações, avaliando o nível de felicidade, que deve ser o maior possível (intensidade), para o maior número de pessoas (alcance) e pelo maior tempo (duração)
-  - Panóptico - Símbolo da filosofia de Bentham, sendo edifício circular com celas ao redor do pátio, e no meio uma torre de vigilância. Os prisioneiros sabem que são vigiados, mesmo sem ver os guardas, reparando seu comportamento sem ordens diretas
-
-- John Stuart Mill - Era contra a ideia de Bentham, defendendo que a vigilância excessiva ameaça a liberdade, além de ser contra os cálculos fixos de felicidade. Defende uma sociedade focada na participação política e ampliação das oportunidades
-  
-  - Individualismo - Respeito ao indivíduo, defendido por ele, pois a liberdade coletiva pode ameaçar a liberdade individual
-
-## Cap. 5
-
-Friedrich Nietzsche - Conhecido como "filósofo do martelo", sendo considerado a transição entre filosofia moderna e contemporânea
-
-- Verdade - Ele era contra a verdade absoluta, primordial, dizendo que é uma ilusão
-  
-  - Razão - Também era contra, bem como a moral, por serem fontes da verdade. Defende que, junto com a verdade e Deus, foram criados pelo homem por medo
-  
-  - Religião - Era contra como a razão, por ser um conjunto de leis morais consideradas absolutas, sobretudo sendo contra o cristianismo
-    
-    - Paulo de Tarso - Criticado por Nietzsche, por criar os dogmas
-    
-    - Dogmas - Conjunto de leis morais consideradas absolutas
-      
-      - Moral de Escravo (ou Moral de Rebanho) - Defende que os dogmas são usados como meio de dominação, submetendo o homem a uma moral
-  
-  - Busca pela Verdade - Considera que afastou a filosofia de sua verdadeira finalidade, que deve ser o agora, a vida, que é manifestada pela vontade, prazer e gosto, e é muitas vezes negada por ela. Por isso, critica filósofos como Sócrates e Platão
-    
-    - Niilismo - Negação da vida. Ex: cristianismo (nega a vida por uma recompensa após a morte)
-    - Sócrates - Comparado a Jesus, por ambos serem mártires valorizados pelas suas humildades, trajetórias de vida e por serem injustiçados. Para ele, o problema é que guiam para um futuro não confirmado (verdade absoluta e vida após a morte)
-  
-  - "Deus está morto" - Manifesta a necessidade do fim da moral cristã, além da razão, que substituiu Deus após o iluminismo, ambos metafísicos
-
-- Dualidade - Defende a necessidade de união entre a razão (filosofia) e emoção (arte), formando uma nova totalidade
-  
-  - Apolo - Divindade da clareza e harmonia, utilizado como metáfora para a razão, pensamento racional. Defende que Apolo foi herdado na filosofia ocidental desde os gregos
-  - Dionísio - Divindade do vinho, festa, utilizado como metáfora para a emoção, excesso e paixão, ainda presente nas artes
-
-- Transvaloração de Valores - A destruição de todos os valores já estabelecidos para haver o surgimento de novos valores
-  
-  - Vontade de Potência - Vontade que é uma força afirmadora da vida, crucial para a transvaloração. É fortalecida pela emoção, paixão, arte, entretenimento e enfraquecida pela moral cristã, trabalho repetitivo
-  - Super-Homem (ou Übermensch) - Surge após a transvaloração dos valores
-
-- Tempo - É visto como circular, metáfora que busca mudar o modo de vida
-
-## Cap. 6
+## Cap. 1 [INACABADO]
 
 Fenomenologia - Corrente criada por Edmund Husserl que busca entender a experiência subjetiva e objetiva, bem como a essência das coisas, sendo contra o psicologismo (baseado no relativismo), sem passar por processo de julgamento
 
@@ -854,177 +319,13 @@ Merleau-Ponty - Filósofo que fala sobre a aplicação da fenomenologia na perce
   - Pensamento - É visto como parte da experiência corporal, não sendo separado do resto da natureza (mundo físico)
   - Linguagem - É vista como objeto de uma consciência, dando existência ao pensamento mas de forma parcial (intencional)
 
-# Geografia
+## Cap. 2 [NÃO FEITO]
 
-## Cap. 7
+## Cap. 3 [NÃO FEITO]
 
-Cidade - Aglomerado humano concentrado, organizado em ruas e com ampla presença de serviços do setor terciário
+## Cap. 4 [NÃO FEITO]
 
-- Função Urbana - Atividade econômica predominante da cidade
-
----
-
-Urbanização - Concentração da população de um local na área urbana. Causada pelo êxodo rural, industrialização e crescimento vegetativo urbano
-
-- Urbanização de Países Desenvolvidos - Ocorreu de forma lenta e ordenada, como na Europa e posteriormente mais rápida nos EUA e Japão
-
-- Urbanização de Países em Desenvolvimento e Subdesenvolvidos -  Ocorreu de forma rápida e caótica, como no Brasil
-  
-  - Urbanização Brasileira - Iniciou no Sudeste pela industrialização, depois Centro-Oeste pela concentração agrícola, depois no Sul, Norte e Nordeste
-
----
-
-Rede Urbana - Conjunto de cidades de um local conectadas por transporte e telecomunicações
-
-Hierarquia Urbana - Classificação das cidades de uma rede urbana de acordo com seu tamanho, economia e influência em outras cidades
-
-- Metrópole - Cidade formada por vários municípios conectados com grande influência nacional
-  
-  - Região Metropolitana - Cidades conurbadas (unidas por causa do crescimento urbano)
-  - Metrópole Mundial (ou Cidade Global) - Metrópole com grande influência econômica internacional
-  - Megacidades - Cidades com mais de 10 milhões de habitantes
-  - Megalópole - União de várias metrópoles/regiões metropolitanas
-  - Metropolização - Processo de conurbação de cidades, com o desaparecimento de limites visíveis entre elas, formando as metrópoles
-    - Desmetropolização - Ocorre quando o crescimento de pequenas e médias cidades supera o das grandes metrópoles
-
----
-
-Tipos de Cidade por Origem - Espontânea ou planejada
-
-## Cap. 8
-
-Poluição Atmosférica - Causada pela emissão de poluentes (como CO2, CO, CH4, NOx e SO2), sobretudo por indústrias, termelétricas e veículos. Causa o aumento de doenças cardiorrespiratórias
-
-- Inversão Térmica - Fenômeno em que, ao invés de ocorrer o fluxo de convecção normal do ar (ar quente sobe e frio desce), o ar de baixo resfria mais que o do alto, impedindo o fluxo, dificultando a saída do ar frio e logo a dispersão de poluentes. Ocorre mais durante o inverno. Aumenta doenças cardiorrespiratórias
-- Chuva Ácida - Chuva com caráter ácido, pela formação de ácido sulfúrico e nítrico a partir dos poluentes SO2 e NO2 e o vapor d’água. Causa a corrosão de edifícios e danos ao solo, fauna e flora e recursos hídricos
-
----
-
-Impermeabilização do Solo - Causada pela falta de áreas verdes e superfícies permeáveis pelo adensamento urbano
-
-- Ilhas de Calor - Aquecimento em áreas mais edificadas, em que eles prendem o calor, e há a falta de áreas verdes para facilitar a circulação de ar. Pode levar ao aumento de doenças e afetar as chuvas urbanas
-  - Verticalização - Crescimento para cima de uma cidade, pela construção de prédios cada vez mais altos, gerando tanto fatores como as ilhas de calor, quanto a segregação racial
-- Enchentes - Alagamento de vias pavimentadas, podendo causar danos econômicos e sociais, além de provocarem a proliferação de doenças e poluição de rios
-
----
-
-Desmatamento - Pela expansão urbana, causada pelo aumento populacional. Causa danos à fauna e flora, diminuindo a biodiversidade
-
-Lixo - Causado pela maior produção e consumo de produtos, além da destinação do lixo gerado por eles (como os lixões), e a falta de destinação correta (reciclagem, coleta seletiva, aterro sanitário). Sua decomposição gera o gás de efeito estufa metano, além do líquido chorume, que pode poluir o solo e lençóis freáticos
-
-- Tipos de Lixo
-  
-  - Lixo Doméstico - Lixo gerado no dia a dia
-  - Lixo Industrial - Resíduos gerados por indústrias, como produtos químicos
-  - Lixo Hospitalar - Lixo de material infectado, devendo ser incinerado
-  - Lixo Eletrônico - Produtos eletrônicos, causando danos graves ao meio ambiente se descartados de forma incorreta
-
-- Aterro Sanitário - O lixo é enterrado e seus produtos são tratados
-
-- Aterro Controlado - O lixo é apenas enterrado. É melhor que o lixão, mas ainda polui o ambiente. Usado por ser mais barato que o aterro sanitário
-
----
-
-Falta de Moradia (ou Déficit Habitacional) - Pela pobreza, especulação imobiliária e falta de planejamento urbano decorrente do crescimento industrial tardio, causando favelização, periferização e segregação social
-
-Falta de Mobilidade - Pela superpopulação e baixa qualidade de transporte urbano
-
-Gentrificação (ou Retrofit) - Recuperação/revitalização de centros urbanos, pela modernização tecnológica. Causa aumento dos valores imobiliários e logo custos de moradia, podendo causar a expulsão e substituição de famílias tradicionais de um local por mais abastadas
-
-## Cap. 9
-
-Agricultura - Atividade do setor primário caracterizada pelo cultivo de vegetais. Foi a evolução da coleta para o plantio
-
-Pecuária - Criaçaõ de animais para uso de alimentação, transporte e pesquisa, entre outros
-
----
-
-Tipos de Agricultura
-
-- por Finalidade
-  
-  - de Subsistência - Para consumo próprio
-  - Comercial - Para venda
-
-- por Técnica (ou Rendimento do Solo) - Dependem da terra, da quantidade de trabalho, de capital e do mercado
-  
-  - Extensiva - Baixa produtividade, com baixo investimento de capital e tecnológico. Ex: agricultura itinerante
-  - Intensivo de Mão de Obra - Alta quantidade de mão-de-obra e médio investimento de capital. Ex: agricultura empresarial
-  - Intensivo de Capital - Alto investimento de capital e pouca mão-de-obra, a qual é especializada, com grande uso de tecnologia e produtividade. Ex: agricultura contemporânea
-
-- 
-
-Tipos de Pecuária
-
-- Pecuária Extensiva - Caracterizada por rebanhos que vivem soltos, sem cuidados especiais, buscando seu próprio alimento, com menos mão-de-obra
-- Pecuária Intensiva - Caracterizada por rebanhos em pequenas área, com muitos cuidados de higiene e saúde, com alta produtividade
-
----
-
-Sistemas Agrícola
-
-- Agricultura Itinerante (ou Roça Tropical) - Utilização do desmatamento e queimada para cultivo, esgotando o solo rapidamente e causando a mudança para outro solo, sendo extensiva e de subsistência
-- Agricultura de Jardinagem - Caracterizado pela utilização de grande quantidade de mão-de-obra em pequenas e médias propriedades com base em uma estrutura familiar, com produtividade relativamente alta. Muito comum no Sudeste da Ásia
-- Contemporâneo (ou Agricultura 4.0) - Caracterizada pelo uso de tecnologia de ponta (drones, sensores, sistemas de rastreamento) e alta produção destinada para a indústria, sendo de precisão. Mais comum em áreas desenvolvidas
-
-Técnicas Agrícolas
-
-- Terraceamento - Construção de degraus em encostas de montanhas para reduzir escoamento superficial e controlar a erosão, além de torná-la cultivável
-
----
-
-Agronegócio - Toda a infraestrutura de preparação, produção, comercialização e escoamento de produtos agrícolas
-
-Agroindústria - Produção agrícola destinada para a industrialização, podendo haver o beneficiamento do produto
-
-Revolução Verde - Caracterizada pelo desenvolvimento da tecnologia na agropecuária (máquinas e insumos - adubo, fertilizante, agrotóxicos, OGMs), buscando o aumento da produção e produtividade de alimentos, mesmo em condições mais difíceis. COntudo, aumentou a poluição e desmatamento pela expansão de lavouras
-
-Agroecologia - Práticas agrícolas com finalidade de preservação da biodiversidade. Ex: agrofloresta
-
-- Agricultura Orgânica - Agricultura sem uso de agrotóxicos e pesticidas
-
----
-
-Agropecuária Mundial
-
-- Países Desenvolvidos - Caracterizado pelo alto uso de mecanização, capital e tecnologia, realizada em grandes e médias propriedades, além de baixa mão-de-obra, com produtividade e produção altos. Há maior foco em abastecimento interno, tanto para alimentação quanto para agroindústria, além de muitas políticas de incentivo
-  - Estados Unidos - Produção organizada em cinturões agrícolas, sobretudo de trigo, milho e algodão
-  - Europa - Caracterizado pela alta diversidade, organizada em pequenas propriedades familiares, sobretudo para o abastecimento da agroindústria. Contudo, há desigualdades entre o leste e oeste europeu, além de grande protecionismo, aumentando sua competitividade artificialmente
-- Países em Desenvolvimento - Há a coexistência da agricultura moderna (grandes propriedades, com alto uso de tecnologia e produtividade, para exportação) e tradicional (pequenas propriedades, grande mão-de-obra, e subsistência)
-  - China - Muitos incentivos estatais, com modernização recente, mas é limitada pela escassez de terras e água, havendo maior concentração na parte ocidental do país. Destaque para o cultivo de arroz, chá, cereais e algodão
-  - Índia - Grande parte da população ativa do país, com avanços tecnológicos recentes, mas limitada pela má infraestrutura de irrigação, abastecimento e comercialização
-  - África - Maior presença de sistemas de baixa produtividade, limitada falta de tecnologia e vulnerabilidade
-    - África Setentrional (ou Norte da África) - Há maior concentração ao redor do rio Nilo e na região do Magreb
-    - África Subsaariana - Maior foco em agricultura tradicional e local, além de plantation
-
----
-
-Agropecuária Brasileira - Maior presença de exportação, mas variando dependendo do desenvolvimento regional
-
-- Tipos
-  
-  - Tradicional (ou Familiar) - Caracterizada pela subsistência, pequenas propriedades, técnicas rudimentares e ser destinada ao mercado interno. Há dificuldades de baixa produção
-  
-  - Moderna (ou Patronal ou Empresarial) - Produção comercial (para o mercado externo), com grandes propriedades, alta mecanização e maior produtividade, além de grandes cadeias de agronegócio
-
-- Regiões
-  
-  - Sudeste - Maior concentração de agricultura moderna, com destaque para a soja, trigo e arroz
-    - Oeste Paulista - Principal região de agronegócio, pelo solo fértil (terra roxa) e planície, bem como a infraestrutura de transporte
-    - Triâgulo Mineiro - Fica na divisa do centro-oeste com sudeste, outra região de destaque
-    - Corredores de Exportação - Porto de Santos e Paranaguá como destaque
-  - Sul - Maior produção familiar do país, mas com presença de tecnologia, insumos e agronegócio, além da agropecuária comercial mais recentemente
-  - Centro-Oeste - Produção comercial consolidada recentemente, sobretudo por incentivos governamentais e mecanização e uso de insumos
-    - Calagem - Técnica de correção da acidez do solo, que contribuiu para o desenvolvimento da atividade no cerrado
-  - Nordeste - Maior produção familiar
-    - Sub-Regiões
-      - Zona da Mata - Maior foco em grandes propriedades para exportação, pela umidade
-      - Agreste - Agricultura familiar, pela umidade mais baixa
-      - Sertão - Familiar, sobretudo de algodão e milho
-      - Meio-Norte - Produção comercial sobretudo de arroz
-    - Vale do São Francisco - Região de destaque do nordeste, com agricultura de fruticultura
-    - Matopiba (ou Mapitoba) - Região mais recente de destaque no nordeste, com destaque para a produção de grãos e soja. Composta por Maranhão, Piauí, Tocantins e Bahia
-  - Norte - Presença tanto da agricultura tradicional quanto comercial (levando à intensificação do desmatamento)
+# Geografia [A CONFIRMAR]
 
 ## Cap. 10
 
@@ -1074,14 +375,20 @@ Revoluções Industriais - Períodos de transformações na produção por maqui
 - Primeira Revolução Industrial - Surgiu na Inglaterra, caracterizada pelo surgimento da maquinofatura, com a criação da máquina a vapor (surgindo o trem, por exemplo). Contudo, havia péssimas condições de trabalho, levando a revoltas
   
   - Fonte de Energia - Carvão mineral
+
 - Segunda Revolução Industrial - Caracterizado pelo maior desenvolvimento tecnológico, com o surgimento   do telégrafo, telefone, rádio, motor a combustão, além de organizações financeiras (bancos e bolsas) e blocos econômicos
+  
   - Fonte de Energia - Petróleo e eletricidade
   - Taylorismo - Sistema de produção que defendia a sistematização e especialização do trabalhador, buscando a eficiência máxima, com o gerenciamento científico do trabalhador
   - Fordismo - Outro sistema baseado no taylorismo, em que há a linha de montagem, e a padronização e produção em massa de um produto, visando produtividade e lucro máximo
+
 - Terceira Revolução Industrial (ou Revolução Técnico-Científica-Informacional) - Caracterizado pelo desenvolvimento de tecnologias de ponta (robótica, informática, telecomunicações, nanotecnologia) e fontes de energia alternativas, além da globalização
+  
   - Toyotismo - Sistema de produção baseado na flexibilidade no uso de mão de obra e a produção com base na demanda (just in time, JIT)
   - Desemprego Estrutural - Resultado da maior automação do trabalho
+
 - Quarta Revolução Industrial (ou Indústria 4.0) - A fase atual, caracterizada pelo uso da internet nas indústrias, além da integração de tecnologias desenvolvidas na terceira fase
+  
   - Volvismo - Sistema caracterizado pelo grande treinamento e flexibilidade do operário, que inclusive participa de decisões mais importantes da produção
 
 ---
@@ -1090,7 +397,9 @@ Desconcentração Industrial - Fenômeno recente de redução na concentração 
 
 - Tecnopolos (ou Polos Tecnológicos) - Regiões normalmente ao redor de universidades e centros de pesquisas, onde há a concentração de indústrias de alta tecnologia. Ex: Vale do Silício
 
-## Cap. 12
+## Cap. 11 [NÃO FEITO]
+
+## Cap. 12 [INACABADO]
 
 Industrialização Brasileira - Ocorreu de forma tardia, gerando rápida urbanização
 
@@ -1115,304 +424,102 @@ Industrialização Brasileira - Ocorreu de forma tardia, gerando rápida urbaniz
 
 - Globalização - Aumentou a entrada do capital estrangeiro, a privatização. O Brasil continua sendo um país de baixa importância no comércio industrial internacional, pela falta de infraestrutura de transporte e grande carga tributária, entre outros
 
+## Cap. 16 [NÃO FEITO]
+
+## Cap. 17 [NÃO FEITO]
+
+## Cap. 18 [NÃO FEITO]
+
 # História
 
-## Cap. 7
+## Cap. 12
 
-República da Espada - Período inicial da república brasileira, caracterizada pelo controle militar da presidência. Houve grande inspiração francesa e estadunidense para a república e nacionalismo, e houve discussões entre o liberalismo, positivismo e jacobinismo (republicanismo radical)
+Governo Provisório - Governo após o Golpe de 1930, liderado por Getúlio Vargas. Tinha como base o trabalhismo, nacionalismo e populismo, buscando favorecer as classes trabalhadoras urbanas. Houve o fortalecimento do poder pessoal de Vargas
 
-- Deodoro da Fonseca - Governo caracterizado pela retirada de influências do império, inflação, ampliação da cidadania e escolha do próximo presidente pela Assembleia Nacional enquanto era elaborada a constituição
+- Apoio - Classe média, burguesia (sobretudo os cafeicultores) e Exército (sobretudo tenentistas, incentivados por Vargas)
   
-  - Encilhamento - Houve a falência de muitas empresas nacionais pela especulação nas recém ampliadas bolsas de valores, além de muito fraude nelas
-
-- Constituição de 1891 - Primeira constituição republicana do Brasil. Caracterizado por oficializar o Estado laico, e garantir a liberdade de imprensa e habeas corpus
+  - Divisão dos Tenentes - Houve o fim do movimento tenentista, sobretudo pela falta de uma linha política específica, com muitos passando a apoiar o comunismo ou fascismo
   
-  - Sistema Eleitoral - Três poderes, eleição direta para presidente, membros do congresso nacional, governadores, congresso estadual, prefeitos e câmaras municipais, com voto semi-universal (exclui analfabetos e mendigos, e não era secreta, permitindo o fraude)
+  - Conselho Nacional do Café (CNC) - Organização estatal que promoveu a compra e estocagem de café, buscando recuperar seu valor após a Grande Depressão e o apoio dos cafeicultores. Funcionou, mas gerou estoques imensos qu eventualmente foram queimados
 
-- Floriano Peixoto - Houve a retirada de Deodoro do governo, assumindo o vice. Caracterizado por medidas favoráveis e combate a opositores do republicanismo, levando a Revolta da Armada. Houve muita instabilidade
+- Frente Negra Brasileira - Organização negra caracterizada pela denúncia ao racismo, mas foi abolida por Vargas pela filiação a governos de direita
 
-- Prudente de Morais - Caracterizado por mais instabilidade e transição para a república oligárquica
+- Revolução Constitucionalista (ou MMDC) - Levante armado/guerra civil liderada pela Frente Única Paulista contra o governo provisório para voltarem ao poder, exigindo a criação de uma constituição, já que o governo provisório ficava sendo adiado por Vargas. Eventualmente perderam, mas receberam baixa punição para "fazerem as pazes"
   
-  - Guerra de Canudos (ou do Belo Monte) - Conflito entre a oligarquia e o arraial de Canudos, na Bahia. Acabou com a derrota de Canudos
-    
-    - Canudos - Comunidade formada por pequenos proprietários fugindo da exploração da elite, caracterizada pelo messianismo (misticismo religioso). Foi vista como ameaça pela elite
-    - Antônio Conselheiro - Fundador e líder de Canudos, era contra a república e a favor da democracia
+  - Frente Única Paulista - União do PRP com o Partido Democrático, recebendo apoio sobretudo da classe média
+
+- Constituição de 1934 (ou Nova Carta) - Criada pela convocada Assembleia Constituinte. Caracterizada pelo voto feminino e secreto, leis trabalhistas, justiça eleitorial, centralização política nacionalização de empresas e monopólios estatais
+  
+  - Leis Trabalhistas - Justiça do Trabalho, liberdade dos sindicatos e regulamentação do trabalho
+  
+  - Disposições Transitórias - Estabeleceu que o primeiro presidente seria eleito por voto indireto pela Assembleia Constituinte, em que Vargas foi eleito
 
 ---
 
-República Oligárquica (ou Primeira República) - Período caracterizado pela política do café com leite e domínio dos coroneis, além da urbanização e modernização urbana, aumentando desigualdades sociais nas cidades, o aumento na produção de café e borracha e o aumento na criação de escolas e universidades
+Governo Constitucional - Também liderado por Vargas. Caracterizada pelo surgimento de movimentos políticos radicais
 
-- Coronelismo - Elite econômica (agrária, sobretudo cafeeira) e política que controla a população local, responsáveis pelo fraude nas eleições
-  
-  - Voto de Cabresto - Fraude eleitoral em que pessoas eram forçadas pelo coronel a votarem em quem ele quisesse
-  - Jagunços e Capangas - Matadores/seguranças que trabalhavam para o coronel, garantindo sua influência pela força
+- Ação Integralista Brasileira (AIB) - Movimento fascista contra a democracia, defendendo um governo autoritário, além do nacionalismo
 
-- Política do Café com Leite - Aliança entre as oligarquias de São Paulo e Minas Gerais para ficar no poder
+- Aliança Nacional Libertadora (ANL) - Movimento de oposição ao fascismo e autoritarismo, sendo comunista. Defendia a nacionalização de empresas, liberdade, governo popular e reforma agrária. Defendiam a criação de uma revolução pelas forças armadas para depois o povo a acompanhar. Foi ilegalizada por Vargas
   
-  - Oligarquia Estadual - Elite de coroneis que detém o poder estadual
-  - Política dos Governadores (ou dos Favores ou dos Estados) - O poder federal favorecia as oligarquias estaduais e não interviam e apoiavam fraude eleitoral estadual, e as oligarquias garantiam a eleição de pessoas do interesse federal
-
-- Revoltas
+  - Komitern - Órgão soviético que apoiava movimentos socialistas internacionais, dando ajuda financeira
   
-  - Cangaço - Reação ao coronelismo, miséria e exploração no setor agrário
+  - Intentona Comunista - Tentativa de revolução, mas ela não foi muito generalizada e acabaram perdendo, havendo a forte repressão a defensores do comunismo
     
-    - Lampião - Líder do processo
-    - Banditismo Social
+    - Comissão Nacional de Repressão ao Comunismo - Criada após a intentona. Também houve o aumento das forças policiais e diminuição do poder legislativo, pelo estado de guerra levantado, desrespeitando a constituição
+
+- Plano Cohen - Plano comunista para a obtenção do poder falso, fabricado pelo governo para realizar um golpe de Estado
+
+- Golpe - Houve o fechamento do Congresso, extinção de partidos políticos e suspensão das próximas eleições, instaurando uma Ditadura. Motivada pelo combate ao comunismo e preocupação acerca da seguranla nacional, sendo muito apoiada pelo Exército
+
+## Cap. 13
+
+Estado Novo - Governo autoritário de Vargas, caracterizado pela repressão, militarizaçãocombate ao comunismo. Não houve muita oposição
+
+- Intentona Integralista - Tentativa de golpe contra a recém-ditadura pelo Partido Integralista, mas falhou
+
+- Constituição (ou Polaca) - Foi criada uma nova constituição para legitimar o novo Estado, mas era autoritária, inspirada na semifascista da Polônia. Caracterizada pela centralização política (com o aumento da força policial) e medidas trabalhistas
   
-  - Guerra do Contestado - Revolta na fronteira do Paraná e Santa Catarina, pela expulsão de pessoas de terras para a implantação de uma ferrovia e exploração da madeira nessa região. Teve como líder o monge José Maria, também messiânico como Canudos
+  - Populismo - Aproximação do Estado aos trabalhadores urbanos, buscando agradá-los
   
-  - Revolta da Vacina - Revolta urbana no Rio de Janeiro, contra a vacinação obrigatória da varíola, além da miséria social causada pela urbanização
+  - Leis Trabalhistas - Houve a criação da CLT, além de outras medidas trabalhistas como salário mínimo
     
-    - Oswaldo Cruz - Médico responsável pela vacinação obrigatória, além de planejar o saneamento como um todo de Rio de Janeiro
-  
-  - Revolta da Chibata - Revolta no Rio de Janeiro pelos maus tratos, más condições e baixo salário a marinheiros na marinha nacional. Houve a ocupação de navios, mas foi duramente reprimido mas houve o fim do castigo físico
+    - Sindicatos - Eram controlados pelo Estado
     
-    - Almirante Negro - Líder do processo
+    - Consolidação das Leis Trabalhistas (CLT) - Implementa a jornada de trabalho máxima de 8 horas, a carteira assinada e férias remuneradas, por exemplo
 
-- Cafeicultura - Houve a expansão da produção do café, havendo a criação de ferrovias e portos para o escoamento do café, aumento da imigração europeia
+- Economia - Caracterizada pela intervenção do Estado na economia e substituição da importação. Tinha como base a cafeicultura, valorizada pelo estoque do café, mas que eventualmente foi substituída pela indústria
   
-  - Convênio de Taubaté - Criado para combater a queda no preço do café pela superprodução, por meio da compra pelo governo do excesso de café e estocando-o. Funcionou, mas ampliou a inflação
-
-- Salvações - Retirada do poder feita por Hermes da Fonseca pela substituição das oligarquias contra a política do café com leite. Foi combatida
-
-- Anexação do Acre - Resultado da ocupação de brasileiros de uma região desocupada da Bolívia, que acabou com a compra do Acre
-
-- Saneamento Físico - Processo de combate à inflação, que ocorreu por meio de empréstimos, negociação de dívidas e diminuição de gastos governamentais
-
-- Arte - Caracterizada pelo academicismo europeu, sobretudo na arquitetura, mas com temas brasileiros
-
-## Cap. 8
-
-Classes Sociais na República Oligárquica - Teve influência da expansão industrial e urbana, causada pelo grande crescimento populacional, influenciado pela entrada de imigrantes
-
-- Burguesia - Caracterizada pela elite industrial, que muitas vezes era também a elite cafeeira. Alguns defendiam maior autonomia, mas o vínculo com o café dificultou a oposição significativa
-
-- Operariado - Formado pelos trabalhadores urbanos, incluindo os imigrantes, que trouxeram influências do pensamento anarquista. Caracterizado pela formação de sindicatos, bem como protestos e greves por melhores condições de trabalho
-  
-  - Greve Geral - Ocorreu inicialmente em São Paulo, mas se expandiu para todo o país. Queriam direitos trabalhistas
-  - Partido Comunista Brasileiro (PCB) - Criado após a greve geral, com influências da revolução russa
-
-- Classe Média - Eram contra o coronelismo e fraude eleitoral (defendiam a moralização), mas tinham pouca participação política
-
-- Minorias - São os afrodescendentes e as mulheres, também tendo pouca participação, mas houve aumento de mobilizações, sobretudo feministas
-
----
-
-Semana da Arte Moderna - Evento que buscou romper com padrões tradicionais de arte, valorizando a liberdade de expressão e cultura brasileira
-
-Tenentismo - Ascensão de tenentes (jovens oficiais) no Exército, defendendo a moralização, com ideal de salvação nacional, além de serem contra restrições na ascensão militar. Por isso, simpatizou com a classe média
-
-- Revolta do Forte de Copacabana - Primeira revolta armada contra a oligarquia, ocorreu após a reação republicana
-  
-  - Reação Republicana - Estados como Rio de Janeiro, Rio Grande do Sul, Pernambuco e Bahia se juntaram, junto com o apoio da imprensa, para tentar desafiar a política do café com leite nas eleições, como o candidato Nilo Peçanha, que defendia a moralização. Porém, por causa de eleições fraudadas, perderam, criando insatisfação sobretudo no exército. Além disso, houve a intensificação de caráter autoritário nesse governo de Artur Bernardes
-
-- Revolução Paulista - Revolução que retirou o governador paulista do poder, criando um governo provisório que eventualmente foi combatido
-
-- Coluna Prestes - Revolta contra o governo liderada por Luís Carlos Prestes, com apoio dos revoltosos da Revolução Paulista, buscando reformas sociais e políticas
-
----
-
-Washington Luís - Governo marcado por mudanças técnico-científicas
-
----
-
-Revolução de 1930 - Golpe político, marcou o fim da república oligárquica, influenciada pela insatisfação de outros estados da política do café com leite, bem como a insatisfação popular. “Façamos a revolução antes que o povo a faça”
-
-- Eleições de 1930 - Composta por Júlio Prestes e Getúlio Vargas. Houve vitória de Prestes, mas a oposição acusou ele de fraude eleitoral, criando tensão
-  
-  - Júlio Prestes - Representando o PRP (partido republicano paulista). Pela política do café com leite, o próximo presidente deveria ser mineiro, causando a oposição do PRM (partido republicano mineiro)
-  - Getúlio Vargas - Representando o PRR (partido republicano rio-grandense), mas com forte apoio do PRM e da Paraíba (oligarquias dissidentes), formando a aliança liberal, sendo a favor da moralização e democratização, tendo amplo apoio da classe média e tenentes
-  - João Pessoa - Vice-presidente de Vargas, foi assassinado após a eleição, aumentando a tensão e levando ao golpe. Houve a retirada de Washington Luís, impedindo a posse de Júlio Prestes
-
-- Novo Governo - O golpe levou Vargas ao poder, criando um governo populista, nacionalista e trabalhista
-
-## Cap. 9
-
-Estados Unidos pré-Crise - Caracterizado por suposta prosperidade econômica, após se tornarem a maior economia do mundo após a 1a guerra mundial
-
-- American Way of Life - Visão difundida mundialmente do jeito americano de viver, caracterizado pelo consumo. Contudo, causou o aumento da concentração de renda e criminalidade
-
----
-
-Europa pré-Crise - Caracterizada pelos efeitos da 1a guerra mundial, além da dependência econômica dos EUA
-
----
-
-Crise de 1929 - Crise mundial do capitalismo, com o desequilíbrio dos Estados Unidos, mas causando efeitos de desequilíbrio mundiais. Ocorreu após a 2a guerra mundial
-
-- Causas
-  
-  - Superprodução - Produção em massa, característica do sistema fordista, intensificada ainda mais no setor bélico durante a 1a guerra mundial
-  
-  - Subconsumo - Causado pela pobreza e segregação racial, além de perda de mercados, com o consumo não acompanhando o crescimento na produção
-  
-  - Liberalismo Econômico - Dinâmica do capitalismo antes da crise, caracterizada pela não intervenção do Estado na economia. Causou a crise
-  
-  - Quebra da Bolsa de Valores de Nova Iorque (ou Quebra de Wall Street) - Evento que marca a crise de 1929, causado pela especulação financeira, criando uma bolha especulativa e gerando aparentes lucros sem ocorrer o aumento na venda de produtos
+  - Indústria - Cresceu de forma expressiva, baseada no controle Estatal das empresas. Ex: CSN (siderúrgica), Vale do Rio Doce
     
-    - Quinta-Feira Negra - Momento em que ocorreu a quebra, pela venda em massa de ações, pelo medo de um colapso
+    - Migração Interna - Houve grande migração interna, sobretudo para o Sudeste, pelo crescimento das indústrias
 
----
-
-Grande Depressão - Consequência da crise de 1929 nos EUA, caracterizado pela falência de empresas e bancos, desemprego em massa, diminuição de preços (deflação, causando ainda mais falência) e colapso do comércio internacional e da economia estadunidense
-
----
-
-New Deal - Política econômica estabelecida pelo presidente estadunidense Roosevelt, baseado em reformas financeiras buscando retirar o país da grande depressão, que se recuperou de forma lenta. Marca o fim do liberalismo clássico. Caracterizado pela intervenção do Estado na economia, estatização de empresas (gerando emprego e consumo, recuperando a produção e criando ainda mais emprego) e outras políticas de bem-estar social
-
-## Cap. 10
-
-Fascismo - Regime totalitário (ou autocrático) que surgiu antes da segunda guerra mundial, caracterizado pelo autoritarismo e unipartidarismo
-
-- Antiliberalismo e Antidemocracia - O fascismo é contra a democracia, defendendo uma desigualdade natural entre povos, sendo apenas uma minoria os "superiores", e a maioria, valorizada na democracia,"inferiores". Por isso, defendiam o autoritarismo
-- Nacionalismo Extremo - Caracterizado por racismo, xenofobia e antissemitismo (discriminação de judeus), havendo forte discriminação e intolerância, bem como o culto ao líder
-- Militarismo - Também era extremo, caracterizado pela disciplina, obediência, hierarquia, heroísmo e culto à beleza e forma física (que inclusive chegavam na sociedade comum), pois havia a ideia de disputa entre nações e valorização da guerra
-- Anticomunismo - Era contra a igualdade e internacionalização do comunismo, valorizando a superioridade de raças
-- Irracionalismo (ou Romantismo ou Simbolismo) - Havia forte uso da propaganda e da política, sobretudo para a adoração e exaltação do líder, com forte apelo emocional e carismático, buscando seduzir as massas
-- Corporativismo - Controle dos trabalhadores por meio de sindicatos controlados pelo Estado, disfarçado por meio da promessa de valorização do trabalho
-
----
-
-Nazismo - Regime fascista alemão, caracterizado pelo preconceito, forte política expansionista, intervenção do Estado na economia, que levou a um período de prosperidade econômica, e forte militarização e produção bélica
-
-- República de Weimar - Governo anterior ao nazista, que surgiu após a derrota na Primeira Guerra Mundial, caracterizada por forte crise política e econômica, sobretudo pelo Tratado de Versalhes, além da valorização da arte moderna
-
-- Partido Nazista - Partido radical e violento caracterizado pelo anticomunismo, antissemitismo e nacionalismo extremo. Liderado por Adolf Hitler. Teve grande crescimento, sobretudo pelo forte uso da propaganda e promessa de superação da crise. Hitler eventualmente se tornou primeiro-ministro e implantou uma ditadura
+- Urbanização - Houve o crescimento de cidades, com a construção demuitas pontes, viadutos e avenidas. Contudo, levou ao crescimento das periferias, gerando segregação social
   
-  - Putsch - Primeira tentativa de golpe, mas foi combatida
+  - Cangaço - Houve o crescimento do banditismo social do Nordeste pela perca de sua importância econômica. Liderada por Lampião
 
-- Führer - Nome dado à Adolf Hitler, o ditador alemão
-
-- Reich - Nome dado ao Império Alemão Nazista
-
-- Arianos - Raça "superior" defendida pelos alemãos, sendo necessário sua expansão
+- Departamento de Imprensa e Propaganda (DIP) - Controlava a censura e a propaganda do Estado (sobretudo no rádio), havendo a exaltação do presidente, visto como carismático
   
-  - Holocausto - Massacre da população judaica por meio dos campos de concentração e extermínio
+  - Cultura - Houve a valorização da criação de uma cultura única brasileira, buscando o que é "ser brasileiro", sendo liderada pelo movimento modernista, além da valorização dos recém criados patrimônios culturais
+    - Música - Uma das principais formas de arte valorizadas pelo governo, sobretudo o Samba, com muitas músicas de nacionalidade criadas noperíodo
 
-- Olimpíada de 1936 - Ocorreu na Alemanha, utilizada como forma de mostrar a evolução alemã, buscando provar a "superioridade de raça" nos eventos
-
-- Totalitarismo - Característica do regime nazifascista, pelo Estado controlar e vigiar todos os aspectos da vida e sociedade, ditadura política, em que o Estado também é o partido, culto ao líder
+- Composição Social Brasileira - Muito investigada nesse período
   
-  - Gestapo - Órgão de viligância
+  - Raízes do Brasil - Obra escrita por Sérgio Buarque de Holanda, falando sobre a cordialidade (tendência a priorizar desejos pessoais, contrariando a impessoalidade) do homem brasileiro e os problemas gerados por isso na vida pública, como corrupção
+  - Formação do Brasil Contemporâneo - Escrito por Caio Prado Júnior, defendendo a necessidade de uma mudança radical no país para combater a permanência da pobreza e dependência econômica
+  - Casa-Grande & Senzala - Escrito por Gilberto Freyre, defendendo a mestiçagem como fonte positiva na formação da identidade brasileira, defendendo uma sociedade sem segregação racial, pela mistura das raças. Muito valorizada pelo governo
 
----
+- Segunda Guerra Mundial - O Brasil inicialmente se posicionou de forma indecisa, mas eventualmente passou a apoiar os aliados, pelos Estados Unidos apoiando economicamente o país, buscando retirar influências do eixo na América, eventualmente declarando guerra ao eixo, com o FEB e FAB enviando tropas
 
-Fascismo Italiano - Regime fascista na Itália, caracterizado pelo militarismo e política de expansionismo agressivo
-
-- Partido Nacional Fascista - Surgiu após a Primeira Guerra Mundial, com a destruição econômica, social e política na Itália. Liderado por Benito Mussolini, era bem apoiada pela burguesia e Igreja, além do povo como um todo, por ser contra a esquerda e prometer a superação da crise econômica de 1929
+- Redemocratização - Vargas iniciou a diminuir o nível de censura, eventualmente reestabelecendo os partidos políticos e marcando eleições para 1945, visando ser eleito por "combater a ditadura"
   
-  - Marcha sobre Roma - Movimento do partido fascista que resultou na derrubada da monarquia e ascensão de Mussolini, que instaurou uma ditadura, por meio de fraude eleitoral e perseguição de líderes de outros partidos, que eventualmente levou à extinção dos três poderes
-  - Organização de Vigilância e Repressão ao Antifascismo (Ovra) - Organização de perseguição que contribuiu para a instauração da ditadura
-
-- Duce - Nome dado à Mussolini, o ditador
-
-- Eixo Berlim-Roma - Acordo de amizade entre a Alemanha nazista e a Itália fascista
-
-## Cap. 11
-
-Guerra Civil Espanhola - Guerra civil após a implantação do totalitarismo fascista na espanha por um golpe de Estado, gerando insatisfação interna. Houve a vitória fascista
-
-- Nacionalistas (ou Falange Nacional) - Eram a favor do fascismo, sendo os camponeses, parte da classe média, as elites, a Igreja e as Forças Armadas. Receberam apoio da Alemanha e Itália
+  - Queremismo - Defendia a redemocratização do país com Vargas no poder, sendo apoiada pelo PCB e PTB (partido trabalhista), e logo sobretudo por operários e sindicatos. Tinha como líder Luís Carlos Prestes
   
-  - Francisco Franco (ou General Franco) - Líder do fascismo espanhol
+  - Golpe de 1945 - Marcou o fim do Estado Novo, sendo um golpe armado realizado pelas Forças Armadas, recebendo apoio da classe média e das antigas oligarquias. Houve as eleições, mas sem a participação de Vargas
 
-- Republicanos - Defendiam um governo de esquerda, sendo contra o fascismo. Representado pelos operários, parte da classe média e anarquistas. Receberam apoio da URSS e das Brigadas Internacionais
-  
-  - Brigadas Internacionais - Grupos de voluntários antifascistas
+## Cap. 14 [NÃO FEITO]
 
-- Bombardeio de Guernica - Os nazistas bombearam, por um ataque aéreo, a cidade de Guernica para ajudar o governo fascista e mostrar sua superioridade
-  
-  - Guernica - Obra feita por Pablo Picasso que denúncia a violência desse ataque, se tornando símbolo da guerra
-
----
-
-Entreguerra - Período entre a primeira e segunda guerra mundial, marcada pelo domínio da França e Inglaterra, além da consolidação dos EUA como principal economia
-
-Segunda Guerra Mundial
-
-- Causas - Revanchismo alemão (sobretudo do Tratado de Versalhes), a ideologia nazista da raça ariana, expansionismo (busca por autossuficiência econômica), polarização ideológica (ideologias extremas opostas, gerando instabilidade política), militarismo e crise econômica (pela crise de 1929 e grande depressão)
-  
-  - Anchluss - Anexação da Áustria pela Alemanha, marcando o início do seu expansionismo e quebrando o Tratado de Versalhes
-  - Expansionismo Japonês - Mais motivados pela expulsão da Inglaterra e França da Ásia, e rivalidade com os EUA
-
-- Grupos
-  
-  - Eixo - Composto pela Alemanha (como líder), Itália e Japão, acabaram perdendo
-  
-  - Aliados - Composto pela Inglaterra (como líder, França e posteriormente a União Soviética e Estados Unidos
-    
-    - Brasil - Apoiaram os aliados, mas se envolveram pouco na guerra
-
-- Conferência de Munique - Conferência onde foi dada parte da tchecoeslováquia pelos aliados aos alemães em troca de fim do seu expansionismo
-
-- Eventos
-  
-  - Polônia - Foi invadida pelos nazistas, quebrando a Conferência de Munique, marcou o início da guerra, com França e Inglaterra declarando guerra à Alemanha
-  
-  - Blitzkrieg (ou Guerra-Relâmpago) - Táctica militar que levou as vitórias alemãs iniciais, com tanques e aviações. Invadiram a Dinamarca, Bélgica, Holanda e França. Tentaram invadir a Inglaterra, mas falharam
-    
-    - França de Vichy - A França se tornou estado fantoche da Alemanha
-    - Campos de Concentração - Inicialmente criados para submeter os judeus a trabalho forçado, mas se tornaram campos de extermínio deles, a qual ficou chamada de Holocausto
-  
-  - Pacto de Não Agressão (ou Germano-Soviético) - Acordo entre a Alemanha e URSS, mas foi eventualmente quebrada pela Alemanha, invadindo a URSS
-    
-    - Batalha de Stalingrado - Guerra onde houve a vitória soviética sobre as tropas alemãs, havendo um reviravolta no seu então sucesso
-  
-  - Estados Unidos - Inicialmente não participaram, apenas fornecendo armas para a Inglaterra, mas entraram após a Alemanha impedir a circulação transatlântica de seus navios e pelo ataque de Pearl Harbor
-    
-    - Pearl Harbor - Base militar estadunidense no Havaí, foi atacada pelo Japão, além de atacarem diversos territórios asiáticos que eram de países europeus
-  
-  - Derrota Alemã - Causada pela entrada da URSS e Estados Unidos, criando superioridade tanto em produção bélica quanto em número de soldados para os Aliados. Com isso, houve o aumento de revoltas internas territórios conquistados alemães
-  
-  - Dia D - Dia em que ocorreu a invasão final da Alemanha na Normandia, pela operação Overlord, ao mesmo tempo que os soviéticos chegavam em Berlim. Houve a ocupação da Alemanha pelos aliados. Marcou o fim da guerra
-  
-  - Hiroshima e Nagasaki - Os EUA lançaram um ataque nuclear no Japão, que se rendeu
-
-- Fim da Guerra - Houve a ascensão econômica e política dos EUA e URSS
-  
-  - Conferência de Yalta - Conferência pós-guerra entre os líderes dos EUA, URSS e Inglaterra. Houve a divisão da Europa entre um lado comunista e outro capitalista, além da divisão da Alemanha entre os três e a França
-    - República Democrática Alemã (ou Alemanha Oriental) - Alemanha comunista
-    - República Federal da Alemanha (ou Alemanha Ocidental) - Alemanha capitalista
-  - Organização das Nações Unidas (ONU) - Foi criada para evitar futuras guerras, substituindo a antiga Liga das Nações. Também houve a criação da declaração universal dos direitos humanos
-    - Conselho de Segurança - Órgão da ONU responsável pelas decisões da organização. Composto por 10 países temporários e 5 permanentes (EUA, Rússia, Reino Undo, França e China)
-  - Nova Ordem Econômica - Houve a escolha do dólar como moeda internacional, além da criação do Bird e FMI para ajudar na recuperação dos países afetados pelo conflito
-
-# Literatura
-
-## Cap. 5
-
-Modernismo - Movimento artístico caracterizado pela liberdade formal, experimentalismo, humor e criação de uma cultura brasileira, sem influências externas, criando um nacionalismo crítico. Muito inspirada nas vanguardas europeias, trazidas ao Brasil por artistas que foram fazer intercâmbio
-
-Fase Heroica - Primeira fase do modernismo brasileiro
-
-- Semana da Arte Moderna - Exposição que ocorreu em São Paulo, marcando o início do modernismo
-  
-  - Paranóia ou Mistificação - Artigo de Monteiro Lobato que duramente criticava a exposição de Anita Malfatti. Contribuiu para o crescimento do modernismo
-  - Klaxon - Primeira revista modernista, criada após o evento
-
-- Literatura Modernista - Caracterizada por versos livres, linguagem coloquial, temas cotidianos, liberdade de expressão, humor e outros
-  
-  - Oswald de Andrade - Considerado o líder do movimento modernista, junto com Mário de Andrade. Criou diversos manifestos modernistas, como o pau-brasil e o antropófago. Escrita caracterizada pelo experimentalismo radical, humor debochado e busca da identidade nacional
-    
-    - Memórias Sentimentais de João Miramar - Livro por Oswald de Andrade, caracterizado por inovação estrutural, como capítulos bem curtos, em que João Miramar conta sobre sua vida. Era de família abastada, terminando a escola e viajando para vários lugares da Europa. Depois, sua família mandou seu retorno para assumir responsabilidades no negócio, onde seus pais morreram e ele assumiu a herança. Casou com sua prima Célia, viajando para diversos lugares e voltando para o Brasil com a 1a guerra mundial. Depois, viajou para o interior de São Paulo para conhecer a terra de seus antepassados, eventualmente se separando de Célia e indo à falência. No final, a sua filha Celiazinha se reaproxima dele, amenizando sua solidão
-    - Serafim Ponte Grande - Conta a história de Serafim, trabalhador de São Paulo. A obra é caracterizada pela crítica à burguesia e mais inovações estéticas
-  
-  - Mário de Andrade - Outro escritor bem influencial no modernismo. Tinha mais crítica social e ironia nas suas obras e escrevia mais prosa
-    
-    - Macunaíma - Livro escrito por Mário de Andrade caracterizado pela mistura de culturas, mitos e modos de falar de diferentes regiões brasileiras, com personagens diversos e protagonista sem caráter fixo, que é a mistura de identidades, contribuindo para a criação de uma identidade cultural brasileira
-    - Amar, Verbo Intransitivo - Livro escrito por Mário de Andrade. Fala sobre Carlos, que tem relações sexuais com Elsa, que depois parte, e ele sofre no início, mas depois aprende a lidar com essa emoção, reencontrando-a sem emoção
-  
-  - Manuel Bandeira - Escritor caracterizado por linguagem simples e coloquial, temas variados e cotidianos e ironia
-    
-    - Libertinagem - Primeiro livro modernista de Manuel Bandeira
-
-- Movimentos e Manifestos
-  
-  - Prefácio Interessantíssimo - Prefácio de um dos livros de Mário de Andrade, sendo similar com um manifesto embora não seja um oficialmente
-  - Pau-Brasil - Criado por Oswald de Andrade, defendia a poesia de exportação, sendo contra a influência europeia, valorizando a realidade e cultura brasileira, além da simplicidade. Buscava a “redescoberta do Brasil”
-  - Verde-Amarelismo - Reação ao movimento pau-brasil, caracterizado pelo nacionalismo ufanista
-  - Antropofagia - Também criado por Oswald de Andrade, sendo o principal e o mais radical, defendia a assimilação da cultura estrangeira, mantendo apenas o útil e criando uma nova arte nacional
-  - Anta - Reação ao movimento antropofágico, sendo mais político
+# Literatura [A CONFIRMAR]
 
 ## Cap. 6
 
@@ -1477,277 +584,20 @@ Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de idea
     
     - Grande Sertão: Veredas - Seu principal livro. Fala sobre o fazendeiro Riobaldo, destacando a violência sofrida durante a República Velha, com forte lirismo e reflexões existenciais
 
-# Português
+# Português [A CONFIRMAR]
 
-## Cap. 8
+## Cap. 15 [NÃO FEITO]
 
-Concordância Verbal - O verbo deve concordar com o sujeito em número e pessoa, independente da posição do sujeito na oração e de outros termos
-
-- Acento Diferencial - Presente em ter, vir e derivados, diferenciando o singular e o plural. Ex: ele tem muitos livros, eles têm muita habilidade no futebol; O legislativo não intervém nas decisões do executivo, greves intervêm no funcionamento da cidade
-
-- Silepse - Desvio de concordância pelo verbo concordar com uma ideia implícita. Ex: o grupo é pequeno, mas **fizeram** um bom trabalho
-
-- Exceções
-  
-  - Expressões Partitivas ou Coletivas - O verbo pode concordar com ele ou com o termo mais próximo. Ex: Grande parte dos brasileiros **mora/moram** na cidade
-  - Verbos Impessoais - Ficam na 3a pessoa do singular. São fenômenos da natureza, fazer indicando tempo e haver no sentido de existir
-  - Sujeito Composto por Gradação - O verbo fica no plural ou concorda com o termo mais próximo. Ex: Apenas o Brasil, a Alemanha, a Argentina e a França ainda **está/estão** na Copa do Mundo
-  - Sujeito Composto de Sinônimos - O verbo pode ser singular ou plural. Ex: o rancor e ódio **é/são** muito perigoso(s)
-
----
-
-Concordância Nominal - O artigo, adjetivo, numeral adjetivo e pronome adjetivo concordam com o substantivo em gênero e número
-
-- Meio e Bastante - Quando é advérbio, não flexiona em gênero e número. Ex: Essas coisas são **meio** estranhas
-- Ser + Adjetivo - Se o sujeito não tem artigo, são invariáveis, se tem, concordam com ele. Ex: praia é **bom**; a praia é **boa**
-- Substantivo Composto - Caso o adjetivo venha antes, concorda com o mais próximo ou ambos, mas caso venha antes, concorda com o mais próximo. Ex: o mar e céu **azul/azuis**; **azul** mar e céu
-- Anexo - Concorda com o substantivo, exceto se houver a expressão “em anexo”. Ex: Seguem **anexas** as imagens; Seguem **em anexo** as imagens
-
-## Cap. 9
-
-Crase - Fusão da preposição a com o artigo a, formando o a com acento grave (à), ocorrendo com um objeto indireto e um substantivo feminino nesse objeto
-
-- Casos Especiais
-  
-  - Termo Oculto - O termo feminino pode estar escondido. Ex: quero um frango **à** (moda de) Milanesa
-  - Termos Proibidos - Não há crase antes de verbos, pronomes pessoais e de tratamento e artigo indefinido. Ex: Pietro começou **a** explicar química orgânica
-  - Tempo e Distância - Não há crase indicando distância nem minutos e segundos, mas há horas. Ex: o evento será **às** 17 horas
-  - Expressões Duplicadas - Não há crase em expressões de palavras repetidas. Ex: Whatsapp encripta conversas de ponta **a** ponta
-  - Lugares - Nomes de lugares podem ou não levar crase, dependendo se aceitam artigo. Ex: Fui **a** Brasília (voltei de Brasília, sem artigo)
-  - Casos Opcionais - Nomes próprios e pronomes possessivos possuem crase opcional. Ex: Cabe **a/à** Darlan representar o 2º B
-  - Pronomes Demonstrativos - Pode ocorrer crase com pronomes demonstrativos e relativos que começam com a. Ex: Fui **àquele** estacionamento
-  - Expressões Adverbiais - Recebem crase diferencial. Ex: Avançou **à** noite (durante a noite) / Avançou **a** noite (a noite avançou)
-
-## Cap. 10
-
-Predicativo - Termo que atribui uma característica ao sujeito ou objeto. Necessita de verbo
-
-- Sujeito - Dá uma característica ao sujeito, por meio da ligação do predicativo ao sujeito com um verbo de ligação. Ex: Heitor é **viciado em damas**
-- Objeto - Dá uma característica ao objeto, precisando de VTD. Ex: Consideraram José Fernandes **o pior professor**
-
----
-
-Complemento Nominal - Completa o sentido de um nome, que pode ser substantivo abstrato, adjetivo ou advérbio. Necessita de preposição
-
-- Substantivo Abstrato - Ex: O amor **à Fabão** é supernatural
-- Adjetivo - Ex: A sala estava morrendo **de frio**
-- Advérbio - Ex: A sala fica longe **da escada**
-
----
-
-Adjunto Adnominal - Caracteriza um nome que é agente ou paciente de uma ação. Pode ser artigo, numeral adjetivo, pronome adjetivo e adjetivo em si. Ex: **Um** louro **de 4 pétalas** dá sorte
-
----
-
-Vocativo - Indica chamamento. Ex: **Professor**!
-
----
-
-Aposto - Explica ou esclarece um termo. Ex: Fernando Vieira, **o rei do caos**, vai dar aula
-
-## Cap. 11
-
-Frase Nominal - Frase que não apresenta verbo. Ex: bom dia!
-
-Período - Frase com um ou mais orações (frases com um verbo)
-
-- Período Simples - Contém apenas 1 oração. Ex: **tenha** um bom dia!
-- Período Composto - Contém mais de uma oração. Ex: **tenha** um bom dia e **aproveite**!
-
----
-
-Orações Coordenadas - Orações relacionadas em sentido, mas independentes entre si
-
-- Coordenadas Assindéticas - Não possuem conjunção. Ex: nada se cria, nada se perde, tudo se transforma
-
-- Coordenadas Sindéticas - Possuem conjunção
-  
-  - Aditiva - Conjunção com ideia de adição. Ex: estudei **e** trabalhei muito
-  
-  - Adversativa - Conjunção com ideia de oposição. Ex: estudei, **mas** fui mal na prova
-  
-  - Alternativa - Ideia de alternância entre dois termos. Ex: **ou** eu estudo, **ou** eu trabalho
-  
-  - Explicativa - Ideia de explicação da oração anterior. Ex: vou parar de trabalhar, **pois** quero estudar
-  
-  - Conclusiva - Ideia de conclusão. Ex: não gosto de estudar, **portanto** não tiro notas boas
-    
-    - Pois - Pode também ter valor conclusivo se vier depois do verbo. Ex: não gosto de estudar, não tiro, **pois**, notas boas
-
-## Cap. 12
-
-Oração Subordinada - Oração que desempenha uma função sintática em outra oração (chamada de principal), sendo dependente dela
-
-- Oração Subordinada Adverbial - Desempenha função de adjunto adverbial, dando ideia de circunstância (que varia dependendo do conectivo e às vezes do contexto)
-  
-  - Condicional - Indica uma condição. Ex: **Se** não guardarem o celular, Thayná <u>vai</u> chamar Carol (a não ser que, caso)
-  - Causal - Dá ideia de causa. Ex: Ele saiu **porque** o professor <u>permitiu</u>. (já que, visto que)
-  - Consecutiva - Ideia de consequência. Ex: O projetor já quebrou tanto **que** Henrique <u>perdeu</u> a paciência. (tão ... que, de modo que)
-  - Final - Indica finalidade. Ex: Rose chamou Kael **para que** ele <u>guardasse</u> o celular. (a fim de que, para que)
-  - Proporcional - Indica proporção. Ex: A sala ficava mais fria **à medida que** o tempo <u>passava</u>. (conforme, quanto mais ... menos)
-  - Conformativa - Ideia de conformidade (concordância). Ex: Caiu muitas questões de cilindro **conforme** <u>previu</u> Allan. (como, de acordo com)
-  - Concessiva - Ideia de oposição. Ex: **Embora** tenham estudado muito, a sala ainda <u>tirou</u> nota baixa na prova de Santana. (mesmo que, apesar de)
-  - Comparativa - Indica comparação. Ex: A nota de P vale **mais que** a nota de PM (<u>vale</u>). (tanto quanto, maior que)
-  - Temporal - Indica tempo. Ex: O povo todo desceu **assim que** <u>terminou</u> a aula de Maria. (quando, enquanto)
-
-## Cap. 13
-
-Adjunto Adnominal - Função sintática do adjetivo, locução adjetiva e oração adjetiva, em que há a caracterização de um nome
-
----
-
-Oração Subordinada Adjetiva - Desempenha função de adjunto adnominal, qualificando um nome
-
-- Pronome Relativo - Conector da oração adjetiva, retomando um nome e relacionando as orações
-  
-  - Onde - Refere-se a lugar. Ex: o lugar **onde** <u>vivo</u> é lindo
-  - Quem - Refere-se a pessoa, com preposição a. Ex: aquele **quem** <u>quebrou o teto da sala</u> vai ver só!
-  - Cujo - Indica posse. Ex: Gustavo, **cuja** <u>nota foi baixa</u>, será espancado por Fabão
-  - Quanto - Vem depois de "tudo", "todo", "tanto". Ex: O 2ºB tentou ganhar tanto **quanto** <u>pôde</u>
-  - Que, o Qual - Serve para qualquer coisa. Ex: A nossa sala, **que** <u>tá sem projetor</u>, precisa ser consertada
-
-- Tipos
-  
-  - Restritiva - Dá ideia de restrição, não tendo vírgula. Ex: Os alunos **que** <u>subiram mais cedo</u> tiveram que descer. (nem todos os alunos)
-  - Explicativa - Dá ideia de explicação, não especificando nada. Tem vírgula. Ex: Os alunos, **que** <u>não querem ficar no pátio</u>, não puderam subir. (todos os que não subiram não queriam ficar no patio)
-
-# Redação (Assunto)
-
-## Cap. 4
-
-Textos Jornalísticos - Textos caracterizados pela objetividade, mas que, querendo ou não, vão apresentar de alguma forma a opinião de alguém, mesmo se tentanto evitar
-
-Textos Jornalísticos Opinativos - Textos jornalísticos que são intencionalmente opinativos, defendendo um ponto de vista de forma mais direta
-
-- Editorial - É veiculada a opinião de uma instituição ou meio de comunicação (chamada de linha editorial), e não de um indivíduo, tendo linguagem de opinião menos radical
-
-- Artigo Assinado - Veiculam a opinião de um indivíduo específico, podendo usar linguagem mais radical e primeira pessoa
-  
-  - Resenha Crítica - Tipo de artigo assinado que resume e critica uma produção cultural (filme, livro, série, show, restaurante), também sendo bem opinativo
-
-## Cap. 5
-
-Dissertação (ou Texto Dissertativo) - Textos que buscam expor uma opinião, promovendo uma interpretação genérica da realidade e falando sobre conceitos mais abstratos
-
-- Dissertação Escolar - Dissertação produzida de improviso a partir de um tema conhecido no momento da prova, além de ter tamanho rígido e valorizar mais o efeito de objetividade (visando maior semelhança a uma verdade e maior convencimento)
-  
-  - Função Informativa (ou Referencial) - Função predominante na dissertação escolar e outras como a científica, em que há maior foco na informação veiculada, e não em quem a transmite
-  
-  - Características - Uso da terceira pessoa, uso do sentido denotativo, precisão conceitual, menor uso de adjetivos e de outras expressões subjetivas
-    
-    - Tópico Frasal - Frase que contém a ideia genérica e geral que será desenvolvida pelo texto, indo do mais abstrato para o mais concreto e específico
+## Cap. 16 [NÃO FEITO]
 
 # Sociologia
 
-## Cap. 7
-
-Cultura - Toda produção humana material e imaterial. Contribui para a identidade e comportamento de um grupo social, por ser compartilhada e adquirida de forma coletiva, podendo também mudar ao longo do tempo
-
-- Endoculturação - Fenômeno de assimilação da cultura desde o nascimento
-- Aculturação - Apropriação e ressignificação de uma cultura por outra
-- Alteridade - Capacidade de enxergar o outro com base na cultura dele, e não a sua
-- Relativismo Cultural - Visão em que todas as culturas são equivalentes
-- Etnocentrismo - Visão de superioridade de uma cultura sobre a outra
-
----
-
-Conhecimento - Conjunto de informações e princípios acumulados por populações humanas. Contribui para a formação da cultura e mudanças ao longo do tempo nela
-
----
-
-Cultura Erudita (ou de Elite) - Visão elitista de cultura das classes dominantes, imposta como “superior” à cultura popular pela elite (podendo inclusive ser vista como meio de ascensão social), com a elite buscando limitar essa cultura a si mesmos e rejeitar a popular
-
-- Capital Cultural - Visão em que a cultura se tornou meio de dominação, acentuando desigualdades sociais, pois a cultura assimilada (habitus) é diferente em diferentes condições socioeconômicas
-
----
-
-Cultura Popular - Visão elitista de cultura das massas populares, sendo considerada inferior, a negação do Saber (visto adiante)
-
-- Folclore - Cultura popular associada pela elite à tradição nacional, sendo a única popular valorizada
-
----
-
-Saber - Conhecimento aceito por grande parte da sociedade, que é imposto é detido pela classe dominantes, sendo mais valorizado e desejado do que outros saberes, considerados inferiores. Ex: conhecimento científico (cultura científica)
-
-- Coerção Cultural - Imposição de culturas
-
----
-
-Cultura em Massa - Cultura padronizada transformada em mercadoria
-
-Contracultura - Rejeição da cultura em massa e culturas consideradas elitistas, buscando transformação social pela valorização da cultura popular. Muitas vezes é combatida pela elite por meio de sua massificação. Ex: rap
-
----
-
-Ideologia - Conjunto de valores filosóficos, sociais e políticos de um grupo, pressupondo seu julgamento, sendo influenciada pela cultura e conhecimento
-
----
-
-Trabalho - Transformação da natureza em coisas
-
-Arte - Produção com potencialidade de elevar o espírito humano (catarse ou aura)
-
-## Cap. 8
-
-Racionalidade - Capacidade humana de cognição avançada, originado da capacidade de abstração e articulação. É necessária para o surgimento da cultura e memória
-
-Memória - Capacidade de armazenamento e manutenção de informações, também crucial para o desenvolvimento da razão. Contudo, pode ser fabricada, tanto para lembrar quanto para esquecer
-
-- Memória Coletiva - Memória compartilhada entre grupos, que surge a partir da linguagem, podendo ser influenciada pela cultura. Além disso, é responsável pela manutenção da cultura
-
----
-
-Língua - Meio de comunicação internalizado para definir o mundo, contribuindo para a troca de experiências e socialização. Pode ser tanto oral, mais temporária só que mais comum, ou escrita, que permite o armazenamento de informações, ambos contribuindo para a memória
-
----
-
-Dominação Cultural - Da mesma forma que culturas podem ser impostas e aculturadas, a memória coletiva também pode, criando relações de poder nela. Por isso, pode também haver a perda de culturas e memórias
-
-- Patrimônio Cultural (ou Histórico e Artístico) - Bens que contribuem para a preservação e imortalização de uma cultura, podendo ser material ou imaterial (como línguas, danças), sendo importante sua valorização
-  
-  - Instituições de Preservação Cultural - Instituições que tem como objetivo a preservação dos patrimônios culturais. Ex: Unesco, Iphan
-
-## Cap. 9
-
-Mídia - Meios de comunicação e grande escala e distância. Ex: internet, televisão, rádio, telefone
-
-Sociedade Midiática - Nossa sociedade, em que há uma forte presença das mídia em nosso cotidiano
-
----
-
-Meios de Comunicação em Massa - Meios de comunicação em que há bem menos produtores do que receptores de informações, esses últimos sendo atingindo em grande escala, havendo a massificação e busca por influenciar
-
-- Cultura Pop - Cultura popular disseminada pelos meios de comunicação em massa, sendo então massificadas, levando à dominação e padronização, além de ser produto da indústria cultural
-- Redes Sociais - Tipo de comunicação em massa caracterizado pela aproximação entre pessoas e organizações com desejos e valores semelhantes, horizontalidade (não há hierarquia, todos podem produzir e consumir) e descentralização. Mesmo assim, ainda segue a lógica de poucos produtores e muitos consumidores e pode levar à aculturação e consumismo, pois contribui negativamente para a diversidade
-
 ## Cap. 10 [NÃO FEITO]
 
-## Cap. 11
+## Cap. 12 [NÃO FEITO]
 
-Indústria Cultural - Cultura criada pelas classes dominantes com o intuito de atingir as massas ao máximo
+## Cap. 13 [NÃO FEITO]
 
-- Theodor Adorno e Max Horkheimer (Escola de Frankfurt) - Criaram o termo. Para eles, a indústria cultural contribui para a desumanização, por silenciar o pensamento crítico e a individualidade. Além disso, diziam que a cultura de massas é produto da indústria cultural
-- Mercantilização da Cultura - O mercado e dinheiro prevalecem sobre a liberdade de criação, com a cultura sendo transformada em mercadoria e transmitindo as ideologias das classes dominantes, que detêm os meios de comunicação, contribuindo para a manutenção da desigualdade e para a padronização de comportamentos
-- Padronização - Há a repetição e imitação constante de produtos bem-sucedidos, técnicas, fórmulas e formatos
-- Massificação - A produção em massa busca atingir e moldar os interesses, mantendo modelos prontos de produções culturais que parecem variar, mas são iguais
-- Lazer Viciado - Contribui para a criação de um lazer industrializado, genérico e fácil, contrariando o ócio criativo
+## Cap. 14 [NÃO FEITO]
 
-Reificação (ou Coisificação) - Tratar tudo como produto, comum na sociedade capitalista atual, ocorrendo inclusive com a cultura
-
-Alienação - Apropriação do próprio trabalho dos trabalhadores, presente na indústria cultural pela dominação dos meios de comunicação
-
----
-
-Cultura das Massas - Cultura padronizada e massificada
-
-- Regimes Socialistas - O Estado age como produtor da cultura em massa
-
-- Regimes Capitalistas - O estado autoriza e policia empresas privadas que produzem a cultura (Estado-polícia), além de realizarem sua própria produção (Estado-soberano)
-
-- Regimes Autoritários - Força sua cultura pela censura e controle de atividades
-
-- Regimes Liberais - Sistemas privados buscam agradar ao máximo o público pelo divertimento, buscando o lucro máximo, ainda havendo a monopolização e baixo investimento culturas em todos os sistemas
-
-- Desintegração do Poder Cultural - Uma ideia é avaliada por sua rentabilidade (sistema privado) ou oportunidade política (do Estado), e depois é manipulada na parte técnica, havendo a despersonalização da invenção em si e a racionalização da produção
-  
-  - Contradição Invenção-Padronização - Há a padronização na produção cultural, mas as massas buscam a personalidade e originalidade
+## Cap. 15 [NÃO FEITO]
