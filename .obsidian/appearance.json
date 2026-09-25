@@ -1,0 +1,10 @@
+{
+  "accentColor": "#ff7e29",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Noto Sans",
+  "textFontFamily": "Noto Sans",
+  "baseFontSize": 16,
+  "showViewHeader": false,
+  "showRibbon": true,
+  "nativeMenus": false
+}
