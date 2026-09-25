@@ -170,8 +170,6 @@ Doenças Renais
 - Insuficiência Renal - Perda do funcionamento dos rins. Pode ser aguda (ocorre do nada e é reversível), ou crônica (ocorre lentamente e é irreversível)
 - Cálculo Renal - Partículas sólidas formadas nos cálices renais pelo acúmulo de substâncias, podendo ir aos ureteres, uretra e bexiga
 
-
-
 # Biologia 2
 
 ## Cap. 10
@@ -316,6 +314,47 @@ Merleau-Ponty - Filósofo que fala sobre a aplicação da fenomenologia na perce
   - Psicologia da Forma (ou Gestalt) - Diz que a percepção já ocorre de forma organizada e estruturada em relações, não sendo pura. Portanto, não há separação entre percepção e pensamento, únicos e ambos necessários para o outro, e logo corpo e mente
   - Pensamento - É visto como parte da experiência corporal, não sendo separado do resto da natureza (mundo físico)
   - Linguagem - É vista como objeto de uma consciência, dando existência ao pensamento mas de forma parcial (intencional)
+
+---
+
+Jean-Paul Sartre - Filósofo que criou a corrente existencialista, baseada na fenomenologia, defende que não há essência antes de existência, inclusive para o humano, sendo contra a busca pela essência
+
+- Ser em Si - Coisas físicas
+
+- Ser para Si - Indivíduo consciente capaz de se perceber e perceber as coisas
+
+- Humano - Não é possível definir o humano sem considerar sua existência no mundo, não havendo uma essência humana, e logo causa para a sua existência
+  
+  - Consciência - É vista como um nada que é preenchido a partir da existência pelos atos
+  
+  - Liberdade - Possibilidade humana de agir de qualquer forma em qualquer circunstância, defendendo que os humanos são "condenados a serem livres", e o exercício da liberdade dá sentido a existência e define o destino
+  
+  - Dissimulação (ou Autoengano ou Má-Fé) - Rejeição da liberdade, dando justificativas de que o ambiente não permitiu a liberdade, se tornando um ser em si
+  
+  - Outro - Relação entre humanos (sujeitos), em que o outro é responsável por atestar e definir nossa existência total, mas que pode revelar que não somos quem nós queremos ser, com muitos acabando vivendo pela aprovação do Outro
+
+---
+
+Simone de Beauvoir - Filósofa mais conhecida por questionar e denunciar a dominação patriarcal
+
+- Dualidade - Ocorre entre a factidade (o que somos de fato, no agora) e transcendência (o que nos podemos tornar, no futuro)
+  
+  - Liberdade - Defende que para exercer a liberdade, é necessário antes fazer a pergunta "quem eu sou?", além de "o que quero ser?"
+  
+  - Identidade - Defende que pode ser individual e coletiva ao mesmo tempo, sendo tanto um indivídio quanto parte de um grupo
+- Tipos de Pessoas na Exerção da Liberdade
+  - Sub-Homem - O que foge das escolhas, não fazendo nada que demande esforço ou vontade
+  
+  - Homem Sério (ou Inautêntico) - O que se livra da liberdade por se aderir a um conjunto de ideias e valores já estabelecidos
+  
+  - Niilista - O que percebe que a vida não tem sentido pré-estabelecido e não age
+  
+  - Homem Livre - O que age de forma que suas ações resultem em sentido para sua vida, criando a necessidade de agir corretamente, como em promover a liberdade de outros
+- O Segundo Sexo - Sua principal obra, que mais analisa a mulher na sociedade
+  - Mulher - Tradicionalmente é considerada o "outro sexo", desvio do homem, além do discurso acerca dela ser produzida tradicionalmente por homens
+    - Construção Social - Defende que a condição é uma construção da sociedade, não sendo preestabelecida, como no casamento, educação e papeis sociais
+      - Papel de Trabalho - Enquanto o homem se dedica ao trabalho produtivo e remunerado, a mulher se dedica ao trabalho reprodutivo e doméstico, defendendo que o fato de apenas o homem realizar esse trabalho ajuda a perpetuar a dependência da mulher
+      - Solução - Defende que a mulher deve se livrar da dominação por meio da autonomia econômica Contudo, essa proposta é limitada por ser muito ampla, não sendo válida para todas as mulheres
 
 ## Cap. 2 [NÃO FEITO]
 
@@ -515,7 +554,59 @@ Estado Novo - Governo autoritário de Vargas, caracterizado pela repressão, mil
   
   - Golpe de 1945 - Marcou o fim do Estado Novo, sendo um golpe armado realizado pelas Forças Armadas, recebendo apoio da classe média e das antigas oligarquias. Houve as eleições, mas sem a participação de Vargas
 
-## Cap. 14 [NÃO FEITO]
+## Cap. 14 [INACABADO]
+
+Guerra Fria - Conflito ideológico e socioeconômico entre os Estados Unidos (capitalismo) e União Soviética (socialismo) pela hegemonia mundial, mas em que não ocorreu um conflito direto pela capacidade de destruição mútua
+
+- Superpotências - Os EUA e URSS, que tinham o maior poder econômico e militar mundial
+  
+  - Bem-Estar Social - Políticas implementadas nos EUA e em outros países capitalistas, gerando grande prosperidade econômica, além de pelas multinacionais e do dólar como moeda internacional
+
+- Bipolarização - Característica do conflito, pela divisão do mundo entre as duas potências
+  
+  - Cortina de Ferro - Metáfora para a bipolarização
+- Corrida Armamentista - Corrida de aperfeiçoamento e desenvolvimento bélico, sobretudo das armas nucleares, com grandes investimentos militares
+
+- Políticas
+  - Plano Marshall - Investimento dos EUA para a recuperação da Europa ocidental pós-guerra, buscando garantir sua integração econômica
+  - Plano Colombo - Apoio econômico dos EUA para a recuperação do Japão, gerando grande crescimento econômico
+  - Conselho de Assistência Econômica Mútua (Comecom) - Criada pela URSS para realizar a integração econômica dos países socialistas, sendo uma resposta ao Plano Marshall
+  - Doutrina Truman - Estabelecia o intervencionismo norte-americano no mundo, como meio de combater qualquer avanço socialista
+  - Macarthismo - Campanha de perseguição política do comunismo nos EUA
+  - Ditadura do Partido Único - Instaurada na URSS para combater o capitalismo
+- Blocos
+  - Otan - Aliança militar que reunia os EUA, Canadá e a Europa Ocidental
+  - Pacto de Varsóvia - Entre a URSS e a Europa Oriental
+- Rivalidade
+  - Corrida Espacial - Disputa tecnológica entre as potências para a exploração espacial
+  - Jogos Olímpicos
+- Guerras - Houve muitas intervenções militares das superpotências, sobretudo na Ásia, África e América Latina
+  - Coreia - Ocorreu entre a do norte (socialista, apoiada pela URSS) e do sul (capitalista, apoiada pelos EUA)
+  - Vietnã - Ocorreu entre a do norte (socialista, apoiada pela URSS) e do sul (capitalista, apoiada pelos EUA). Houve a vitória do socialismo
+
+---
+
+Descolonização Afro-Asiática - Combate a dominação imperialista na Ásia e África
+
+- Causas - Declínio do poder das antigas metrópoles e crescimento de movimentos de emancipação
+  
+  - Apoio das Superpotências - Apoiaram movimentos de independência, sobretudo para aumentar suas áreas de influência
+  
+  - Princípio da Autodeterminação
+- Pan-Africanismo - Movimento que defendia a construção de uma identidade africana comum, defendendo a luta contra a opressão histórica compartilhada
+
+---
+
+América Latina pós-Independências - Caracterizada pela manutenção da desigualdade, concentração de renda e dependência econômica, modernização (urbanização e industrialização) e crescimento de ideologias atreladas à Guerra Fria
+
+- Disputas Imperialistas - Inicialmente os EUA e Inglaterra tinham a maior influência no continente, com o aumento da força dos EUA após a Guerra Fria, visando manter a área de influência
+  
+  - Intervencionismo Norte-Americano
+- Abolização da Escravidão - Ocorreu de forma tardia na Cuba e Brasil
+- Revolução Mexicana - Movimento liderado sobretudo por camponeses durante a ditadura de Porfirio Diaz (porfiriato), inclusive a participação feminina. Houve a derrubada do porfiriato, mas apenas mudanças parciais a favor dos camponeses
+  - Líderes - Pancho Villa e Emiliano Zapata, liderando os camponeses. Eventualmente foram assassinados
+  - Ejidos - Organização fundiária dos camponeses, foi desestruturada durante a revolução
+  - Constituição - Criada após a revolução, implantando uma democracia nacionalista e trabalhista, com voto universal, além de legalizar os Ejidos. Implantou uma reforma agrária fraca
 
 # Literatura [A CONFIRMAR]
 
