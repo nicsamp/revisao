@@ -4,15 +4,19 @@ Sistema Nervoso
 
 Genealogias?
 
-Cap. 11 sociologia (sociedade espetáculo)
-
-Simone de Beauvoir
+Cap. 11 sociologia (sociedade espetáculo) e mais?
 
 Indústria
 
 Modais de Transporte
 
 Oração Subordinada Substantiva
+
+Algas
+
+Sistema Reprodutor
+
+Bacterioses
 
 ---
 
@@ -22,11 +26,13 @@ Guerra Fria
 
 2a Lei de Mendel
 
-Sistema Reprodutor
+Viroses
 
-Algas
+Plantas
 
 Sociologia Livro
+
+Geopolítica
 
 Surgimento da Sociologia (Max Weber)
 

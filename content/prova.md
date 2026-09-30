@@ -220,7 +220,7 @@ Tipos Sanguíneos (ou Grupos Sanguíneos) - Sistemas de classificação do sangu
 
 ## Cap. 14 [NÃO FEITO]
 
-# Biologia SSA [A CONFIRMAR]
+# Biologia SSA [A CONFIRMAR MICOSES]
 
 ## Fungos
 
@@ -292,7 +292,7 @@ Tipos de Micoses
 
 # Filosofia
 
-## Cap. 1 [INACABADO]
+## Cap. 1
 
 Fenomenologia - Corrente criada por Edmund Husserl que busca entender a experiência subjetiva e objetiva, bem como a essência das coisas, sendo contra o psicologismo (baseado no relativismo), sem passar por processo de julgamento
 
@@ -342,7 +342,9 @@ Simone de Beauvoir - Filósofa mais conhecida por questionar e denunciar a domin
   - Liberdade - Defende que para exercer a liberdade, é necessário antes fazer a pergunta "quem eu sou?", além de "o que quero ser?"
   
   - Identidade - Defende que pode ser individual e coletiva ao mesmo tempo, sendo tanto um indivídio quanto parte de um grupo
+
 - Tipos de Pessoas na Exerção da Liberdade
+  
   - Sub-Homem - O que foge das escolhas, não fazendo nada que demande esforço ou vontade
   
   - Homem Sério (ou Inautêntico) - O que se livra da liberdade por se aderir a um conjunto de ideias e valores já estabelecidos
@@ -350,11 +352,27 @@ Simone de Beauvoir - Filósofa mais conhecida por questionar e denunciar a domin
   - Niilista - O que percebe que a vida não tem sentido pré-estabelecido e não age
   
   - Homem Livre - O que age de forma que suas ações resultem em sentido para sua vida, criando a necessidade de agir corretamente, como em promover a liberdade de outros
+
 - O Segundo Sexo - Sua principal obra, que mais analisa a mulher na sociedade
+  
   - Mulher - Tradicionalmente é considerada o "outro sexo", desvio do homem, além do discurso acerca dela ser produzida tradicionalmente por homens
     - Construção Social - Defende que a condição é uma construção da sociedade, não sendo preestabelecida, como no casamento, educação e papeis sociais
       - Papel de Trabalho - Enquanto o homem se dedica ao trabalho produtivo e remunerado, a mulher se dedica ao trabalho reprodutivo e doméstico, defendendo que o fato de apenas o homem realizar esse trabalho ajuda a perpetuar a dependência da mulher
       - Solução - Defende que a mulher deve se livrar da dominação por meio da autonomia econômica Contudo, essa proposta é limitada por ser muito ampla, não sendo válida para todas as mulheres
+
+---
+
+Hannah Arendt - Filósofa caracterizada por falar sobre o totalitarismo e a vida política
+
+- Liberdade - Defendida, sendo criada pela esfera pública, além de expressar a pluralidade da sociedade
+- Ameaças à Liberdade
+  - Individualismo - Por dificultar a relação entre pessoas e gerar egoísmo
+  - Ideologia - Por substituir as ideas, que são complexas, mutáveis e contestáveis, por algo irrefutável e que combate o pensamento
+- Obediência - Valorizado por estruturas administrativas burocráticas, visando o consenso, e combatendo qualquer pensamento diferente do estabelecido
+  - Povo - Conjunto de pessoas que participam da política por meio de debates e lutras por direitos, promovendo a liberdade
+  - Ralé - Pessoas que ignoram a política, visando a chegada de alguém que resolva os problemas, levando ao esvaziamento da reflexão e ajudando no surgimento de regimes totalitários
+- Totalitarismo - Caracterizado por uma ideologia fundada em partido único que controla o Estado e o uso do terror (combate a pessoas que não aceitarem o regime)
+- Mal - Diz que resulta de pessoas normais pela falta de capacidade de reflexão, resultado do ralé e da burocratização do cotidiano
 
 ## Cap. 2 [NÃO FEITO]
 
@@ -565,23 +583,37 @@ Guerra Fria - Conflito ideológico e socioeconômico entre os Estados Unidos (ca
 - Bipolarização - Característica do conflito, pela divisão do mundo entre as duas potências
   
   - Cortina de Ferro - Metáfora para a bipolarização
+
 - Corrida Armamentista - Corrida de aperfeiçoamento e desenvolvimento bélico, sobretudo das armas nucleares, com grandes investimentos militares
 
+- Muro de Berlim - Construído pela URSS após a 2a guerra mundial, em que Berlim foi dividida em um lado capitalista e socialista, mas ficando dentro da Alemanha Oriental, com o muro isolando a capitalista. Se tornou símbolo da guerra fria
+
 - Políticas
+  
   - Plano Marshall - Investimento dos EUA para a recuperação da Europa ocidental pós-guerra, buscando garantir sua integração econômica
   - Plano Colombo - Apoio econômico dos EUA para a recuperação do Japão, gerando grande crescimento econômico
   - Conselho de Assistência Econômica Mútua (Comecom) - Criada pela URSS para realizar a integração econômica dos países socialistas, sendo uma resposta ao Plano Marshall
   - Doutrina Truman - Estabelecia o intervencionismo norte-americano no mundo, como meio de combater qualquer avanço socialista
   - Macarthismo - Campanha de perseguição política do comunismo nos EUA
   - Ditadura do Partido Único - Instaurada na URSS para combater o capitalismo
+
 - Blocos
+  
   - Otan - Aliança militar que reunia os EUA, Canadá e a Europa Ocidental
   - Pacto de Varsóvia - Entre a URSS e a Europa Oriental
-- Rivalidade
-  - Corrida Espacial - Disputa tecnológica entre as potências para a exploração espacial
-  - Jogos Olímpicos
-- Guerras - Houve muitas intervenções militares das superpotências, sobretudo na Ásia, África e América Latina
-  - Coreia - Ocorreu entre a do norte (socialista, apoiada pela URSS) e do sul (capitalista, apoiada pelos EUA)
+
+- Guerra de Propaganda - Característica da Guerra Fria, com as superpotências buscando se mostrarem superiores, já que um conflto direto era inviável
+  
+  - Corrida Espacial - Disputa tecnológica entre as potências para a exploração espacial. A URSS mandou o primeiro satélite e homem ao espaço, mas os EUA mandaram o primeiro homem a lua
+  - Jogos Olímpicos - Cada um boicotou as olimpíadas no país do outro
+  - Prosperidade Norte-Americana - Pela prosperidade econômica, houve a maior difusão do american way of life, além de da indústria de entretenimento do país. Contudo, ainda havia segregação racial e papeis tradicionais de gênero
+
+- Conflitos - Houve muitas intervenções militares das superpotências, sobretudo na Ásia, África e América Latina
+  
+  - Coreia - Invasão da do norte (socialista, apoiada pela URSS e China) contra a do sul (capitalista, apoiada pelos EUA). Acabou permanecendo a divisão, com a do norte se tornando totalitária
+    - Khruschev - Líder da URSS após a morte de Stalin depois da guerra, buscando retirar o totalitarismo (desestalinização) e diminuir as tensões com os EUA, realizando uma grande reforma, mas ainda sendo uma ditadura
+  - Golpe de Estado em Cuba - Um golpe de Fidel Castro eliminou a influência estadunidense da Cuba, gerando insatisfação dos EUA
+    - Crise dos Mísseis em Cuba - Mísseis soviéticos em Cuba que poderiam atingir os EUA foram encontrados, com ambas as superpotências se preparando a invadir e defender a Cuba, mas eventualmente retiraram
   - Vietnã - Ocorreu entre a do norte (socialista, apoiada pela URSS) e do sul (capitalista, apoiada pelos EUA). Houve a vitória do socialismo
 
 ---
@@ -593,6 +625,7 @@ Descolonização Afro-Asiática - Combate a dominação imperialista na Ásia e 
   - Apoio das Superpotências - Apoiaram movimentos de independência, sobretudo para aumentar suas áreas de influência
   
   - Princípio da Autodeterminação
+
 - Pan-Africanismo - Movimento que defendia a construção de uma identidade africana comum, defendendo a luta contra a opressão histórica compartilhada
 
 ---
@@ -602,8 +635,11 @@ América Latina pós-Independências - Caracterizada pela manutenção da desigu
 - Disputas Imperialistas - Inicialmente os EUA e Inglaterra tinham a maior influência no continente, com o aumento da força dos EUA após a Guerra Fria, visando manter a área de influência
   
   - Intervencionismo Norte-Americano
+
 - Abolização da Escravidão - Ocorreu de forma tardia na Cuba e Brasil
+
 - Revolução Mexicana - Movimento liderado sobretudo por camponeses durante a ditadura de Porfirio Diaz (porfiriato), inclusive a participação feminina. Houve a derrubada do porfiriato, mas apenas mudanças parciais a favor dos camponeses
+  
   - Líderes - Pancho Villa e Emiliano Zapata, liderando os camponeses. Eventualmente foram assassinados
   - Ejidos - Organização fundiária dos camponeses, foi desestruturada durante a revolução
   - Constituição - Criada após a revolução, implantando uma democracia nacionalista e trabalhista, com voto universal, além de legalizar os Ejidos. Implantou uma reforma agrária fraca
