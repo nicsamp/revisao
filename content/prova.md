@@ -220,7 +220,7 @@ Tipos Sanguíneos (ou Grupos Sanguíneos) - Sistemas de classificação do sangu
 
 ## Cap. 14 [NÃO FEITO]
 
-# Biologia SSA [A CONFIRMAR MICOSES]
+# Biologia SSA
 
 ## Fungos
 
@@ -254,41 +254,60 @@ Fungi - Reino dos fungos, seres eucariontes uni ou pluricelulares, com parede ce
   - Micorrizas - Mutualismo entre fungos e raízes de plantas
   - Líquens - Mutualismo entre fungos e cianobactérias
 
-## Micoses
+## Plantas
 
-Micoses - Doenças causadas por fungos
+Plantae - Reino das plantas, seres eucariontes pluricelulares fotossintetizantes (por meio da clorofila), com parede celular de celulose e reserva de energia de amido
 
-Micologia - Estuda as micoses
+- Alternância de Gerações - Modo de reprodução, pela alternância entre a fase de gametófito e esporófito
+  
+  - Gametófito - É haploide, produz gametas por mitose
+  
+  - Esporófito - É diploide, formado pela fusão dos gametas. Produz esporos haploides por meiose, que geram o gametófito
+- Alga Verde - Ancestral das plantas, mas não é uma por não ser dioica nem ter embrião pluricelular
 
 ---
 
-Tipos de Micoses
+Tipos de Plantas
 
-- Superficiais (ou Cutâneas ou Dermatofitoses) - Há a invasão do fungo na pele, pelos ou unhas
+- Briófitas - As primeiras a surgir, sendo avasculares e pequenas, vivendo em locais úmidos. Ex: musgos
   
-  - Piedra Negra - Há a formação de nódulos duros e escuros nos pelos. Causado por *Piedra hortae*
+  - Estrutura - No gametófito é formada pelo cauloide, filoide e rizoide, por não ter tecidos verdadeiros
   
-  - Piedra Branca - Nódulos de hifas esbranquiçados. Causado por *Trichosporon*
+  - Reprodução Assexuada - Por brotamento, como todas as outras plantas
   
-  - Pitiríase Versicolor (ou Pano Branco) - Causado por *Malassezia*, já comumente presente na composição da pele, mas que pode formar hifas em baixas de imunidade
-  
-  - Candidíase - Causado por *Candida*, também comumente encontradas no corpo e intestino, mas podendo formar hifas
-  
-  - Esporotricose - Causa irritação da pele, sendo subcutânea. Causada por *Sporothrix schenckii*
+  - Reprodução Sexuada - Dependente de água
+    
+    - Gametófito - É a fase dominante, sendo a planta adulta
+      
+      - Anterídio - Gametófito masculino, produz os anterozoides
+      
+      - Arquegônia - Gametófito feminino, produz a oosfera
+    
+    - Esporófito - Cresce sobre o gametófito feminino após sua fecundação, produzindo esporos em cápsulas
+    
+    - Protonema - Formada pela germinação do esporo, dá origem ao gametófito
 
-- Profundas (ou Sistêmicas) - Adquiridas pela inalação de esporos, normalmente causando problemas no pulmão, mas podendo entrar no sangue e ir ao resto do corpo
+- Pteridófitas - São vasculares (com xilema e floema) e possuem tecidos verdadeiros. Ex: samambaia
   
-  - Histoplasmose - Causada por *Histoplasma capsulatum*, podendo se disseminar na pele, medula óssea, cérebro, fígado ou baço em baixas do sistema imunológico
+  - Rizoma - Caule diferenciado horizontal
   
-  - Criptococose - Infecção pulmonar causada por *Cryptococcus neoformans*, tendo sintomas parecidos a pneumonia
+  - Folíolos - Folhas diferenciadas menores, que compõem o fronde (folha composta). Formam os soros
   
-  - Paracoccidiodomicose - Micose profunda mais comum do Brasil. Causada por *Paracoccidioides brasiliensis*. Mais comum em agricultores pelo contato com o solo
+  - Báculo - Folhas jovens
+  
+  - Reprodução Sexuada - Tem como principal fase o esporófito
+    
+    - Esporófito - Forma os soros
+    
+    - Soros - Contêm esporângios, que rompem e liberam seus esporos
+    
+    - Protalo - Formado pela germinação do esporo, dá origem ao gametófito
+    
+    - Gametófito - Produzem os gametas que se fecundam, formando o zigoto e depois o esporófito, com a degeneração do gametófito
 
-## Plantas [NÃO FEITO]
+- Gimnospermas - Possuem sementes
 
-## Briófitas [NÃO FEITO]
-
-## Pteridófitas [NÃO FEITO]
+- Angiospermas - Possuem flores e fruto
 
 # Filosofia
 

@@ -1610,6 +1610,36 @@ Bacterioses - Doenças causadas por bactérias
   
   - Sífilis - Causado por *Treponema pallidum*, tem como sintomas feridas, podendo causar paralisia
 
+## Micoses
+
+Micoses - Doenças causadas por fungos
+
+Micologia - Estuda as micoses
+
+---
+
+Tipos de Micoses
+
+- Superficiais (ou Cutâneas ou Dermatofitoses) - Há a invasão do fungo na pele, pelos ou unhas
+  
+  - Piedra Negra - Há a formação de nódulos duros e escuros nos pelos. Causado por *Piedra hortae*
+  
+  - Piedra Branca - Nódulos de hifas esbranquiçados. Causado por *Trichosporon*
+  
+  - Pitiríase Versicolor (ou Pano Branco) - Causado por *Malassezia*, já comumente presente na composição da pele, mas que pode formar hifas em baixas de imunidade
+  
+  - Candidíase - Causado por *Candida*, também comumente encontradas no corpo e intestino, mas podendo formar hifas
+  
+  - Esporotricose - Causa irritação da pele, sendo subcutânea. Causada por *Sporothrix schenckii*
+
+- Profundas (ou Sistêmicas) - Adquiridas pela inalação de esporos, normalmente causando problemas no pulmão, mas podendo entrar no sangue e ir ao resto do corpo
+  
+  - Histoplasmose - Causada por *Histoplasma capsulatum*, podendo se disseminar na pele, medula óssea, cérebro, fígado ou baço em baixas do sistema imunológico
+  
+  - Criptococose - Infecção pulmonar causada por *Cryptococcus neoformans*, tendo sintomas parecidos a pneumonia
+  
+  - Paracoccidiodomicose - Micose profunda mais comum do Brasil. Causada por *Paracoccidioides brasiliensis*. Mais comum em agricultores pelo contato com o solo
+
 # Educação Física
 
 ## Ginástica Não Competitiva e Benefícios da Atividade Física
@@ -2975,8 +3005,6 @@ Segunda Guerra Mundial
   - Organização das Nações Unidas (ONU) - Foi criada para evitar futuras guerras, substituindo a antiga Liga das Nações. Também houve a criação da declaração universal dos direitos humanos
     - Conselho de Segurança - Órgão da ONU responsável pelas decisões da organização. Composto por 10 países temporários e 5 permanentes (EUA, Rússia, Reino Undo, França e China)
   - Nova Ordem Econômica - Houve a escolha do dólar como moeda internacional, além da criação do Bird e FMI para ajudar na recuperação dos países afetados pelo conflito
-
-
 
 # Literatura
 
