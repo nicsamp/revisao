@@ -263,6 +263,7 @@ Plantae - Reino das plantas, seres eucariontes pluricelulares fotossintetizantes
   - Gametófito - É haploide, produz gametas por mitose
   
   - Esporófito - É diploide, formado pela fusão dos gametas. Produz esporos haploides por meiose, que geram o gametófito
+
 - Alga Verde - Ancestral das plantas, mas não é uma por não ser dioica nem ter embrião pluricelular
 
 ---
@@ -473,7 +474,7 @@ Desconcentração Industrial - Fenômeno recente de redução na concentração 
 
 ## Cap. 11 [NÃO FEITO]
 
-## Cap. 12 [INACABADO]
+## Cap. 12
 
 Industrialização Brasileira - Ocorreu de forma tardia, gerando rápida urbanização
 
@@ -483,7 +484,7 @@ Industrialização Brasileira - Ocorreu de forma tardia, gerando rápida urbaniz
 
 - Crise do Café - A crise do café e fim das oligarquias permitiu o maior desenvolvimento industrial
 
-- Governo Getúlio Vargas - Criou uma política de industrialização, com grandes investimentos estatais sobretudo nas indústrias de base para subsituir a importação. Criou a Petrobrás, o Vale do Rio Doce, a CHESF e a Companhia Siderúrgica Nacional, entre outros
+- Governo Getúlio Vargas - Criou uma política de industrialização, com grandes investimentos estatais sobretudo nas indústrias de base para subsituir a importação. Criou a Petrobrás, o Vale do Rio Doce, a Companhia Hidrelétrica do São Francisco (Chesf) e a Companhia Siderúrgica Nacional, entre outros
 
 - Governo Juscelino Kubitschek (JK) - Houve a ampliação e consolidação das medidas de Vargas, com grande desenvolvimento industrial
   
@@ -497,6 +498,22 @@ Industrialização Brasileira - Ocorreu de forma tardia, gerando rápida urbaniz
     - Desindustrialização - Desvalorização e diminuição da produção industrial brasileira, sobretudo pela maior competitividade de produtos estrangeiros
 
 - Globalização - Aumentou a entrada do capital estrangeiro, a privatização. O Brasil continua sendo um país de baixa importância no comércio industrial internacional, pela falta de infraestrutura de transporte e grande carga tributária, entre outros
+  
+  - Desindustrialização - Queda do valor gerado por indústrias, ocorrendo no Brasil recentemente pela maior competitividade de produtos estrangeiros
+
+---
+
+Industrialização Brasileira por Regiões
+
+- Sudeste - A principal, tendo como destaque Grande São Paulo, Vale do Paraíba e Grande Rio, mas vem diminuindo pelo maior custo de produção e mão-de-obra, e incentivos menores que outros Estados (desconcentração industrial)
+
+- Sul - A mais industrializada depois do sudeste, ocorrendo de forma similar a estrutura agrícola
+
+- Nordeste - Cresceu mais recentemente por incentivos Estatais, e a criação da Superintendência do Desenvolvimento do Nordeste (Sudene)
+
+- Norte - Destaque para Manaus, também por inventivos estatais
+
+- Centro-Oeste - Bem pequena, com destaque para a agroindústria
 
 ## Cap. 16 [NÃO FEITO]
 
@@ -639,13 +656,34 @@ Guerra Fria - Conflito ideológico e socioeconômico entre os Estados Unidos (ca
 
 Descolonização Afro-Asiática - Combate a dominação imperialista na Ásia e África
 
-- Causas - Declínio do poder das antigas metrópoles e crescimento de movimentos de emancipação
+- Causas - Declínio do poder das antigas metrópoles, movimentos de emancipação e fronteiras arbitrárias (que acabaram gerando conflitos de poder pós-independência)
   
-  - Apoio das Superpotências - Apoiaram movimentos de independência, sobretudo para aumentar suas áreas de influência
+  - Apoio das Superpotências - Para aumentar suas áreas de influência
   
   - Princípio da Autodeterminação
 
-- Pan-Africanismo - Movimento que defendia a construção de uma identidade africana comum, defendendo a luta contra a opressão histórica compartilhada
+- Pan-Africanismo - Movimento que defendia a construção de uma identidade africana comum, defendendo a luta contra o imperialismo compartilhado e a discriminação
+
+- África do Sul - Inicialmente se tornou domínio inglês, tendo um próprio governo mas ainda sendo parte da Inglaterra
+  
+  - Partido Nacional - Assumiu o poder, formado por nacionalistas afrikaners
+  
+  - Apartheid - Política criada pelo partido nacional que segregou duramente a população negra, limitando seus direitos, permanecendo após a independência definitiva. Houve muita mobilização popular contra ela, além de pela ONU e outros países
+    
+    - Congresso Nacional Africano - Partido liderado por Nelson Mandela, que foi destaque na luta contr ao apartheid, que foi eventualmente abolido, com Mandela sendo eleito presidente
+
+- Colônias Portuguesas - Moçambique, Angola e Guiné-Bissau, sendo muito tardia a independência
+  
+  - Portugal - Vivia um período de ditadura violenta, com Antônio Salazar e seu sucessor
+  - Guerras Coloniais - Ocorreram após Portugal recusar negociar a independência, havendo destaque para o Movimento Popular de Libertação da Angola (MPLA) e Frente de Libertação de Moçambique (Frelimo), recebendo apoio da URSS. Gerou problemas econômicos para Portugal, além da insatisfação popular com a ditadura
+  - Revolução dos Cravos - Liderado pelo Movimento das Forças Armadas (MFA) em Portugal, derrubando a ditadura. Marcou o fim das guerras coloniais
+
+- Oriente Médio
+  
+  - Conflito Israel-Palestina - Ocorreu após a independência da Palestina, pela briga entre judeus (Israel) e árabes. Houve a vitória israelense, que recebeu apoio dos EUA. Depois, houve outro conflito pela nacionalização do Canal de Suez pela palestina
+  - Guerra de Seis Dias - Conflito entre Israel e países vizinhos, onde houve a vitória israelense, que obteu novos territórios
+  - Organização para Libertação da Palestina (OLP) - Organização terrorista que buscava enfraquecer Israel
+  - Intifada - Revolta popular realizada pela população palestina em Israel, tendo sua força aumentada com o surgimento de grupos terroristas como o Hamas
 
 ---
 
