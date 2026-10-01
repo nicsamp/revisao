@@ -22,8 +22,6 @@ Bacterioses
 
 In progress:
 
-Guerra Fria
-
 2a Lei de Mendel
 
 Viroses

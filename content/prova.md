@@ -608,7 +608,7 @@ Estado Novo - Governo autoritário de Vargas, caracterizado pela repressão, mil
   
   - Golpe de 1945 - Marcou o fim do Estado Novo, sendo um golpe armado realizado pelas Forças Armadas, recebendo apoio da classe média e das antigas oligarquias. Houve as eleições, mas sem a participação de Vargas
 
-## Cap. 14 [INACABADO]
+## Cap. 14
 
 Guerra Fria - Conflito ideológico e socioeconômico entre os Estados Unidos (capitalismo) e União Soviética (socialismo) pela hegemonia mundial, mas em que não ocorreu um conflito direto pela capacidade de destruição mútua
 
@@ -684,22 +684,50 @@ Descolonização Afro-Asiática - Combate a dominação imperialista na Ásia e 
   - Guerra de Seis Dias - Conflito entre Israel e países vizinhos, onde houve a vitória israelense, que obteu novos territórios
   - Organização para Libertação da Palestina (OLP) - Organização terrorista que buscava enfraquecer Israel
   - Intifada - Revolta popular realizada pela população palestina em Israel, tendo sua força aumentada com o surgimento de grupos terroristas como o Hamas
+- Índia - Independência liderada por Mahatma Gandhi, baseado na não-violência, com boicotes e desobediência civil. Terminou na divisão da Índia (hindus) e Paquistão (muçulmanos), gerando conflitos
+- China - Ocorreu a independência, mas ainda havia muita pressão estrangeira
+  - Partido Comunista Chinês (PCC) - Criado para combater o imperialismo, buscando inplementar o socialismo no país, que ocorreu após a retirada do Japão do país. Teve como líder Mao Tsé-Tung
+    - Taiwan - Os nacionalistas anticomunistas fugiram oara a ilha após a implantação do socialismo
+  - China Socialista - Ditadura de partido único, implementou mudanças como a nacionalização de empresas, industrialização e coletivização da agricultura, que gerou crises de fome e econômicas. Houve o afastamento da URSS (por sua desestalinização) e aproximação dos EUA
+    - Revolução Cultural - Objetivo de combater opositores
+  - Deng Xiaoping - Líder após Mao, iniciou a abertura econômica do país para o mercado externo, gerando crescimento econômico
 
 ---
 
 América Latina pós-Independências - Caracterizada pela manutenção da desigualdade, concentração de renda e dependência econômica, modernização (urbanização e industrialização) e crescimento de ideologias atreladas à Guerra Fria
 
-- Disputas Imperialistas - Inicialmente os EUA e Inglaterra tinham a maior influência no continente, com o aumento da força dos EUA após a Guerra Fria, visando manter a área de influência
+- Disputas Imperialistas - Inicialmente os EUA e Inglaterra tinham a maior influência no continente, com o aumento da força dos EUA após a Guerra Fria, e com isso o enfraquecimento da inglesa
   
-  - Intervencionismo Norte-Americano
+  - Intervencionismo Norte-Americano - Visava manter a área de influência dos EUA, inclusive com intervenções militares, além de querer afastar o Eixo e posteriormente a URSS
+
+- Guerra do Chaco - Invasão da Bolívia do Paraguai, buscando acesso ao mar pela bacia do Prata, mas perderam
 
 - Abolização da Escravidão - Ocorreu de forma tardia na Cuba e Brasil
 
 - Revolução Mexicana - Movimento liderado sobretudo por camponeses durante a ditadura de Porfirio Diaz (porfiriato), inclusive a participação feminina. Houve a derrubada do porfiriato, mas apenas mudanças parciais a favor dos camponeses
   
-  - Líderes - Pancho Villa e Emiliano Zapata, liderando os camponeses. Eventualmente foram assassinados
+  - Início - Denúncia por Francisco Madero, candidato a presidência, do fraude eleitoral de Porfírio
+  
+  - Líderes - Pancho Villa (norte) e Emiliano Zapata (sul), liderando os camponeses. Eventualmente foram assassinados
+    
+    - Plano de Ayala - Reivindicações dos camponeses, como a devolução de terras tomadas por grandes proprietários
   - Ejidos - Organização fundiária dos camponeses, foi desestruturada durante a revolução
-  - Constituição - Criada após a revolução, implantando uma democracia nacionalista e trabalhista, com voto universal, além de legalizar os Ejidos. Implantou uma reforma agrária fraca
+  - Constituição - Criada após a revolução, implantando uma democracia nacionalista e trabalhista, com voto universal, além de legalizar os Ejidos. Implantou uma reforma agrária fraca e tardia, causando novas mobilizações, mas que foram combatidas
+  - Exército Zapatista de Libertação Nacional (EZLN) - Organização mais recente, também visando a criação de uma reforma agrária
+- Populismo - Houve o surgimento de muitos governos populistas, baseados no nacionalismo, legislações trabalhistas e assistencialismo
+  - Argentina - Liderada por Perón e sua esposa, Eva Perón (ou Evita). Implementaram diversas medidas trabalhistas e de apoio aos pobres. Contudo, sofreu um golpe de Estado, depois voltando e, após a sua morte, houve outro golpe, dessa vez militar
+
+---
+
+América Latina na Guerra Fria - Houve forte influência estadunidense
+
+- Cuba - Principal nação a se tornar socialista, sob liderança de Fidel Castro, apoiando outros movimentos no continente
+  - Che Guevara - Liderou um movimento socialista na Bolívia, com apoio de Cuba, mas fracassou
+- Aliança para o Progresso - Política norte-americana de financiamento de projetos desenvolvimentistas no continente
+- Governos Militares - Substituiram os populistas, surgiram pelo anticomunismo, utilizando as Forças Armadas para combater eles
+  - Operação Condor - Troca de informações e prisioneiros relacionada ao anticomunismo entre países da América do Sul, além de receberem o apoio dos EUA
+  - Argentina - Caracterizado por forte uso da violência, crise econômica e invasão das Ilhas Malvinas
+  - Chile - Liderado por Pinochet, também houve uso da violência
 
 # Literatura [A CONFIRMAR]
 
