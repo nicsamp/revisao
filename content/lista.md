@@ -16,15 +16,13 @@ Algas
 
 Sistema Reprodutor
 
-Bacterioses
-
 ---
 
 In progress:
 
 2a Lei de Mendel
 
-Viroses
+Bacterioses e Viroses
 
 Plantas
 
