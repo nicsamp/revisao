@@ -624,7 +624,35 @@ Industrialização Brasileira por Regiões
 
 - Centro-Oeste - Bem pequena, com destaque para a agroindústria
 
-## Cap. 16 [NÃO FEITO]
+## Cap. 16 [INACABDO]
+
+Geopolítica - Estuda as estratégias do Estado para a administração e sobrevivência de seu território e nação
+
+- Nação - Conjunto de pessoas que tem em comum cultura, etina, idioma e costumes
+
+- Território - Espaço físico de um Estado
+
+- Estado - Junção de território e nação, dividido em três poderes
+
+Conflito - Disputa entre Estados motivada por fatores econômicos, militares, territoriais, religiosos ou étnicos
+
+---
+
+País - Região considerada território de um Estado
+
+Paisagem - O espaço que é observado. Pode ser natural ou humanizada
+
+Espaço - Área ocupada, podendo ser natural (não modificada) ou geográfica
+
+---
+
+Nações sem Estado (ou Povo sem Pátria) - Nações que não possuem território ou Estado reconhecido internacionalmente, ou que lutam por esses. Ex: Catalunha, Curdos
+
+- País Basco - Território que luta pela independência territorial, localizado no norte da Espanha e sul da França. Tem como principal força armada o ETA
+
+- Questão Ucraniana - Conflito envolvendo a Ucrânia e Rússia, iniciada pelo interesse russo de manter sua fronteira protegida após a aproximação da Ucrânia da União Europeia
+  
+  - Crimeia - Região da Ucrânia tomada pela Rússia, sendo ponto estratégico militar
 
 ## Cap. 17 [NÃO FEITO]
 
