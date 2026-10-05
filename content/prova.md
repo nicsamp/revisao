@@ -628,7 +628,7 @@ Industrialização Brasileira por Regiões
 
 - Centro-Oeste - Bem pequena, com destaque para a agroindústria
 
-## Cap. 16 [INACABDO]
+## Cap. 16 [INACABADO]
 
 Geopolítica - Estuda as estratégias do Estado para a administração e sobrevivência de seu território e nação
 
@@ -997,6 +997,48 @@ Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de idea
 # Sociologia
 
 ## Cap. 10 [NÃO FEITO]
+
+Formação do Estado Brasileiro
+
+- Brasil Colonial - Caracterizado pela economia agrária, escravidão, concentração de renda e domínio da metrópole
+  
+  - Capitanias Hereditárias - Divisão da colônia entre capitães-donatários, que serviam como governadores. Não deu certo
+  
+  - Governo-Geral - Poder sobre todo o território colonial, acima das capitanias
+  
+  - Câmaras Municipais - As mais locais, tomando conta dos problemas do local
+- Monarquia - Era constitucional, mas com muito poder ainda centralizado na mão do imperador, que escolhia os governadores, por exemplo
+  - Revoltas - Contra a centralização política. Ex: Revolução Praieira
+  - Poder Moderador - Criado por Dom Pedro I, dando poder quase absoluto a ele, podendo interferir nas decisões dos outros poderes
+  - Parlamentarismo às Avessas - Sistema parlamentar praticado no Brasil, mas em que o rei elegia o primeiro-ministro
+  - Lei Áurea - Aboliu a escravidão, substituindo o trabalho por mão-de-obra assalariada
+- República - Implementada após um golpe de Estado por Deodoro da Fonseca. Caracterizada pelo federalismo (maior autonomia dos estados)
+  - Oligarquia - Período caracterizado pelo domínio do Estado pelos coronéis (elite agrária), com eleições fraudadas (voto de cabresto)
+  - Revolução de 1930 - Golpe de Estado que acabou com o período oligárquico, criando um regime autoritário liderado por Getúlio Vargas, caracterizado por políticas trabalhistas e industrialização, além do período de segunda guerra e guerra fria
+  - Juscelino Kubitschek - Presidente eleito após Vargas, caracterizado por forte crescimento econômico
+  - Ditadura Militar - Ditadura autoritária implementada nos anos 60
+    - Milagre Econômico - Grande crescimento econômico durante a ditadura militar, mas foi seguido de crise
+  - "Diretas Já" - Movimento de combate ao voto indireto
+
+---
+
+Poder Executivo - Desempenhado pelo presidente federal
+
+- Presidente - Chefe de Estado, eleito por voto direto a cada 4 anos, junto com o vice-presidente. Responsável pela administração federal
+  
+  - Vice-Presidente - Responsável por substituir o presidente na sua ausência e ou auxiliá-lo
+
+- Ministro de Estado (ou Ministro-Chefe) - Escolhido pelo presidente, responsável por liderar seu ministério
+  
+  - Ministérios - Órgãos federais atrelados à certos setores, implementando políticas para seus setores
+
+Poder Legislativo - Desempenhado pelo congresso nacional
+
+- Congresso Nacional - Formado pela câmara dos deputados e o senado federal
+  
+  - Câmara dos Deputados - Formado pelos deputados, eleitos de forma proporcional à população do estado que representam
+  
+  - Senado Federal - Formado pelos senadores, sendo 3 por estado
 
 ## Cap. 12 [NÃO FEITO]
 
