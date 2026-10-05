@@ -272,13 +272,17 @@ Segregação Independente (ou 2ª Lei de Mendel) - Análise da transmissão de m
 
 ---
 
-Interação Gênica - Ocorre quando mais de um gene influencia em um mesmo fenótipo. Ex: cor das penas de periquitos (A_B_ é verde, A_bb é azul, aaB_ é amarelo, e aabb é branco)
+Interação Gênica - Ocorre quando mais de um gene influencia em um mesmo fenótipo
+
+- Genes Complementares - Ocorre quando um gene complementa a ação do outro em um fenótipo. Ex: cor das penas de periquitos (A_B_ é verde, A_bb é azul, aaB_ é amarelo, e aabb é branco)
 
 - Epistasia - Ocorre quando um gene (epistático) impede a manifestação de outro (hipostático). Ex: pelagem de labradores (B_E_ é preto, bbE_ é marrom, __ee é dourado independentemente de b)
   
   - Epistasia Dominante - O epistático dominante que impede a manifestação
   - Epistasia Recessiva - O epistático recessivo impede a manifestação
+
 - Herança Quantitativa - Ocorre quando a quantidade de alelos influencia na intensidade do fenótipo final. Ex: altura (cada gene dominante determina +10 cm). Não há dominantes e recessivos
+  
   - Alelo Aditivo (ou Efetivo) - Contribui para o aumento da intensidade, representado por letra maiúscula
   - Alelo não Aditivo (ou Não Efetivo) - Não contribui, representado por letra minúscula
   - Fenótipo Mínimo (ou Básico) - Ocorre quando todos os alelos são não efetivos
