@@ -582,7 +582,25 @@ Desconcentração Industrial - Fenômeno recente de redução na concentração 
 
 - Tecnopolos (ou Polos Tecnológicos) - Regiões normalmente ao redor de universidades e centros de pesquisas, onde há a concentração de indústrias de alta tecnologia. Ex: Vale do Silício
 
-## Cap. 11 [NÃO FEITO]
+## Cap. 11
+
+Indústria no Mundo
+
+- América do Norte - Destaque sobretudo para o manufacturing belt dos EUA. Caracterizado por grande reserva de recursos naturais
+
+- Japão - Terceiro país mais industrializado, após os EUA e China. Caracterizado por alta tecnologia mas pobre em recursos naturais
+
+- Europa - Destaque para a Alemanha e Reino Unido, fortalecidos sobretudo após a criação da União Europeia
+
+- Tigres Asiáticos - Países do sudeste asiático que tiveram grande crescimento industrial de exportação, sobretudo por investimentos internacionais, mão-de-obra barata e incentivos governamentais. São Coreia do Sul, Cingapura, Taiwan e Hong Kong (ex colônia britânica, hoje parte da China). Caracterizado por alta tecnologia
+
+- Novos Tigres Asiáticos - Crescimento industrial mais recente. São Filipinas, Indonésia, Malásia e Tailândia, e mais recentemente ainda o Vietnã
+
+- Brics - Aliança entre Brasil, Rússia, Índia, China e África do Sul, países em desenvolvimento com grande potencial econômico. Caracterizado por grande quantidade de recursos naturais e mão-de-obra
+  
+  - China - País de destaque do Brics, com um crescimento muito expressivo por investimentos estatais nas indústrias nacionais e abertura para o capital estrangeiro
+    
+    - Zonas Econômicas Especiais (ZEEs) - Regiões de incentivo estatal para a entrada de capital estrangeiro, com isenção de impostos, grande quantidade de mão de obra e mercado consumidor
 
 ## Cap. 12
 
