@@ -16,17 +16,21 @@ Algas
 
 Sistema Reprodutor
 
+Bacterioses e Viroses
+
 ---
 
 In progress:
-
-Bacterioses e Viroses
 
 Plantas
 
 Sociologia Livro
 
 Linkage
+
+Cap. 15 história
+
+PCA, Jogos de tabuleiro e cooperativos
 
 Geopolítica
 

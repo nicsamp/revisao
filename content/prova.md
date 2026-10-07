@@ -658,9 +658,34 @@ Nações sem Estado (ou Povo sem Pátria) - Nações que não possuem territóri
   
   - Crimeia - Região da Ucrânia tomada pela Rússia, sendo ponto estratégico militar
 
-## Cap. 17 [NÃO FEITO]
+## Cap. 20 [NÃO FEITO]
 
-## Cap. 18 [NÃO FEITO]
+## Cap. 21
+
+Questão Israel-Palestina - Conflito territorial religioso entre o Estado de Israel (judeu) e da Palestina (muçulmano)
+
+- Expulsão dos Judeus - Ocorreu com a ocupação do local pelo Império Romano, havendo a ocupação pelos palestinos
+
+- Domínio Britânico - A palestina se tornou colônia britânica
+  
+  - Sionismo - Migrações de judeus para a região da Palestina, sobretudo durante o domínio britânico e segunda guerra mundial
+- Partilha da ONU - Pelo enfraquecimento da Inglaterra, a ONU criou uma divisão entre um Estado árabe e outro judeu
+
+- Guerra da Independência - Conflito entre Israel e Jordânia, Egito, Síria, Líbano e Iraque, pela insatisfação com a decisão da ONU. A faixa de Gaza e a Cisjordânia foi ocupada pelos árabes, e Jerusalém foi dividida. A Palestina foi invadida
+
+- Guerra dos Seis Dias - Reivindicação israelense à guerra anterior, conquistando a Cisjordânia, faixa de Gaza, península da Sinai, as colinas de Golã (da Síria) e Jerusalém
+
+- Guerra do Yom Kippur - Tentativa dos países árabes de reconquistar os territórios perdidos, mas houve vitória israelense com o apoio dos EUA
+  
+  - Choque do Petróleo - Os países da Opep (Organização dos Países Exportadores de Petróleo), na maioria árabes, aumentaram o preço do petróleo para desestabilizar Israel e seus aliados (como os EUA), gerando uma crise mundial
+  
+  - Yom Kippur (ou Dia do Perdão) - Feriado sagrado para os judeus, o dia em que ocorreu a invasão
+  
+  - Acordo de Camp David - Houve a devolução da península do Sinai ao Egito em troca de paz
+- Organização para a Libertação da Palestina (OLP) - Entidade liderada inicialmente por Arafat, senod a principal na luta palestina
+  - Autoridade Nacional Palestina (ANP) - Governo provisório palestino
+  - Acordo de Olso - Acordo intermediado pelos EUA entre Israel e a OLP, garantindo o controle da Faixa de Gaza e Cisjordânia para a palestina, mas gerou insatisfação nas organizações terroristas e eventualmente foi quebrado, com a criação de assentamentos e um muro ao redor da Cisjordânia por Israel na Palestina
+- Hamas - Principal organização terrorista da palestina, com o objetivo de destruir Israel. Atualmente controlam a Faixa de Gaza
 
 # História
 
@@ -996,7 +1021,7 @@ Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de idea
 
 # Sociologia
 
-## Cap. 10 [NÃO FEITO]
+## Cap. 10
 
 Formação do Estado Brasileiro
 
@@ -1007,12 +1032,16 @@ Formação do Estado Brasileiro
   - Governo-Geral - Poder sobre todo o território colonial, acima das capitanias
   
   - Câmaras Municipais - As mais locais, tomando conta dos problemas do local
+
 - Monarquia - Era constitucional, mas com muito poder ainda centralizado na mão do imperador, que escolhia os governadores, por exemplo
+  
   - Revoltas - Contra a centralização política. Ex: Revolução Praieira
   - Poder Moderador - Criado por Dom Pedro I, dando poder quase absoluto a ele, podendo interferir nas decisões dos outros poderes
   - Parlamentarismo às Avessas - Sistema parlamentar praticado no Brasil, mas em que o rei elegia o primeiro-ministro
   - Lei Áurea - Aboliu a escravidão, substituindo o trabalho por mão-de-obra assalariada
+
 - República - Implementada após um golpe de Estado por Deodoro da Fonseca. Caracterizada pelo federalismo (maior autonomia dos estados)
+  
   - Oligarquia - Período caracterizado pelo domínio do Estado pelos coronéis (elite agrária), com eleições fraudadas (voto de cabresto)
   - Revolução de 1930 - Golpe de Estado que acabou com o período oligárquico, criando um regime autoritário liderado por Getúlio Vargas, caracterizado por políticas trabalhistas e industrialização, além do período de segunda guerra e guerra fria
   - Juscelino Kubitschek - Presidente eleito após Vargas, caracterizado por forte crescimento econômico
