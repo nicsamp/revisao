@@ -1029,13 +1029,13 @@ Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de idea
     
     - Epifania - Momento de revelação e descoberta íntima existencial
   
-  - João Guimarães Rosa - Caracterizado por forte caráter simbólico, com reflexões sobre o bem, amor, vida, violência e existência de Deus. Escreveu Sagarana, Corpo de Baile, Grande Sertão Veredas, e outros
+  - João Guimarães Rosa - Caracterizado por forte caráter simbólico, com reflexões sobre o bem, amor, vida, violência, medo, destino e existência de Deus. Escreveu Sagarana, Corpo de Baile, Grande Sertão Veredas, e outros
     
     - Regionalismo Universal - Característica de suas obras, em que há um espaço regional específico (sertão de Minas Gerais), mas não com postura de denúncia como na fase anterior, mas sim narrativas com significação universal (poderia ser em qualquer lugar)
       
       - Ascese - Elevação espiritual, acontecendo muito com seus personagens
     
-    - Linguagem - Ela é chamada de pessoal, por ser muito inovadora e inventiva, com neologismos, grande liberdade, oralidade, figuras de linguagem
+    - Linguagem - Ela é chamada de pessoal, por ser muito inovadora e inventiva, com neologismos, grande liberdade, oralidade, figuras de linguagem, mistura de expressões populares e vocabulário erudito
     
     - Grande Sertão: Veredas - Seu principal livro. Fala sobre o fazendeiro Riobaldo, destacando a violência sofrida durante a República Velha, com forte lirismo e reflexões existenciais
 

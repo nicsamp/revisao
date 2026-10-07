@@ -6,8 +6,6 @@ Genealogias?
 
 Cap. 11 sociologia (sociedade espetáculo) e mais?
 
-Indústria
-
 Modais de Transporte
 
 Oração Subordinada Substantiva
