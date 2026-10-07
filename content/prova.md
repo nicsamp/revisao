@@ -650,17 +650,21 @@ Espaço - Área ocupada, podendo ser natural (não modificada) ou geográfica
 
 ---
 
-Nações sem Estado (ou Povo sem Pátria) - Nações que não possuem território ou Estado reconhecido internacionalmente, ou que lutam por esses. Ex: Catalunha, Curdos
+Nações sem Estado (ou Povo sem Pátria) - Nações que não possuem território ou Estado reconhecido internacionalmente, ou que lutam por esses. Ex: Catalunha
 
 - País Basco - Território que luta pela independência territorial, localizado no norte da Espanha e sul da França. Tem como principal força armada o ETA
 
-- Questão Ucraniana - Conflito envolvendo a Ucrânia e Rússia, iniciada pelo interesse russo de manter sua fronteira protegida após a aproximação da Ucrânia da União Europeia
-  
-  - Crimeia - Região da Ucrânia tomada pela Rússia, sendo ponto estratégico militar
+- Catalunha - Outro povo no norte da Espanha que luta pela independência (povo Catalão), tendo força mais expressiva e até certa autonomia política
+
+---
+
+Questão Ucraniana - Conflito envolvendo a Ucrânia e Rússia, iniciada pelo interesse russo de manter sua fronteira protegida após a aproximação da Ucrânia da União Europeia
+
+- Crimeia - Região da Ucrânia tomada pela Rússia, sendo ponto estratégico militar
 
 ## Cap. 20
 
-Curdos (ou Curdistão) - Nação sem território localizado no Oriente Médio, na Turquia, Iraque, Síria e Irã, que são contra a criação do país por haver grandes reservas de petróleo no local. Inicialmente tentaram lutar por meio de guerras, mas atualmente focam na autodeterminação do povo
+Curdos (ou Curdistão) - Nação sem Estado localizado no Oriente Médio, na Turquia, Iraque, Síria e Irã, que são contra a criação do país por haver grandes reservas de petróleo no local. Inicialmente tentaram lutar por meio de guerras, mas atualmente focam na autodeterminação do povo
 
 - Império Otomano - Levou à separação do povo pelo Oriente Médio
 
