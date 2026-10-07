@@ -658,7 +658,11 @@ Nações sem Estado (ou Povo sem Pátria) - Nações que não possuem territóri
   
   - Crimeia - Região da Ucrânia tomada pela Rússia, sendo ponto estratégico militar
 
-## Cap. 20 [NÃO FEITO]
+## Cap. 20
+
+Curdos (ou Curdistão) - Nação sem território localizado no Oriente Médio, na Turquia, Iraque, Síria e Irã, que são contra a criação do país por haver grandes reservas de petróleo no local. Inicialmente tentaram lutar por meio de guerras, mas atualmente focam na autodeterminação do povo
+
+- Império Otomano - Levou à separação do povo pelo Oriente Médio
 
 ## Cap. 21
 
