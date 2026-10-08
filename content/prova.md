@@ -496,7 +496,7 @@ Hannah Arendt - Filósofa caracterizada por falar sobre o totalitarismo e a vida
 
 ## Cap. 4 [NÃO FEITO]
 
-# Geografia [A CONFIRMAR]
+# Geografia
 
 ## Cap. 10
 
@@ -1061,7 +1061,7 @@ Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de idea
     
     - Grande Sertão: Veredas - Seu principal livro. Fala sobre o fazendeiro Riobaldo, destacando a violência sofrida durante a República Velha, com forte lirismo e reflexões existenciais
 
-# Português [A CONFIRMAR]
+# Português
 
 ## Cap. 15 [NÃO FEITO]
 
@@ -1117,7 +1117,17 @@ Poder Legislativo - Desempenhado pelo congresso nacional
   
   - Senado Federal - Formado pelos senadores, sendo 3 por estado
 
-## Cap. 12 [NÃO FEITO]
+## Cap. 12
+
+Folclore - Tipo de cultura popular caracterizada por ser a memória cultural (costumes, lendas, manifestações, pratos, danças) mais remota de um povo, fazendo parte de um inconsciente coletivo e contribuindo para a identidade nacional
+
+Sociedade Midiática - Levou à transformação do folclore em um produto de consumo, tratado como mercadoria pelas elites, como na indústria cultural, levando a perda de diversidade e legitimidade
+
+- Carnaval - Um dos principais exemplos de folclore transformado pela sociedade capitalista, transformando a liberdade da festa em um evento espetacularizado e capitalizado, perdendo sua legitimidade. Contudo, permite a expansão da cultura para o exterior
+
+---
+
+Apropriação Cultural - Silenciamento de grupos que criaram uma manifestação cultural por outros com pouca ligação com eles, muitas vezes por interesses econômicos, com esses perdendo seu protagonismo na identidade cultural, também ocorrendo com o carnaval
 
 ## Cap. 13 [NÃO FEITO]
 
