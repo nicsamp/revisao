@@ -646,7 +646,7 @@ Industrialização Brasileira por Regiões
 
 - Centro-Oeste - Bem pequena, com destaque para a agroindústria
 
-## Cap. 16 [INACABADO]
+## Cap. 16
 
 Geopolítica - Estuda as estratégias do Estado para a administração e sobrevivência de seu território e nação
 
@@ -678,7 +678,25 @@ Nações sem Estado (ou Povo sem Pátria) - Nações que não possuem territóri
 
 Questão Ucraniana - Conflito envolvendo a Ucrânia e Rússia, iniciada pelo interesse russo de manter sua fronteira protegida após a aproximação da Ucrânia da União Europeia
 
-- Crimeia - Região da Ucrânia tomada pela Rússia, sendo ponto estratégico militar
+- Antigo Governo Ucraniano - Se recusou a assinar um acordo com a União Europeia, gerando protestos que levaram a deposição do governo e a implementação de um pró-UE, gerando protestos na Rússia, além do medo do governo russo de uma aproximação a Otan
+
+- Crimeia - Região da Ucrânia que declarou independência e se incorporou à Rússia, com seu apoio, tendo muita população de origem russa e sendo ponto estratégico militar
+
+- Donetsk e Lugansk - Regiões do leste ucraniano, também com muita população russa, que foi reconhecida como independente pela Rússia e anexada por ela
+
+- Sanções - Muitos países, sobretudo da Europa e os EUA, cortaram vínculos comerciais com a Rússia, que fez o mesmo
+
+---
+
+Iugoslávia - País socialista formado após a 2ª guerra mundial, composto pela Sérvia, Croácia, Eslovênia, Bósnia-Herzegovina, Macedônia do Norte e Montenegro
+
+- Tito - Líder do país, mantendo a unidade territorial durante a Guerra Fria, mesmo com a diversidade étnica e relogiosa que gerava conflito
+
+- Independência - Perto do fim da Guerra Fria, houve um conflito interno que culminou na independência da Croácia, Eslovênia e Macedônia
+
+- Guerra da Bósnia - Conflito iniciado por grupos sérvios após um plebiscito para a independência da Bósnia. Resultou na divisão da Iugoslávia no país da Bósnia e Sérvia-Montenegro, que posteriormente se separou
+
+- Kosovo - País na região sul da Sérvia que declarou independência, criando um conflito que foi controlado pela Otan. Contudo, ainda tem reconhecimento limitado
 
 ## Cap. 20
 
@@ -695,6 +713,7 @@ Questão Israel-Palestina - Conflito territorial religioso entre o Estado de Isr
 - Domínio Britânico - A palestina se tornou colônia britânica
   
   - Sionismo - Migrações de judeus para a região da Palestina, sobretudo durante o domínio britânico e segunda guerra mundial
+
 - Partilha da ONU - Pelo enfraquecimento da Inglaterra, a ONU criou uma divisão entre um Estado árabe e outro judeu
 
 - Guerra da Independência - Conflito entre Israel e Jordânia, Egito, Síria, Líbano e Iraque, pela insatisfação com a decisão da ONU. A faixa de Gaza e a Cisjordânia foi ocupada pelos árabes, e Jerusalém foi dividida. A Palestina foi invadida
@@ -708,9 +727,12 @@ Questão Israel-Palestina - Conflito territorial religioso entre o Estado de Isr
   - Yom Kippur (ou Dia do Perdão) - Feriado sagrado para os judeus, o dia em que ocorreu a invasão
   
   - Acordo de Camp David - Houve a devolução da península do Sinai ao Egito em troca de paz
+
 - Organização para a Libertação da Palestina (OLP) - Entidade liderada inicialmente por Arafat, senod a principal na luta palestina
+  
   - Autoridade Nacional Palestina (ANP) - Governo provisório palestino
   - Acordo de Olso - Acordo intermediado pelos EUA entre Israel e a OLP, garantindo o controle da Faixa de Gaza e Cisjordânia para a palestina, mas gerou insatisfação nas organizações terroristas e eventualmente foi quebrado, com a criação de assentamentos e um muro ao redor da Cisjordânia por Israel na Palestina
+
 - Hamas - Principal organização terrorista da palestina, com o objetivo de destruir Israel. Atualmente controlam a Faixa de Gaza
 
 # História
