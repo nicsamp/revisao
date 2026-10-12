@@ -18,6 +18,8 @@ Bacterioses e Viroses
 
 Cap. 15 e Cap. 16 Português
 
+Linkage
+
 ---
 
 In progress:
@@ -25,8 +27,6 @@ In progress:
 Plantas
 
 Sociologia Livro
-
-Linkage
 
 Cap. 15 história
 

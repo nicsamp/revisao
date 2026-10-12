@@ -1129,7 +1129,55 @@ Sociedade Midiática - Levou à transformação do folclore em um produto de con
 
 Apropriação Cultural - Silenciamento de grupos que criaram uma manifestação cultural por outros com pouca ligação com eles, muitas vezes por interesses econômicos, com esses perdendo seu protagonismo na identidade cultural, também ocorrendo com o carnaval
 
-## Cap. 13 [NÃO FEITO]
+## Cap. 13
+
+Direitos Civis - Direito à vida, liberdade (de expressão, de ideias, de religião...) e propriedade privada
+
+Direitos Políticos - Democracia com sufrágio (voto) universal e direito de elegibilidade
+
+Direitos Sociais - Trabalho, alimentação, saúde, educação, moradia, segurança, auxílio aos desamparados, lazer, proteção à maternidade e infantilidade, previdência social e transporte
+
+---
+
+Atenas e Roma - Onde foi criado o primeiro conceito de direito humano, com a cidadania e direitos jurídicos. Contudo, muitos ainda eram excluídos
+
+Revolução Burguesa - Caracterizada pela transição do absolutismo e domínio da Igreja para o capitalismo, havendo a valorização da igualdade natural, propriedade privada, liberdade e autonomia, em vez de uma hierarquia baseada na nascença
+
+- Bodin e Bossuet - Criaram a teoria do direito divino, defendendo que o monarca absoluto foi escolhido por Deus para governar, justificando o absolutismo
+
+- Thomas Hobbes - Defendia que o ser humano é mal por natureza, sendo necessário um Estado para garantir a ordem, servindo de justificativa para o absolutismo
+  
+  - Jusnaturalismo Hobbesiano - Os humanos trocam parte de sua liberdade para uma pessoa com poder absoluto, que ajuda a garantir seus direitos
+- Jean-Jacques Rousseau - Defende que o ser humano é bom por natureza, mas é corrompido
+- Nicolau Maquiavel - Defende a separação da política e religião, buscando entender a política como ela é, e não como devia ser
+
+
+
+Revolução Inglesa - Acabou com o absolutismo britânico, iniciando uma monarquia parlamentarista
+
+- Bill of Rights (ou Carta dos Direitos) - Primeira declaração de um Estado de Direito, afirmando que cabe a ele garantir o direito à vida, liberdade e propriedade privada, visando o bem estar comum, inspirada no liberalismo de John Locke
+
+Treze Colônias - Colônias britânicas que se tornariam os EUA, ocupadas sobretudo por puritanos (protestantes) fugindo da perseguição inglesa, havendo a valorização da justiça e igualdade, trazida até a independência. Contudo, ainda havia a exclusão de muitos, além de um individualismo excessivo e problemas como racismo e xenofobia
+
+---
+
+Declaração dos Direitos do Homem e do Cidadão - Criado na França após a revolução francesa, marcando a universalização dos direitos civis e políticos para todos, além de posteriormente darem origem às lutas pelos direitos sociais, sobretudo pela classe operária
+
+Criação dos Direitos Sociais - Houve a legalização de sindicatos e greves, criação do direito ao emprego, aposentadoria obrigatória e outras medidas de bem estar social, intensificadas após as guerras mundiais
+
+- Keynesianismo - Política que substituiu o liberalismo, caracterizada pela intervenção estatal na economia, como na criação de empregos pelo Estado
+
+- New Deal - Política criada por Franklin Roosevelt, presidente estadunidense, após a grande depressão, havendo o combate ao desemprego e falência de empresas pelo Estado
+
+- Organização Internacional do Trabalho (OIT) - Estabeleceu a jornada de trabalho máxima, proibição do trabalho infantil e proteção à maternidade. Contudo, demoraram a ser implementadas ou ainda não foram em muitos países
+
+---
+
+Declaração Universal dos Direitos Humanos (DUDH) - Documento criado pela ONU, tornando internacional a luta pelos direitos humanos
+
+Neoliberalismo - Política caracterizada pela intervenção mínima do Estado na economia, como em crises sociais. Levou à privatização de empresas estatais e maior flexibilização de direitos trabalhistas. Contudo, levou à terceirização de funções e surgimento do trabalho informal
+
+Luta Atual por Direitos Humanos (ou Direitos de Terceira Geração) - Tem maior destaque para movimentos antirracistas, feministas e ambientalistas, entre outros, com destaque para direitos de minorias
 
 ## Cap. 14 [NÃO FEITO]
 
