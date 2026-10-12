@@ -288,7 +288,28 @@ Interação Gênica - Ocorre quando mais de um gene influencia em um mesmo fenó
   - Fenótipo Mínimo (ou Básico) - Ocorre quando todos os alelos são não efetivos
   - Fenótipo Máximo - Ocorre quando todos são efetivos
 
-## Cap. 14 [NÃO FEITO]
+## Cap. 14
+
+Ligação Gênica (ou Linkage) - Ocorre quando dois genes estão presentes no mesmo cromossomo, não sofrendo segregação independente e alterando a proporção fenotípica esperada
+
+- Posições dos Genes Di-íbridos
+  
+  - Posição Cis - Ambos os dominantes e recessivos estão pareados. AB / ab ou $\frac{AB}{ab}$ ou (AB)(ab)
+  
+  - Posição Trans - Um dominante está pareado com outro recessivo. Ab / aB ou $\frac{Ab}{aB}$ ou (Ab)(aB)
+
+- Recombinação Gênica - Ocorre por meio do crossing-over (ou permutação) da prófase I, permite a troca de alelos entre os cromossomos homólogos, permitindo a formação de novos pares de genes para os gametas
+  
+  - Taxa de Recombinação (TR, ou Taxa de Permutação) - Porcentagem de gametas recombinantes formados, sendo a metade da porcentagem de células que sofreram crossing-over. Medida em porcentagem ou unidades de recombinação (UR)
+  
+  - Distância entre Genes - É diretamente proporcional à taxa de recombinação. Medida em unidade de distância ou centimorgan (cM), com cada 1% de taxa de recombinação sendo 1 cM
+
+- Tipos de Gametas
+  
+  - Gametas Parentais - Tem a localização dos alelos igual a da célula-mãe, logo não sofreram recombinação
+  
+  - Gametas Recombinantes - Tem a localização dos alelos diferentes, por terem sofrido recombinação gênica
+- Mapas Cromossômicos (ou Genéticos ou de Ligação) - Esquema que mostra a distância entre vários locus gênicos, calculados com base na taxa de recombinação entre eles
 
 # Biologia SSA
 
