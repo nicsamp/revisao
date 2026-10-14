@@ -1087,6 +1087,18 @@ Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de idea
 
 ## Cap. 15 [NÃO FEITO]
 
+Sinais de Pontuação
+
+- Vírgula
+
+- Travessão
+
+- Ponto e Vírgula
+
+- Reticências
+
+- Aspas
+
 ## Cap. 16 [NÃO FEITO]
 
 # Sociologia
@@ -1212,7 +1224,9 @@ Cultura Brasileira - Caracterizada por ser bem heterogênea, com diversidade de 
   - Música - Há a maior hegemonia da nacional. Contudo, ainda sofre com a padronização da indústria cultural
     
     - Sertanejo - Principal exemplo de padronização, havendo a perda de temas do Sertão e críticas para conflitos amorosos, se tornando uma mercadoria que busca apenas seduzir, e não gerar reflexão ou pensamento
+
 - Meios de Comunicação de Massa - No Brasil, há destaque para a televisão, em declínio, serviços de streaming, em crescimento, substituindo ela (por exemplo, a criação da globoplay), e as redes sociais. Dependem da publicidade para gerarem lucro
+  
   - Colonialismo Cultural - Ocorre quando a maioria das agências de notícias menores acabam repetindo notícias de agentes maiores, que podem inclusive ser internacionais, desvalorizando 
   - Internet - Crucial para os meios de comunicação de massa, que vem crescendo no país com o aumento do acesso à internet
 
@@ -1228,4 +1242,37 @@ Enraizamento - Prática de proteção a uma cultura da padronização, buscando 
 
 Desenraizamento - Processo inverso. Ex: imposição cultural colonial, indústria cultural
 
-## Cap. 15 [NÃO FEITO]
+## Cap. 15
+
+Sociologia no Brasil
+
+- Período Colonial - Registros históricos caracterizados pela escravidão africana, aculturação indígena e domínio da elite
+- Período do Ouro - Levou à uma sociedade urbana pela exploração das jazidas de ouro, além de surgir o desejo pela independência. Estudos da sociedade eram muito fracos, e eram baseados no iluminismo europeu
+- Período Imperial - Caracterizado pela economia cafeeira, com a substituição da escravidão e urbanização, gerando diversas transformações sociais, havendo um fortalecimento da ciência
+- Período Republicano - Inicialmente houve a manutenção da elite cafeeira, mas posteriormente houve a industrialização, levando ao crescimento da classe operária e burguesia, que começou a apoiar o nacionalismo, rompendo com padrões europeus
+- Revolução de Trinta - Marcou o início definitivo da sociologia no Brasil, sobretudo pela crise das oligarquia e valorização do estudo científico do Brasil, livre de padrões europeus, fortalecido ainda mais com a diversidade ideológica (como na criação da ação integralista e partido comunista)
+- Ditadura Militar - Houve o combate e repressão à sociologia brasileira, apenas voltando após o fim da ditadura, já após o fim da Guerra Fria
+- Pós-Ditadura - Houve a divisão sociológica, com uma mais focada no sistema social e outro na ação social, criando uma visão crítica da sociedade
+
+---
+
+Sociólogos Brasileiros
+
+- Geração de 1930 - Durante o governo de Vargas
+  
+  - Gilberto Freyre - Escreveu Casa Grande & Senzala, onde ele defende a mestiçagem e mistura de culturas e etnias no Brasil positiva, contribuindo para a formação do povo brasileiro. Contudo, também defendia a democracia racial
+    
+    - Democracia Racial - Visão em que há igualdade social e econômica entre todas as raças
+  
+  - Fernando de Azevedo - Sociólogo que reforçava a ideia de Freyre da união de etnias e culturas diferentes
+  
+  - Sérgio Buarque de Holanda - Escreveu Raízes do Brasil, procurando entender a identidade do brasileiro, atribuindo o (sobretudo as elites) ao conceito de homem cordial. Além disso, critica a democracia racial de Freyre
+    
+    - Homem Cordial - Indivíduo que age conforme as emoções e afeto, e não pela ação racional, sendo inprevisível e podendo levar a priorização de interesses populares (como a família e amigos) do que o interesse comum
+  - Caio Prado Júnior - Escreveu Formação do Brasil Contemporâneo, analisando a evolução da sociedade brasileira sob uma visão marxista, focada nas diferentes classes
+- Missão Francesa - Contratação de sociólogos franceses pela USP para o Brasil
+  - Claude Lévi-Strauss - Trouxe a ideia de relativismo cultural, defendendo a diversidade cultural e rejeitando a ideia de culturas superiores e inferiores
+- Segunda Geração - Caracterizado pelo período de Guerra Fria e pós-guerras mundiais
+  - Florestan Fernandes - Financiado pela ONU, analisou as relações sociais de classe no Brasil, defendendo a ideia de que não houveram revoluções de classe no Brasil (como a revolução burguesa) e a marginalização dos negros
+  - Celso Furtado - Estuda a história da realidade brasileira, tendo como principal ideia o subdesenvolvimento sendo resultado de relações internacionais
+  - Darcy Ribeiro - Caracerizado pelas contribuições no estudo das populações indígenas
