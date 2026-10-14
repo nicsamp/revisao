@@ -3856,14 +3856,6 @@ Cidadania - Caracterizada pela coletividade, inclusão, igualdade de direitos e 
 
 - Cidadania do Brasil - Demorou para ser efetiva, pelo passado colonialista e escravocrata, com marcos importantes sendo a primeira constituição, mesmo que bem injusta, a república, a abolição da escravidão (que ainda deixou esse povo excluído por muito tempo), o voto secreto e universal e os direitos trabalhistas
 
----
-
-Direitos Civis - Liberdade, tanto individual, de expressão, de pensamento e de ir e vir (locomoção), além do direito à propriedade e justiça  
-
-Direitos Políticos - Democracia com sufrágio (voto) universal e direito de elegibilidade  
-
-Direitos Sociais - Trabalho, alimentação, saúde, educação, moradia, segurança, auxílio aos desamparados, lazer, proteção à maternidade e infantilidade, previdência social e transporte
-
 ## Cap. 7
 
 Cultura - Toda produção humana material e imaterial. Contribui para a identidade e comportamento de um grupo social, por ser compartilhada e adquirida de forma coletiva, podendo também mudar ao longo do tempo

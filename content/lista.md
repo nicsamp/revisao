@@ -4,7 +4,7 @@ Sistema Nervoso
 
 Genealogias?
 
-Cap. 11 sociologia (sociedade espetáculo) e mais?
+Cap. 14 e 15 sociologia
 
 Modais de Transporte
 
@@ -19,6 +19,8 @@ Bacterioses e Viroses
 Cap. 15 e Cap. 16 Português
 
 Linkage
+
+Concretismo
 
 ---
 

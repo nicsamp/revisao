@@ -309,6 +309,7 @@ Ligação Gênica (ou Linkage) - Ocorre quando dois genes estão presentes no me
   - Gametas Parentais - Tem a localização dos alelos igual a da célula-mãe, logo não sofreram recombinação
   
   - Gametas Recombinantes - Tem a localização dos alelos diferentes, por terem sofrido recombinação gênica
+
 - Mapas Cromossômicos (ou Genéticos ou de Ligação) - Esquema que mostra a distância entre vários locus gênicos, calculados com base na taxa de recombinação entre eles
 
 # Biologia SSA
@@ -1169,10 +1170,10 @@ Revolução Burguesa - Caracterizada pela transição do absolutismo e domínio 
 - Thomas Hobbes - Defendia que o ser humano é mal por natureza, sendo necessário um Estado para garantir a ordem, servindo de justificativa para o absolutismo
   
   - Jusnaturalismo Hobbesiano - Os humanos trocam parte de sua liberdade para uma pessoa com poder absoluto, que ajuda a garantir seus direitos
+
 - Jean-Jacques Rousseau - Defende que o ser humano é bom por natureza, mas é corrompido
+
 - Nicolau Maquiavel - Defende a separação da política e religião, buscando entender a política como ela é, e não como devia ser
-
-
 
 Revolução Inglesa - Acabou com o absolutismo britânico, iniciando uma monarquia parlamentarista
 
@@ -1200,6 +1201,31 @@ Neoliberalismo - Política caracterizada pela intervenção mínima do Estado na
 
 Luta Atual por Direitos Humanos (ou Direitos de Terceira Geração) - Tem maior destaque para movimentos antirracistas, feministas e ambientalistas, entre outros, com destaque para direitos de minorias
 
-## Cap. 14 [NÃO FEITO]
+## Cap. 14
+
+Cultura Brasileira - Caracterizada por ser bem heterogênea, com diversidade de costumes, tradições e hábitos diferentes, sendo uma mistura de cultura popular e erudita e de regionalismos, formada pela interação de diversos povos
+
+- Cultura de Massas - Consequência do capitalismo, podendo gerar a padronização de culturas nos meios de comunicação, onde ocorrem a maioria da transmissão de informações, pelo maior número de receptores do que produtores. No Brasil, é caracterizada pela rivalidade entre a nacional (nacionalismo cultural) e a internacional
+  
+  - Cinema - Há a maior hegemonia da cultura de massa internacional, sobretudo dos estados unidos, enfraquecento o cinema nacional
+  
+  - Música - Há a maior hegemonia da nacional. Contudo, ainda sofre com a padronização da indústria cultural
+    
+    - Sertanejo - Principal exemplo de padronização, havendo a perda de temas do Sertão e críticas para conflitos amorosos, se tornando uma mercadoria que busca apenas seduzir, e não gerar reflexão ou pensamento
+- Meios de Comunicação de Massa - No Brasil, há destaque para a televisão, em declínio, serviços de streaming, em crescimento, substituindo ela (por exemplo, a criação da globoplay), e as redes sociais. Dependem da publicidade para gerarem lucro
+  - Colonialismo Cultural - Ocorre quando a maioria das agências de notícias menores acabam repetindo notícias de agentes maiores, que podem inclusive ser internacionais, desvalorizando 
+  - Internet - Crucial para os meios de comunicação de massa, que vem crescendo no país com o aumento do acesso à internet
+
+- Leitura - Pode servir como resistência à cultura de massa, pela sua variedade e presença de conteúdos diferenciados. Contudo, é muito fraca no Brasil
+
+- Religião - Predominância do cristianismo. Também sofre com a indústria cultural, pela busca da aderência de novos fiéis
+  
+  - Sincretismo Religioso - Existência simultânea de práticas religiosas distintas. Ex: prática de vestir branco no Ano Novo (origem candomblé, mas praticada por muitas pessoas de outras religiões)
+
+---
+
+Enraizamento - Prática de proteção a uma cultura da padronização, buscando o pertencimento e participação ativa na cultura de um grupo
+
+Desenraizamento - Processo inverso. Ex: imposição cultural colonial, indústria cultural
 
 ## Cap. 15 [NÃO FEITO]
