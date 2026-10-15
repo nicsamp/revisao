@@ -464,17 +464,17 @@ Jean-Paul Sartre - Filósofo que criou a corrente existencialista, baseada na fe
 
 Simone de Beauvoir - Filósofa mais conhecida por questionar e denunciar a dominação patriarcal
 
-- Dualidade - Ocorre entre a factidade (o que somos de fato, no agora) e transcendência (o que nos podemos tornar, no futuro)
+- Dualidade - Ocorre entre a factidade (o que somos de fato, a existência em si) e transcendência (o que nos podemos tornar, moldado pela liberdade, mesmo com as limitações da factidade)
   
-  - Liberdade - Defende que para exercer a liberdade, é necessário antes fazer a pergunta "quem eu sou?", além de "o que quero ser?"
+  - Liberdade - Defende que para exercer a liberdade, é necessário antes definir a própria factidade, e o que deseja de transcendência
   
   - Identidade - Defende que pode ser individual e coletiva ao mesmo tempo, sendo tanto um indivídio quanto parte de um grupo
 
 - Tipos de Pessoas na Exerção da Liberdade
   
-  - Sub-Homem - O que foge das escolhas, não fazendo nada que demande esforço ou vontade
+  - Sub-Homem - Negação da liberdade, não assumindo responsabilidade de existência
   
-  - Homem Sério (ou Inautêntico) - O que se livra da liberdade por se aderir a um conjunto de ideias e valores já estabelecidos
+  - Homem Sério (ou Inautêntico) - O que se livra da liberdade por se aderir a um conjunto de ideias e valores já estabelecidos, caracterizando o conformismo social
   
   - Niilista - O que percebe que a vida não tem sentido pré-estabelecido e não age
   
@@ -482,19 +482,19 @@ Simone de Beauvoir - Filósofa mais conhecida por questionar e denunciar a domin
 
 - O Segundo Sexo - Sua principal obra, que mais analisa a mulher na sociedade
   
+  - Feminismo - Movimento social que busca a iguaçdade de gênero
   - Mulher - Tradicionalmente é considerada o "outro sexo", desvio do homem, além do discurso acerca dela ser produzida tradicionalmente por homens
-    
     - Construção Social - Defende que a condição é uma construção da sociedade, não sendo preestabelecida, como no casamento, educação e papeis sociais
       
       - Papel de Trabalho - Enquanto o homem se dedica ao trabalho produtivo e remunerado, a mulher se dedica ao trabalho reprodutivo e doméstico, defendendo que o fato de apenas o homem realizar esse trabalho ajuda a perpetuar a dependência da mulher
       
-      - Solução - Defende que a mulher deve se livrar da dominação por meio da autonomia econômica Contudo, essa proposta é limitada por ser muito ampla, não sendo válida para todas as mulheres
+      - Solução - Defende que a mulher deve se livrar da dominação por meio da autonomia econômica, que posteriormente dará autonomia social, rompendo com as normas sociais vigentes
 
 ---
 
 Hannah Arendt - Filósofa caracterizada por falar sobre o totalitarismo e a vida política
 
-- Liberdade - Defendida, sendo criada pela esfera pública, além de expressar a pluralidade da sociedade
+- Liberdade - Defendida, sendo criada pela esfera pública, importante para ela, além de expressar a pluralidade da sociedade
 
 - Ameaças à Liberdade
   
@@ -508,15 +508,62 @@ Hannah Arendt - Filósofa caracterizada por falar sobre o totalitarismo e a vida
   
   - Ralé - Pessoas que ignoram a política, visando a chegada de alguém que resolva os problemas, levando ao esvaziamento da reflexão e ajudando no surgimento de regimes totalitários
 
-- Totalitarismo - Caracterizado por uma ideologia fundada em partido único que controla o Estado e o uso do terror (combate a pessoas que não aceitarem o regime)
+- Totalitarismo - Caracterizado por uma ideologia fundada em partido único que controla o Estado e o uso do terror (combate a pessoas que não aceitarem o regime) para controle social
 
-- Mal - Diz que resulta de pessoas normais pela falta de capacidade de reflexão, resultado do ralé e da burocratização do cotidiano
+- Banalidade do Mal - Diz que o mal resulta de pessoas normais pela falta de capacidade de reflexão, resultado do ralé e da burocratização do cotidiano
 
-## Cap. 2 [NÃO FEITO]
+## Cap. 2 [RESUMIDO]
 
-## Cap. 3 [NÃO FEITO]
+Michael Foucault
 
-## Cap. 4 [NÃO FEITO]
+- Arqueologia - Investigação das estruturas históricas do conhecimento
+
+- Genealogia - Investigação das relações de poder, dominação e luta históricos na formação do conhecimento
+
+- Microfísica do Poder - Analisa como instituições moldam a sociedade
+  
+  - Poder - Defende que atua sobre a sociedade (corpos dóceis) para moldar comportamentos
+  
+  - Saber - É sempre parcial, sendo infuenciado pelas relações de poder existentes
+  
+  - Instituições Disciplinares - Insituições que restringem e regulam a vida social. Ex: prisão, escola, hospital
+
+- Biopolítica - Responsabilidade do Estado pela gestão da vida (natalidade, saúde pública e longevidade)
+
+## Cap. 3 [RESUMIDO]
+
+Instituto para Pesquisa Social - Organização que surgiu durante a crise decorrente da primeira guerra mundial na Alemanha, além do surgimento do nazismo
+
+- Partido Nacional Socialista - Partido nazista de Hitler, que eventualmente chegou ao poder com a popularização da obra Meinkampf, escrita por ele
+
+Escola de Frankfurt - Conjunto de teóricos do instituto com ideias semelhantes, analisando sobretudo as relações de poder e dominação na sociedade, presente mesmo após a razão humana
+
+- Max Horkheimer e Theodor Adorno - Principais filósofos da escola
+  
+  - Indústria Cultural - Caracterização da cultura de massa como um produto industrial, se tornando mercadoria em vez de arte
+    
+    - Padronização - Há a repetição de modelos com o objetivo de consumo máximo, perdendo a essência criativa da arte
+    
+    - Passividade - Há o estímulo para o consumo passivo e perda de pensamento crítico
+    
+    - Controle Social - Por ser controlada pela elite, ela pode se tornar meio de dominação e disseminação de ideias
+- Ação Comunicativa - Diálogo livre e racional que visa o consenso comum, combatendo a dominação por poder e manipulação pela troca de ideias
+
+## Cap. 4 [RESUMIDO]
+
+Filosofia Hoje
+
+- Lyotard e Baudrillard - Defendem que a realidade se tornou um simulacro
+  
+  - Simulacro - Distanciamento da sociedade da realidade, pela sua substituição por imagens hiper-reais, quebrando a distinção entre real e arificial
+  
+  - Hiper-Realidade - Incapacidade de distinguir o real e artificial, o último se tornando mais desejável que a realidade
+
+- Heidegger - Defende o questionamento da técnica (como há a transformação do mundo em recursos), rompendo com o utilitarismo e visando uma experiência mais absoluta da liberdade
+
+- Era Algorítmica - Há a vigilância algorítmica pela Big Data, ampliando o controle social e comportamental
+
+- Ética da IA - Com o avanço das inteligências artificiais e sua aproximação ao comportamento humano, há o desafio de manter a ética e autonomia
 
 # Geografia
 
@@ -1269,10 +1316,15 @@ Sociólogos Brasileiros
   - Sérgio Buarque de Holanda - Escreveu Raízes do Brasil, procurando entender a identidade do brasileiro, atribuindo o (sobretudo as elites) ao conceito de homem cordial. Além disso, critica a democracia racial de Freyre
     
     - Homem Cordial - Indivíduo que age conforme as emoções e afeto, e não pela ação racional, sendo inprevisível e podendo levar a priorização de interesses populares (como a família e amigos) do que o interesse comum
+  
   - Caio Prado Júnior - Escreveu Formação do Brasil Contemporâneo, analisando a evolução da sociedade brasileira sob uma visão marxista, focada nas diferentes classes
+
 - Missão Francesa - Contratação de sociólogos franceses pela USP para o Brasil
+  
   - Claude Lévi-Strauss - Trouxe a ideia de relativismo cultural, defendendo a diversidade cultural e rejeitando a ideia de culturas superiores e inferiores
+
 - Segunda Geração - Caracterizado pelo período de Guerra Fria e pós-guerras mundiais
+  
   - Florestan Fernandes - Financiado pela ONU, analisou as relações sociais de classe no Brasil, defendendo a ideia de que não houveram revoluções de classe no Brasil (como a revolução burguesa) e a marginalização dos negros
   - Celso Furtado - Estuda a história da realidade brasileira, tendo como principal ideia o subdesenvolvimento sendo resultado de relações internacionais
   - Darcy Ribeiro - Caracerizado pelas contribuições no estudo das populações indígenas
