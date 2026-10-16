@@ -483,7 +483,9 @@ Simone de Beauvoir - Filósofa mais conhecida por questionar e denunciar a domin
 - O Segundo Sexo - Sua principal obra, que mais analisa a mulher na sociedade
   
   - Feminismo - Movimento social que busca a iguaçdade de gênero
+  
   - Mulher - Tradicionalmente é considerada o "outro sexo", desvio do homem, além do discurso acerca dela ser produzida tradicionalmente por homens
+    
     - Construção Social - Defende que a condição é uma construção da sociedade, não sendo preestabelecida, como no casamento, educação e papeis sociais
       
       - Papel de Trabalho - Enquanto o homem se dedica ao trabalho produtivo e remunerado, a mulher se dedica ao trabalho reprodutivo e doméstico, defendendo que o fato de apenas o homem realizar esse trabalho ajuda a perpetuar a dependência da mulher
@@ -512,25 +514,43 @@ Hannah Arendt - Filósofa caracterizada por falar sobre o totalitarismo e a vida
 
 - Banalidade do Mal - Diz que o mal resulta de pessoas normais pela falta de capacidade de reflexão, resultado do ralé e da burocratização do cotidiano
 
-## Cap. 2 [RESUMIDO]
+## Cap. 2
 
 Michael Foucault
 
-- Arqueologia - Investigação das estruturas históricas do conhecimento
-
-- Genealogia - Investigação das relações de poder, dominação e luta históricos na formação do conhecimento
-
-- Microfísica do Poder - Analisa como instituições moldam a sociedade
+- Arqueologia do Saber (ou Método Arqueológico) - Investigação das causas profundas dos discursos, visando sua desconstrução e a do sujeito que a enunciou
   
-  - Poder - Defende que atua sobre a sociedade (corpos dóceis) para moldar comportamentos
+  - Discurso - Qualquer teoria ou afirmação sobre algo
   
-  - Saber - É sempre parcial, sendo infuenciado pelas relações de poder existentes
+  - Verdade Histórica - Defende que o discurso é dependente e inseparável de seu contexto histórico
+    
+    - Episteme - Contexto em que se deselvolve um pensamento, e define o que pode ser pensado
+
+- Genealogia do Saber (ou Método Genealógico) - Investigação das origens dos saberes, sendo necessário no método arqueológico
   
-  - Instituições Disciplinares - Insituições que restringem e regulam a vida social. Ex: prisão, escola, hospital
+  - Filosofia Tradicional - Criticada por ele, pois busca um método único e universal para chegar à verdade, negligenciando a dependênciada verdade no episteme, defendendo a busca pelo episteme e seu surgimento
 
-- Biopolítica - Responsabilidade do Estado pela gestão da vida (natalidade, saúde pública e longevidade)
+- Instituições Totais - Instituições que, ao criarem um discurso verdadeiro, criam relações de poder disciplinador e normalizador. Ex: prisão, escola, asilo psiquiátrico e igreja
+  
+  - Poder Disciplinador - Gera dominação, vigilância e controle, podendo ser usada em benefício e para moldar comportamentos. Ex: burguesia
+  
+  - Poder Normalizador - Permite a "normalização" dos indivídios, pela identificação de anormais
+  
+  - Biopolítica - Controle do Estado da gestão da vida dos indivídios (natalidade, saúde pública e longevidade), surgindo a partir do poder disciplinador
+    
+    - Corpos Dóceis - Corpos que já se comportam de forma disciplinada, não necessitando de ameaças
 
-## Cap. 3 [RESUMIDO]
+- Microfísica do Poder - Analisa os mecanismos de poder na sociedade, defendendo a denúncia e resistência aos poderes
+  
+  - Sociedade Disciplinar - Antiga, em que era usada a disciplina e punição para manter o poder, antes e depois das instituições totais
+  
+  - Sociedade de Controle - Atual, onde a vigilância substitui a disciplina
+    
+    - Saber - É sempre parcial, sendo infuenciado pelas relações de poder existentes e podendo influenciar nela
+    
+    - Dispositivos - Elementos que agem sobre os sujeitos para dominá e organizá-los
+
+## Cap. 3
 
 Instituto para Pesquisa Social - Organização que surgiu durante a crise decorrente da primeira guerra mundial na Alemanha, além do surgimento do nazismo
 
@@ -540,18 +560,71 @@ Escola de Frankfurt - Conjunto de teóricos do instituto com ideias semelhantes,
 
 - Max Horkheimer e Theodor Adorno - Principais filósofos da escola
   
-  - Indústria Cultural - Caracterização da cultura de massa como um produto industrial, se tornando mercadoria em vez de arte
+  - Teoria Tradicional - Busca a verdade com base em dados objetivos da sociedade, sendo problemática pelo cientista fazer parte dela, e portanto sempre sendo ideológico (parcial) e reificada (coisificada)
+  
+  - Teoria Crítica - Defendida por eles, reconhecendo a parcialidade do pesquisador nas pesquisas, bem como uma historicidade
+    
+    - Práxis - Prática da vida em sociedade, presente em todo pensamento
+  
+  - Razão Instrumental - Rejeição a tudo que não é medível ou tenha utilidade prática, sendo a oposição ao pensamento crítico Defendem que é dela que surgiu um novo tipo de dominação pós iluminista
+    
+    - Esvaziamento da Ética - Por tratar tudo como um objeto em que se há uma finalidade a ser atingida, há a perda da ética. Ex: campos de extermínio nazistas
+    
+    - Perda de Sentido - Há a subsituição da existência por objetos com um único fim que não é questionado
+  
+  - Razão Crítica - Razão que busca o questionamento de fins e a emancipação humana, sendo contrária a instruimental
+  
+  - Indústria Cultural - Caracterização da cultura de massa como um produto industrial, se tornando mercadoria em vez de arte, que perde sua singularidade
     
     - Padronização - Há a repetição de modelos com o objetivo de consumo máximo, perdendo a essência criativa da arte
     
     - Passividade - Há o estímulo para o consumo passivo e perda de pensamento crítico
     
     - Controle Social - Por ser controlada pela elite, ela pode se tornar meio de dominação e disseminação de ideias
-- Ação Comunicativa - Diálogo livre e racional que visa o consenso comum, combatendo a dominação por poder e manipulação pela troca de ideias
 
-## Cap. 4 [RESUMIDO]
+- Walter Benjamin
+  
+  - Aura - Singularidade da arte, pela união de elementos espaciais e temporais, remetendo a algo distante
+  
+  - Reprodução em Massa da Arte - Ocorreu com o surgimento da fotografia e cinema, defendendo que levou à perda da aura pela transitoriedade e consumo coletivo das imagens, mudando a percepção da realidade
+    
+    - Cinema - Defende que tem alto potencial transformador, pela capacidade de criar diversos significados a partir do mundo real, podendo ser usado pelas massas para atuação política
+
+- Herbert Marcuse
+  
+  - Sociedade Moderna - Diz que levou à perda dos diversos sentidos da existência para aquelas que servem na produção de mercadorias (como razão), e reprimindo outras (como emoção, chamada de desinvestimento afetivo)
+  - Eros (ou Amor) - Defende que a valorização do desejo pode ser usada como meio de transformação revolucionária, além de destacar o papel da arte nesse processo
+
+- Jürgen Habermas
+  
+  - Sistema - Universo do trabalho, onde há a dominação pela razão instrumental
+  
+  - Mundo da Vida - Universo da interação, pela ação comunicativa
+    
+    - Ação Comunicativa - Diálogo livre e racional que visa o consenso comum, combatendo a razão instrumental e suas consequências pela troca de ideias (razão comunicativa). Além disso, defende que a construção de conhecimento resulta da comunicação
+    
+    - Esfera Pública Livre - Espaço que permite o pleno uso da ação comunicativa, dizendo que a democracia moderna não é exemplo de uma, pela indústria cultural e alienação e coisificação do trabalhador (invasão do sistema ao mundo da vida)
+      
+      - Democracia Deliberativa - Democracia fundada no aumento de espaço de debates e participação de todos, defendida por ele, em que há o uso da ação comunicativa em um espaço livre de institucionalização e exclusão
+
+## Cap. 4
 
 Filosofia Hoje
+
+- Giorgio Agamben
+  
+  - Poder Soberano - Poder exercido pelo Estado de forma "legítima", mesmo se for uma ação errada pelas leis vigentes
+  
+  - Vida Nua - A que é alva da violência do poder soberano
+  
+  - Estado de Exceção - Estado em que há a priorização do poder soberano
+
+- Achille Mbembe
+  
+  - Necropolítica - O poder de decidir a morte de alguém, defendendo que está crescendo na sociedade atual
+  - Razão Negra - Conjunto de discursos que tem como objetivo definir o negro
+- Byung-Chul Han
+  - Sociedade de Desempenho - Defende que está substituindo a disciplinar, onde há a valorização da performance, gerando como consequência, por exemplo, o burnout
 
 - Lyotard e Baudrillard - Defendem que a realidade se tornou um simulacro
   
