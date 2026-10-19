@@ -4,8 +4,6 @@ Sistema Nervoso
 
 Genealogias?
 
-Cap. 14 e 15 sociologia
-
 Modais de Transporte
 
 Oração Subordinada Substantiva
@@ -27,8 +25,6 @@ Concretismo
 In progress:
 
 Plantas
-
-Sociologia Livro
 
 Cap. 15 história
 

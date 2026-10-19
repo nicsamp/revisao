@@ -623,7 +623,9 @@ Filosofia Hoje
   
   - Necropolítica - O poder de decidir a morte de alguém, defendendo que está crescendo na sociedade atual
   - Razão Negra - Conjunto de discursos que tem como objetivo definir o negro
+
 - Byung-Chul Han
+  
   - Sociedade de Desempenho - Defende que está substituindo a disciplinar, onde há a valorização da performance, gerando como consequência, por exemplo, o burnout
 
 - Lyotard e Baudrillard - Defendem que a realidade se tornou um simulacro
@@ -1205,21 +1207,76 @@ Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de idea
 
 # Português
 
-## Cap. 15 [NÃO FEITO]
+## Cap. 15
 
-Sinais de Pontuação
+Sinais de Pontuação - Sinais gráficos que contribuem para produzir efeitos de sentido
 
-- Vírgula
+- Vírgula - Separa palavras não relacionadas na frase
+  
+  - Na Oração
+    
+    - Oração Direta - Não se separa sujeito de verbo e verbo de complemento. Ex: **Sujeito** não se **separa** <u>do verbo</u>
+    
+    - Oração Indireta - Se separa as partes na ordem diferente. Ex: **Sujeito**, <u>do verbo</u>, não se **separa**
+    
+    - Oração Pleonástica - Oração com pronome pessoal átono retomando termo, se separa o termo. Ex: **Sociologia**, não <u>a</u> entendo
+    
+    - Substantivos - Não se separa o sujeito de seus complementos. Ex: <u>As duas</u> **provas** <u>enormes de exatas da PM</u> vão chegar
+    
+    - Enumeração - Se separa vários sujeitos ou vários complementos com vírgula. Ex: **Fabão**, **Allan** e Reynaldo são professores de matemática
+    
+    - Separação de Termo - Se usa vírgula para separar o vocativo, aposto, conjunção e o local da data. Ex: **Joaquim**, vai lavar a boca!
+      
+      - Intercalação - Quando no meio da oração, se separa por vírgula o adjunto adverbial. Ex: Pessoas, **em pleno século XXI**, ainda são racistas
+  - Entre Orações
+    - Oração Coordenada - Separadas por vírgulas, exceto se o conector for e ou nem. Ex: Fez a prova, **mas** tirou nota baixa, ficou triste **e** decidiu estudar mais
+      - Polissíndeto - Quando o e é repetido, pode ser separado. Ex: e trabalha, **e** teima, **e** lima, **e** sofre, **e** sua
+      - Sujeitos Diferentes - Pode se separar o e quando os sujeitos forem diferentes. Ex:
+    - Orações Subordinadas - Apenas as adjetivas explicativas e as adverbiais (essas opccionais, exceito quando a subordinada vem antes). Ex: Os alunos, **que não queriam descer**, ficaram na sala; Quem não sabe **que vírgula é difícil** vai se ferrar na prova
 
-- Travessão
+- Ponto e Vírgula - Serve como uma vírgula mais forte, separando orações coordenadas longas ou que já têm vírgula. Ex: Os professores que fazem as provas; Eles deveriam, portanto, poder ajustá-las
 
-- Ponto e Vírgula
+- Dois Pontos - Utilizado para marcar uma explicação para o termo anterior ou introduzir uma citação. Ex: Marco Antônio uma vez disse: **"Conselho, todo mundo dá todo mundo. . .  ~ain"**
 
-- Reticências
+- Travessão - Marca um discurso direto ou é usado para destacar um termo, nesse caso sendo usado com as mesmas regras que a vírgula. Ex: - **Conselho, todo mundo dá todo mundo. . . ~ain**! Disse Marco Antônio
 
-- Aspas
+- Reticências - Indica uma interrupção ou corte. Ex: Professor... se você estiver de bom coração... você poderia dar uma... revisão?
 
-## Cap. 16 [NÃO FEITO]
+- Aspas - Usado para destacar ou enfatizar um termo, marcar uma citação, marcar algo que o enunciador não concorda, ou marcar um neologismo. Ex: Nossa "**queridinha**" professora Marcela chegou e deu uma aula "**lesada**"
+
+- Parênteses - Usado para marcar informações extras que interrompem a sequência da frase. Ex: Fernando Vieira explicou a Escola de Frankfurt (**aqueles filósofos da indústria cultural**) na última aula dele
+
+## Cap. 16 [INACABADO]
+
+Componentes da Comunicação
+
+- Mensagem - O próprio texto
+
+- Referente - O assunto da mensagem
+
+- Emissor (ou Enunciador) - Quem emite a mensagem
+
+- Receptor (ou Enunciatário ou Destinatário) - Quem recebe a mensagem
+
+- Código - Conjunto de regras compartilhadas entre o emissor e receptor para comunicação, normalmente as línguas
+
+- Contato (ou Canal) - Meio pelo qual a mensagem percorre
+
+---
+
+Funções da Linguagem - Funções que textos podem assumir, ligados a um dos componentes da comunicação. Textos podem ter mais de uma função
+
+- Referencial (ou Denotativa) - Há foco no referente, buscando transmitir uma informação de forma objetiva e clara. Caracterizada pela linguagem denotativa
+
+- Emotiva (ou Expressiva) - Há foco no enunciador, e suas emoções e sentimentos. Caracterizado pela subjetividade e uso da primeira pessoa
+
+- Conativa (ou Apelativa ou Persuasiva) - Foco no receptor, buscando influenciar em seu comportamento ou lhe persuadir. Caracterizado pelo uso do verbo imperativo e vocativos
+
+- Metalinguística - Foco no código, buscando definir ou comentar acerca dele
+
+- Fática - Foco no canal, visando garantir o funcionamento dele e a atenção do receptor, ou apenas o contato em si, não focado no assunto
+
+- Poética - Foco na própria mensagem, se preocupando com sua estrutura. Caracterizado pelo uso de figuras de linguagem, rimas e efeitos sonoros
 
 # Sociologia
 
