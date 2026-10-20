@@ -14,8 +14,6 @@ Sistema Reprodutor
 
 Bacterioses e Viroses
 
-Cap. 15 e Cap. 16 Português
-
 Linkage
 
 Concretismo

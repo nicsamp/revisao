@@ -1228,7 +1228,9 @@ Sinais de Pontuação - Sinais gráficos que contribuem para produzir efeitos de
     - Separação de Termo - Se usa vírgula para separar o vocativo, aposto, conjunção e o local da data. Ex: **Joaquim**, vai lavar a boca!
       
       - Intercalação - Quando no meio da oração, se separa por vírgula o adjunto adverbial. Ex: Pessoas, **em pleno século XXI**, ainda são racistas
+  
   - Entre Orações
+    
     - Oração Coordenada - Separadas por vírgulas, exceto se o conector for e ou nem. Ex: Fez a prova, **mas** tirou nota baixa, ficou triste **e** decidiu estudar mais
       - Polissíndeto - Quando o e é repetido, pode ser separado. Ex: e trabalha, **e** teima, **e** lima, **e** sofre, **e** sua
       - Sujeitos Diferentes - Pode se separar o e quando os sujeitos forem diferentes. Ex:
@@ -1246,7 +1248,7 @@ Sinais de Pontuação - Sinais gráficos que contribuem para produzir efeitos de
 
 - Parênteses - Usado para marcar informações extras que interrompem a sequência da frase. Ex: Fernando Vieira explicou a Escola de Frankfurt (**aqueles filósofos da indústria cultural**) na última aula dele
 
-## Cap. 16 [INACABADO]
+## Cap. 16
 
 Componentes da Comunicação
 
@@ -1266,17 +1268,17 @@ Componentes da Comunicação
 
 Funções da Linguagem - Funções que textos podem assumir, ligados a um dos componentes da comunicação. Textos podem ter mais de uma função
 
-- Referencial (ou Denotativa) - Há foco no referente, buscando transmitir uma informação de forma objetiva e clara. Caracterizada pela linguagem denotativa
+- Referencial (ou Denotativa) - Há foco no referente, buscando transmitir uma informação de forma objetiva e clara. Caracterizada pela linguagem denotativa. Ex: texto jornalístico
 
-- Emotiva (ou Expressiva) - Há foco no enunciador, e suas emoções e sentimentos. Caracterizado pela subjetividade e uso da primeira pessoa
+- Emotiva (ou Expressiva) - Há foco no enunciador, e suas emoções e sentimentos. Caracterizado pela subjetividade e uso da primeira pessoa. Ex: poema, música
 
-- Conativa (ou Apelativa ou Persuasiva) - Foco no receptor, buscando influenciar em seu comportamento ou lhe persuadir. Caracterizado pelo uso do verbo imperativo e vocativos
+- Conativa (ou Apelativa ou Persuasiva) - Foco no receptor, buscando influenciar em seu comportamento ou lhe persuadir. Caracterizado pelo uso do verbo imperativo e vocativos. Ex: cartaz publicitário
 
-- Metalinguística - Foco no código, buscando definir ou comentar acerca dele
+- Metalinguística - Foco no código, buscando definir ou comentar acerca dele. Ex: dicionário
 
-- Fática - Foco no canal, visando garantir o funcionamento dele e a atenção do receptor, ou apenas o contato em si, não focado no assunto
+- Fática - Foco no canal, visando garantir o funcionamento dele e a atenção do receptor, ou apenas o contato em si, não focado no assunto. Ex: "alô?"
 
-- Poética - Foco na própria mensagem, se preocupando com sua estrutura. Caracterizado pelo uso de figuras de linguagem, rimas e efeitos sonoros
+- Poética - Foco na própria mensagem, se preocupando com sua estrutura. Caracterizado pelo uso de figuras de linguagem, rimas e efeitos sonoros. Ex: poema
 
 # Sociologia
 
