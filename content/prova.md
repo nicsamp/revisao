@@ -1127,6 +1127,41 @@ América Latina na Guerra Fria - Houve forte influência estadunidense
 
 # Literatura
 
+## Cap. 5
+
+Modernismo - Movimento artístico caracterizado pela liberdade formal, experimentalismo, humor e criação de uma cultura brasileira, sem influências externas, criando um nacionalismo crítico. Muito inspirada nas vanguardas europeias, trazidas ao Brasil por artistas que foram fazer intercâmbio
+
+Fase Heroica - Primeira fase do modernismo brasileiro
+
+- Semana da Arte Moderna - Exposição que ocorreu em São Paulo, marcando o início do modernismo
+  
+  - Paranóia ou Mistificação - Artigo de Monteiro Lobato que duramente criticava a exposição de Anita Malfatti. Contribuiu para o crescimento do modernismo
+  - Klaxon - Primeira revista modernista, criada após o evento
+
+- Literatura Modernista - Caracterizada por versos livres, linguagem coloquial, temas cotidianos, liberdade de expressão, humor e outros
+  
+  - Oswald de Andrade - Considerado o líder do movimento modernista, junto com Mário de Andrade. Criou diversos manifestos modernistas, como o pau-brasil e o antropófago. Escrita caracterizada pelo experimentalismo radical, humor debochado e busca da identidade nacional
+    
+    - Memórias Sentimentais de João Miramar - Livro por Oswald de Andrade, caracterizado por inovação estrutural, como capítulos bem curtos, em que João Miramar conta sobre sua vida. Era de família abastada, terminando a escola e viajando para vários lugares da Europa. Depois, sua família mandou seu retorno para assumir responsabilidades no negócio, onde seus pais morreram e ele assumiu a herança. Casou com sua prima Célia, viajando para diversos lugares e voltando para o Brasil com a 1a guerra mundial. Depois, viajou para o interior de São Paulo para conhecer a terra de seus antepassados, eventualmente se separando de Célia e indo à falência. No final, a sua filha Celiazinha se reaproxima dele, amenizando sua solidão
+    - Serafim Ponte Grande - Conta a história de Serafim, trabalhador de São Paulo. A obra é caracterizada pela crítica à burguesia e mais inovações estéticas
+  
+  - Mário de Andrade - Outro escritor bem influencial no modernismo. Tinha mais crítica social e ironia nas suas obras e escrevia mais prosa
+    
+    - Macunaíma - Livro escrito por Mário de Andrade caracterizado pela mistura de culturas, mitos e modos de falar de diferentes regiões brasileiras, com personagens diversos e protagonista sem caráter fixo, que é a mistura de identidades, contribuindo para a criação de uma identidade cultural brasileira
+    - Amar, Verbo Intransitivo - Livro escrito por Mário de Andrade. Fala sobre Carlos, que tem relações sexuais com Elsa, que depois parte, e ele sofre no início, mas depois aprende a lidar com essa emoção, reencontrando-a sem emoção
+  
+  - Manuel Bandeira - Escritor caracterizado por linguagem simples e coloquial, temas variados e cotidianos e ironia
+    
+    - Libertinagem - Primeiro livro modernista de Manuel Bandeira
+
+- Movimentos e Manifestos
+  
+  - Prefácio Interessantíssimo - Prefácio de um dos livros de Mário de Andrade, sendo similar com um manifesto embora não seja um oficialmente
+  - Pau-Brasil - Criado por Oswald de Andrade, defendia a poesia de exportação, sendo contra a influência europeia, valorizando a realidade e cultura brasileira, além da simplicidade. Buscava a “redescoberta do Brasil”
+  - Verde-Amarelismo - Reação ao movimento pau-brasil, caracterizado pelo nacionalismo ufanista
+  - Antropofagia - Também criado por Oswald de Andrade, sendo o principal e o mais radical, defendia a assimilação da cultura estrangeira, mantendo apenas o útil e criando uma nova arte nacional
+  - Anta - Reação ao movimento antropofágico, sendo mais político
+
 ## Cap. 6
 
 Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de ideais na 1ª fase, além de maior foco na crítica social e na política, com a consolidação do modernismo no Brasil. Ocorreu durante o período que queda da bolsa, golpe de Estado de Getúlio Vargas (com fechamento de congresso e perseguição de escritores) e segunda guerra mundial, além do aumento do êxodo rural, a seca de 1915, reformas educacionais e difusão do rádio
