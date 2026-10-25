@@ -1,0 +1,11 @@
+[
+    {"materia": "biologia-1", "caps": ["cap. 10", "cap. 9"]},
+    {"materia": "biologia-2", "caps": ["cap. 10", "cap. 13", "cap. 14"]},
+    {"materia": "biologia-ssa", "caps": ["fungos", "plantas"]},
+    {"materia": "filosofia", "caps": ["cap. 1", "cap. 2", "cap. 3", "cap. 4"]},
+    {"materia": "geografia", "caps": ["cap. 10", "cap. 11", "cap. 12", "cap. 16", "cap. 20", "cap. 21"]},
+    {"materia": "historia", "caps": ["cap. 12", "cap. 13", "cap. 14"]},
+    {"materia": "literatura", "caps": ["cap. 5", "cap. 6", "cap. 7"]},
+    {"materia": "portugues", "caps": ["cap. 15", "cap. 16"]},
+    {"materia": "sociologia", "caps": ["cap. 10", "cap. 12", "cap. 13", "cap. 14", "cap. 15"]}
+]
