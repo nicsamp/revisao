@@ -2,7 +2,7 @@
     {"materia": "biologia-1", "caps": ["cap. 10", "cap. 9"]},
     {"materia": "biologia-2", "caps": ["cap. 10", "cap. 13", "cap. 14"]},
     {"materia": "biologia-ssa", "caps": ["fungos", "plantas"]},
-    {"materia": "filosofia", "caps": ["cap. 1 (livro D)", "cap. 2 (livro D)", "cap. 3 (livro D)", "cap. 4 (livro D)"]},
+    {"materia": "filosofia", "caps": ["cap. 1 (livro d)", "cap. 2 (livro d)", "cap. 3 (livro d)", "cap. 4 (livro d)"]},
     {"materia": "geografia", "caps": ["cap. 10", "cap. 11", "cap. 12", "cap. 16", "cap. 20", "cap. 21"]},
     {"materia": "historia", "caps": ["cap. 12", "cap. 13", "cap. 14"]},
     {"materia": "literatura", "caps": ["cap. 5", "cap. 6", "cap. 7"]},
