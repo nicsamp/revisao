@@ -6,15 +6,11 @@ Genealogias?
 
 Modais de Transporte
 
-Oração Subordinada Substantiva
-
 Algas
 
 Sistema Reprodutor
 
 Bacterioses e Viroses
-
-Linkage
 
 Concretismo
 
@@ -27,6 +23,8 @@ Plantas
 Cap. 15 história
 
 PCA, Jogos de tabuleiro e cooperativos
+
+Herança Sexual
 
 Geopolítica
 

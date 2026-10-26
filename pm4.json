@@ -1,0 +1,83 @@
+[
+    {
+        "materia": "portugues",
+        "caps": [
+            "cap. 14",
+            "cap. 15",
+            "cap. 16",
+            "cap. 17",
+            "cap. 18"
+        ]
+    },
+    {
+        "materia": "literatura",
+        "caps": [
+            "cap. 8",
+            "cap. 9",
+            "cap. 10"
+        ]
+    },
+    {
+        "materia": "redacao",
+        "caps": [
+            "cap. 6",
+            "cap. 7"
+        ]
+    },
+    {
+        "materia": "educacao-fisica",
+        "caps": [
+            "práticas corporais de aventura",
+            "jogos cooperativos e de salão"
+        ]
+    },
+    {
+        "materia": "historia",
+        "caps": [
+            "cap. 12",
+            "cap. 13",
+            "cap. 14",
+            "cap. 15"
+        ]
+    },
+    {
+        "materia": "geografia",
+        "caps": [
+            "cap. 14",
+            "cap. 15",
+            "cap. 16",
+            "cap. 17",
+            "cap. 18"
+        ]
+    },
+    {
+        "materia": "filosofia",
+        "caps": [
+            "cap. 2 (livro d)"
+        ]
+    },
+    {
+        "materia": "sociologia",
+        "caps": [
+            "cap. 12",
+            "cap. 13"
+        ]
+    },
+    {
+        "materia": "biologia-1",
+        "caps": [
+            "cap. 13",
+            "cap. 14",
+            "cap. 15",
+            "cap. 16"
+        ]
+    },
+    {
+        "materia": "biologia-2",
+        "caps": [
+            "cap. 11",
+            "cap. 12",
+            "cap. 13"
+        ]
+    }
+]

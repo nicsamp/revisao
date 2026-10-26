@@ -65,7 +65,6 @@ def process_markdown(input_path, output_path):
         
     print(f"Success! Processed file saved to: {output_path}")
 
-# Example usage:
 if __name__ == "__main__":
     # Replace these filenames with your actual file paths
     input_filename = 'input.md'

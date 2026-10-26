@@ -361,6 +361,32 @@ Oração Subordinada Adjetiva - Desempenha função de adjunto adnominal, qualif
   - Restritiva - Dá ideia de restrição, não tendo vírgula. Ex: Os alunos **que** <u>subiram mais cedo</u> tiveram que descer. (nem todos os alunos)
   - Explicativa - Dá ideia de explicação, não especificando nada. Tem vírgula. Ex: Os alunos, **que** <u>não querem ficar no pátio</u>, não puderam subir. (todos os que não subiram não queriam ficar no patio)
 
+## Cap. 14
+
+Oração Subordinada Substantiva - Tem valor de substantivo. Para ser identificada, pode ser substituida por "isso"
+
+- Conjunções Integrantes - Conectores da subordinada substantiva, são "que" ou "se"
+
+- Modalização - Quando a oração principal expressa uma avaliação do enunciador de seu próprio enunciado. Ex: **Eu acredito** <u>que o projetor da sala nunca mais vai voltar</u>
+
+- Evidencialidade - Quando a oração principais indica a fonte de uma informação. Ex: **Heitor disse** <u>que já reclamou a falta de projetor para Carol</u>
+
+Tipos de Substantivas por Função Sintática
+
+- Subjetiva - Valor de sujeito. Ex: É fato **que** <u>a nossa sala não tem projetor</u>
+
+- Objetiva Direita - Valor de objeto direto. Ex: Eu achei **que** <u>o projetor da nossa sala já teria voltado</u>
+
+- Objetiva Indireta - Valor de objeto indireto. Ex: Eu estava certo **de que** <u>o projetor da nossa sala já teria voltado</u>
+
+- Predicativa - Valor de predicativo do sujeito. Ex: O problema é **que** <u>a nossa sala ainda não tem projetor</u>
+
+- Completiva Nominal - Valor de complemento nominal. Ex: Tenho certeza **que** <u>a escola já esqueceu do nosso projetor</u>
+
+- Apositiva - Valor de aposto. Ex: A escola incompetente não resolve esse problema: **que** <u>a nossa sala NÃO TEM PROJETOR!</u>, pelo amor de deus colégio!!! Que falta de organização!!!!
+
+
+
 ## Cap. 15
 
 Sinais de Pontuação - Sinais gráficos que contribuem para produzir efeitos de sentido
@@ -434,3 +460,6 @@ Funções da Linguagem - Funções que textos podem assumir, ligados a um dos co
 
 - Poética - Foco na própria mensagem, se preocupando com sua estrutura. Caracterizado pelo uso de figuras de linguagem, rimas e efeitos sonoros. Ex: poema
 
+## Cap. 17 [NÃO FEITO]
+
+## Cap. 18 [NÃO FEITO]

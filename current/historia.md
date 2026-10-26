@@ -1,4 +1,4 @@
-# História
+# História## Cap. 8 [NÃO FEITO]
 
 ## Cap. 1
 
@@ -866,3 +866,4 @@ América Latina na Guerra Fria - Houve forte influência estadunidense
   
   - Chile - Liderado por Pinochet, também houve uso da violência
 
+## Cap. 15 [NÃO FEITO]

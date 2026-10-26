@@ -56,3 +56,6 @@ Dissertação (ou Texto Dissertativo) - Textos que buscam expor uma opinião, pr
     
     - Tópico Frasal - Frase que contém a ideia genérica e geral que será desenvolvida pelo texto, indo do mais abstrato para o mais concreto e específico
 
+## Cap. 6 [NÃO FEITO]
+
+## Cap. 7 [NÃO FEITO]

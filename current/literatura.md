@@ -209,3 +209,8 @@ Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de idea
     
     - Grande Sertão: Veredas - Seu principal livro. Fala sobre o fazendeiro Riobaldo, destacando a violência sofrida durante a República Velha, com forte lirismo e reflexões existenciais
 
+## Cap. 8 [NÃO FEITO]
+
+## Cap. 9 [NÃO FEITO]
+
+## Cap. 10 [NÃO FEITO]

@@ -802,7 +802,7 @@ Doenças Respiratórias
 
 ## Cap. 10
 
-- Equilíbrio de composição corporal realizada pelos seres, pela absorção de água, nutrientes, sais e oxigênio, e eliminação de resíduos tóxicos
+Homeostase - Equilíbrio de composição corporal realizada pelos seres, pela absorção de água, nutrientes, sais e oxigênio, e eliminação de resíduos tóxicos
 
 Sistema Excretor - Responsável por eliminar excretas (resíduos metabólicos tóxicos) e manter a osmorregulação
 
@@ -1174,3 +1174,10 @@ Sistema Endócrino - Sistema responsável por manter a homeostase corporal (equi
 
 Anabolizantes - Tipo de hormônios esteroides que estimulam o crescimento e desenvolvimento dos tecidos, podendo ser usados como forma de doping para aumentar massa muscular, mas esse uso pode causar problemas no fígado, hipertensão e atrofia dos testículos, entre outros
 
+## Cap. 13 [NÃO FEITO]
+
+## Cap. 14 [NÃO FEITO]
+
+## Cap. 15 [NÃO FEITO]
+
+## Cap. 16 [NÃO FEITO]

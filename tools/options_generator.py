@@ -1,11 +1,18 @@
 import json
 
 content = """
-Literatura - 3, 4, 5
-Sociologia - 3, 4, 5
-Educacao fisica - esportes
+portugues - 14, 15, 16, 17, 18
+literatura - 8, 9, 10
+redacao - 6, 7
+educacao-fisica - pca
+historia - 12, 13, 14, 15
+geografia - 14, 15, 16, 17, 18
+filosofia - cap. 2 (livro d)
+sociologia - 12, 13
+biologia-1 - 13, 14, 15, 16
+biologia-2 - 11, 12, 13
 """
-FILE_PATH = 'current.json'
+FILE_PATH = 'pm4.json'
 content_formatted = []
 
 for line in content.strip().split('\n'):

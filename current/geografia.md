@@ -672,7 +672,11 @@ Industrialização Brasileira por Regiões
 
 - Centro-Oeste - Bem pequena, com destaque para a agroindústria
 
-## Cap. 16
+## Cap. 14 [NÃO FEITO]
+
+## Cap. 15 [NÃO FEITO]
+
+## Cap. 16 [INACABADO]
 
 Geopolítica - Estuda as estratégias do Estado para a administração e sobrevivência de seu território e nação
 
@@ -724,6 +728,10 @@ Iugoslávia - País socialista formado após a 2ª guerra mundial, composto pela
 
 - Kosovo - País na região sul da Sérvia que declarou independência, criando um conflito que foi controlado pela Otan. Contudo, ainda tem reconhecimento limitado
 
+## Cap. 17 [NÃO FEITO]
+
+## Cap. 18 [NÃO FEITO]
+
 ## Cap. 20
 
 Curdos (ou Curdistão) - Nação sem Estado localizado no Oriente Médio, na Turquia, Iraque, Síria e Irã, que são contra a criação do país por haver grandes reservas de petróleo no local. Inicialmente tentaram lutar por meio de guerras, mas atualmente focam na autodeterminação do povo
@@ -760,4 +768,3 @@ Questão Israel-Palestina - Conflito territorial religioso entre o Estado de Isr
   - Acordo de Olso - Acordo intermediado pelos EUA entre Israel e a OLP, garantindo o controle da Faixa de Gaza e Cisjordânia para a palestina, mas gerou insatisfação nas organizações terroristas e eventualmente foi quebrado, com a criação de assentamentos e um muro ao redor da Cisjordânia por Israel na Palestina
 
 - Hamas - Principal organização terrorista da palestina, com o objetivo de destruir Israel. Atualmente controlam a Faixa de Gaza
-

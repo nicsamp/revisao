@@ -462,6 +462,10 @@ Tipos Sanguíneos (ou Grupos Sanguíneos) - Sistemas de classificação do sangu
 
 - Sistema MN - Outro sistema, caracterizado pela presença dos antígenos M e N, com os tipos N (só o antígeno N), M e NM (ambos os antígenos), sendo condicionado por alelos codominantes
 
+## Cap. 11 [NÃO FEITO]
+
+## Cap. 12 [NÃO FEITO]
+
 ## Cap. 13
 
 Monoibridismo (ou Herança Monogênica ou Monofatorial) - Análise da transmissão de apenas um gene por vez
@@ -517,4 +521,3 @@ Ligação Gênica (ou Linkage) - Ocorre quando dois genes estão presentes no me
   - Gametas Recombinantes - Tem a localização dos alelos diferentes, por terem sofrido recombinação gênica
 
 - Mapas Cromossômicos (ou Genéticos ou de Ligação) - Esquema que mostra a distância entre vários locus gênicos, calculados com base na taxa de recombinação entre eles
-
