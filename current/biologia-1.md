@@ -1183,7 +1183,9 @@ Sistema Genital Feminino
   - Vulva - Composta pelos lábios maiores, menores e o clitóris
     
     - Lábios Maiores e Menores (ou Grandes e Pequenos Lábios) - Dobras de pele que envolvem o meato uretral, vaginal e clitóris
-  - Meato Uretral - Abertura da uretra
+  
+  - ·Meato Uretral - Abertura da uretra
+  
   - Meato Vaginal - Abertura da vagina
 
 - Interno
@@ -1213,10 +1215,15 @@ Ciclo Menstrual - Conjunto de processos cíclicos que ocorrem nas mulheres, cont
   - Menstruação - Ocorre com a descamação do endométrio do útero, pela não gravidez, marca o início do ciclo. Estimulado pelo LH
     
     - Fluxo Menstrual - Causado pelo rompimento de vasos durante a menstruação
+  
   - Fase Proliferativa (ou Folicular ou Estrogênica) - Período antes da ovulação
+    
     - Hormônios - Destaque para o FSH (estimula os folículos ovarianos a produzir estrógeno e desenvolver o gameta) e estrógeno (promove o crescimento do endométrio)
+  
   - Ovulação - Liberação do óvulo pelo rompimento de um folículo ovariano. Estimulado pelo hormônio LH
+  
   - Fase Secretora (ou Lútea ou Progestogênica) - Após a ovulação
+    
     - Corpo-Lúteo (ou Corpo Amarelo) - Corpúsculo formado pela transformação do folículo (estimulada pelo LH), secretando progesterona e estrógeno para manter o endométrio. Se degenera caso não haja fecundação
 
 ---
@@ -1227,7 +1234,7 @@ Gestação - Desenvolvimento do embrião após a fecundação
 
 - Placenta - Anexo embrionário responsável pela nutrição, oxigenação e eliminação de resíduos do feto por vasos sanguíneos
   
-  - Gonadotrofina Coriônica (HCG) - Hormônio produzido pela placenta que estimula o corpo-lúteo, que continua a produzir progesterona e estrógeno, mantendo o útero
+  - Gonadotrofina Coriônica (HCG) - Hormônio produzido pela placenta que estimula o corpo-lúteo, que continua a produzir progesterona e estrógeno, mantendo o útero. Eventualmente ele se degenera e a placenta passa a produzir esses hormônios
 
 ## Cap. 14 [NÃO FEITO]
 

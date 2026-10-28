@@ -14,21 +14,25 @@ Bacterioses e Viroses
 
 Concretismo
 
+PCA, Jogos de tabuleiro e cooperativos
+
+Auguste Comte, Emile Durkheim e Max Weber
+
+Cap. 15 história
+
 ---
 
 In progress:
 
 Plantas
 
-Cap. 15 história
-
-PCA, Jogos de tabuleiro e cooperativos
-
 Herança Sexual
 
 Geopolítica
 
-Surgimento da Sociologia (Max Weber)
+Parasitoses
+
+Literatura Revisão
 
 ---
 
