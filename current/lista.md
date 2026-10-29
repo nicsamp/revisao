@@ -20,6 +20,8 @@ Auguste Comte, Emile Durkheim e Max Weber
 
 Cap. 15 história
 
+Cap. 17 e 18 português
+
 ---
 
 In progress:

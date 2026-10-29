@@ -1174,7 +1174,7 @@ Sistema Endócrino - Sistema responsável por manter a homeostase corporal (equi
 
 Anabolizantes - Tipo de hormônios esteroides que estimulam o crescimento e desenvolvimento dos tecidos, podendo ser usados como forma de doping para aumentar massa muscular, mas esse uso pode causar problemas no fígado, hipertensão e atrofia dos testículos, entre outros
 
-## Cap. 13 [INACABADO]
+## Cap. 13
 
 Sistema Genital Feminino
 
@@ -1184,7 +1184,7 @@ Sistema Genital Feminino
     
     - Lábios Maiores e Menores (ou Grandes e Pequenos Lábios) - Dobras de pele que envolvem o meato uretral, vaginal e clitóris
   
-  - ·Meato Uretral - Abertura da uretra
+  - Meato Uretral - Abertura da uretra
   
   - Meato Vaginal - Abertura da vagina
 
@@ -1235,6 +1235,79 @@ Gestação - Desenvolvimento do embrião após a fecundação
 - Placenta - Anexo embrionário responsável pela nutrição, oxigenação e eliminação de resíduos do feto por vasos sanguíneos
   
   - Gonadotrofina Coriônica (HCG) - Hormônio produzido pela placenta que estimula o corpo-lúteo, que continua a produzir progesterona e estrógeno, mantendo o útero. Eventualmente ele se degenera e a placenta passa a produzir esses hormônios
+
+---
+
+Sistema Genital Masculino
+
+- Testículos - Gônadas masculinas
+  
+  - Bolsa Escrotal (ou Escroto) - Bolsa de pele onde ficam os testículos
+  
+  - Túbulos Seminíferos - Pequenos canais onde são produzidos os espermatozoide, processo estimulado pelo FSH
+    
+    - Espermatogônias - Ficam no epitélio dos túbulos, originam os espermatozoides
+    
+    - Células de Sertoli - Nutrem e sustentam a espermatogênese
+  - Células Intersticiais - Ficam entre os túbulos, responsáveis por produzir testosterona (hormônio que determina as características masculinas)
+    - Hormônio Estimulante das Células Intersticiais (ICSH) - Outro nome para o LH, que estimula a produção de testosterona
+
+- Epidídimos - Onde os espermatozoides se amadurecem e ganham movimento
+
+- Canais Deferentes (ou Dutos Deferentes) - Levam os espsermatozoides até a uretra, onde o sêmen é liberado na ejaculação
+  
+  - Flúido Seminal - Conjunto de secreções das vesículas seminais, próstata e glândulas bulbouretrais que, com os espermatozoides, formam o sêmen (ou esperma)
+
+- Pênis
+  
+  - Ereção - Ocorre pelo fluxo de sangue aos corpos cavernosos do pênis com a excitação sexual, endurecendo-o (intumescendo-o)
+
+---
+
+Métodos Contraceptivos - Utilizados para evitar a gravidez
+
+- Abstinência Sexual - Não ter relações sexuais, sendo a única garantida
+
+- Métodos Naturais - São de baixa eficácia
+  
+  - Coito Interrompido - Retirar o pênis da vagina antes da ejaculação. Não deve ser usado
+  
+  - Tabelinha (ou Abstinência Periódica ou Método do Ritmo ou do Calendário) - Evitar relações durante o período fértil pela observação do ciclo menstrual. Contudo, esse pode sofrer variações
+  
+  - Muco Cervical (ou Método de Billings) - Observação do mucro cervical, que fica mais espesso durante o período fértil
+  
+  - Temperatura Basal - Observação da temperatura corporal, maior logo antes do período fértil
+
+- Métodos de Barreira - Criam um obstáculo para os espermatozoides
+  
+  - Preservativos (ou Camisinha) - Dispositivo de borracha ou látex colocado ao redor do pênis (masculino) ou dentro da vagina (feminino). Além disso, são o único método que protege contra as ISTs
+  
+  - Diafragma - Meia esfera de borracha colocada na vagina. Normalmente usado com espermicida
+    
+    - Espermicida - Produto que impede a movimentação dos espermatozoides
+  
+  - Dispositivo Intrauterino (DIU) - Peça de plástico ou metal colocada dentro do útero por um médico
+    
+    - Não Hormonal (ou de Cobre) - Utiliza o cobre para impossibilitar a nidação
+    - Hormonal (ou DIU Mirena) - Libera progesterona, impedindo a formação do endométrio e logo da nidação. Também reduz o fluxo menstrual
+
+- Métodos Hormonais
+  
+  - Pílula Anticoncepcional - Pílulas com estrógeno e ou progesterona, que impedem a formação de FSH e LH e logo a ovulação. Seu uso deve ser suspenso durante a menstruação. Contudo, pode gerar efeitos colaterais e podem variar de eficácia dependendo das concentrações de hormônios
+  
+  - Pílula do Dia Seguinte (ou Contracepção Emergencial) - Pílula com alta dose de progesterona que promove a descamação do endométrio. Só deve ser usado caso outro método tenha falhado, pois gera muitos efeitos colaterais
+  
+  - Implante Intradérmico - Implantação de um palito com hormônios semelhantes ao da pílula anticoncepcional, não sendo necessário lembrar dela
+  
+  - Adesivo Hormonal - Semelhante ao implante, mas por meio de um adesivo colado na pele
+  
+  - Anel Vaginal - Semelhante ao adesivo, mas é um anel flexível colocado na vagina
+
+- Métodos Cirúrgicos - São permanentes
+  
+  - Laqueadura - Nas mulheres, pelo corte e amarramento das tubas uterinas
+  
+  - Vasectomia - Nos homens, pelo corte e amarramento dos dutos deferentes
 
 ## Cap. 14 [NÃO FEITO]
 
