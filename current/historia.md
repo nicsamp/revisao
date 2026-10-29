@@ -1,4 +1,4 @@
-# História## Cap. 8 [NÃO FEITO]
+# História
 
 ## Cap. 1
 
@@ -866,4 +866,30 @@ América Latina na Guerra Fria - Houve forte influência estadunidense
   
   - Chile - Liderado por Pinochet, também houve uso da violência
 
-## Cap. 15 [NÃO FEITO]
+## Cap. 15 [INACABADO]
+
+República Liberal - Caracterizada pela redemocratização com o fim do Estado Novo
+
+- Democracia de Massas - Característica desse período, havendo a maior influência da imprensa na política e o surgimento de governos populistas e líderes carismáticos
+- Desenvolvimentismo - Houve discussões entre o liberalismo e nacionalismo para o desenvolvimento econômico
+  - Liberalismo - Defendia a obtenção de empréstimos e entrada de empresas estrangeiras para a industrialização nacional, além do controle estatal da inflação para manter estabilidade econômica
+  - Nacionalismo - Era contra a entrada de capital estrangeiro e endividamento externo, defendendo a atuação do Estado para estimular a industrialização autônoma, além da adoção de medidas sociais
+- Partidos
+  - UDN - Partido conservador formado pelas antigas elites cafeeiras. Defendia o liberalismo
+  
+  - PSD - Principal partido do período. Defendia ambas as propostas
+  
+  - PTB - Partido caracterizado por medidas trabalhistas. Defendia o nacionalismo
+
+- Eurico Gaspar Dutra - Primeiro presidente do período
+  
+  - Constituição de 1946 - Criada com o fim do Estado Novo, sendo democrática e liberal e implementando o voto secreto e universal, além do fortalecimento do Poder Legislativo
+  
+  - Liberarismo - Houve a abertura do país, com a importação de produtos sobretudo estadunidenses, mas que acabou gerando dívidas externas
+  
+  - Plano Salte - Plano de investimento estatal em saúde, alimentação, transporte e energia, além da redução de importações, gerando crescimento econômico
+  
+  - Anticomunismo - Houve a proibição do PCB
+- Segundo Governo Vargas - Elegido pelo PTB. Governo caracterizado pelo nacionalismo, trabalhismo e populismo
+  - Empresas Estatais - Houve a criação da Petrobras, com monopólio de petróleo no Brasil, além de outras
+  - João Goulart (ou Jango) - Eleito como Ministro do Trabalho por Vargas. Contudo, gerou insatisfação dos conservadores
