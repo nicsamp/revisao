@@ -18,8 +18,6 @@ PCA, Jogos de tabuleiro e cooperativos
 
 Auguste Comte, Emile Durkheim e Max Weber
 
-Cap. 15 história
-
 Cap. 17 e 18 português
 
 ---
@@ -35,6 +33,8 @@ Geopolítica
 Parasitoses
 
 Literatura Revisão
+
+Ditadura militar
 
 ---
 

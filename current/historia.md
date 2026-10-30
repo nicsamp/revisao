@@ -866,15 +866,19 @@ América Latina na Guerra Fria - Houve forte influência estadunidense
   
   - Chile - Liderado por Pinochet, também houve uso da violência
 
-## Cap. 15 [INACABADO]
+## Cap. 15
 
 República Liberal - Caracterizada pela redemocratização com o fim do Estado Novo
 
 - Democracia de Massas - Característica desse período, havendo a maior influência da imprensa na política e o surgimento de governos populistas e líderes carismáticos
+
 - Desenvolvimentismo - Houve discussões entre o liberalismo e nacionalismo para o desenvolvimento econômico
+  
   - Liberalismo - Defendia a obtenção de empréstimos e entrada de empresas estrangeiras para a industrialização nacional, além do controle estatal da inflação para manter estabilidade econômica
   - Nacionalismo - Era contra a entrada de capital estrangeiro e endividamento externo, defendendo a atuação do Estado para estimular a industrialização autônoma, além da adoção de medidas sociais
+
 - Partidos
+  
   - UDN - Partido conservador formado pelas antigas elites cafeeiras. Defendia o liberalismo
   
   - PSD - Principal partido do período. Defendia ambas as propostas
@@ -890,6 +894,37 @@ República Liberal - Caracterizada pela redemocratização com o fim do Estado N
   - Plano Salte - Plano de investimento estatal em saúde, alimentação, transporte e energia, além da redução de importações, gerando crescimento econômico
   
   - Anticomunismo - Houve a proibição do PCB
+
 - Segundo Governo Vargas - Elegido pelo PTB. Governo caracterizado pelo nacionalismo, trabalhismo e populismo
+  
   - Empresas Estatais - Houve a criação da Petrobras, com monopólio de petróleo no Brasil, além de outras
   - João Goulart (ou Jango) - Eleito como Ministro do Trabalho por Vargas. Contudo, gerou insatisfação dos conservadores
+    - Manifesto dos Coronéis - Documento criado pelos militares que pedia a demissão de Jango
+  - Fortunato - Um dos guardas pessoais de Getúlio, que se envolveu em uma tentativa de assassinato, aumentando a oposição a Vargas sobretudo nas Forças Armadas
+  - Suicídio - Pela forte oposição, Vargas se suicidou, gerando revoltas do povo
+- Café Filho - Vice-presidente de Vargas, assumiu o resto de seu mandato
+- Carta Brandi - Documento falso criado por Lacerda da UDN após sua derrota nas eleições, acusando Jango de crimes e defendendo um golpe militar. Contudo, houve um contragolpe para evitar esse golpe, entregando à presidência aos vencedores
+- Juscelino Kubitschek (JK, ou Presidente Bossa Nova) - Eleito com Jango de vice-presidente, caracterizado pelo desenvolvimento econômico, mas endividamento e aumento da inflação
+  - Anos Dourados - Nome dado a esse período pela prosperidade política e econômica
+  - Plano de Metas - Conjunto de objetivos criados para o Brasil crescer "50 anos em 5", focando na energia, transporte, indústria, educação e alimentação (nas duas últimas, não houve sucesso)
+    - Indústria - Caracterizada pela industrialização por substituição de importações, sobretudo por empresas privadas, mas também por investimentos estatais, sobretudo na indústria de base
+  - Brasília - Construída durante o período, sendo a primeira cidade planejada do Brasil, por Oscar Niemeyer
+    - Cangandos - Como ficaram conhecidos os construtores de Brasília, sobretudo nordestinos
+  - Cultura - Houve forte crescimento da cultura nacional, com o surgimento de novas artes e construção de museus, entre outros
+    - Bossa Nova - Mistura do samba com o jazz
+- Jânio Quadros - Caracterizado pelo carisma e populismo, focando na sua imagem de um homem simples e do povo
+  - Vassoura - Símbolo de sua campanha, pois varreria a corrupção do Brasil com ela
+  - Medidas sem Importância - Houve a proibição da briga de galo e biquínis, dentre outros, buscando encobrir a falta de projetos, além de levar ao crescimento da inflação e endividamento, cortando gastos governamentais
+  - Governo dos Bilhetinhos - Característica de Jânio, que enviava ordens em bilhetinhos para ministros
+  - João Goulart - Seu vice, enviado em missão oficial à China
+  - Che Guevara - Foi convidado e condecorado com a medalha de maior importância, gerando muita insatisfação dos anticomunistas e dos Estados Unidos
+  - Renúncia - Renunciou afirmando que "forças terríveis" o impediam de governar, como tentativa de obter o apoio do Congresso e povo para reobter os poderes com mais força, mas isso não aconteceu
+- João Goulart (ou Jango) - Assumiu após a renúncia de Jânio
+  - Forças Armadas - Impediram a posse de Jango, que retornou ao Brasil após descobrir da renúncia, por ser acusado de favorecer interesses comunistas. Contudo, o Congresso não aprovou isso, gerando insatisfação
+  - Leonel Brizola - Governador do Rio Grande do Sul, uma das principais pessoas a apoiar a posse
+  - Parlamentarismo - O Congresso decidiu manter Jango na presidência, mas sob um regime parlamentarista sob controle de um primeiro-ministro
+  - Plebiscito - Inicalmente marcado para o fim do mandato de Jango, foi antecipado e marcou a volta do presidencialismo
+  - Plano Trienal - Plano para combater a inflação, contudo incluia reformas de base educacional, agrária, urbana, tributária e financeira e de distribuição de renda, não conseguindo ser implementado, além de agravar o surgimento de oposição e mobilizações políticas
+    - Ligas Camponesas e Comando Geral dos Trabalhadores (CGT) - Movimentos de trabalhadores a favor das propostas de Jango
+    - Marcha da Família com Deus pela Liberdade - Movimento a favor da derrubada de Jango
+  - Golpe Militar - Com o apoio dos EUA em armamentos, há a deposição de Jango, marcando o fim da república liberal
