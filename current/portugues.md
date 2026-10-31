@@ -385,8 +385,6 @@ Tipos de Substantivas por Função Sintática
 
 - Apositiva - Valor de aposto. Ex: A escola incompetente não resolve esse problema: **que** <u>a nossa sala NÃO TEM PROJETOR!</u>, pelo amor de deus colégio!!! Que falta de organização!!!!
 
-
-
 ## Cap. 15
 
 Sinais de Pontuação - Sinais gráficos que contribuem para produzir efeitos de sentido
@@ -460,6 +458,30 @@ Funções da Linguagem - Funções que textos podem assumir, ligados a um dos co
 
 - Poética - Foco na própria mensagem, se preocupando com sua estrutura. Caracterizado pelo uso de figuras de linguagem, rimas e efeitos sonoros. Ex: poema
 
-## Cap. 17 [NÃO FEITO]
+## Cap. 17
+
+Função Refencial - Busca veicular uma informação de forma objetiva, lhe dando credibilidade
+
+- Recursos Linguísticos
+  
+  - Multimodalidade - Uso de texto verbal e não verbal para dar credibilidade a mais
+  
+  - Impessoalidade - Uso da 3a pessoa
+  
+  - Modo Indicativo - Indica afirmações
+  
+  - Discurso Reportado - Utiliza argumentos de autoridade
+  
+  - Formalidade - Uso de linguagem formal
+
+Gêneros Textuais - Propósito sociocomunicativo de um texto. Ex: notícia
+
+Gêneros Informativos - Gêneros textuais que tem como principal função a referencial. Ex: artigo científico
+
+- Notícia - Veicula uma informação recente
+
+- Reportagem - Há mais análise e pesquisas na reportagem do que em uma notícia
+
+- Texto de Divulação Científica - Divulgam uma descoberta científica para um público geral
 
 ## Cap. 18 [NÃO FEITO]

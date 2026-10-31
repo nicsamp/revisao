@@ -18,7 +18,7 @@ PCA, Jogos de tabuleiro e cooperativos
 
 Auguste Comte, Emile Durkheim e Max Weber
 
-Cap. 17 e 18 português
+Cap. 18 português
 
 ---
 
