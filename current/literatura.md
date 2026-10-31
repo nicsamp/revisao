@@ -209,7 +209,30 @@ Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de idea
     
     - Grande Sertão: Veredas - Seu principal livro. Fala sobre o fazendeiro Riobaldo, destacando a violência sofrida durante a República Velha, com forte lirismo e reflexões existenciais
 
-## Cap. 8 [NÃO FEITO]
+## Cap. 8 [INACABADO]
+
+Canção - Texto (chamado de letra) feito para ser cantado, valorizando a relação entre melodia e letra
+
+Canções Brasileiras - Começaram a se popularizar com a chegada do rádio
+
+- Modinha - Primeiro gênero musical popular brasileiro, inspirado na ópera italiana. Tem como principal cancionista Domingos de Caldas Barbosa
+
+- Lundu e Maxixe - Caracterizados pela influência cultural africana e caráter dançante
+
+- Choro (ou Chorinho) - Música instrumental focada na riqueza harmônica. Tem como principal cancionista Pixinguinha
+
+- Samba - Formado pela mistura do Lundu e Maxixe, caracterizado pelo uso de percussão, violão e cavaquinho, retratando a realidade brasileira urbana
+
+- Era do Rádio - Houve o surgimento do frevo, maracatu, baião e sertanejo
+  
+  - Música Sertaneja - Música centrada na realidade rural (música de raiz) ou urbana, com temática romântica
+- Bossa Nova - Gênero que surgiu durante o governo de JK, influenciado pelo samba e jazz, caracterizado pela leveza e suavidade. Tem como criadores Tom Jobin, Vinícius de Moraes e João Gilberto
+- Ditadura Militar - Houve o enfraquecimento no desenvolvimento da cultura pela censura
+  - Movimento Tropicalista - Criado por Caetano Veloso e Gilberto Gil, caracterizado pela busca da expressão da brasilidade  moderna, sendo influenciado pelo movimento antropofágico
+  - Jovem Guarda - Inspirado no pop internacional, é caracterizado por temas amorosos e pouco contexto social. Tem como principal nome Roberto Carlos
+  - Rock Brasileiro - Caracterizado por representar a juventude. Tem como principal banda a Legião Urbana, com o compositor Renato Russo
+
+Rap - Caracterizado pela denúncia social das condições dos jovens da periferia, além de mais foco nas letras, quase faladas. Tem como principal grupo os Racionais MC's
 
 ## Cap. 9 [NÃO FEITO]
 
