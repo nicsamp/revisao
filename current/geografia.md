@@ -728,7 +728,56 @@ Iugoslávia - País socialista formado após a 2ª guerra mundial, composto pela
 
 - Kosovo - País na região sul da Sérvia que declarou independência, criando um conflito que foi controlado pela Otan. Contudo, ainda tem reconhecimento limitado
 
-## Cap. 17 [NÃO FEITO]
+## Cap. 17 INACABADO]
+
+América Latina - Parte do continente americano que foi colonizado por povos latinos, composto pela América do Sul, Central e México. São em geral dependentes da exportação de matéria-prima e importação de tecnologia, mesmo sendo industrializados
+
+- Industrialização por Substituição de Importações - Prática realizada por países como Brasil, Argentina e México, sobretudo após a primeira guerra mundial, sendo a industrialização para o abastecimento do mercado interno
+
+Política do Big Stick - Política implementada por Roosevelt da livre intervenção dos Estados Unidos no resto da América
+
+- Canal do Panamá - Canal que conecta o Atlântico ao Pacífico iniciado pela França, que não conseguiu terminar. Depois, os EUA ajudaram o Panamá a se tornar independente em troca de poderem terminar e controlar o canal, mas cuja posse foi eventualmente devolvida
+
+---
+
+Cuba - Arquipélago no mar do Caribe subdesenvolvido
+
+- Independência - Após a independência da Espanha, ela passou a receber forte interferência política dos EUA, levando ao surgimento de governos ditatoriais (como o de Batista)
+
+- Fidel Castro - Liderou um movimento contra a ditadura de Batista, tomando o poder e rompendo com os EUA, com a estatização de terras e empresas, eventualmente se tornando socialista
+
+- Bloqueio Econômico - Após se tornar socialista, os EUA impôs um bloqueio a Cuba, sendo válido até hoje e levando a sua aproximação da URSS. Além disso, houve uma tentativa do país de derrubar Fidel Castro
+
+- Crise dos Mísseis - Foram instalados mísseis soviéticos no país, quase gerando um conflito direto entre as superpotências durante a Guerra Fria. Contudo, eventualmente foram retirados, em troca da retirada dos mísseis estadunidenses na Turquia
+
+- Crise Econômica - Com o fim da Guerra Fria, Cuba entrou em crise e começou a abrir sua economia
+
+- Guantánamo - Prisão em Cuba controlada pelos EUA onde são colocados os criminosos mais perigosos. Contudo, é acusada de infringir os direitos humanos
+
+---
+
+Haiti
+
+- Colonização - Ocorreu pela França, havendo uso de mão-de-obra escrava e sendo bem violenta
+
+- Abolição da Escravidão - Conquistada após revoltas dos escravizados
+
+- Revolução Haitiana - Revolta popular que levou à independência do país, marcando o início das independências na América Latina
+
+- Instabilidade Política - Muito forte após a independência, levando à independência da República Dominicana e ocupação temporária estadunidense, além de gerar grandes crises sociais e econômicas, atualmente sendo controlada por gangues e facções
+
+- Missão das Nações Unidas para a Estabilização do Haiti (Minustah) - Intervenção armada no Haiti pela ONU para a ordem política
+
+---
+
+Colômbia
+
+- Frente Nacional - Organização formada por forças políticas para governar o país e combater sua instabilidade
+
+- Forças Armadas Revolucionárias da Colômbia (Farc) - Criada após a Frente Nacional, sendo contra ela e a favor de um regime socialista, gerando conflitos internos e realizando práticas terroristas
+  
+  - Narcotráfico - Se envolveram com o narcotráfico para obter financiamento, se tornaram os principais distribuidores na Colômbia e exportadores para os EUA
+- Plano Colômbia - Criado pela Colômbia com apoio dos EUA para combater o narcotráfico e o Farc como um todo, que foi enfraquecido. Eventualmente houve um acordo de paz com eles. Contudo, outros grupos como a ELN ainda não assinaram paz
 
 ## Cap. 18 [NÃO FEITO]
 
