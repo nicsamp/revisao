@@ -676,7 +676,7 @@ Industrialização Brasileira por Regiões
 
 ## Cap. 15 [NÃO FEITO]
 
-## Cap. 16 [INACABADO]
+## Cap. 16
 
 Geopolítica - Estuda as estratégias do Estado para a administração e sobrevivência de seu território e nação
 
@@ -777,7 +777,24 @@ Colômbia
 - Forças Armadas Revolucionárias da Colômbia (Farc) - Criada após a Frente Nacional, sendo contra ela e a favor de um regime socialista, gerando conflitos internos e realizando práticas terroristas
   
   - Narcotráfico - Se envolveram com o narcotráfico para obter financiamento, se tornaram os principais distribuidores na Colômbia e exportadores para os EUA
+
 - Plano Colômbia - Criado pela Colômbia com apoio dos EUA para combater o narcotráfico e o Farc como um todo, que foi enfraquecido. Eventualmente houve um acordo de paz com eles. Contudo, outros grupos como a ELN ainda não assinaram paz
+
+---
+
+Venezuela - Caracterizada pela grande dependência na exportação de petróleo
+
+- Revolução Bolivariana - Termo criado por Hugo Chávez em seu governo, implementando medidas como reforma agrária, intervenção do Estado na economia e outras medidas sociais, se aproximando do socialismo
+
+- Nicolás Maduro - Sucessor do governo de Chávez, continuando suas medidas. Contudo, pela queda do preço do petróleo, com o país entrando em crise de abastecimento interno e criando diversas revoltas e fluxos de emigração, além de serem suspensos da Mercosul
+
+---
+
+Ilhas Falkland (ou Malvinas) - Arquipélago localizado no sul do Atlântico disputado entre o Reino Unido e Argentina
+
+- Argentina - Invadiu a ilha durante seu período de ditadura militar
+
+- Reino Unido - Reobteu a posse da ilha, com apoio dos EUA. Contudo, a Argentina ainda reconhece sua posse da ilha. A grande maioria da população da ilha a considera como território britânico
 
 ## Cap. 18 [NÃO FEITO]
 
