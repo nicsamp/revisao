@@ -190,39 +190,7 @@ Antibióticos - Substâncias que impedem a proliferação de bactérias, por mei
 
 - Bacteriostáticos - Antibióticos que impedem a duplicação de bactérias
 
----
 
-Bacterioses - Doenças causadas por bactérias
-
-- Transmissão por Gotículas - Transmissão por meio de gotículas de muco e saliva suspensas no ar
-  
-  - Coqueluche - Causado por *Bordetella pertussis*, tem como principal sintoma a tosse
-  
-  - Pneumonia - Tem como sintomas febre, dor no peito e tosse com secreção
-  
-  - Tuberculose - Tem como sintomas tosse, febre, fadiga e emagracimento
-  
-  - Meningite - Tem como sintomas febre, náusea, vômito e rigidez da nuca
-
-- Transmissão por Água e Alimentos Contaminados
-  
-  - Cólera - Tem como sintomas náusea, vômito e diarreia. Causado por alimentos contaminados por fezes
-  
-  - Botulismo - Tem como sintomas dificuldade de engolir, vômito e cólica abdominal
-
-- Tétano - Tem como sintomas espasmos musculares, febre e dor de cabeça. Transmitido por meio de ferimentos
-
-- Hanseníase - Causada por *Mycobacterium leprae*, tem como sintomas lesões na pele e mucosas. Transmitida por contato
-
-- Peste Bubônica - Tem como sintomas inchaço nos gânglios e febre. Transmitida por picada de pulga do rato
-
-- Leptospirose - Tem como sintomas febre, dor muscular, tosse, náusea e infecção renal. Transmitida por urina de ratos contaminados
-
-- Infecções Sexualmente Transmissíveis (ISTs)
-  
-  - Gonorreia - Tem como sintomas dor e pus ao urinar. É uma IST
-  
-  - Sífilis - Causado por *Treponema pallidum*, tem como sintomas feridas, podendo causar paralisia
 
 ## Micoses
 
@@ -353,4 +321,3 @@ Tipos de Plantas
 - Gimnospermas - Possuem sementes
 
 - Angiospermas - Possuem flores e fruto
-

@@ -1249,7 +1249,9 @@ Sistema Genital Masculino
     - Espermatogônias - Ficam no epitélio dos túbulos, originam os espermatozoides
     
     - Células de Sertoli - Nutrem e sustentam a espermatogênese
+  
   - Células Intersticiais - Ficam entre os túbulos, responsáveis por produzir testosterona (hormônio que determina as características masculinas)
+    
     - Hormônio Estimulante das Células Intersticiais (ICSH) - Outro nome para o LH, que estimula a produção de testosterona
 
 - Epidídimos - Onde os espermatozoides se amadurecem e ganham movimento
@@ -1309,7 +1311,115 @@ Métodos Contraceptivos - Utilizados para evitar a gravidez
   
   - Vasectomia - Nos homens, pelo corte e amarramento dos dutos deferentes
 
-## Cap. 14 [NÃO FEITO]
+## Cap. 14 [INACABADO]
+
+Surto - Aumento de casos de uma doença em um local
+
+Epidemia - Surgimento de vários surtos em locais diferentes ao mesmo tempo
+
+Pandemia - Epidemia global
+
+Endemia - Doença presente apenas em certas regiões
+
+---
+
+Bactérias Parasitas - Bactérias que causam doenças, caracterizadas por liberarem toximas
+
+- Endotoxinas - Toxinas presentes na parede celular da bactéria, liberadas quando essa morre
+
+- Exotoxinas - Toxinas secretadas pelas bactérias
+
+Bacterioses - Doenças causadas por bactérias
+
+- Transmissão pelo Ar - Transmissão por meio de gotículas de muco e saliva suspensas no ar
+  
+  - Hanseníase (ou Lepra) - Causa manchas e lesões na pele, também podendo ser transmitida por contato. Previnida pela vacina BCG
+  
+  - Tuberculose - Infecta os pulmões, tem como sintomas tosse com secreção, febre e cansaço. Previnida pela vacina BCG
+  
+  - Pneumonia - Tem como sintomas febre, dor no peito e tosse com secreção
+  
+  - Meningite - Causa a inflamação das meninges. Tem como sintomas confusão, náusea e rigidez da nuca. Tem vacina
+
+- Transmissão por Água e Alimentos Contaminados (ou Via Fecal-Oral)
+  
+  - Cólera - Tem como sintomas desidratação e diarreia. Causado por água e alimentos contaminados por fezes humanas
+  
+  - Salmonelose - Causada sobretudo por ovos contaminados. Tem como sintomas dores abdominais e náusea
+  
+  - Botulismo - Causado pelo consumo sobretudo de enlatados contaminados, podendo causar paralisia e morte
+  
+  - Disenteria - Causada por *Shigella*, tem como principal sintoma a diarreia
+
+- Transmissão por Animais (ou por Vetores)
+  
+  - Peste Bubônica - Tem como sintomas inchaço nos gânglios e bubos (ou bubões, manchas escuras na pele). Transmitida por picada de pulga do rato
+  
+  - Leptospirose - Tem como sintomas  dor muscular, diarreia e infecção renal. Transmitida por contato ou ingestão da urina de ratos contaminados
+  
+  - Febre Maculosa - Causada por *Rickettsia rickettsii*, tem como sintomais manchas rosas na pele (máculas). Transmitida pela picada de carrapatos
+
+- Infecções Sexualmente Transmissíveis (ISTs)
+  
+  - Gonorreia (ou Blenorragia) - Causa inflamação na uretra. Tem como sintomas dor e pus ao urinar
+  
+  - Sífilis - Causado por *Treponema pallidum*. Também pode ser transpertida de forma vertical (mãe para filho). Previnida pelo uso de preservativos
+    
+    - Sífilis Primária - Tem como sintomas lesões nos órgãos genitais (cancros) e na pele
+    
+    - Sífilis Secundária - Erupção de manchas pelo corpo
+    
+    - Sífilis Terciária - Problemas neurológicos, paralisia, morte
+- Tétano - Tem como sintomas espasmos musculares, podendo ser fatal. Transmitido por meio de ferimentos. Tem vacina
+- Cárie - Causada por *Streptococcus mutans*, gerando a corrosão do dentre
+
+---
+
+Tipos de Vírus
+
+- Ribovírus - Vírus com RNA. São a maioria
+
+- Desoxivírus - Com DNA. Ex: herpes 1 e 2, HPV, mononucleose
+
+- Retrovírus - Com RNA e a transcriptase reversa. Ex: HIV (aids), HTLV (leucemia)
+
+---
+
+Vírion - Nome dado ao vírus quando está no ambiente
+
+Tropismo - Preferência do vírus para um tipo de célula específica
+
+Viroses - Doenças causadas por vírus
+
+- Transmissão pelo Ar - Afetam normalmente o sistema respiratório
+  
+  - Gripe - Causada pelo vírus Influenza. Tem como sintomas febre, tosse e dores
+  
+  - COVID-19
+  
+  - Resfriado - Causa coriza e espirros
+
+- Síndrome da Imunodeficiência Adquirida (AIDS) - Causada pelo vírus HIV, que invade o linfócito TCD4 (responsável pela resposta imunológico), injetando seu RNA, que é convertido em DNA pela célula, que começa a criar novos vírus, causando lise celular e portanto, imunodeficiência. É uma IST
+
+- Arboviroses - Viroses transmitidas por artrópodes, sobretudo o mosquito Aedes Aegypti
+  
+  - Dengue - Causa febre e dores
+  
+  - Zika - Manchas vermelhas e conjuntivite
+  
+  - Chikungunya - Dores e inchaços em articulações
+  
+  - Febre Amarela
+
+- 
+
+- Sarampo - Causa febre e erupções avermelhadas, sendo bem contagiosa
+
+- Catapora (ou Varicela) - Causa coceira na pele
+
+- Hepatite - Causa inflamação do fígado e pele amarelada
+
+- Herpes - Gera pequenas feridas, principalmente nos lábios
 
 ## Cap. 15 [NÃO FEITO]
 
