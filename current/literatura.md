@@ -209,7 +209,7 @@ Modernismo 2ª Fase - Caracterizada pela consolidação e aprofundamento de idea
     
     - Grande Sertão: Veredas - Seu principal livro. Fala sobre o fazendeiro Riobaldo, destacando a violência sofrida durante a República Velha, com forte lirismo e reflexões existenciais
 
-## Cap. 8 [INACABADO]
+## Cap. 8
 
 Canção - Texto (chamado de letra) feito para ser cantado, valorizando a relação entre melodia e letra
 
@@ -226,13 +226,35 @@ Canções Brasileiras - Começaram a se popularizar com a chegada do rádio
 - Era do Rádio - Houve o surgimento do frevo, maracatu, baião e sertanejo
   
   - Música Sertaneja - Música centrada na realidade rural (música de raiz) ou urbana, com temática romântica
+
 - Bossa Nova - Gênero que surgiu durante o governo de JK, influenciado pelo samba e jazz, caracterizado pela leveza e suavidade. Tem como criadores Tom Jobin, Vinícius de Moraes e João Gilberto
+
 - Ditadura Militar - Houve o enfraquecimento no desenvolvimento da cultura pela censura
+  
   - Movimento Tropicalista - Criado por Caetano Veloso e Gilberto Gil, caracterizado pela busca da expressão da brasilidade  moderna, sendo influenciado pelo movimento antropofágico
   - Jovem Guarda - Inspirado no pop internacional, é caracterizado por temas amorosos e pouco contexto social. Tem como principal nome Roberto Carlos
   - Rock Brasileiro - Caracterizado por representar a juventude. Tem como principal banda a Legião Urbana, com o compositor Renato Russo
 
-Rap - Caracterizado pela denúncia social das condições dos jovens da periferia, além de mais foco nas letras, quase faladas. Tem como principal grupo os Racionais MC's
+- Rap - Caracterizado pela denúncia social das condições dos jovens da periferia, além de mais foco nas letras, quase faladas. Tem como principal grupo os Racionais MC's
+
+---
+
+Cinema Novo - Criado por Glauber Rocha, defendia a arte com temas e recursos nacionais, semelhantemente ao modernismo
+
+---
+
+Concretismo - Corrente pós modernista caracterizada pelo questionamento mais radical das convenções literárias
+
+- Grupo Noigandres - Composto por Augusto de Campos, Haroldo de Campos e Décio Pignatari, criadores do concretismo
+
+- Características - Abolição do verso, uso do espaço branco da página, valorização da forma visual do poema, experimentalismo, com temas atuais e universais
+  
+  - Linguagem Verbicovisual - Valorização da palavra em si, seu som e seu aspecto visual, experimentando a desconstrução da palavra (como por palavras entrecortadas, letras isoladas, espaços em branco, símbolos gráficos)
+- Popcretos - Poemas concretistas caracterizado pelo uso de símbolos da modernidade (imagens de jornais, cartazes publicitários, placas de trânsito)
+
+---
+
+Neoconcretismo - Surgiu após ela, com maior valorização da expressão estética e emocional
 
 ## Cap. 9 [NÃO FEITO]
 
