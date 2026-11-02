@@ -676,7 +676,7 @@ Industrialização Brasileira por Regiões
 
 ## Cap. 15 [NÃO FEITO]
 
-## Cap. 16
+## Cap. 16 [INACABADO]
 
 Geopolítica - Estuda as estratégias do Estado para a administração e sobrevivência de seu território e nação
 
@@ -728,7 +728,7 @@ Iugoslávia - País socialista formado após a 2ª guerra mundial, composto pela
 
 - Kosovo - País na região sul da Sérvia que declarou independência, criando um conflito que foi controlado pela Otan. Contudo, ainda tem reconhecimento limitado
 
-## Cap. 17 INACABADO]
+## Cap. 17
 
 América Latina - Parte do continente americano que foi colonizado por povos latinos, composto pela América do Sul, Central e México. São em geral dependentes da exportação de matéria-prima e importação de tecnologia, mesmo sendo industrializados
 

@@ -29,7 +29,7 @@ async function getRawMarkdown(configPath) {
         let wantedChapters = discipline.caps;
         let rawChapters = markdown.match(/(^## )([\s\S]*?)(?=$(?![\r\n])|^## )/gm);
         rawChapters.forEach((chapter) => {
-            let name = chapter.match(/^.*/)[0].toLowerCase().replace('## ', '').replace(/\[.*$/g, '');
+            let name = chapter.match(/^.*/)[0].toLowerCase().replace('## ', '').replace(/(\[.*$)/g, '').trim();
             if (wantedChapters.includes(name))  {
                 if (rawMarkdown) {
                     rawMarkdown += '\n';
