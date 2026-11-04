@@ -674,7 +674,48 @@ Industrialização Brasileira por Regiões
 
 ## Cap. 14 [NÃO FEITO]
 
-## Cap. 15 [NÃO FEITO]
+## Cap. 15
+
+Guerra Fria - Conflito ideológico entre a EUA (defendendo o capitalismo) e URSS (socialismo), chamadas de superpotências, mas sem haver conflito armado direto pela capacidade de destruição mútua (paz armada)
+
+- Bipolarização (ou Ordem Bipolar) - Divisão do mundo entre zonas de influência dos EUA e URSS
+
+- Sistemas Socioeconômicos
+  
+  - Capitalismo - Defende o direito de propriedade e produçãoo privada e acúmulo de capital, com uma economia de mercado
+  
+  - Socialismo - Defende a propriedade e produção estatais, com economia planificada
+- Blocos Militares
+  - Organização do Tratado do Atlântico Norte (Otan) - Acordo de ajuda militar entre os EUA e a Europa ocidental
+  - Pacto de Varsóvia - Acordo de ajuda entre a URSS e o leste europeu
+- Políticas
+  - Plano Marshall - Investimento dos EUA para a recuperação da Europa ocidental pós-guerra, buscando garantir sua integração econômica
+  
+  - Plano Colombo - Apoio econômico dos EUA para a recuperação do Japão, gerando grande crescimento econômico
+  
+  - Conselho de Assistência Econômica Mútua (Comecom) - Criada pela URSS para realizar a integração econômica dos países socialistas, sendo uma resposta ao Plano Marshall
+
+- Fim da Segunda Guerra Mundial
+  
+  - Divisão da Alemanha - Houve a divisão da perdedora inicialmente entre os vencedores (EUA, URSS, França e Reino Unido), mas depois dividida entre um lado capitalista e outro socialista, com o mesmo sendo feito com Berlim
+    
+    - Muro de Berlim - Construído pela URSS para separar Berlim capitalista da Alemanha socialista, sendo marco do conflito
+  
+  - Descolonização Afro-Asiática - Enfraqueceu sobretudo a França e Reino Unido
+- Cortina de Ferro - Metáfora para a divisão da Europa entre um lado capitalista (ocidente) e socialista (leste)
+- Corrida Armamentista - Disputa para a produção de armas, sobretudo nuclearesCorrida Espacial - Disputa tecnológica entre as potências para a exploração espacial. A URSS mandou o primeiro satélite e homem ao espaço, mas os EUA mandaram o primeiro homem a lua
+- Strategic Arms Limitation Talks (Salt) - Acordos entre os EUA e URSS que limitavam o uso de armas nucleares, amenizando a tensão
+- Fim - Houve a queda do muro de Berlim e a dissolução da URSS por crise econômica
+
+---
+
+Nova Ordem Mundial - Pós-guerra fria
+
+- Econômica - É multipolar, pela existência de várias potências como EUA, China, Japão e Alemanha, entre outros
+
+- Política / Militar - É unipolar, pela hegemonia dos EUA, mesmo com a existência de organizações como a ONU
+
+Organizações Terroristas - Ganharam maior força após a guerra fria, com destaque para a Al-Qaeda, responsável pelos ataques às Torres Gêmeas
 
 ## Cap. 16 [INACABADO]
 

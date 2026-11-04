@@ -902,9 +902,13 @@ República Liberal - Caracterizada pela redemocratização com o fim do Estado N
     - Manifesto dos Coronéis - Documento criado pelos militares que pedia a demissão de Jango
   - Fortunato - Um dos guardas pessoais de Getúlio, que se envolveu em uma tentativa de assassinato, aumentando a oposição a Vargas sobretudo nas Forças Armadas
   - Suicídio - Pela forte oposição, Vargas se suicidou, gerando revoltas do povo
+
 - Café Filho - Vice-presidente de Vargas, assumiu o resto de seu mandato
+
 - Carta Brandi - Documento falso criado por Lacerda da UDN após sua derrota nas eleições, acusando Jango de crimes e defendendo um golpe militar. Contudo, houve um contragolpe para evitar esse golpe, entregando à presidência aos vencedores
+
 - Juscelino Kubitschek (JK, ou Presidente Bossa Nova) - Eleito com Jango de vice-presidente, caracterizado pelo desenvolvimento econômico, mas endividamento e aumento da inflação
+  
   - Anos Dourados - Nome dado a esse período pela prosperidade política e econômica
   - Plano de Metas - Conjunto de objetivos criados para o Brasil crescer "50 anos em 5", focando na energia, transporte, indústria, educação e alimentação (nas duas últimas, não houve sucesso)
     - Indústria - Caracterizada pela industrialização por substituição de importações, sobretudo por empresas privadas, mas também por investimentos estatais, sobretudo na indústria de base
@@ -912,14 +916,18 @@ República Liberal - Caracterizada pela redemocratização com o fim do Estado N
     - Cangandos - Como ficaram conhecidos os construtores de Brasília, sobretudo nordestinos
   - Cultura - Houve forte crescimento da cultura nacional, com o surgimento de novas artes e construção de museus, entre outros
     - Bossa Nova - Mistura do samba com o jazz
+
 - Jânio Quadros - Caracterizado pelo carisma e populismo, focando na sua imagem de um homem simples e do povo
+  
   - Vassoura - Símbolo de sua campanha, pois varreria a corrupção do Brasil com ela
   - Medidas sem Importância - Houve a proibição da briga de galo e biquínis, dentre outros, buscando encobrir a falta de projetos, além de levar ao crescimento da inflação e endividamento, cortando gastos governamentais
   - Governo dos Bilhetinhos - Característica de Jânio, que enviava ordens em bilhetinhos para ministros
   - João Goulart - Seu vice, enviado em missão oficial à China
   - Che Guevara - Foi convidado e condecorado com a medalha de maior importância, gerando muita insatisfação dos anticomunistas e dos Estados Unidos
   - Renúncia - Renunciou afirmando que "forças terríveis" o impediam de governar, como tentativa de obter o apoio do Congresso e povo para reobter os poderes com mais força, mas isso não aconteceu
+
 - João Goulart (ou Jango) - Assumiu após a renúncia de Jânio
+  
   - Forças Armadas - Impediram a posse de Jango, que retornou ao Brasil após descobrir da renúncia, por ser acusado de favorecer interesses comunistas. Contudo, o Congresso não aprovou isso, gerando insatisfação
   - Leonel Brizola - Governador do Rio Grande do Sul, uma das principais pessoas a apoiar a posse
   - Parlamentarismo - O Congresso decidiu manter Jango na presidência, mas sob um regime parlamentarista sob controle de um primeiro-ministro

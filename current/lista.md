@@ -10,7 +10,7 @@ Algas
 
 Sistema Reprodutor
 
-Bacterioses e Viroses
+Viroses
 
 Concretismo
 
