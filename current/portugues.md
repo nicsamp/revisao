@@ -484,4 +484,17 @@ Gêneros Informativos - Gêneros textuais que tem como principal função a refe
 
 - Texto de Divulação Científica - Divulgam uma descoberta científica para um público geral
 
-## Cap. 18 [NÃO FEITO]
+## Cap. 18
+
+Gêneros Jornalísticos Argumentativos (ou Midiáticos Argumentativos) - Tem como foco a interpretação e comentário sobre a realidade, defendendo um ponto de vista, sendo opinativo
+
+- Artigo de Opinião - Texto que defende um ponto de vista do autor, podendo ter como tema questões mais amplas ou acontecimentos específicos
+  
+  - Estrutura Dissertativo - Texto com introdução, desenvolvimento e conclusão
+
+- Editorial - Defende uma visão do próprio jornal que publica ele, havendo mais marcas de objetividade
+  
+  - Linha Editorial - Posicionamento de uma instituição, expressa nos editoriais
+- Resenha Crítica - Há a descrição e análise (juízo de valor, sendo opinativo) de um objeto cultural (filme, livro, música, peça...)
+- Charge - Ironiza ou critica uma questão social atual, senod muitas vezes multimodal. Necessita de contexto e/ou conhecimento de mundo para ser compreendido
+- Cartum - Ironiza ou critica comportamentos humanos universais, não atrelado a um contexto específico
