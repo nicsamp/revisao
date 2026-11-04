@@ -1359,18 +1359,20 @@ Bacterioses - Doenças causadas por bactérias
   
   - Febre Maculosa - Causada por *Rickettsia rickettsii*, tem como sintomais manchas rosas na pele (máculas). Transmitida pela picada de carrapatos
 
-- Infecções Sexualmente Transmissíveis (ISTs)
+- Infecções Sexualmente Transmissíveis (ISTs) - Previnida pelo uso de preservativos
   
   - Gonorreia (ou Blenorragia) - Causa inflamação na uretra. Tem como sintomas dor e pus ao urinar
   
-  - Sífilis - Causado por *Treponema pallidum*. Também pode ser transpertida de forma vertical (mãe para filho). Previnida pelo uso de preservativos
+  - Sífilis - Causado por *Treponema pallidum*. Também pode ser transpertida de forma vertical (mãe para filho)
     
     - Sífilis Primária - Tem como sintomas lesões nos órgãos genitais (cancros) e na pele
     
     - Sífilis Secundária - Erupção de manchas pelo corpo
     
     - Sífilis Terciária - Problemas neurológicos, paralisia, morte
+
 - Tétano - Tem como sintomas espasmos musculares, podendo ser fatal. Transmitido por meio de ferimentos. Tem vacina
+
 - Cárie - Causada por *Streptococcus mutans*, gerando a corrosão do dentre
 
 ---
@@ -1393,13 +1395,31 @@ Viroses - Doenças causadas por vírus
 
 - Transmissão pelo Ar - Afetam normalmente o sistema respiratório
   
-  - Gripe - Causada pelo vírus Influenza. Tem como sintomas febre, tosse e dores
-  
-  - COVID-19
+  - Gripe - Causada pelo vírus Influenza. Tem como sintomas tosse, dores e fraqueza. Tem vacina
   
   - Resfriado - Causa coriza e espirros
+  
+  - Sarampo - Causa manchas vermelhas na pele, sendo bem contagiosa
+    
+    - Tríplice Viral - Vacina que previne contra o sarampo, caxumba e rubéola
+    
+    - Tetraviral - Previne as mesmas, além da varicela
+  
+  - Catapora (ou Varicela) - Causa pequenas bolas vermelhas e coceira na pele
+  
+  - Rubéola (ou Sarampo Alemão) - Causa erupções vermelhas
+  
+  - Caxumba - Causa inflamação das glândulas, sobretudo a salivar
+  
+  - COVID-19 - Causada por Sars-CoV-2. Tem vacina
 
-- Síndrome da Imunodeficiência Adquirida (AIDS) - Causada pelo vírus HIV, que invade o linfócito TCD4 (responsável pela resposta imunológico), injetando seu RNA, que é convertido em DNA pela célula, que começa a criar novos vírus, causando lise celular e portanto, imunodeficiência. É uma IST
+- ISTs
+  
+  - Síndrome da Imunodeficiência Adquirida (AIDS) - Causada pelo vírus HIV, que invade o linfócito TCD4 (responsável pela resposta imunológico), que começa a criar novos vírus, causando lise celular e portanto, imunodeficiência. Também pode ser transmitido pelo sangue ou de mãe para filho
+  
+  - Condiloma Acuminado - Causado pelo HPV (papiloma humano), podendo causar surgimento de verrugas e câncer de colo de útero subretudo. Tem vacina
+  
+  - Hepatite B, C e D - Causa dor abdominal, inflamação do fígado e icterícia (pele amarelada, podendo causar câncer de fígado. Apenas a B tem vacina, mas essa vacina previne a D, que só se manifesta em pessoas infectadas com a B
 
 - Arboviroses - Viroses transmitidas por artrópodes, sobretudo o mosquito Aedes Aegypti
   
@@ -1410,14 +1430,6 @@ Viroses - Doenças causadas por vírus
   - Chikungunya - Dores e inchaços em articulações
   
   - Febre Amarela
-
-- 
-
-- Sarampo - Causa febre e erupções avermelhadas, sendo bem contagiosa
-
-- Catapora (ou Varicela) - Causa coceira na pele
-
-- Hepatite - Causa inflamação do fígado e pele amarelada
 
 - Herpes - Gera pequenas feridas, principalmente nos lábios
 
