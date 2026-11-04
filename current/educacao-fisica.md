@@ -57,8 +57,20 @@ Lutas Modernas
 - Kickboxing - Mistura socos do boxe com técnicas de chute
 - Boxe - Usa apenas os punhos para defesa e ataque, ocorrendo em um ringue quadrado
 
-## Práticas Corporais de Aventura [NÃO FEITO]
+## Práticas Corporais de Aventura
 
-## Jogos Cooperativos e de Salão [NÃO FEITO]
+Práticas Corporais de Aventura - Desafios de movimentos caracterizado por riscos controlados, habilidades físicas e contato com o ambiente
+
+- Urbanos - Realizados em ambientes urbanos. Ex: parkour, skate
+
+- Naturais - Realizados na natureza. Ex: trilha, rapel
+
+- Cuidados - Preparação física, profissionais qualificados, conhecimento prévio do local, equipamentos de proteção
+
+## Jogos Cooperativos e de Salão
+
+Jogos Cooperativos - Caracterizado pela busca de um objetivo comum, sem competição e com trabalho em equipe. Ex:  controle (vôlei)
+
+Jogos de Tabuleiro (ou de Mesa) - Realizados em um espaço fixo, havendo maior foco na habilidade cognitiva. Ex: xadrez
 
 

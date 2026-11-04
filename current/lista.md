@@ -28,13 +28,19 @@ Plantas
 
 Herança Sexual
 
+Karl Marx
+
 Geopolítica
 
 Parasitoses
 
 Literatura Revisão
 
+Teatro literatura
+
 Ditadura militar
+
+Protozooses e Verminoses
 
 ---
 
