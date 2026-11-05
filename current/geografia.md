@@ -685,10 +685,14 @@ Guerra Fria - Conflito ideológico entre a EUA (defendendo o capitalismo) e URSS
   - Capitalismo - Defende o direito de propriedade e produçãoo privada e acúmulo de capital, com uma economia de mercado
   
   - Socialismo - Defende a propriedade e produção estatais, com economia planificada
+
 - Blocos Militares
+  
   - Organização do Tratado do Atlântico Norte (Otan) - Acordo de ajuda militar entre os EUA e a Europa ocidental
   - Pacto de Varsóvia - Acordo de ajuda entre a URSS e o leste europeu
+
 - Políticas
+  
   - Plano Marshall - Investimento dos EUA para a recuperação da Europa ocidental pós-guerra, buscando garantir sua integração econômica
   
   - Plano Colombo - Apoio econômico dos EUA para a recuperação do Japão, gerando grande crescimento econômico
@@ -702,10 +706,20 @@ Guerra Fria - Conflito ideológico entre a EUA (defendendo o capitalismo) e URSS
     - Muro de Berlim - Construído pela URSS para separar Berlim capitalista da Alemanha socialista, sendo marco do conflito
   
   - Descolonização Afro-Asiática - Enfraqueceu sobretudo a França e Reino Unido
+
 - Cortina de Ferro - Metáfora para a divisão da Europa entre um lado capitalista (ocidente) e socialista (leste)
+
 - Corrida Armamentista - Disputa para a produção de armas, sobretudo nuclearesCorrida Espacial - Disputa tecnológica entre as potências para a exploração espacial. A URSS mandou o primeiro satélite e homem ao espaço, mas os EUA mandaram o primeiro homem a lua
+
 - Strategic Arms Limitation Talks (Salt) - Acordos entre os EUA e URSS que limitavam o uso de armas nucleares, amenizando a tensão
-- Fim - Houve a queda do muro de Berlim e a dissolução da URSS por crise econômica
+
+- Fim - Houve a queda do muro de Berlim, dissolução da URSS, reunificação da Alemanha e fim do Pacto de Varsóvia
+  
+  - Mikhail Gorbatchev - Último presidente soviético, assumiu durante período de crise econômica pelos gastos militares na corrida armamentista. Caracterizado pela abertura econômica, desarmamento e aproximação dos EUA
+    
+    - Glasnost e Perestroika - Medidas criadas de transparência política e reestruturação econômica. Contudo, gerou insatisfação de conservadores, sofrendo um golpe de Estado, mas que foi combatido pela população
+  - Dissolução da URSS - Houve a independência de todas as repúblicas que formavam a URSS, causando sua dissolução. Contudo, gerou problemas territoriais que permanecem até hoje
+  - Comunidade dos Estados Independentes (CEI) - Organização criada de apoio mútuo entre antigos membros da URSS, mas que não tem muito efeito. Não houve a participação da Estônia, Letônia e Lituânia
 
 ---
 
@@ -717,7 +731,7 @@ Nova Ordem Mundial - Pós-guerra fria
 
 Organizações Terroristas - Ganharam maior força após a guerra fria, com destaque para a Al-Qaeda, responsável pelos ataques às Torres Gêmeas
 
-## Cap. 16 [INACABADO]
+## Cap. 16 [SEMI-INACABADO]
 
 Geopolítica - Estuda as estratégias do Estado para a administração e sobrevivência de seu território e nação
 
@@ -736,6 +750,10 @@ País - Região considerada território de um Estado
 Paisagem - O espaço que é observado. Pode ser natural ou humanizada
 
 Espaço - Área ocupada, podendo ser natural (não modificada) ou geográfica
+
+---
+
+Nagorno-Karabakh (ou Artsakh) - Região montanhosa pertencente ao Azerbaijão mas com população armênia, que deseja fazer parte do país, disputada desde a dissolução da URSS
 
 ---
 
