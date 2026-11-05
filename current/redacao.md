@@ -56,6 +56,51 @@ Dissertação (ou Texto Dissertativo) - Textos que buscam expor uma opinião, pr
     
     - Tópico Frasal - Frase que contém a ideia genérica e geral que será desenvolvida pelo texto, indo do mais abstrato para o mais concreto e específico
 
-## Cap. 6 [NÃO FEITO]
+## Cap. 6 []
 
-## Cap. 7 [NÃO FEITO]
+Estrutura Dissertativa Ortodoxa (ou Tradicional) - Método mais comum de organizar uma dissertação escolar
+
+- Introdução - Um parágrafo, contextualiza e apresenta o tema
+  
+  - Tese - Posicionamento central do texto, antecipando os argumentos do desenvolvimento, normalmente colocado no fim da introdução
+
+- Desenvolvimento - Um ou dois parágrafos, onde se apresentam os argumentos que sustentam a tese, buscando convencer o leitor
+  
+  - Tópico Frasal - Inicia um parágrafo, resume e antecipa o que será argumentado
+  
+  - Sustentação - Os argumentos em si, que suportam as afirmações
+    
+    - Argumento de Autoridade - Utilizar citações de pessoas profissionais em certa área, dando legitimidade ao texto
+    
+    - Argumento de Consenso - Utiliza ideias consideradas bom senso, que não precisam ser comprovadas
+    
+    - Argumento de Provas Concretas - Utiliza argumentos verificáveis pela observação, como por dados concretos
+  
+  - Conclusão Parcial - Reafirmações de argumentos ou relacionamento entre conteúdos do parágrafo com o tema geral
+
+- Conclusão - Um parágrafo, resume ou retoma o que foi dito e apresenta uma proposta de intervenção (soluções para o problema)
+
+## Cap. 7 []
+
+Proposta de Intervenção - Meios para lidar com um problema abordado em uma redação
+
+- Ação - O que deve ser feito
+
+- Agente - Quem realiza a ação
+
+- Modo (ou Meio) - De que forma e como a ação é executada
+
+- Efeito - Motivo para realizar a ação
+
+- Detalhamento - Informação extra adicionada a um dos elementos, sendo obrigatória em redações ENEM. Pode ser um exemplo ou justificativa da escolha de um elemento
+
+---
+
+Auditório - Público-alvo de um texto
+
+- Universal - Público alvo amplo, com conhecimentos e valores gerais. Ex: dissertação
+
+- Particular - Tem como alvo um indivíduo ou grupo específico
+  
+  - Carta - Gênero textual destinado a um indivíduo específico
+    - Estrutura - Cabeçalho (local e data), destinatário, vocativo, texto, despedida e assinatura
