@@ -1311,7 +1311,7 @@ Métodos Contraceptivos - Utilizados para evitar a gravidez
   
   - Vasectomia - Nos homens, pelo corte e amarramento dos dutos deferentes
 
-## Cap. 14 [INACABADO]
+## Cap. 14
 
 Surto - Aumento de casos de uma doença em um local
 
@@ -1397,8 +1397,6 @@ Viroses - Doenças causadas por vírus
   
   - Gripe - Causada pelo vírus Influenza. Tem como sintomas tosse, dores e fraqueza. Tem vacina
   
-  - Resfriado - Causa coriza e espirros
-  
   - Sarampo - Causa manchas vermelhas na pele, sendo bem contagiosa
     
     - Tríplice Viral - Vacina que previne contra o sarampo, caxumba e rubéola
@@ -1417,21 +1415,30 @@ Viroses - Doenças causadas por vírus
   
   - Síndrome da Imunodeficiência Adquirida (AIDS) - Causada pelo vírus HIV, que invade o linfócito TCD4 (responsável pela resposta imunológico), que começa a criar novos vírus, causando lise celular e portanto, imunodeficiência. Também pode ser transmitido pelo sangue ou de mãe para filho
   
-  - Condiloma Acuminado - Causado pelo HPV (papiloma humano), podendo causar surgimento de verrugas e câncer de colo de útero subretudo. Tem vacina
+  - Condiloma Acuminado - Causado pelo HPV (papiloma humano), podendo causar surgimento de verrugas e câncer de colo de útero sobretudo. Tem vacina
   
-  - Hepatite B, C e D - Causa dor abdominal, inflamação do fígado e icterícia (pele amarelada, podendo causar câncer de fígado. Apenas a B tem vacina, mas essa vacina previne a D, que só se manifesta em pessoas infectadas com a B
+  - Hepatite B, C e D - Causa dor abdominal, inflamação do fígado e icterícia (pele amarelada), podendo causar câncer de fígado. Apenas a B tem vacina, mas essa vacina previne a D, que só se manifesta em pessoas infectadas com a B. Também transmitido pelo sangue
 
 - Arboviroses - Viroses transmitidas por artrópodes, sobretudo o mosquito Aedes Aegypti
   
-  - Dengue - Causa febre e dores
+  - Dengue - Causa febre, dores e fraqueza. Transmitida pelo Aedes, tem vacina
   
-  - Zika - Manchas vermelhas e conjuntivite
+  - Zika - Causa sobretudo manchas vermelhas e coceira. Transmitida pelo Aedes
   
-  - Chikungunya - Dores e inchaços em articulações
+  - Chikungunya - Dores e inchaços em articulações. Transmitida pelo Aedes
   
-  - Febre Amarela
-
-- Herpes - Gera pequenas feridas, principalmente nos lábios
+  - Febre Amarela - Causa febre alta, calafrios, dor de cabeça e muscular e hemorragia. Tem vacina
+    
+    - Ciclo Silvestre - Transmitido pelos mosquitos Haemagogus e Sabethes de outros animais infectados
+    
+    - Ciclo Urbano - Trasmitido pelo Aedes de humanos infectados
+  - Febre Oropouche - Transmitida pelo mosquito Culex, causa febre e dores
+- Transmissão por Contato
+  - Raiva - Transmitido por mordidas de animais infectados, atacando o sistema nervoso. Tem vacina tanto para pessoas quanto para animais
+  - Herpes - Gera pequenas feridas, principalmente nos lábios (tipo 1) ou na região genital (tipo 2, IST). Transmitida por contato com lesões
+- Transmissão Fecal-Oral
+  - Poliomelite - Assintomático em adultos, mas pode causar paralisia em crianças. Tem vacina
+  - Hepatite A e E - Também causa inflamação do fígado e icterícia. Apenas a A tem vacina
 
 ## Cap. 15 [NÃO FEITO]
 

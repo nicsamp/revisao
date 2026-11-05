@@ -20,6 +20,8 @@ Auguste Comte, Emile Durkheim e Max Weber
 
 Cap. 18 português
 
+Geopolítica
+
 ---
 
 In progress:
