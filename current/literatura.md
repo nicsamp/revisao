@@ -1,3 +1,7 @@
+---
+
+---
+
 # Literatura
 
 ## Cap. 1
@@ -250,12 +254,72 @@ Concretismo - Corrente pós modernista caracterizada pelo questionamento mais ra
 - Características - Abolição do verso, uso do espaço branco da página, valorização da forma visual do poema, experimentalismo, com temas atuais e universais
   
   - Linguagem Verbicovisual - Valorização da palavra em si, seu som e seu aspecto visual, experimentando a desconstrução da palavra (como por palavras entrecortadas, letras isoladas, espaços em branco, símbolos gráficos)
+
 - Popcretos - Poemas concretistas caracterizado pelo uso de símbolos da modernidade (imagens de jornais, cartazes publicitários, placas de trânsito)
 
 ---
 
 Neoconcretismo - Surgiu após ela, com maior valorização da expressão estética e emocional
 
-## Cap. 9 [NÃO FEITO]
+## Cap. 9 []
 
-## Cap. 10 [NÃO FEITO]
+Artes Visuais Contemporâneas
+
+- Gravura - Utilizada muitas vezes como instrumento político
+
+- Fotografia - Caracterizada pela maior diversificação de técnicas
+
+- Escultura - Caracterizada pela maior diversidade técnica e material
+  
+  - Construtivismo - Corrente que defende a arte como uma construção e engenharia, e não apenas uma representação
+- Instalação - Caracterizada pela participação do espectador na obra, ressignificação do espaço e arte conceitual, crítica social e reflexão
+
+---
+
+Arte Urbana - Arte realizada em espaço urbano. Ex: grafite, muralismo
+
+- Grafite - Manifestação artística caracterizada pela forte crítica social, efemeridade e forma de resistência e visibilidade para certos grupos sociais
+
+## Cap. 10 []
+
+Teatro - Atores atuam presencialmente
+
+- Texto Teatral - Registra as cenas e atos de uma peça, não havendo narrador (apenas falas de personagens)
+  
+  - Rubricas - Indicações de detalhes de uma cena, mas que não são falados
+
+---
+
+Teatro no Brasil
+
+- Teatro Jesuítico - Usado para catequizar os povos locais
+
+- Comédia de Costumes - Critica costumes "impróprios" humanos, utilizando a comédia
+
+- Teatro de Revista - Satiriza por meio de cenas cômicas assuntos atuais
+
+- Século XX
+  
+  - Teatro Brasileiro de Comédia (TBC) - Muito inspirado em modelos teatrais estrangeiros
+  
+  - Teatro Arena - Durante a ditadura militar
+  
+  - Autos - Auto da Compadrecida (Ariano Suassuna), Morte e Vida Severina (João Cabral de Melo Neto)
+
+- Atualidade - Há maior foco na inovação, como no uso de espaços alternativos
+
+---
+
+Produção Audiovisual - Combina imagem e som. Ex: televisão, cinema, séries
+
+- Cinema - Criação de filmes, imagens em movimento
+
+---
+
+Cinema Brasileiro - Caracterizado pela forte influência do cinema estadunidense
+
+- Chanchadas - Caracterizadas pela comédia, musicalidade e paródias. Destaque para Grande Otelo e Oscarito
+
+- Cinema Novo - Caracterizado pela crítica e análise do subdesenvolvimento brasileiro. Destaque para o diretor Glauber Rocha
+
+- Embrafilme - Agência estatal de apoio ao cinema brasileiro, eventualmente extinta, com a crise no setor

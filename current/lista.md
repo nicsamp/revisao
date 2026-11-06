@@ -12,13 +12,13 @@ Auguste Comte, Emile Durkheim e Max Weber
 
 Geopolítica
 
+Herança Sexual
+
 ---
 
 In progress:
 
 Plantas
-
-Herança Sexual
 
 Karl Marx
 
