@@ -1,7 +1,3 @@
----
-
----
-
 # Literatura
 
 ## Cap. 1
