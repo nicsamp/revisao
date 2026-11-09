@@ -268,6 +268,7 @@ Artes Visuais Contemporâneas
 - Escultura - Caracterizada pela maior diversidade técnica e material
   
   - Construtivismo - Corrente que defende a arte como uma construção e engenharia, e não apenas uma representação
+
 - Instalação - Caracterizada pela participação do espectador na obra, ressignificação do espaço e arte conceitual, crítica social e reflexão
 
 ---
