@@ -672,7 +672,34 @@ Industrialização Brasileira por Regiões
 
 - Centro-Oeste - Bem pequena, com destaque para a agroindústria
 
-## Cap. 14 [NÃO FEITO]
+## Cap. 14 []
+
+Setor Terciário - Conjunto de atividades relacionadas ao comércio de mercadorias ou prestação de serviços, sendo o principal do mundo e do Brasil, sobretudo pela urbanização
+
+- Comércio - Troca de bens materias e imateriais
+
+	- Comércio Interno (ou Mercado Interno) - Fluxo comercial que ocorre dentro de um país
+
+		- Comércio no Brasil - Há destaque para o Sudeste
+
+	- Comércio Externo - Fluxo comercial entre países. Há maior participação das grandes potências econômicas, como os EUA, China, Japão e Alemanha
+		- Exportação - Venda de bens para o exterior
+		- Importação - Compra de bens para o interior
+		- Balança Comercial - Número de exportações menos importações
+			- Favorável - Ocorre quando as exportações superam as importações
+			- Equilibrada - Ocorre quando o número de exportações e importações são iguais (ou semelhantes)
+			- Desfavorável - Ocorre quando as importações superam as exportações
+- Turismo - Deslocamento temporário de pessoas (turistas) para outros locais com o intuito de realizar atividades sem objetivo econômico. Vem crescendo mundialmente, sobretudo pelo avanço dos meios de transporte, redução de jornada de trabalho e melhoria na infraestrutura de hospedagem
+	- Benefícios - Geração de empregos, aumento de infraestrutura de transporte e hospedagem e maior circulação de dinheiro
+	- Tipos de Turismo
+		- Lazer - Finalidade de distração, descanso ou melhoria da qualidade de vida
+		- Histórico-Cultural - Finalidade de conhecer bens históricos e culturais materias e imateriais
+		- Religioso - Motivado pela religião
+			- Peregrinação - Viagem caminhada a locais considerados sagrados
+		- Negócio - Causado pelo trabalho
+		- Ecológico (ou Ecoturismo) - Finalidade de apreciação de ecossistemas e o meio ambiente natural
+	- Turismo no Brasil - Há forte potencial pela diversidade física e cultural, grande extensão (sobretudo de litoral) e clima favorável, mas é limitada pela falta de infraestrutura, mas vem crescendo
+	- Turismo Doméstico - Turismo realizado dentro do próprio país
 
 ## Cap. 15
 
@@ -718,7 +745,9 @@ Guerra Fria - Conflito ideológico entre a EUA (defendendo o capitalismo) e URSS
   - Mikhail Gorbatchev - Último presidente soviético, assumiu durante período de crise econômica pelos gastos militares na corrida armamentista. Caracterizado pela abertura econômica, desarmamento e aproximação dos EUA
     
     - Glasnost e Perestroika - Medidas criadas de transparência política e reestruturação econômica. Contudo, gerou insatisfação de conservadores, sofrendo um golpe de Estado, mas que foi combatido pela população
+  
   - Dissolução da URSS - Houve a independência de todas as repúblicas que formavam a URSS, causando sua dissolução. Contudo, gerou problemas territoriais que permanecem até hoje
+  
   - Comunidade dos Estados Independentes (CEI) - Organização criada de apoio mútuo entre antigos membros da URSS, mas que não tem muito efeito. Não houve a participação da Estônia, Letônia e Lituânia
 
 ---
@@ -731,7 +760,7 @@ Nova Ordem Mundial - Pós-guerra fria
 
 Organizações Terroristas - Ganharam maior força após a guerra fria, com destaque para a Al-Qaeda, responsável pelos ataques às Torres Gêmeas
 
-## Cap. 16 [SEMI-INACABADO]
+## Cap. 16 []
 
 Geopolítica - Estuda as estratégias do Estado para a administração e sobrevivência de seu território e nação
 
@@ -855,7 +884,25 @@ Ilhas Falkland (ou Malvinas) - Arquipélago localizado no sul do Atlântico disp
 
 - Reino Unido - Reobteu a posse da ilha, com apoio dos EUA. Contudo, a Argentina ainda reconhece sua posse da ilha. A grande maioria da população da ilha a considera como território britânico
 
-## Cap. 18 [NÃO FEITO]
+## Cap. 18 []
+
+África do Sul
+
+- Colônia - Inicialmente era dos holandeses (ou bôeres), mas foi tomada pelos ingleses, levando os bôeres a migrarem para o interior, formando o Estado Livre de Orange e Transvaal
+
+- Primeira e Segunda Guerra Bôere - Conflitos entre os holandeses e ingleses, levando a anexação dos estados bôeres, originando a África do Sul
+
+- Independência - Mesmo com a independência, o país ficou sobre controle da elite dominante branca, havendo forte ideia de superioridade racial
+
+- Apartheid - Política de segregação racial extrema criada no país, separando inclusive espaços públicos entre brancos e negros. Foi amplamente criticado
+
+- Nelson Mandela - Uma dos principais líderes no combate ao apartheid, que foi eventualmente preso. Mas, com o enfraquecimento do governo branco (pelo afastamento das alianças com as grandes potências), houve o fim do apartheid e Mandela foi eleito presidente do país
+
+---
+
+Primavera Árabe - Conjunto de movimentos e protestos contra governos ditatoriais árabes, sobretudo pelo desemprego, corrupção, desigualdade e faltaa de liberdade
+
+- Tunísia - Primeiro país a ter a ditadura combatida, com o movimento se espalhando para o Egito, Líbia e atualmente ainda ocorre no Iêmen e Síria, que sofrem com muita instabilidade política e econômica
 
 ## Cap. 20
 
