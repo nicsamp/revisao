@@ -1447,6 +1447,14 @@ Viroses - Doenças causadas por vírus
 
 ## Cap. 15 e 16 [INACABADO]
 
+Parasitas Monóxenos (ou Monogenéticos) - Parasitas que só precisam de um hospedeiro para completar o ciclo de vida
+
+Parasitas Heteróxenos (ou Digenéticos) - Precisam de um hospedeiro definitivo (onde ocorre reprodução sexuada da fase adulta) e outro intermediário (reprodução assexuada de outras fases da vida, como larvas)
+
+Vetor - Ser que transporta e transmite a doença do parasita
+
+---
+
 Protozooses - Doenças causadas por protozóarios
 
 - Causada por Falta de Saneamento
@@ -1458,12 +1466,30 @@ Protozooses - Doenças causadas por protozóarios
       - Cisto - Forma resistente do protozoário, que entra no corpo e libera trofozoítos
       
       - Trofozoítos - Forma ativa, que migra para o intestino grosso, se alimenta de hemácias (podendo causar sangramento no intestino) e realiza fissão binária, podendo formar cistos. Pode também ir para outros órgãos
+
+---
+
+Verminoses - Doenças causadas por vermes (ou helmintos, platelmintos e nemátodos)
+
+- Causada por Falta de Saneamento
+  
+  - Ciclo Fecal-Oral
     
     - Ascaridíase - Causado pela ingestão de ovos de lombrigas (nemátodos). Tem como principal sintoma a desnutrição
       
       - Lombrigas Adultas - Formadas no intestino delgado, onde se reproduzem sexuadamente, liberando ovos com as fezes
       
       - Ciclo Pulmonar - A lombriga pode perfurar a parede do intestino e ir para a circulação, atingindo os pulmões, onde se desenvolvem. Depois sobem a traqueia e voltam para o sistema digestório
+  
+  - por Contato - O verme penetra a pele diretamente. Tem como profilaxia o uso de calçados e saneamento
+    
+    - Ancilostomíase (ou Amarelão) - Causada pelos nemátodos *Necator americanus* ou *Ancylostoma duodenale*, que são hematógafos (se alimentam do sangue). Temo como principais sintomas anemia e palidez
+      
+      - Ciclo de Vida - O verme penetra a pele e atinge a circulação, onde realiza o ciclo pulmonar e depois se instala no intestino
+    - Esquistossomose (ou Barriga d'Água) - Causada pelo platelminto *Schistosoma mansoni*. Tem como principais sintomas coceira intensa e aumento do abdome (pelo inchaço do fígao e baço)
+      - Hospedeiro Intermediário - Caramujos do gênero Biomphalaria, com o definitivo sendo os humanos
+      - Cercária - Larva flagelada do verme, sendo a forma que penetra a pele, se tornando adulta e ficando nas veias do fígado, onde botam ovos liberados nas fezes
+      - Miracídio - Larva ciliada formada pela eclosão dos ovos, que penetram a pele do caramujos, formando cercárias por cissiparidade
   
   - Teníase - Causada pela ingestão de carnes malpassadas contaminadas com cisticercos (larvas da tênia)
     
@@ -1472,4 +1498,4 @@ Protozooses - Doenças causadas por protozóarios
       - Proglotes - Estruturas da tênia que se autofecundam, ficando cheias de ovos. São liberadas do corpo da tênia e saem nas fezes, onde contaminas os porcos e bois
       - Oncosferas (ou Embriões Hexacantos) - Estruturas digeridas pelos hospedeiros intermediários, que migram para os seus tecidos, sobretudo o muscular, onde viram cisticercos
   
-  - Cisticercose - Também causada pela ingestão de carnes, mas contaminadas com ovos da tênia (apenas *Taenia solium*)
+  - Cisticercose - Também causada pela ingestão de carnes, mas contaminadas com ovos da tênia (apenas *Taenia solium*), com o humano se tornando hospedeiro intermediário. Nela, as oncosferas chegam ao sangue, podendo afetar o sistema nervoso central, sendo bem mais perigosa
