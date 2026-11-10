@@ -14,6 +14,8 @@ Geopolítica
 
 Herança Sexual
 
+Parasitoses
+
 ---
 
 In progress:
@@ -23,8 +25,6 @@ Plantas
 Karl Marx
 
 Geopolítica
-
-Parasitoses
 
 Literatura Revisão
 

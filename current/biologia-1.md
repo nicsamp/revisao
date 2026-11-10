@@ -1432,14 +1432,44 @@ Viroses - Doenças causadas por vírus
     - Ciclo Silvestre - Transmitido pelos mosquitos Haemagogus e Sabethes de outros animais infectados
     
     - Ciclo Urbano - Trasmitido pelo Aedes de humanos infectados
+  
   - Febre Oropouche - Transmitida pelo mosquito Culex, causa febre e dores
+
 - Transmissão por Contato
+  
   - Raiva - Transmitido por mordidas de animais infectados, atacando o sistema nervoso. Tem vacina tanto para pessoas quanto para animais
   - Herpes - Gera pequenas feridas, principalmente nos lábios (tipo 1) ou na região genital (tipo 2, IST). Transmitida por contato com lesões
+
 - Transmissão Fecal-Oral
+  
   - Poliomelite - Assintomático em adultos, mas pode causar paralisia em crianças. Tem vacina
   - Hepatite A e E - Também causa inflamação do fígado e icterícia. Apenas a A tem vacina
 
-## Cap. 15 [NÃO FEITO]
+## Cap. 15 e 16 [INACABADO]
 
-## Cap. 16 [NÃO FEITO]
+Protozooses - Doenças causadas por protozóarios
+
+- Causada por Falta de Saneamento
+  
+  - Ciclo Fecal-Oral - Causados pelo consumo de água ou alimentos contaminados com fezes
+    
+    - Amebíase (ou Disenteria Amebiana) - Causada pela ingestão de cistos da ameba, tem como principais sintomas febre e calafrios
+      
+      - Cisto - Forma resistente do protozoário, que entra no corpo e libera trofozoítos
+      
+      - Trofozoítos - Forma ativa, que migra para o intestino grosso, se alimenta de hemácias (podendo causar sangramento no intestino) e realiza fissão binária, podendo formar cistos. Pode também ir para outros órgãos
+    
+    - Ascaridíase - Causado pela ingestão de ovos de lombrigas (nemátodos). Tem como principal sintoma a desnutrição
+      
+      - Lombrigas Adultas - Formadas no intestino delgado, onde se reproduzem sexuadamente, liberando ovos com as fezes
+      
+      - Ciclo Pulmonar - A lombriga pode perfurar a parede do intestino e ir para a circulação, atingindo os pulmões, onde se desenvolvem. Depois sobem a traqueia e voltam para o sistema digestório
+  
+  - Teníase - Causada pela ingestão de carnes malpassadas contaminadas com cisticercos (larvas da tênia)
+    
+    - Hospedeiro Intermediário - Boi ou porco, com o definitivo sendo os humanos
+    - Tênia - O agente etiológico, platelmintos monoicos *Taenia solium* (encontrado na carne de porco) e *Taenia saginata* (na carne de boi). Sua forma adulta fica no intestino delgado
+      - Proglotes - Estruturas da tênia que se autofecundam, ficando cheias de ovos. São liberadas do corpo da tênia e saem nas fezes, onde contaminas os porcos e bois
+      - Oncosferas (ou Embriões Hexacantos) - Estruturas digeridas pelos hospedeiros intermediários, que migram para os seus tecidos, sobretudo o muscular, onde viram cisticercos
+  
+  - Cisticercose - Também causada pela ingestão de carnes, mas contaminadas com ovos da tênia (apenas *Taenia solium*)
