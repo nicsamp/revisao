@@ -1,3 +1,7 @@
+---
+
+---
+
 # Biologia 1
 
 ## Cap. 1
@@ -1455,47 +1459,114 @@ Vetor - Ser que transporta e transmite a doença do parasita
 
 ---
 
+Ciclos Parasitários
+
+- Fecal-Oral - Causados pelo consumo de água ou alimentos contaminados com fezes em que há a presença de uma das fases de vida do parasita
+
+- Sanguíneo - O parasita entra por meio do sangue, normalmente pppela picada de artrópodes hematófagos (se alimentam de sangue). Evitadas pelo controle da população de vetores
+
+---
+
+Protozoário - Grupo de organismos do reino protista heterótrofos
+
+- Zoomastigofora (ou Archeozoa) - Protozoários com flagelos para locomoção. Ex: giardia, trichomonas
+
+- Rhizopoda (ou Sarcodíneo ou Amoebozoa) - Movimentação por pseudópodes. Ex: ameba
+
+- Ciliophora (ou Paramecium ou Balantidium) - Movimento por cílios
+
+- Apicomplexo (ou Esporozoa) - Sem movimento. São sempre parasitas. Ex: toxoplasma
+
 Protozooses - Doenças causadas por protozóarios
 
-- Causada por Falta de Saneamento
+- Ciclo Fecal-Oral
   
-  - Ciclo Fecal-Oral - Causados pelo consumo de água ou alimentos contaminados com fezes
+  - Amebíase (ou Disenteria Amebiana) - Causada pela ingestão de cistos da ameba, tem como principais sintomas febre e calafrios
     
-    - Amebíase (ou Disenteria Amebiana) - Causada pela ingestão de cistos da ameba, tem como principais sintomas febre e calafrios
-      
-      - Cisto - Forma resistente do protozoário, que entra no corpo e libera trofozoítos
-      
-      - Trofozoítos - Forma ativa, que migra para o intestino grosso, se alimenta de hemácias (podendo causar sangramento no intestino) e realiza fissão binária, podendo formar cistos. Pode também ir para outros órgãos
+    - Cisto - Forma resistente do protozoário, que entra no corpo e libera trofozoítos
+    
+    - Trofozoítos - Forma ativa, que migra para o intestino grosso, se alimenta de hemácias (podendo causar sangramento no intestino) e realiza fissão binária, podendo formar cistos. Pode também ir para outros órgãos
+  
+  - Giardíase - Possui causa, sintomas e ciclo de vida quase igual à amebíase
+  
+  - Toxoplasmose - Causada pelo consumo de carnes malpassadas infectadas com fezes de gato. É normalmente assintomática, sendo mais comum a transmissão vertical, podendo causar cegueira
+  
+  - Balantidíase - Causa sintomas semelhantes à amebíase
+
+- ISTs
+  
+  - Tricomoníase - O parasita fica na mucosa da uretra masculina ou da vagina, onde sereproduz por fissão binária (há apenas trofozoítos). Mais comum em mulheres
+
+- Ciclo Sanguíneo - Por vetores
+  
+  - Malária - Causado por *Plasmodium*. Recentemente conseguiu vacina
+    - Vetor - Mosquito *Anopheles*, ou mosquito-prego, o hospedeiro definitivo, com o intermediário sendo o humano
+    - Ciclo de Vida
+      - Esporozoíto - Forma que entra no sangue pela pica, indo às células do fígado, onde se multiplica assexuadamente (esquizogonia)
+      - Merozoíto - Formado pela esquizogonia, voltam ao sangue e se reproduzem dentro das hemácias, causando seu rompimento (hemólise)
+        - Hemozoínas - Toxinas liberadas na hemólise que causam o acesso malárico (febre alta, calafrios, tremores)
+      - Gametófito - Formado a partir de merozoítos que entraram em hemácias sem se reproduzir, voltando ao mosquito pela picada, onde viram gametas
+      - Oocisto - Formado pela fecundação (esporogonia) dos gametas, sofrendo meiose e várias mitoses, formando novos esporozoítos
+    - Febre Intermitente - Característica da malária, pela alternância entre períodos com alta febre e sem febre, pelas hemólises
+      - Febre Terçã - Ciclo a cada 48h, causada por *Plasmodium falciparum* (a mais mortal) e *Plasmodium vivax*
+      - Febre Quartã - Ciclo a cada 72h, por *Plasmodium malariae*
+  - Leishmaniose - Causado pela picada do mosquito-palha (ou birigui ou flebotomíneo)
+    - Promastigota - Forma que infecta o humano, sendo fagocitada por macrófagos, onde se reproduzem assexuadamente, rompendo-as
+    - Amastigota - Formada a partir dos promastigotas, sendo sugada pelo mosquito, onde voltam a ser promastigotas no intestino
+    - Cutâneo-Tegumentar (ou Úlcera de Bauru) - Causada por *Leishmania brasiliense*. Tem como sintomas feridas (úlceras) no corpo
+    - Visceral (ou Calazar) - Causada por *Leishmania chagasi*. Causa o aumento do baço, fígado e medula óssea. Também pode afetar cães
+  - Doença de Chagas (ou Tripanossomíase) - Causada por *Trypanossoma cruzi*, que invade normalmente as células cardíacas, podendo causar cardiomegalia e insuficiência cardíaca. Não há tratamento
+  - - Barbeiro (ou Triatomídeo) - Hospedeiro invertebrado, sendo o vetor (não há hospedeiro intermediário e definitivo pela não reprodução sexuada)
+    - Fase Crônica - Causada pela infecção do local da picada (por coceira) ou mucosas com as fezes do barbeiro, com sintomas evoluindo de forma lenta
+    - Fase Aguda - Ocorre pela ingestão de alimentos (normalmente caldo de cana ou açaí) com barbeiros triturados
+    - Ciclo de Vida
+      - Tripomastigotas - Forma que infecta o humano, entrando nas células e se tornando amastigotas
+      - Amastigotas - Realizam reprodução assexuada, voltando a ser tripomastigotas, saindo das células e voltando para o sangue
+      - Epimastigota - Formado a partir da ingestão de tripomastigotas pelo barbeiro. Se multiplicam formando novos tripomastigotas
 
 ---
 
 Verminoses - Doenças causadas por vermes (ou helmintos, platelmintos e nemátodos)
 
-- Causada por Falta de Saneamento
+- Ciclo Fecal-Oral
   
-  - Ciclo Fecal-Oral
+  - Ascaridíase - Causado pela ingestão de ovos de lombrigas (nemátodos). Tem como principal sintoma a desnutrição
     
-    - Ascaridíase - Causado pela ingestão de ovos de lombrigas (nemátodos). Tem como principal sintoma a desnutrição
-      
-      - Lombrigas Adultas - Formadas no intestino delgado, onde se reproduzem sexuadamente, liberando ovos com as fezes
-      
-      - Ciclo Pulmonar - A lombriga pode perfurar a parede do intestino e ir para a circulação, atingindo os pulmões, onde se desenvolvem. Depois sobem a traqueia e voltam para o sistema digestório
+    - Lombrigas Adultas - Formadas no intestino delgado, onde se reproduzem sexuadamente, liberando ovos com as fezes
+    - Ciclo Pulmonar - A lombriga pode perfurar a parede do intestino e ir para a circulação, atingindo os pulmões, onde se desenvolvem. Depois sobem a traqueia e voltam para o sistema digestório
+  - Oxiurose - Causada pelo nemátodo *Enterobius vermicularis*. São monóxenas, vivendo no intestino
+
+- por Contato - O verme penetra a pele diretamente. Tem como profilaxia o uso de calçados e saneamento
   
-  - por Contato - O verme penetra a pele diretamente. Tem como profilaxia o uso de calçados e saneamento
+  - Ancilostomíase (ou Amarelão) - Causada pelos nemátodos *Necator americanus* ou *Ancylostoma duodenale*, que são hematógafos (se alimentam do sangue). Temo como principais sintomas anemia e palidez
     
-    - Ancilostomíase (ou Amarelão) - Causada pelos nemátodos *Necator americanus* ou *Ancylostoma duodenale*, que são hematógafos (se alimentam do sangue). Temo como principais sintomas anemia e palidez
-      
-      - Ciclo de Vida - O verme penetra a pele e atinge a circulação, onde realiza o ciclo pulmonar e depois se instala no intestino
-    - Esquistossomose (ou Barriga d'Água) - Causada pelo platelminto *Schistosoma mansoni*. Tem como principais sintomas coceira intensa e aumento do abdome (pelo inchaço do fígao e baço)
-      - Hospedeiro Intermediário - Caramujos do gênero Biomphalaria, com o definitivo sendo os humanos
-      - Cercária - Larva flagelada do verme, sendo a forma que penetra a pele, se tornando adulta e ficando nas veias do fígado, onde botam ovos liberados nas fezes
-      - Miracídio - Larva ciliada formada pela eclosão dos ovos, que penetram a pele do caramujos, formando cercárias por cissiparidade
+    - Ciclo de Vida - O verme penetra a pele e atinge a circulação, onde realiza o ciclo pulmonar e depois se instala no intestino
   
-  - Teníase - Causada pela ingestão de carnes malpassadas contaminadas com cisticercos (larvas da tênia)
+  - Bicho-Geográfico - Causada pelos nemátodos *Ancylostoma braziliense* ou *Ancylostoma caninum*, também penetrando a pele, mas se locomovendo na epiderme, causando coceira e infecções
     
-    - Hospedeiro Intermediário - Boi ou porco, com o definitivo sendo os humanos
-    - Tênia - O agente etiológico, platelmintos monoicos *Taenia solium* (encontrado na carne de porco) e *Taenia saginata* (na carne de boi). Sua forma adulta fica no intestino delgado
-      - Proglotes - Estruturas da tênia que se autofecundam, ficando cheias de ovos. São liberadas do corpo da tênia e saem nas fezes, onde contaminas os porcos e bois
-      - Oncosferas (ou Embriões Hexacantos) - Estruturas digeridas pelos hospedeiros intermediários, que migram para os seus tecidos, sobretudo o muscular, onde viram cisticercos
+    - Ciclo de Vida - Vivem no intestino de cães e gatos, liberando ovos nas fezes
   
-  - Cisticercose - Também causada pela ingestão de carnes, mas contaminadas com ovos da tênia (apenas *Taenia solium*), com o humano se tornando hospedeiro intermediário. Nela, as oncosferas chegam ao sangue, podendo afetar o sistema nervoso central, sendo bem mais perigosa
+  - Esquistossomose (ou Barriga d'Água) - Causada pelo platelminto *Schistosoma mansoni*. Tem como principais sintomas coceira intensa e aumento do abdome (pelo inchaço do fígao e baço)
+    
+    - Hospedeiro Intermediário - Caramujos do gênero Biomphalaria, com o definitivo sendo os humanos
+    - Cercária - Larva flagelada do verme, sendo a forma que penetra a pele, se tornando adulta e ficando nas veias do fígado, onde botam ovos liberados nas fezes
+    - Miracídio - Larva ciliada formada pela eclosão dos ovos, que penetram a pele do caramujos, formando cercárias por cissiparidade
+
+- Teníase - Causada pela ingestão de carnes malpassadas contaminadas com cisticercos (larvas da tênia)
+  
+  - Hospedeiro Intermediário - Boi ou porco, com o definitivo sendo os humanos
+  - Tênia - O agente etiológico, platelmintos monoicos *Taenia solium* (encontrado na carne de porco) e *Taenia saginata* (na carne de boi). Sua forma adulta fica no intestino delgado
+    - Proglotes - Estruturas da tênia que se autofecundam, ficando cheias de ovos. São liberadas do corpo da tênia e saem nas fezes, onde contaminas os porcos e bois
+    - Oncosferas (ou Embriões Hexacantos) - Estruturas digeridas pelos hospedeiros intermediários, que migram para os seus tecidos, sobretudo o muscular, onde viram cisticercos
+
+- Cisticercose - Também causada pela ingestão de carnes, mas contaminadas com ovos da tênia (apenas *Taenia solium*), com o humano se tornando hospedeiro intermediário. Nela, as oncosferas chegam ao sangue, podendo afetar o sistema nervoso central, sendo bem mais perigosa
+
+- Ciclo Sanguíneo - Por vetores
+  
+  - Filariose (ou Elefantíase) - Causado pelo nemátodo *Wuchereria bancrofti* (ou filária). Causa inchaço (ou linfedema) nas pernas, mamas e bolsa escrotal
+    
+    - Vetor - Mosquitos *Culex* e *Anopheles*
+    
+    - Ciclo de Vida
+      
+      - Microfilárias - Larvas formadas pela reprodução sexuada dos vermes nos vasos linfáticos, sendo sugada pelo mosquito e formando o verme adulto
