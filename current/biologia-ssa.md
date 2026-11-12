@@ -72,38 +72,6 @@ Ciclos do Vírus
   
   - Transcriptase Reversa - Enzima que converte o RNA em DNA
 
-## Viroses
-
-Viroses - Doenças causadas por vírus. Combatidas por meio da higienização, vacinação e distanciamento de pessoas infectadas
-
-- Síndrome da Imunodeficiência Adquirida (AIDS) - Causada pelo vírus HIV, que invade o linfócito TCD4 (responsável pela resposta imunológico), injetando seu RNA, que é convertido em DNA pela célula, que começa a criar novos vírus, causando lise celular e portanto, imunodeficiência. É uma IST
-
-- Arboviroses - Viroses transmitidas por artrópodes, sobretudo o mosquito Aedes Aegypti
-  
-  - Dengue - Causa febre e dores
-  
-  - Zika - Manchas vermelhas e conjuntivite
-  
-  - Chikungunya - Dores e inchaços em articulações
-  
-  - Febre Amarela
-
-- Viroses Respiratórias - Afetam o sistema respiratório
-  
-  - Gripe - Causada pelo vírus Influenza. Tem como sintomas febre, tosse e dores
-  
-  - COVID-19
-  
-  - Resfriado - Causa coriza e espirros
-
-- Sarampo - Causa febre e erupções avermelhadas, sendo bem contagiosa
-
-- Catapora (ou Varicela) - Causa coceira na pele
-
-- Hepatite - Causa inflamação do fígado e pele amarelada
-
-- Herpes - Gera pequenas feridas, principalmente nos lábios
-
 ## Bactérias
 
 Bactérias - Setes pertencentes ao antigo reino Monera. São coloniais e são afetadas por antibióticos
@@ -182,45 +150,13 @@ Bactérias - Setes pertencentes ao antigo reino Monera. São coloniais e são af
   
   - Espiroquetas - Bactérias em formato de espiral
 
-## Bacterioses
+---
 
 Antibióticos - Substâncias que impedem a proliferação de bactérias, por meio de intervenções em processos ou estruturas essenciais
 
 - Bactericidas - Antibióticos que matam bactérias
 
 - Bacteriostáticos - Antibióticos que impedem a duplicação de bactérias
-
-
-
-## Micoses
-
-Micoses - Doenças causadas por fungos
-
-Micologia - Estuda as micoses
-
----
-
-Tipos de Micoses
-
-- Superficiais (ou Cutâneas ou Dermatofitoses) - Há a invasão do fungo na pele, pelos ou unhas
-  
-  - Piedra Negra - Há a formação de nódulos duros e escuros nos pelos. Causado por *Piedra hortae*
-  
-  - Piedra Branca - Nódulos de hifas esbranquiçados. Causado por *Trichosporon*
-  
-  - Pitiríase Versicolor (ou Pano Branco) - Causado por *Malassezia*, já comumente presente na composição da pele, mas que pode formar hifas em baixas de imunidade
-  
-  - Candidíase - Causado por *Candida*, também comumente encontradas no corpo e intestino, mas podendo formar hifas
-  
-  - Esporotricose - Causa irritação da pele, sendo subcutânea. Causada por *Sporothrix schenckii*
-
-- Profundas (ou Sistêmicas) - Adquiridas pela inalação de esporos, normalmente causando problemas no pulmão, mas podendo entrar no sangue e ir ao resto do corpo
-  
-  - Histoplasmose - Causada por *Histoplasma capsulatum*, podendo se disseminar na pele, medula óssea, cérebro, fígado ou baço em baixas do sistema imunológico
-  
-  - Criptococose - Infecção pulmonar causada por *Cryptococcus neoformans*, tendo sintomas parecidos a pneumonia
-  
-  - Paracoccidiodomicose - Micose profunda mais comum do Brasil. Causada por *Paracoccidioides brasiliensis*. Mais comum em agricultores pelo contato com o solo
 
 ## Fungos
 
@@ -264,7 +200,122 @@ Fungi - Reino dos fungos, seres eucariontes uni ou pluricelulares, com parede ce
   
   - Micorrizas - Mutualismo entre fungos e raízes de plantas
   
-  - Líquens - Mutualismo entre fungos e cianobactérias
+  - Líquens - Mutualismo entre fungos e cianobactérias ou algas clorofíceas
+
+## Micoses
+
+Micoses - Doenças causadas por fungos
+
+Micologia - Estuda as micoses
+
+---
+
+Tipos de Micoses
+
+- Superficiais (ou Cutâneas ou Dermatofitoses) - Há a invasão do fungo na pele, pelos ou unhas
+  
+  - Piedra Negra - Há a formação de nódulos duros e escuros nos pelos. Causado por *Piedra hortae*
+  
+  - Piedra Branca - Nódulos de hifas esbranquiçados. Causado por *Trichosporon*
+  
+  - Pitiríase Versicolor (ou Pano Branco) - Causado por *Malassezia*, já comumente presente na composição da pele, mas que pode formar hifas em baixas de imunidade
+  
+  - Candidíase - Causado por *Candida*, também comumente encontradas no corpo e intestino, mas podendo formar hifas
+  
+  - Esporotricose - Causa irritação da pele, sendo subcutânea. Causada por *Sporothrix schenckii*
+
+- Profundas (ou Sistêmicas) - Adquiridas pela inalação de esporos, normalmente causando problemas no pulmão, mas podendo entrar no sangue e ir ao resto do corpo
+  
+  - Histoplasmose - Causada por *Histoplasma capsulatum*, podendo se disseminar na pele, medula óssea, cérebro, fígado ou baço em baixas do sistema imunológico
+  
+  - Criptococose - Infecção pulmonar causada por *Cryptococcus neoformans*, tendo sintomas parecidos a pneumonia
+  
+  - Paracoccidiodomicose - Micose profunda mais comum do Brasil. Causada por *Paracoccidioides brasiliensis*. Mais comum em agricultores pelo contato com o solo
+
+## Algas
+
+Reino Protoctista - Engloba as algas e protozoários
+
+Algas - Seres protoctistas eucariontes fotossintetizantes. Podem ser uni ou pluricelulares. Não possuem tecido verdadeiro
+
+- Algas Bentônicas - Vivem na superfície do mar, ou na superfície de rochas, plantas ou animais
+
+- Algas Planctônicas - Vivem flutuando no mar
+
+- Fitoplâncton - Algas microscópicas que compõem a base das cadeias alimentares marinhas
+  
+  - Zooplâncton - Pequenos seres que se alimentam de fitoplâncton
+
+- Reprodução - Pode ser assexuada por fragmentação ou sexuada
+  
+  - Ciclo Haplonte
+
+```mermaid
+flowchart LR
+C -->|"Meiose"| A["Organismo Adulto (n)"]
+A -->|"Mitose"| B["Gametas (n)"]
+B -->|"Fecundação"| C["Zigoto (2n)"]
+style A fill:#606060,stroke-width:4px
+```
+
+- Ciclo Diplonte
+
+```mermaid
+flowchart LR
+C -->|"Mitose"| A["Organismo Adulto (2n)"]
+A -->|"Meiose"| B["Gametas (n)"]
+B -->|"Fecundação"| C["Zigoto (2n)"]
+style A fill:#606060,stroke-width:4px
+```
+
+- Ciclo Haplonte-Diplonte (ou Alternância de Gerações)
+
+```mermaid
+flowchart LR
+C -->|"Mitose"| A["Organismo Adulto (2n)"]
+A -->|"Meiose"| B["Esporos (n)"]
+B -->|"Mitose"| D["Organismo Adulto (n)"]
+D -->|"Mitose"| E["Gametas (n)"]
+E -->|"Fecundação"| C["Zigoto (2n)"]
+style A fill:#606060,stroke-width:4px
+style D fill:#606060,stroke-width:4px
+```
+
+---
+
+Tipos de Algas
+
+- Microalgas - Algas unicelulares
+  
+  - Euglenofíceas - Microalgas flageladas. Por viverem em água doce, possuem vacúolo pulsátil para osmorregulação. São planctônicas
+    
+    - Paramilo - Reserva de energia
+  
+  - Diatomáceas (ou Bacilariofíceas) - Tom mais pardo pela presença de fucoxantina. São bentônicas
+    
+    - Diatomito - Rocha formada pela fossilização de diatomáceas mortas
+  
+  - Dinoflageladas (ou Pirrofíceas) - Presença de dois flagelos. Tem cor marrom pela presença de xantofila
+    
+    - Amido e Óleo - Reserva de energia
+    
+    - Branqueamento de Corias - Causada pela expulsão de dinoflagelados dos corais pelo aumento da temperatura da água
+    
+    - Maré Vermelha - Fenômeno causado pela reprodução excessiva de algas pela presença de esgoto ou aumento da temperatura da água
+  
+  - Crisofíceas (ou Crisófitas) - São douradas, pela presença de clorofila e fucoxantina. Também podem ser pluricelulares
+
+- Macroalgas - Pluricelulares
+  
+  - Feofícias - São marrons pela fucoxantina. Mutio utilizada na culinária oriental. Ex: sargaço
+  
+  - Rodofíceas - São vermelhas pelo pigmento ficobilina (ou ficoeritrina). Possui gameta masculino ameboide
+    
+    - Parede Celular - Composta de celulose, carragenano e ágar
+  
+  - Carofíceas (ou Carófitas) - Cor castanho-acizentada. Parecido com musgos
+  
+  - Clorofíceas (ou Clorófitas) - São as mais semelhantes com plantas, com clorofila a e b (dando coloração verde), parede celular e amido como reserva
 
 ## Plantas
 
@@ -318,6 +369,26 @@ Tipos de Plantas
     
     - Gametófito - Produzem os gametas que se fecundam, formando o zigoto e depois o esporófito, com a degeneração do gametófito
 
-- Gimnospermas - Possuem sementes
+- Gimnospermas - Possuem sementes nuas
+  
+  - Reprodução - Independente da água, tem como fase dominante o esporófito
+    
+    - Estróbilo (ou Cone ou Pinha) - Folha modificada que produz esporos por meiose, sendo diploide
+      
+      - Megastróbilo - Estróbilo feminino, produzindo o megásporo (ou macrósporo), esporo feminino, que forma o óvulo
+      
+      - Microstróbilo - Masculino, produz o micrósporo
+    - Grão-de-Pólen - Formado a partir dos micrósporos. Formado pela célula-generativa (ou esperma, gameta) e célula do tubo (que forma o tubo polínico)
+      - Tubo Polínico - Leva o gameta masculino ao óvulo
+      - Polinização - Ocorre sobretudo pelo vento (anemófila)
+    - Zigoto - Formado pela fecundação do óvulo e pólen. Origina o embrião
+    
+    - Semente - Formada a partir da perda de água do embrião. Pode germinar quando em boas condições
 
 - Angiospermas - Possuem flores e fruto
+
+---
+
+Criptógamas - Plantas com órgãos reprodutivos ocultos, são as briófitas e pteridófitas
+
+Fanerógamas - Órgãos reprodutivos evidentes, sendo as gimno e angiospermas

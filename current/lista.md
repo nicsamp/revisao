@@ -14,7 +14,7 @@ Geopolítica
 
 Herança Sexual
 
-Parasitoses
+Cap. 19 e 20 português
 
 ---
 
