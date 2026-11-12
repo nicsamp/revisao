@@ -1,7 +1,6 @@
 ---
 
 ---
-
 # Biologia 1
 
 ## Cap. 1
@@ -12,7 +11,7 @@ Embriologia - Estuda o desenvolvimento do embrião. Normalmente é usado o anfio
 
 - Vitelo - Fonte de nutrientes das células do embrião nas primeiras fases
   
-  - Seres Oligolécitos - Com pouco vitelo  
+- Seres Oligolécitos - Com pouco vitelo  
   
   - Seres Mediolécitos - Com quantidade média de vitelo  
   

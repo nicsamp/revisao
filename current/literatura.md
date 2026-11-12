@@ -44,15 +44,15 @@ Vanguardas Artísticas Europeias - Ocorreu após a primeira guerra mundial, mome
 
 - Cubismo - Caracterizado pela geometrização, fragmentação e quebra de perspectiva, com elementos sobrepostos  
   
-  - Artistas - Pablo Picasso  
+	- Artistas - Pablo Picasso  
   
-  - ![](/home/nicsamp/Revisões/assets/image3.png)Moça com Bandolim, por Pablo Picasso  
+	- ![Moça com Bandolim, por Pablo Picasso](assets/obra-moca-com-bandolim.png)Moça com Bandolim, por Pablo Picasso  
 
 - Futurismo - Valoriza a máquina, velocidade e dinamismo  
   
   - Artistas - Umberto Boccioni, Giacomo Balla, Filippo Marinetti  
   
-  - ![](/home/nicsamp/Revisões/assets/image8.png)Carga dos Lanceiros, por Umberto Boccioni  
+  - ![Carga dos Lanceiros, por Umberto Boccioni](assets/obra-carga-dos-lanceiros.png)Carga dos Lanceiros, por Umberto Boccioni  
 
 - Dadaísmo - Caracterizado pela quebra de lógica e questionamento extremo da arte  
   
@@ -60,19 +60,19 @@ Vanguardas Artísticas Europeias - Ocorreu após a primeira guerra mundial, mome
   
   - Artistas - Marcel Duchamp, Man Ray  
   
-  - ![](/home/nicsamp/Revisões/assets/image5.png)Roda de Bicicleta, por Marcel Duchamp  
+  - ![Roda de Bicicleta, por Marcel Duchamp](assets/obra-roda-de-bicicleta.png) Roda de Bicicleta, por Marcel Duchamp  
 
 - Surrealismo - Busca retratar o inconsciente, irrealidade, imaginação e sonho  
   
   - Artistas - Salvador Dali, René Magritte, André Breton  
   
-  - ![](/home/nicsamp/Revisões/assets/image10.png)A Condição Humana, por René Magritte  
+  - ![A Condição Humana, por René Magritte](assets/obra-a-condicao-humana.png) A Condição Humana, por René Magritte  
 
 - Expressionismo - Busca retratar a subjetividade nas obras, caracterizado por cores fortes, deformações e exageros  
   
   - Artistas - Vincent Van Gogh, Edvard Munch  
   
-  - ![](/home/nicsamp/Revisões/assets/image6.png)A Noite Estrelada, por Vincent Van Gogh
+  - ![A Noite Estrelada, por Vincent Van Gogh](assets/obra-a-noite-estrelada.png)A Noite Estrelada, por Vincent Van Gogh
 
 ## Cap. 4
 

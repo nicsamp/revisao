@@ -208,19 +208,19 @@ Estrutura da População - Análise da população dividida por critérios, busc
   
   - Pirâmide Etária - Mostra a população de um local dividida por faixa etária e gênero  
     
-    - ![](/home/nicsamp/Revisões/assets/image4.png)Pirâmide Etária de Recife  
+    - ![Pirâmide Etária de Recife  ](assets/piramide-etaria-recife.png)Pirâmide Etária de Recife
     
     - Pirâmide Jovem - População predominantemente jovem, possui base larga (alta natalidade) e topo estreito (baixa longevidade), comum em áreas subdesenvolvidas  
       
-      - ![](/home/nicsamp/Revisões/assets/image2.png)  
+      - ![Pirâmide Jovem](assets/piramide-jovem.png)  
     
     - Pirâmide Adulta - População predominantemente adulta, com meio largo. Comum em áreas que se tornaram desenvolvidas recentemente. A brasileira se encontra em processo de transição para a adulta, pela queda de mortalidade e natalidade  
       
-      - ![](/home/nicsamp/Revisões/assets/image7.png)  
+      - ![Pirâmide Adulta](assets/piramide-adulta.png)  
     
     - Pirâmide Idosa - População predominantemente idosa, com topo largo, pela baixa natalidade e alta longevidade. Comum em áreas desenvolvidas antigas  
       
-      - ![](/home/nicsamp/Revisões/assets/image9.png)  
+      - ![Pirâmide Idosa](assets/piramide-idosa.png)  
   
   - Bônus Demográfico - Quando o número de população economicamente ativa cresce em relação a inativa, vantajoso para o desenvolvimento econômico e social. Ocorre no Brasil atualmente  
 

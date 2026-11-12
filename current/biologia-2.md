@@ -358,11 +358,7 @@ Genética - Estuda a hereditariedade
 - Cruzamento-Teste - Utilizado para determinar os alelos de um gene dominante em um ser, por poder ser AA ou Aa. É feito pelo cruzamento deste com um recessivo (aa). Caso seja AA, formará apenas dominantes (Aa), mas se for Aa, pode formar recessivos (aa)
 
 - Diagrama de Punnett - Representação do cruzamento de indivíduos para analisar os genótipos e fenótipos formados
-  
-  - Diagrama de Punnett para dois heterozigotos (Aa)| x | A | a |
-    | - | -- | -- |
-    | A | AA | Aa |
-    | a | Aa | aa |
+	- ![Diagrama de Punnett](assets/diagrama-punnett.png) Diagrama de Punnett para dois heterozigotos (Aa)
 
 ## Cap. 8
 
