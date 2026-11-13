@@ -458,8 +458,20 @@ Tipos Sanguíneos (ou Grupos Sanguíneos) - Sistemas de classificação do sangu
 
 - Sistema MN - Outro sistema, caracterizado pela presença dos antígenos M e N, com os tipos N (só o antígeno N), M e NM (ambos os antígenos), sendo condicionado por alelos codominantes
 
-## Cap. 11 [NÃO FEITO]
-
+## Cap. 11 [INACABADO]
+Cromossomos Autossômicos (ou Autossomos) - Cromossomos não sexuais
+Cromossomos Sexuais (ou Heterossomos ou Alossomos) - Responsáveis por determinar o sexo do indivíduo, sendo um par nos humanos
+- XX - Dois cromossomos X, sexo feminino
+- XY - Um cromossomo X e um Y, masculino
+---
+Herança Sexual - Herança de genes localizados em cromossomos sexuais
+- Herança Ligada ao Sexo - Ocorre quando um gene se localiza no cromossomo X
+	- Recessiva - O fenótipo se manifesta em recessividade. Afeta mais homens. Ex: daltonismo, hemofilia (incapacidade de coagulação sanguínea)
+		- Fenótipo Normal - X<sup>A</sup>X<sup>A</sup> (mulher), X<sup>A</sup>X<sup>a</sup> (mulher portadora) e X<sup>A</sup>Y (homem)
+		- Fenótipo Afetado - X<sup>a</sup>X<sup>a</sup> (mulher), X<sup>a</sup>Y (homem)
+	- Dominante - Fenótipo se manifesta em dominância. Afeta mais mulheres
+		- Fenótipo Normal - X<sup>a</sup>X<sup>a</sup> (mulher), X<sup>a</sup>Y (homem)
+		- Fenótipo Afetado - X<sup>A</sup>X<sup>A</sup>, X<sup>A</sup>X<sup>a</sup> (mulheres) e X<sup>A</sup>Y (homem)
 ## Cap. 12 [NÃO FEITO]
 
 ## Cap. 13
