@@ -1445,7 +1445,7 @@ Viroses - Doenças causadas por vírus
   - Poliomelite - Assintomático em adultos, mas pode causar paralisia em crianças. Tem vacina
   - Hepatite A e E - Também causa inflamação do fígado e icterícia. Apenas a A tem vacina
 
-## Cap. 15 e 16 [INACABADO]
+## Cap. 15 e 16
 
 Parasitas Monóxenos (ou Monogenéticos) - Parasitas que só precisam de um hospedeiro para completar o ciclo de vida
 
