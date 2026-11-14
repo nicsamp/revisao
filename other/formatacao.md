@@ -30,7 +30,7 @@ Texto em *itálico*
 
 Texto em <u>underline</u>
 
-![](piramide-idosa.png)
+![](assets/piramide-idosa.png "Pirâmide Idosa")
 
 Imagem
 

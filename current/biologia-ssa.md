@@ -385,69 +385,112 @@ Tipos de Plantas
     
     - Semente - Formada a partir da perda de água do embrião. Pode germinar quando em boas condições
 
-- Angiospermas - Possuem flores e fruto
-	- Raiz - Parte terrestre da planta. Realiza a fixação ao solo e extração de água e sais minerais
-		- Coifa - Estrutura na ponta da raiz para proteção
-		- Zona de Alongamento - Responsável pelo crescimento da raiz
-		- Zona Pilífera - Absorção de água
-		- Zona Suberosa - Ramificação de raízes
-		- Tipos de Sistemas de Raízes
-			- Pivotante (ou Axial) - Composta por uma raiz principal com ramificações para os lados
-			- Fasciculada - Sem presença de raiz principal, com várias raízes saindo do mesmo ponto
-		- Tipos de Raízes
-			- Tuberosa - Mais espessas pelo acúmulo de amido. Ex: mandioca
-			- Pneumatóforo (ou Raíz Respiratória) - Crescem para cima, pelo solo ser pobre em oxigênio
-			- Raíz-Escora  (ou Adventícias) - Saem do caule e se fixam no solo, para dar mais sustentação, sobretudo em solos moles. Ex: árvores de mangue
-			- Tabulares - Raízes achatadas, criando uma base maior para sustentação
-	- Flor - Estrutura reprodutiva das angiospermas. Podem ser monoicas (estruturas femininas e masculinas na mesma flor) ou dioicas (apenas uma)
-		- Pedúnculo - Haste que prende a flor ao caule
-		- Receptáculo Floral - Fica acima do pedúnculo, dá sustentação à flor
-		- Cálice - Conjunto de sépalas, verdes, para proteger a flor fechada
-		- Corola - Conjunto de pétalas, coloridas, para atrair polinizadores
-		- Androceu - Estrutura masculina, sendo um conjunto de estames
-			- Filete - Haste fina do estame que sustenta a antera
-			- Antera - Bolsa onde ficam os grãos-de-pólen
-		- Gineceu (ou Pistilo) - Estrutura feminina. Formado por um ou mais carpelos
-			- Estigma - Superfície responsável por receber o pólen
-			- Estilete - Tubo que conecta o estigma ao ovário
-			- Ovário - Fica na base da flor, onde fica o óvulo
-		- ![Estruturas da Flor](assets/flor-componentes.png)
-		- Polinização - Transporte do pólen ao estigma da flor
-			- Autopolinização - Uma flor se poliniza. Apenas flores monoicas
-			- Fecundação Cruzada - Uma flor poliniza outra, podendo ou não ser da mesma planta
-		- Tipos de Polinização
-			- Anemofilia - Pelo vento
-			- Hidrofilia - Pela água
-			- Entomofilia - Por insetos
-			- Quiropterofilia - Por morcegos
-			- Ornitofilia - Por aves
-	- Tipos de Dispersão de Sementes
-		- Anemocoria - Pelo vento
-		- Hidrocoria - Pela água
-		- Zoocoria - Por animais
-		- Autocoria - Por plantas
-		- Barocoria - Pela gravidade
-	- Reprodução
-		- Grão-de-Pólen - Gametófito masculino, formado a partir dos micrósporos na antera
-			- Tubo Polínico - Formado com a chegada do grão ao estigma, responsável por transportar os gametas ao óvulo
-			- Células Espermáticas - Os gametas maculinos, sendo dois em um grão
-		- Saco Embrionário (ou Megagametófito) - Gametófito feminino, localizado no óvulo, formado a partir de um megásporo
-			- Oosfera - Gameta feminino
-			- Célula Central - Célula com dois núcleos polares
-		- Dupla Fecundação
-			- Zigoto - Formado pela fecundação da oosfera por uma das células espermáticas
-			- Endosperma - Tecido nutritivo da semente composta por núcleo triploide, pela fusão dos dois núcleos polares com o outro gameta masculino
-		- Semente - Formada a partir do óvulo
-			- Cotilédone - Primeira folha do embrião armazenada na semente. Funciona como reserva de nutrientes antes da fotossíntese
-		- Fruto - Estrutura formada a partir do óvario responsável por proteger a semente
-	- Tipos de Angiospermas - Pelo número de cotilédones
-		- Monocotiledônias (ou Liliopsida) - Apenas 1 cotilédone. Ex: milho
-		- Eudicotiledônias (ou Dicotiledôneas ou Magnoliopsida) - Dois cotilédones. Ex: feijão
-
-
+- Angiospermas - Com flor e fruto
 
 ---
 
 Criptógamas - Plantas com órgãos reprodutivos ocultos, são as briófitas e pteridófitas
 
 Fanerógamas - Órgãos reprodutivos evidentes, sendo as gimno e angiospermas
+
+## Angiospermas
+Angiospermas - Possuem flores e fruto
+- Raiz - Parte terrestre da planta. Realiza a fixação ao solo e extração de água e sais minerais
+	- Coifa - Estrutura na ponta da raiz para proteção
+	- Zona de Alongamento - Responsável pelo crescimento da raiz
+	- Zona Pilífera - Absorção de água
+	- Zona Suberosa - Ramificação de raízes
+	- Tipos de Sistemas de Raízes
+		- Pivotante (ou Axial) - Composta por uma raiz principal com ramificações para os lados
+		- Fasciculada - Sem presença de raiz principal, com várias raízes saindo do mesmo ponto
+	- Tipos de Raízes
+		- Tuberosa - Mais espessas pelo acúmulo de amido. Ex: mandioca
+		- Pneumatóforo (ou Raíz Respiratória) - Crescem para cima, pelo solo ser pobre em oxigênio
+		- Raíz-Escora  (ou Adventícias) - Saem do caule e se fixam no solo, para dar mais sustentação, sobretudo em solos moles. Ex: árvores de mangue
+		- Tabulares - Raízes achatadas, criando uma base maior para sustentação
+- Caule - Responsável por sustentar a planta e suas folhas, além da condução de seiva. Normalmente são aéreas
+	- Gemas Axiais (ou Laterais) - Ramos de crescimento lateral ou de folhas
+		- Nó - Região do caule de onde parte uma gema axial
+		- Entrenó - Região entre nós
+	- Gema Apical - Fica no topo, crescimento vertical
+	- Folha - Responsável por realizar fotossíntese
+		- Pecíolo - Conecta o limbo ao caule
+			- Bainha - Base alargada do pecíolo conectada ao caule
+			- Estípula - Estruturas pequenas na base do pecíolo para proteção
+		- Limbo (ou Lâmina) - Parte aberta e dilatada da folha
+			- Simples - Um único limbo
+			- Composto - Limbo formado por vários folíolos
+				- Imparipenado - Número ímpar de folíolos, com um na extremidade
+				- Paripenadas - Número par, com duas na extremidade
+			- Recomposto - Formado por vários limbos compostos
+		- Filotaxia - Organização das folhas no caule
+			- Alterno - Uma folha por nó
+			- Oposto - Duas folhas por nó
+			- Verticilado - Três ou mais
+	- Tipos de Caule
+		- Aéreos - Tronco (árvores frutíferas), haste (rosa), estipe (palmeiras), colmo (bambu)
+		- Subterrâneos - Tubérculo (batata), bulbo (alho), rizoma (caule horizontal)
+		- Aquático - Vitória-régia
+- Flor - Estrutura reprodutiva das angiospermas. Podem ser monoicas (estruturas femininas e masculinas na mesma flor) ou dioicas (apenas uma)
+	- Pedúnculo - Haste que prende a flor ao caule
+	- Receptáculo Floral - Fica acima do pedúnculo, dá sustentação à flor
+	- Cálice - Conjunto de sépalas, verdes, para proteger a flor fechada
+	- Corola - Conjunto de pétalas, coloridas, para atrair polinizadores
+	- Androceu - Estrutura masculina, sendo um conjunto de estames
+		- Filete - Haste fina do estame que sustenta a antera
+		- Antera - Bolsa onde ficam os grãos-de-pólen
+	- Gineceu (ou Pistilo) - Estrutura feminina. Formado por um ou mais carpelos
+		- Estigma - Superfície responsável por receber o pólen
+		- Estilete - Tubo que conecta o estigma ao ovário
+		- Ovário - Fica na base da flor, onde fica o óvulo
+	- ![Estruturas da Flor](assets/flor-componentes.png)
+	- Polinização - Transporte do pólen ao estigma da flor
+		- Autopolinização - Uma flor se poliniza. Apenas flores monoicas
+		- Fecundação Cruzada - Uma flor poliniza outra, podendo ou não ser da mesma planta
+	- Tipos de Polinização
+		- Anemofilia - Pelo vento
+		- Hidrofilia - Pela água
+		- Entomofilia - Por insetos
+		- Quiropterofilia - Por morcegos
+		- Ornitofilia - Por aves
+- Reprodução
+	- Grão-de-Pólen - Gametófito masculino, formado a partir dos micrósporos na antera. Composto por duas células
+		- Tubo Polínico - Formado com a chegada do grão ao estigma, responsável por transportar os gametas ao óvulo
+		- Células Espermáticas - Os gametas maculinos, sendo dois em um grão
+	- Saco Embrionário (ou Megagametófito) - Gametófito feminino, localizado no óvulo, formado a partir de um megásporo. Tem 8 núcleos
+		- Oosfera - Gameta feminino
+		- Célula Central - Célula com dois núcleos polares
+		- Sinérgidas e Antípodas - Células formadas pelos núcleos restantes com função de revestimento
+	- Dupla Fecundação
+		- Zigoto - Formado pela fecundação da oosfera por uma das células espermáticas
+		- Endosperma - Tecido nutritivo da semente composta por núcleo triploide, pela fusão dos dois núcleos polares com o outro gameta masculino
+- Semente - Formada a partir do óvulo pela perda de água
+	- Cotilédone - Primeira folha do embrião formada a partir da germinação. Funciona como reserva de nutrientes antes da fotossíntese
+	- Tipos de Dispersão de Sementes
+		- Anemocoria - Pelo vento
+		- Hidrocoria - Pela água
+		- Zoocoria - Por animais
+		- Autocoria - Por plantas
+		- Barocoria - Pela gravidade
+- Fruto - Estrutura formada a partir da parede do óvario responsável por proteger a semente
+	- Epicarpo - Camada externa do fruto
+	- Mesocarpo - Camada do meio, sendo a que é comida
+	- Endocarpo - Camada interna que reveste a semente
+	- Tipos de Frutos
+		- Verdadeiros - Ex: abacate
+		- Partenocárpicos - Frutos sem sementes formados pelo desenvolvimento do ovário sem fecundação. Ex: banana
+		- Pseudofrutos - Ocorre quando a parte comestível da fruta se desenvolve em outra parte da flor, como receptáculo, pedúnculo ou cálice. Ex: caju
+			- Infrutescência - Formados por vários frutos pequenos de flores diferentes. Ex: abacaxi
+			- Fruto Múltiplo (ou Agregado) - Formado por uma flor com vários ovários. Ex: morango
+- Tipos de Angiospermas - Pelo número de cotilédones na semente
+	- Monocotiledônias (ou Liliopsida) - Apenas 1 cotilédone. Ex: milho
+		- Folhas - Tem nervuras paralelas
+		- Caule - Colmo ou estipe. Tem vasos condutores espalhados
+		- Raiz - Fasciculada
+		- Flor - É trímera (número de pétalas é um múltiplo de 3)
+	- Eudicotiledônias (ou Dicotiledôneas ou Magnoliopsida) - Dois cotilédones. Ex: feijão
+		- Folhas - Tem uma nervura central com nervuras laterais
+		- Caule - Tronco ou haste. Tem vasos condutores em círculo
+		- Raiz - Pivotante
+		- Flor - É tetrâmera ou pentâmera (múltiplo de 4 ou 5)
+
