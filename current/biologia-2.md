@@ -458,7 +458,7 @@ Tipos Sanguíneos (ou Grupos Sanguíneos) - Sistemas de classificação do sangu
 
 - Sistema MN - Outro sistema, caracterizado pela presença dos antígenos M e N, com os tipos N (só o antígeno N), M e NM (ambos os antígenos), sendo condicionado por alelos codominantes
 
-## Cap. 11 [INACABADO]
+## Cap. 11
 Cromossomos Autossômicos (ou Autossomos) - Cromossomos não sexuais
 Cromossomos Sexuais (ou Heterossomos ou Alossomos) - Responsáveis por determinar o sexo do indivíduo, sendo um par nos humanos
 - XX - Dois cromossomos X, sexo feminino
@@ -466,12 +466,29 @@ Cromossomos Sexuais (ou Heterossomos ou Alossomos) - Responsáveis por determina
 ---
 Herança Sexual - Herança de genes localizados em cromossomos sexuais
 - Herança Ligada ao Sexo - Ocorre quando um gene se localiza no cromossomo X
+	- Hemizigoto - Nome dado aos genes dos machos, por possuirem apenas um alelo
 	- Recessiva - O fenótipo se manifesta em recessividade. Afeta mais homens. Ex: daltonismo, hemofilia (incapacidade de coagulação sanguínea)
 		- Fenótipo Normal - X<sup>A</sup>X<sup>A</sup> (mulher), X<sup>A</sup>X<sup>a</sup> (mulher portadora) e X<sup>A</sup>Y (homem)
 		- Fenótipo Afetado - X<sup>a</sup>X<sup>a</sup> (mulher), X<sup>a</sup>Y (homem)
 	- Dominante - Fenótipo se manifesta em dominância. Afeta mais mulheres
 		- Fenótipo Normal - X<sup>a</sup>X<sup>a</sup> (mulher), X<sup>a</sup>Y (homem)
 		- Fenótipo Afetado - X<sup>A</sup>X<sup>A</sup>, X<sup>A</sup>X<sup>a</sup> (mulheres) e X<sup>A</sup>Y (homem)
+- Herança Restrita ao Sexo (ou Holândrica) - Por genes localizados no cromossomo Y. Ocorre apenas em homens, sendo transmitida de pai para filho
+	- Fenótipo Normal - XY
+	- Fenótipo Afetado - XY<sup>*</sup>
+Herança Influenciada pelo Sexo - Por genes em cromossomos autossômicos, mas com a expressão do fenótipo variando entre sexos (o gene é dominante em um e recessivo no outro). Ex: calvície
+---
+Cromatina Sexual (ou Corpúsculo de Barr) - Estrutura na membrana da célula formada a partir de um dos cromossomos X de uma fêmea, por ele ficar permanentemente condensado (inativação do X). A inativação aleatória pode causar fenótipos diferentes ao longo do corpo. Ex: cor dos gatos
+
+---
+Sistema ZW - Determina o sexo em aves
+- ZZ - Masculino, sendo homozigoto
+- ZW - Feminino, sendo hemizigoto
+Partenogênese - Ocorre pela formação de um ser haploide a partir de ovócitos não fecundado, ocorrendo em abelhas
+- Seres Haploides - São masculinos
+- Seres Diploides - Formados por reprodução sexuada, são femininos
+Sexo por Temperatura de Incubação - A temperatura de incubação de ovos influencia a proporção de sexos formados, pela ação diferente de hormônios em diferentes temperaturas
+
 ## Cap. 12 [NÃO FEITO]
 
 ## Cap. 13

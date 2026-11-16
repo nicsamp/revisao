@@ -6,15 +6,11 @@ Genealogias?
 
 Modais de Transporte
 
-Algas
-
 Auguste Comte, Emile Durkheim e Max Weber
 
-Geopolítica
-
-Herança Sexual
-
 Cap. 19 e 20 português
+
+Taxonomia
 
 ---
 
