@@ -9,7 +9,7 @@ Texto Sincrético (ou Híbrido) - Composto por linguagem verbal e não verbal. E
 ## Cap. 3
 Narração - Tipo de texto com predominância de elementos concretos e progressão temporal, havendo uma história. Precisa de narrador, personagens, tempo, espaço e fábula
 - Fábula - Acontecimentos da narrativa  
-- Trama  - Acontecimentos da narrativa como o narrador as narra
+- Trama	- Acontecimentos da narrativa como o narrador as narra
 
 ---
 
@@ -24,24 +24,24 @@ Textos Jornalísticos - Textos caracterizados pela objetividade, mas que, queren
 Textos Jornalísticos Opinativos - Textos jornalísticos que são intencionalmente opinativos, defendendo um ponto de vista de forma mais direta
 - Editorial - É veiculada a opinião de uma instituição ou meio de comunicação (chamada de linha editorial), e não de um indivíduo, tendo linguagem de opinião menos radical
 - Artigo Assinado - Veiculam a opinião de um indivíduo específico, podendo usar linguagem mais radical e primeira pessoa
-  - Resenha Crítica - Tipo de artigo assinado que resume e critica uma produção cultural (filme, livro, série, show, restaurante), também sendo bem opinativo
+	- Resenha Crítica - Tipo de artigo assinado que resume e critica uma produção cultural (filme, livro, série, show, restaurante), também sendo bem opinativo
 ## Cap. 5
 Dissertação (ou Texto Dissertativo) - Textos que buscam expor uma opinião, promovendo uma interpretação genérica da realidade e falando sobre conceitos mais abstratos
 - Dissertação Escolar - Dissertação produzida de improviso a partir de um tema conhecido no momento da prova, além de ter tamanho rígido e valorizar mais o efeito de objetividade (visando maior semelhança a uma verdade e maior convencimento)
-  - Função Informativa (ou Referencial) - Função predominante na dissertação escolar e outras como a científica, em que há maior foco na informação veiculada, e não em quem a transmite
-  - Características - Uso da terceira pessoa, uso do sentido denotativo, precisão conceitual, menor uso de adjetivos e de outras expressões subjetivas
-    - Tópico Frasal - Frase que contém a ideia genérica e geral que será desenvolvida pelo texto, indo do mais abstrato para o mais concreto e específico
+	- Função Informativa (ou Referencial) - Função predominante na dissertação escolar e outras como a científica, em que há maior foco na informação veiculada, e não em quem a transmite
+	- Características - Uso da terceira pessoa, uso do sentido denotativo, precisão conceitual, menor uso de adjetivos e de outras expressões subjetivas
+		- Tópico Frasal - Frase que contém a ideia genérica e geral que será desenvolvida pelo texto, indo do mais abstrato para o mais concreto e específico
 ## Cap. 6 []
 Estrutura Dissertativa Ortodoxa (ou Tradicional) - Método mais comum de organizar uma dissertação escolar
 - Introdução - Um parágrafo, contextualiza e apresenta o tema
-  - Tese - Posicionamento central do texto, antecipando os argumentos do desenvolvimento, normalmente colocado no fim da introdução
+	- Tese - Posicionamento central do texto, antecipando os argumentos do desenvolvimento, normalmente colocado no fim da introdução
 - Desenvolvimento - Um ou dois parágrafos, onde se apresentam os argumentos que sustentam a tese, buscando convencer o leitor
-  - Tópico Frasal - Inicia um parágrafo, resume e antecipa o que será argumentado
-  - Sustentação - Os argumentos em si, que suportam as afirmações
-    - Argumento de Autoridade - Utilizar citações de pessoas profissionais em certa área, dando legitimidade ao texto
-    - Argumento de Consenso - Utiliza ideias consideradas bom senso, que não precisam ser comprovadas
-    - Argumento de Provas Concretas - Utiliza argumentos verificáveis pela observação, como por dados concretos
-  - Conclusão Parcial - Reafirmações de argumentos ou relacionamento entre conteúdos do parágrafo com o tema geral
+	- Tópico Frasal - Inicia um parágrafo, resume e antecipa o que será argumentado
+	- Sustentação - Os argumentos em si, que suportam as afirmações
+		- Argumento de Autoridade - Utilizar citações de pessoas profissionais em certa área, dando legitimidade ao texto
+		- Argumento de Consenso - Utiliza ideias consideradas bom senso, que não precisam ser comprovadas
+		- Argumento de Provas Concretas - Utiliza argumentos verificáveis pela observação, como por dados concretos
+	- Conclusão Parcial - Reafirmações de argumentos ou relacionamento entre conteúdos do parágrafo com o tema geral
 - Conclusão - Um parágrafo, resume ou retoma o que foi dito e apresenta uma proposta de intervenção (soluções para o problema)
 ## Cap. 7 []
 Proposta de Intervenção - Meios para lidar com um problema abordado em uma redação
@@ -56,5 +56,5 @@ Proposta de Intervenção - Meios para lidar com um problema abordado em uma red
 Auditório - Público-alvo de um texto
 - Universal - Público alvo amplo, com conhecimentos e valores gerais. Ex: dissertação
 - Particular - Tem como alvo um indivíduo ou grupo específico
-  - Carta - Gênero textual destinado a um indivíduo específico
-    - Estrutura - Cabeçalho (local e data), destinatário, vocativo, texto, despedida e assinatura
+	- Carta - Gênero textual destinado a um indivíduo específico
+		- Estrutura - Cabeçalho (local e data), destinatário, vocativo, texto, despedida e assinatura

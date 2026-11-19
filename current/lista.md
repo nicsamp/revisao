@@ -1,8 +1,6 @@
 Todo:
 Sistema Nervoso
 Modais de Transporte
-Auguste Comte, Emile Durkheim e Max Weber
-Karl Marx
 
 ---
 

@@ -8,30 +8,30 @@ Desglobalização - Desconstrução da globalização, caracterizado pelo enfraq
 Políticas Econômicas
 - Liberalismo - Não intervenção do Estado na economia  
 - Keynesianismo - Reação imediata a quebra da bolsa de valores de Nova Iorque, intervenção do Estado na economia para sua recuperação  
-  - New Deal - Políticas econômicas do governo de Roosevelt, após a quebra da bolsa, buscando recuperar a economia do país  
+	- New Deal - Políticas econômicas do governo de Roosevelt, após a quebra da bolsa, buscando recuperar a economia do país  
 - Neoliberalismo - Intervenção mínima do Estado na economia  
-  - Consenso de Washington - Conjunto de medidas liberalistas criada pelo Bird e FMI, para serem implementadas em países subdesenvolvidos e em desenvolvimento
+	- Consenso de Washington - Conjunto de medidas liberalistas criada pelo Bird e FMI, para serem implementadas em países subdesenvolvidos e em desenvolvimento
 
 ---
 
 Capitalismo - Sistema socioeconômico que surgiu após o feudalismo, no início da globalização, caracterizado pela livre concorrência e comércio, acúmulo de capital e propriedade privada  
 Fases do Capitalismo
 - Comercial (ou Pré-Capitalista) - Durante as grandes navegações para colonização  
-  - Mercantilismo - Modelo econômico da época, com grande controle do Estado na economia  
-    - Protecionismo  
-    - Metalismo - Acúmulo de metais preciosos, atividade de muito valor na época  
-    - Balança Comercial - Exportação - importação, pode ser positivo (superávit) ou negativo (déficit)  
-  - Primeira Divisão Internacional do Trabalho (DIT) - A colônia exportava matéria-prima e gêneros agrícolas para a metrópole, que exportava produtos manufaturados  
+	- Mercantilismo - Modelo econômico da época, com grande controle do Estado na economia  
+		- Protecionismo  
+		- Metalismo - Acúmulo de metais preciosos, atividade de muito valor na época  
+		- Balança Comercial - Exportação - importação, pode ser positivo (superávit) ou negativo (déficit)  
+	- Primeira Divisão Internacional do Trabalho (DIT) - A colônia exportava matéria-prima e gêneros agrícolas para a metrópole, que exportava produtos manufaturados  
 - Industrial - Durante a primeira revolução industrial, com a urbanização e surgimento do liberalismo  
-  - Imperialismo Africano  
-  - Segunda DIT - Os países periféricos exportavam matéria-prima e gêneros agrícolas, e os países centrais exportavam produtos industrializados  
+	- Imperialismo Africano  
+	- Segunda DIT - Os países periféricos exportavam matéria-prima e gêneros agrícolas, e os países centrais exportavam produtos industrializados  
 - Financeiro - Durante a segunda revolução industrial, caracterizado pelo neoliberalismo e fortalecimento dos bancos e bolsas de valores  
-  - Organizações Internacionais (OIs) -  FMI, OMC, Bird  
-  - Transnacionais - Empresas com filiais em vários países, com o processo de produção podendo ocorrer em diversos países, sobretudo com mão-de-obra barata. Levou ao surgimento de monopólios e oligopólios  
-  - Blocos Econômicos - Grupos de países que mantém relações comerciais entre si  
-  - Bolsas de Valores - Local onde ações de empresas são negociadas por pessoas e empresas  
-    - Mercado Financeiro - Local onde ativos são comprados e vendidos, como empréstimos, uso de crédito, negociação de moedas estrangeiras, compra de ações, etc.  
-  - Terceira DIT (ou Nova DIT) - Países desenvolvidos exportam tecnologia e empréstimos, países emergentes e subdesenvolvidos exportam commodities e dependem dessa tecnologia  
+	- Organizações Internacionais (OIs) -  FMI, OMC, Bird  
+	- Transnacionais - Empresas com filiais em vários países, com o processo de produção podendo ocorrer em diversos países, sobretudo com mão-de-obra barata. Levou ao surgimento de monopólios e oligopólios  
+	- Blocos Econômicos - Grupos de países que mantém relações comerciais entre si  
+	- Bolsas de Valores - Local onde ações de empresas são negociadas por pessoas e empresas  
+		- Mercado Financeiro - Local onde ativos são comprados e vendidos, como empréstimos, uso de crédito, negociação de moedas estrangeiras, compra de ações, etc.  
+	- Terceira DIT (ou Nova DIT) - Países desenvolvidos exportam tecnologia e empréstimos, países emergentes e subdesenvolvidos exportam commodities e dependem dessa tecnologia  
 - Informacional - Durante a quarta revolução industrial, caracterizada pela conexão de tecnologias desenvolvidas na 3a, sendo a atual, com a criação do dinheiro plástico e eletrônico e domínio das big techs
 
 ---
@@ -40,7 +40,7 @@ Concentrações Financeiras
 - Cartel - Acordo entre empresas do mesmo setor para controlar mais o mercado, acabando com a competição, sendo ilegal. Ex: postos de gasolina próximos concordando em um preço  
 - Truste - Fusão de capital entre empresas. Ex: união pets (petz + cobasi)  
 - Holding (ou Conglomerado) - Empresa que controla diversas empresas por meio da negociação de ações  
-  - Dumping - Quando uma empresa ou Estado diminui o preço de algo abaixo do mercado para eliminar competição. Para Estados, isso é reduzir o câmbio da moeda
+	- Dumping - Quando uma empresa ou Estado diminui o preço de algo abaixo do mercado para eliminar competição. Para Estados, isso é reduzir o câmbio da moeda
 
 ---
 
@@ -60,9 +60,9 @@ Lista de Blocos Econômicos
 - Mercado Comum do Sul (Mercosul) - Criado pelo Tratado de Assunção, formado por Brasil, Argentina, Paraguai e Uruguai. É uma união aduaneira  
 - Cooperação Econômica Ásia-Pacífico (Apec) - Zona de livre comércio entre países da Ásia e América pacíficas  
 - União Europeia (UE ou EU) - Criado a partir da fusão da Benelux com a Comunidade Europeia de Carvão e Aço (CECA) pelo tratado de Roma, inicialmente chamada de Comunidade Econômica Europeia (CEE), renomeada pelo Tratado de Maastricht, que implementou a união monetária  
-  - Zona do Euro - Conjunto de países que usam o Euro como moeda, nem todos os países da EU usam  
-  - Brexit - Saída do Reino Unido da EU por um referendo, foi desvantajoso para ambos  
-  - Espaço Schengen - Região de livre circulação de pessoas, possui países que não são da EU  
+	- Zona do Euro - Conjunto de países que usam o Euro como moeda, nem todos os países da EU usam  
+	- Brexit - Saída do Reino Unido da EU por um referendo, foi desvantajoso para ambos  
+	- Espaço Schengen - Região de livre circulação de pessoas, possui países que não são da EU  
 - União Africana - Formada pelos países africanos sobretudo para combater os efeitos do colonialismo  
 - Parceria Econômica Regional Abrangente (RCEP) - Países asiáticos do pacífico. Liderado pela China, sendo o maior em PIB
 
@@ -113,14 +113,14 @@ Teorias Demográficas - Analisam o crescimento demográfico
 - Reformista (ou Marxista ou Antimalthusiana) - Após 1970, sendo a mais aceita. Defendia que o subdesenvolvimento que causava o crescimento populacional alto, sendo necessário reformas socioeconômicas  
 - Ecomalthusiana - Diz que o alto crescimento populacional causa impactos ambientais, tendo como solução políticas de sustentabilidade  
 - Transição Demográfica - Estabelece fases de mudanças do crescimento populacional baseado em mudanças sociais e econômicas  
-  - 1a Fase - Crescimento lento, com natalidade e mortalidade altos. Caracterizada pela população na maioria rural, havendo necessidade de mão-de-obra familiar e havendo precárias condições de saneamento  
-  - 2a Fase - Explosão demográfica, com a redução da taxa de mortalidade. Caracterizada pelo êxodo rural  
-    - Países Desenvolvidos Antigos - Os primeiros a passarem pela 2a fase, na revolução industrial  
-    - Países Desenvolvidos Recentes - Segundo grupo, na 2a e 3a revolução industrial  
-    - Países Subdesenvolvidos - Se encontram nessa fase atualmente, não chegando na 3a fase  
-  - 3a Fase - Diminuição do crescimento, com a redução da natalidade pela emancipação de mulheres, urbanização e métodos contraceptivos  
-  - 4a Fase - Crescimento lento e estável, por baixa natalidade e mortalidade  
-  - 5a Fase - Fase proposta, em que há redução da população pelo envelhecimento
+	- 1a Fase - Crescimento lento, com natalidade e mortalidade altos. Caracterizada pela população na maioria rural, havendo necessidade de mão-de-obra familiar e havendo precárias condições de saneamento  
+	- 2a Fase - Explosão demográfica, com a redução da taxa de mortalidade. Caracterizada pelo êxodo rural  
+		- Países Desenvolvidos Antigos - Os primeiros a passarem pela 2a fase, na revolução industrial  
+		- Países Desenvolvidos Recentes - Segundo grupo, na 2a e 3a revolução industrial  
+		- Países Subdesenvolvidos - Se encontram nessa fase atualmente, não chegando na 3a fase  
+	- 3a Fase - Diminuição do crescimento, com a redução da natalidade pela emancipação de mulheres, urbanização e métodos contraceptivos  
+	- 4a Fase - Crescimento lento e estável, por baixa natalidade e mortalidade  
+	- 5a Fase - Fase proposta, em que há redução da população pelo envelhecimento
 
 ---
 
@@ -128,47 +128,47 @@ Envelhecimento Populacional - Fenômeno em que a idade média de um local cresce
 ## Cap. 4
 Estrutura da População - Análise da população dividida por critérios, buscando conhecer sua realidade socioeconômica, sobretudo pelo Estado
 - Estrutura Etária - Análise da população dividida em jovens, adultos e idosos (por idade). Sua distribuição é influenciada pela taxa de natalidade e mortalidade  
-  - Pirâmide Etária - Mostra a população de um local dividida por faixa etária e gênero  
-    - ![Pirâmide Etária de Recife  ](assets/piramide-etaria-recife.png)Pirâmide Etária de Recife
-    - Pirâmide Jovem - População predominantemente jovem, possui base larga (alta natalidade) e topo estreito (baixa longevidade), comum em áreas subdesenvolvidas  
-      - ![Pirâmide Jovem](assets/piramide-jovem.png)  
-    - Pirâmide Adulta - População predominantemente adulta, com meio largo. Comum em áreas que se tornaram desenvolvidas recentemente. A brasileira se encontra em processo de transição para a adulta, pela queda de mortalidade e natalidade  
-      - ![Pirâmide Adulta](assets/piramide-adulta.png)  
-    - Pirâmide Idosa - População predominantemente idosa, com topo largo, pela baixa natalidade e alta longevidade. Comum em áreas desenvolvidas antigas  
-      - ![Pirâmide Idosa](assets/piramide-idosa.png)  
-  - Bônus Demográfico - Quando o número de população economicamente ativa cresce em relação a inativa, vantajoso para o desenvolvimento econômico e social. Ocorre no Brasil atualmente  
+	- Pirâmide Etária - Mostra a população de um local dividida por faixa etária e gênero  
+		- ![Pirâmide Etária de Recife  ](assets/piramide-etaria-recife.png)Pirâmide Etária de Recife
+		- Pirâmide Jovem - População predominantemente jovem, possui base larga (alta natalidade) e topo estreito (baixa longevidade), comum em áreas subdesenvolvidas  
+			- ![Pirâmide Jovem](assets/piramide-jovem.png)  
+		- Pirâmide Adulta - População predominantemente adulta, com meio largo. Comum em áreas que se tornaram desenvolvidas recentemente. A brasileira se encontra em processo de transição para a adulta, pela queda de mortalidade e natalidade  
+			- ![Pirâmide Adulta](assets/piramide-adulta.png)  
+		- Pirâmide Idosa - População predominantemente idosa, com topo largo, pela baixa natalidade e alta longevidade. Comum em áreas desenvolvidas antigas  
+			- ![Pirâmide Idosa](assets/piramide-idosa.png)  
+	- Bônus Demográfico - Quando o número de população economicamente ativa cresce em relação a inativa, vantajoso para o desenvolvimento econômico e social. Ocorre no Brasil atualmente  
 - Estrutura Étnica - Análise da população dividida por etnia (branco, pardo, negro, amarelo e indígena)  
-  - População Indígena Brasileira - A maioria da sua população original foi exterminada no processo de colonização. Atualmente, há leis protegendo suas terras, mas que ainda não são totalmente eficazes, com muitas terras ainda não demarcadas  
-  - População Afrodescendente Brasileira - Explorados no período de escravidão, havendo sua marginalização, com efeitos presentes até hoje em renda, educação, violência e outros. Também há leis promovendo a sua inclusão social  
-  - População Afrodescendente Estadunidense - Possui situação similar, mas com passado de segregação ainda maior, e maior luta para a obtenção de direitos iguais  
-  - População Africana da África do Sul - Marcada duramente pelo período de Apartheid, com muita resistência, onde se destaca Nelson Mandela  
+	- População Indígena Brasileira - A maioria da sua população original foi exterminada no processo de colonização. Atualmente, há leis protegendo suas terras, mas que ainda não são totalmente eficazes, com muitas terras ainda não demarcadas  
+	- População Afrodescendente Brasileira - Explorados no período de escravidão, havendo sua marginalização, com efeitos presentes até hoje em renda, educação, violência e outros. Também há leis promovendo a sua inclusão social  
+	- População Afrodescendente Estadunidense - Possui situação similar, mas com passado de segregação ainda maior, e maior luta para a obtenção de direitos iguais  
+	- População Africana da África do Sul - Marcada duramente pelo período de Apartheid, com muita resistência, onde se destaca Nelson Mandela  
 - Estrutura Sexual - Análise da população dividida entre mulheres e homens  
-  - Taxa de Natalidade - Levemente maior para homens, por questões biológicas  
-  - Taxa de Mortalidade - Levemente maior para homens, por acidentes de trabalho, criminalidade e doenças cardiovasculares maiores  
-  - Mercado de Trabalho - Existe maior participação do homem no mercado de trabalho, além de receberem salário maior em relação às mulheres. Contudo, a participação feminina no mercado de trabalho vem aumentando sobretudo pela emancipação feminina  
-    - Dupla Jornada - Realizar atividades de trabalho e cuidados da casa ou de filhos, bem mais elevada na população feminina
+	- Taxa de Natalidade - Levemente maior para homens, por questões biológicas  
+	- Taxa de Mortalidade - Levemente maior para homens, por acidentes de trabalho, criminalidade e doenças cardiovasculares maiores  
+	- Mercado de Trabalho - Existe maior participação do homem no mercado de trabalho, além de receberem salário maior em relação às mulheres. Contudo, a participação feminina no mercado de trabalho vem aumentando sobretudo pela emancipação feminina  
+		- Dupla Jornada - Realizar atividades de trabalho e cuidados da casa ou de filhos, bem mais elevada na população feminina
 ## Cap. 5
 Estrutura Ocupacional - Análise da população dividida por ocupação
 - População em Idade Ativa (PIA) - População na faixa etária apta para exercer trabalho remunerado, mas não necessariamente trabalhando. Normalmente 18-65 anos  
 - População Economicamente Ativa (PEA) - População disponível ou fazendo parte do mercado de trabalho, mas não necessariamente na PIA  
-  - Ocupados - Pessoas que estão trabalhando  
-  - Desocupados - Desempregados em busca de emprego  
-    - Desemprego Estrutural - Causado por mudanças no processo produtivo, como automação e adoção de novas tecnologias  
-    - Desemprego Conjuntural - Causado por crises econômicas  
+	- Ocupados - Pessoas que estão trabalhando  
+	- Desocupados - Desempregados em busca de emprego  
+		- Desemprego Estrutural - Causado por mudanças no processo produtivo, como automação e adoção de novas tecnologias  
+		- Desemprego Conjuntural - Causado por crises econômicas  
 - População Economicamente Inativa (PEI) - População que não participa do mercado de trabalho. São crianças, aposentados, donos de casa e desalentados  
-  - Desalentados - Pessoas que desistiram de procurar emprego, causado pela falta de ofertas de trabalho no local, baixa qualificação profissional e crises  
-    - Jovens Nem-Nem - Jovens que nem estudam nem trabalham  
+	- Desalentados - Pessoas que desistiram de procurar emprego, causado pela falta de ofertas de trabalho no local, baixa qualificação profissional e crises  
+		- Jovens Nem-Nem - Jovens que nem estudam nem trabalham  
 - Setores da Economia  
-  - Primário - Extração de bens e recursos da natureza. Ex: agricultura, pecuária, extrativismo  
-  - Secundário - Transformação de bens e recursos em produtos. Ex: indústria, construção civil  
-  - Terciário - Prestação de serviços. Ex: saúde, comércio, educação, informática, transporte, limpeza, turismo  
-    - Terciarização - Fenômeno de concentração da PEA no setor terciário, causado pela mecanização do 1o e 2o setor e urbanização. Presente no Brasil  
+	- Primário - Extração de bens e recursos da natureza. Ex: agricultura, pecuária, extrativismo  
+	- Secundário - Transformação de bens e recursos em produtos. Ex: indústria, construção civil  
+	- Terciário - Prestação de serviços. Ex: saúde, comércio, educação, informática, transporte, limpeza, turismo  
+		- Terciarização - Fenômeno de concentração da PEA no setor terciário, causado pela mecanização do 1o e 2o setor e urbanização. Presente no Brasil  
 - Trabalho Informal - Trabalho realizado à margem da lei, não havendo direitos trabalhistas como férias remuneradas e previdência. Causado pela falta de emprego formal por baixa qualificação ou crises  
 - Trabalho Análogo à Escravidão - Trabalho proibido por lei em que há a exploração do trabalhador pelo trabalho forçado, não podendo sair do local, jornada de trabalho alta, ameaças e condições precárias  
 - Consolidação das Leis Trabalhistas (CLT) - Leis que regulamentam os direitos e deveres dos trabalhadores, como salário mínimo, jornada de trabalho semanal e previdência social, entre outros  
-  - Reforma Trabalhista 2017 - Houve o fim da contribuição sindical obrigatória, férias fracionadas e aumento de terceirização  
-    - Terceirização - Contratação de outra empresa para prestar um serviço  
-  - Previdência Social Brasileira - Seguro de aposentadoria em que contribuições mensais descontadas do salário garantem aposentadoria, além de renda temporária como licença-maternidade e acidentes. Afetado pelo envelhecimento populacional, causando reformas para diminuir gastos públicos, intensificados pelo envelhecimento. Atualmente, a idade mínima de aposentadoria é de 65 para homens e 62 para mulheres
+	- Reforma Trabalhista 2017 - Houve o fim da contribuição sindical obrigatória, férias fracionadas e aumento de terceirização  
+		- Terceirização - Contratação de outra empresa para prestar um serviço  
+	- Previdência Social Brasileira - Seguro de aposentadoria em que contribuições mensais descontadas do salário garantem aposentadoria, além de renda temporária como licença-maternidade e acidentes. Afetado pelo envelhecimento populacional, causando reformas para diminuir gastos públicos, intensificados pelo envelhecimento. Atualmente, a idade mínima de aposentadoria é de 65 para homens e 62 para mulheres
 ## Cap. 6
 Migração - Deslocamento de pessoas de um local para outro. Causado por fatores atrativos, como oferta de trabalho e estudo, disponibilidade de serviços, moradia, melhores condições de vida, e por fatores repulsivos do local de origem, como pobreza, desemprego, desastres naturais, guerras e perseguições
 - Imigração - Entrada de pessoas (imigrantes) em um local, chamado de área de afluxo  
@@ -178,20 +178,20 @@ Migração - Deslocamento de pessoas de um local para outro. Causado por fatores
 
 Tipos de Migração
 - Por Espaço  
-  - Interna - Ocorre entre locais de um mesmo país  
-  - Externa - Ocorre entre países  
+	- Interna - Ocorre entre locais de um mesmo país  
+	- Externa - Ocorre entre países  
 - Por Tempo - Temporária ou definitiva  
 - Por Organização  
-  - Espontânea - Causada por vontade própria dos moradores  
-  - Estimulada - Estimulado economicamente  
-  - Forçada - Obrigado a migrar, como em emprego, guerras e desastres naturais  
+	- Espontânea - Causada por vontade própria dos moradores  
+	- Estimulada - Estimulado economicamente  
+	- Forçada - Obrigado a migrar, como em emprego, guerras e desastres naturais  
 - Por Causa  
-  - Migração Pendular - Ocorre entre uma cidade pequena e grande ou entre o subúrbio e centro de uma cidade, para trabalhar e depois voltar, sendo diária  
-    - Cidades Dormitório (ou Satélites) - Cidades mais residenciais em que a maioria dos seus moradores trabalham em outra cidade  
-  - Migração Sazonal (ou Transumância) - Migração temporária causada pelas estações do ano, sendo muitas vezes rural. Ex: sertão (períodos de chuva) e zona da mata (períodos de estiagem)  
-    - Cidades Viúvas da Seca - Cidades em que há grande fluxo migratório de migração sazonal  
-  - Êxodo Rural - Migração definitiva em que há a saída do campo para a cidade, por fatores como mecanização do trabalho, falta de infraestrutura e de reformas agrárias. Contudo, pode causar macrocefalia urbana, periferização, favelização, desigualdade social e aumento na criminalidade  
-  - Êxodo Urbano - Migração definitiva em que há a saída da cidade para o campo, por causa da criminalidade e caos urbano
+	- Migração Pendular - Ocorre entre uma cidade pequena e grande ou entre o subúrbio e centro de uma cidade, para trabalhar e depois voltar, sendo diária  
+		- Cidades Dormitório (ou Satélites) - Cidades mais residenciais em que a maioria dos seus moradores trabalham em outra cidade  
+	- Migração Sazonal (ou Transumância) - Migração temporária causada pelas estações do ano, sendo muitas vezes rural. Ex: sertão (períodos de chuva) e zona da mata (períodos de estiagem)  
+		- Cidades Viúvas da Seca - Cidades em que há grande fluxo migratório de migração sazonal  
+	- Êxodo Rural - Migração definitiva em que há a saída do campo para a cidade, por fatores como mecanização do trabalho, falta de infraestrutura e de reformas agrárias. Contudo, pode causar macrocefalia urbana, periferização, favelização, desigualdade social e aumento na criminalidade  
+	- Êxodo Urbano - Migração definitiva em que há a saída da cidade para o campo, por causa da criminalidade e caos urbano
 
 ---
 
@@ -200,7 +200,7 @@ Fluxos Migratórios Internacionais - Caracterizada pela busca por melhores condi
 - África - Área de emigração antes pela escravidão e depois pelos conflitos étnicos e baixa qualidade de vida, com destaque para a Primavera Árabe  
 - Ásia - Área de emigração por conflitos étnicos (oriente médio) e crises  
 - América - Até o fim da 2a guerra mundial era área de imigração pela oferta de emprego, industrialização e urbanização recente e doação de terras. Depois, se tornou de emigração na américa latina, pela busca de melhores condições de vida  
-  - Brasil - Após a escravidão, houve muita imigração por incentivos à chegada de mão-de-obra estrangeira, sobretudo europeia e japonesa  
+	- Brasil - Após a escravidão, houve muita imigração por incentivos à chegada de mão-de-obra estrangeira, sobretudo europeia e japonesa  
 - Refugiados - Pessoas que saem de seu país por perseguição étnica, política, religiosa ou de grupos social
 
 ---
@@ -218,19 +218,19 @@ Cidade - Aglomerado humano concentrado, organizado em ruas e com ampla presença
 Urbanização - Concentração da população de um local na área urbana. Causada pelo êxodo rural, industrialização e crescimento vegetativo urbano
 - Urbanização de Países Desenvolvidos - Ocorreu de forma lenta e ordenada, como na Europa e posteriormente mais rápida nos EUA e Japão
 - Urbanização de Países em Desenvolvimento e Subdesenvolvidos - Ocorreu de forma rápida e caótica, como no Brasil
-  - Urbanização Brasileira - Iniciou no Sudeste pela industrialização, depois Centro-Oeste pela concentração agrícola, depois no Sul, Norte e Nordeste
+	- Urbanização Brasileira - Iniciou no Sudeste pela industrialização, depois Centro-Oeste pela concentração agrícola, depois no Sul, Norte e Nordeste
 
 ---
 
 Rede Urbana - Conjunto de cidades de um local conectadas por transporte e telecomunicações
 Hierarquia Urbana - Classificação das cidades de uma rede urbana de acordo com seu tamanho, economia e influência em outras cidades
 - Metrópole - Cidade formada por vários municípios conectados com grande influência nacional
-  - Região Metropolitana - Cidades conurbadas (unidas por causa do crescimento urbano)
-  - Metrópole Mundial (ou Cidade Global) - Metrópole com grande influência econômica internacional
-  - Megacidades - Cidades com mais de 10 milhões de habitantes
-  - Megalópole - União de várias metrópoles/regiões metropolitanas
-  - Metropolização - Processo de conurbação de cidades, com o desaparecimento de limites visíveis entre elas, formando as metrópoles
-    - Desmetropolização - Ocorre quando o crescimento de pequenas e médias cidades supera o das grandes metrópoles
+	- Região Metropolitana - Cidades conurbadas (unidas por causa do crescimento urbano)
+	- Metrópole Mundial (ou Cidade Global) - Metrópole com grande influência econômica internacional
+	- Megacidades - Cidades com mais de 10 milhões de habitantes
+	- Megalópole - União de várias metrópoles/regiões metropolitanas
+	- Metropolização - Processo de conurbação de cidades, com o desaparecimento de limites visíveis entre elas, formando as metrópoles
+		- Desmetropolização - Ocorre quando o crescimento de pequenas e médias cidades supera o das grandes metrópoles
 
 ---
 
@@ -244,7 +244,7 @@ Poluição Atmosférica - Causada pela emissão de poluentes (como CO2, CO, CH4,
 
 Impermeabilização do Solo - Causada pela falta de áreas verdes e superfícies permeáveis pelo adensamento urbano
 - Ilhas de Calor - Aquecimento em áreas mais edificadas, em que eles prendem o calor, e há a falta de áreas verdes para facilitar a circulação de ar. Pode levar ao aumento de doenças e afetar as chuvas urbanas
-  - Verticalização - Crescimento para cima de uma cidade, pela construção de prédios cada vez mais altos, gerando tanto fatores como as ilhas de calor, quanto a segregação racial
+	- Verticalização - Crescimento para cima de uma cidade, pela construção de prédios cada vez mais altos, gerando tanto fatores como as ilhas de calor, quanto a segregação racial
 - Enchentes - Alagamento de vias pavimentadas, podendo causar danos econômicos e sociais, além de provocarem a proliferação de doenças e poluição de rios
 
 ---
@@ -252,10 +252,10 @@ Impermeabilização do Solo - Causada pela falta de áreas verdes e superfícies
 Desmatamento - Pela expansão urbana, causada pelo aumento populacional. Causa danos à fauna e flora, diminuindo a biodiversidade
 Lixo - Causado pela maior produção e consumo de produtos, além da destinação do lixo gerado por eles (como os lixões), e a falta de destinação correta (reciclagem, coleta seletiva, aterro sanitário). Sua decomposição gera o gás de efeito estufa metano, além do líquido chorume, que pode poluir o solo e lençóis freáticos
 - Tipos de Lixo
-  - Lixo Doméstico - Lixo gerado no dia a dia
-  - Lixo Industrial - Resíduos gerados por indústrias, como produtos químicos
-  - Lixo Hospitalar - Lixo de material infectado, devendo ser incinerado
-  - Lixo Eletrônico - Produtos eletrônicos, causando danos graves ao meio ambiente se descartados de forma incorreta
+	- Lixo Doméstico - Lixo gerado no dia a dia
+	- Lixo Industrial - Resíduos gerados por indústrias, como produtos químicos
+	- Lixo Hospitalar - Lixo de material infectado, devendo ser incinerado
+	- Lixo Eletrônico - Produtos eletrônicos, causando danos graves ao meio ambiente se descartados de forma incorreta
 - Aterro Sanitário - O lixo é enterrado e seus produtos são tratados
 - Aterro Controlado - O lixo é apenas enterrado. É melhor que o lixão, mas ainda polui o ambiente. Usado por ser mais barato que o aterro sanitário
 
@@ -272,12 +272,12 @@ Pecuária - Criaçaõ de animais para uso de alimentação, transporte e pesquis
 
 Tipos de Agricultura
 - por Finalidade
-  - de Subsistência - Para consumo próprio
-  - Comercial - Para venda
+	- de Subsistência - Para consumo próprio
+	- Comercial - Para venda
 - por Técnica (ou Rendimento do Solo) - Dependem da terra, da quantidade de trabalho, de capital e do mercado
-  - Extensiva - Baixa produtividade, com baixo investimento de capital e tecnológico. Ex: agricultura itinerante
-  - Intensivo de Mão de Obra - Alta quantidade de mão-de-obra e médio investimento de capital. Ex: agricultura empresarial
-  - Intensivo de Capital - Alto investimento de capital e pouca mão-de-obra, a qual é especializada, com grande uso de tecnologia e produtividade. Ex: agricultura contemporânea
+	- Extensiva - Baixa produtividade, com baixo investimento de capital e tecnológico. Ex: agricultura itinerante
+	- Intensivo de Mão de Obra - Alta quantidade de mão-de-obra e médio investimento de capital. Ex: agricultura empresarial
+	- Intensivo de Capital - Alto investimento de capital e pouca mão-de-obra, a qual é especializada, com grande uso de tecnologia e produtividade. Ex: agricultura contemporânea
 Tipos de Pecuária
 - Pecuária Extensiva - Caracterizada por rebanhos que vivem soltos, sem cuidados especiais, buscando seu próprio alimento, com menos mão-de-obra
 - Pecuária Intensiva - Caracterizada por rebanhos em pequenas área, com muitos cuidados de higiene e saúde, com alta produtividade
@@ -303,46 +303,46 @@ Agroecologia - Práticas agrícolas com finalidade de preservação da biodivers
 
 Agropecuária Mundial
 - Países Desenvolvidos - Caracterizado pelo alto uso de mecanização, capital e tecnologia, realizada em grandes e médias propriedades, além de baixa mão-de-obra, com produtividade e produção altos. Há maior foco em abastecimento interno, tanto para alimentação quanto para agroindústria, além de muitas políticas de incentivo
-  - Estados Unidos - Produção organizada em cinturões agrícolas, sobretudo de trigo, milho e algodão
-  - Europa - Caracterizado pela alta diversidade, organizada em pequenas propriedades familiares, sobretudo para o abastecimento da agroindústria. Contudo, há desigualdades entre o leste e oeste europeu, além de grande protecionismo, aumentando sua competitividade artificialmente
+	- Estados Unidos - Produção organizada em cinturões agrícolas, sobretudo de trigo, milho e algodão
+	- Europa - Caracterizado pela alta diversidade, organizada em pequenas propriedades familiares, sobretudo para o abastecimento da agroindústria. Contudo, há desigualdades entre o leste e oeste europeu, além de grande protecionismo, aumentando sua competitividade artificialmente
 - Países em Desenvolvimento - Há a coexistência da agricultura moderna (grandes propriedades, com alto uso de tecnologia e produtividade, para exportação) e tradicional (pequenas propriedades, grande mão-de-obra, e subsistência)
-  - China - Muitos incentivos estatais, com modernização recente, mas é limitada pela escassez de terras e água, havendo maior concentração na parte ocidental do país. Destaque para o cultivo de arroz, chá, cereais e algodão
-  - Índia - Grande parte da população ativa do país, com avanços tecnológicos recentes, mas limitada pela má infraestrutura de irrigação, abastecimento e comercialização
-  - África - Maior presença de sistemas de baixa produtividade, limitada falta de tecnologia e vulnerabilidade
-    - África Setentrional (ou Norte da África) - Há maior concentração ao redor do rio Nilo e na região do Magreb
-    - África Subsaariana - Maior foco em agricultura tradicional e local, além de plantation
+	- China - Muitos incentivos estatais, com modernização recente, mas é limitada pela escassez de terras e água, havendo maior concentração na parte ocidental do país. Destaque para o cultivo de arroz, chá, cereais e algodão
+	- Índia - Grande parte da população ativa do país, com avanços tecnológicos recentes, mas limitada pela má infraestrutura de irrigação, abastecimento e comercialização
+	- África - Maior presença de sistemas de baixa produtividade, limitada falta de tecnologia e vulnerabilidade
+		- África Setentrional (ou Norte da África) - Há maior concentração ao redor do rio Nilo e na região do Magreb
+		- África Subsaariana - Maior foco em agricultura tradicional e local, além de plantation
 
 ---
 
 Agropecuária Brasileira - Maior presença de exportação, mas variando dependendo do desenvolvimento regional
 - Tipos
-  - Tradicional (ou Familiar) - Caracterizada pela subsistência, pequenas propriedades, técnicas rudimentares e ser destinada ao mercado interno. Há dificuldades de baixa produção
-  - Moderna (ou Patronal ou Empresarial) - Produção comercial (para o mercado externo), com grandes propriedades, alta mecanização e maior produtividade, além de grandes cadeias de agronegócio
+	- Tradicional (ou Familiar) - Caracterizada pela subsistência, pequenas propriedades, técnicas rudimentares e ser destinada ao mercado interno. Há dificuldades de baixa produção
+	- Moderna (ou Patronal ou Empresarial) - Produção comercial (para o mercado externo), com grandes propriedades, alta mecanização e maior produtividade, além de grandes cadeias de agronegócio
 - Regiões
-  - Sudeste - Maior concentração de agricultura moderna, com destaque para a soja, trigo e arroz
-    - Oeste Paulista - Principal região de agronegócio, pelo solo fértil (terra roxa) e planície, bem como a infraestrutura de transporte
-    - Triâgulo Mineiro - Fica na divisa do centro-oeste com sudeste, outra região de destaque
-    - Corredores de Exportação - Porto de Santos e Paranaguá como destaque
-  - Sul - Maior produção familiar do país, mas com presença de tecnologia, insumos e agronegócio, além da agropecuária comercial mais recentemente
-  - Centro-Oeste - Produção comercial consolidada recentemente, sobretudo por incentivos governamentais e mecanização e uso de insumos
-    - Calagem - Técnica de correção da acidez do solo, que contribuiu para o desenvolvimento da atividade no cerrado
-  - Nordeste - Maior produção familiar
-    - Sub-Regiões
-      - Zona da Mata - Maior foco em grandes propriedades para exportação, pela umidade
-      - Agreste - Agricultura familiar, pela umidade mais baixa
-      - Sertão - Familiar, sobretudo de algodão e milho
-      - Meio-Norte - Produção comercial sobretudo de arroz
-    - Vale do São Francisco - Região de destaque do nordeste, com agricultura de fruticultura
-    - Matopiba (ou Mapitoba) - Região mais recente de destaque no nordeste, com destaque para a produção de grãos e soja. Composta por Maranhão, Piauí, Tocantins e Bahia
-  - Norte - Presença tanto da agricultura tradicional quanto comercial (levando à intensificação do desmatamento)
+	- Sudeste - Maior concentração de agricultura moderna, com destaque para a soja, trigo e arroz
+		- Oeste Paulista - Principal região de agronegócio, pelo solo fértil (terra roxa) e planície, bem como a infraestrutura de transporte
+		- Triâgulo Mineiro - Fica na divisa do centro-oeste com sudeste, outra região de destaque
+		- Corredores de Exportação - Porto de Santos e Paranaguá como destaque
+	- Sul - Maior produção familiar do país, mas com presença de tecnologia, insumos e agronegócio, além da agropecuária comercial mais recentemente
+	- Centro-Oeste - Produção comercial consolidada recentemente, sobretudo por incentivos governamentais e mecanização e uso de insumos
+		- Calagem - Técnica de correção da acidez do solo, que contribuiu para o desenvolvimento da atividade no cerrado
+	- Nordeste - Maior produção familiar
+		- Sub-Regiões
+			- Zona da Mata - Maior foco em grandes propriedades para exportação, pela umidade
+			- Agreste - Agricultura familiar, pela umidade mais baixa
+			- Sertão - Familiar, sobretudo de algodão e milho
+			- Meio-Norte - Produção comercial sobretudo de arroz
+		- Vale do São Francisco - Região de destaque do nordeste, com agricultura de fruticultura
+		- Matopiba (ou Mapitoba) - Região mais recente de destaque no nordeste, com destaque para a produção de grãos e soja. Composta por Maranhão, Piauí, Tocantins e Bahia
+	- Norte - Presença tanto da agricultura tradicional quanto comercial (levando à intensificação do desmatamento)
 ## Cap. 10
 Indústria - Atividade de transformação de matéria-prima em produtos comerciais
 Evolução da Indústria
 - Artesanato - Transformação pelo artesão, responsável por todo o processo, e utilizando ferramentas mais simples. É mais única
 - Manufatura - Divisão do trabalho de produção entre operários por etapas, aumentando a produtividade
 - Maquinofatura - Utilização de máquinas e maior divisão do trabalho. Maior produtividade e desenvolvimento tecnológico ainda, mas aumentou o desemprego
-  - Revolução Industrial - Iniciou a maquinofatura, pelo uso de máquinas a vapor
-  - Atualidade - Uso de robôs, alta mecanização e padronização das mercadorias
+	- Revolução Industrial - Iniciou a maquinofatura, pelo uso de máquinas a vapor
+	- Atualidade - Uso de robôs, alta mecanização e padronização das mercadorias
 
 ---
 
@@ -370,16 +370,16 @@ Concentrações Financeiras
 
 Revoluções Industriais - Períodos de transformações na produção por maquinofatura
 - Primeira Revolução Industrial - Surgiu na Inglaterra, caracterizada pelo surgimento da maquinofatura, com a criação da máquina a vapor (surgindo o trem, por exemplo). Contudo, havia péssimas condições de trabalho, levando a revoltas
-  - Fonte de Energia - Carvão mineral
+	- Fonte de Energia - Carvão mineral
 - Segunda Revolução Industrial - Caracterizado pelo maior desenvolvimento tecnológico, com o surgimento   do telégrafo, telefone, rádio, motor a combustão, além de organizações financeiras (bancos e bolsas) e blocos econômicos
-  - Fonte de Energia - Petróleo e eletricidade
-  - Taylorismo - Sistema de produção que defendia a sistematização e especialização do trabalhador, buscando a eficiência máxima, com o gerenciamento científico do trabalhador
-  - Fordismo - Outro sistema baseado no taylorismo, em que há a linha de montagem, e a padronização e produção em massa de um produto, visando produtividade e lucro máximo
+	- Fonte de Energia - Petróleo e eletricidade
+	- Taylorismo - Sistema de produção que defendia a sistematização e especialização do trabalhador, buscando a eficiência máxima, com o gerenciamento científico do trabalhador
+	- Fordismo - Outro sistema baseado no taylorismo, em que há a linha de montagem, e a padronização e produção em massa de um produto, visando produtividade e lucro máximo
 - Terceira Revolução Industrial (ou Revolução Técnico-Científica-Informacional) - Caracterizado pelo desenvolvimento de tecnologias de ponta (robótica, informática, telecomunicações, nanotecnologia) e fontes de energia alternativas, além da globalização
-  - Toyotismo - Sistema de produção baseado na flexibilidade no uso de mão de obra e a produção com base na demanda (just in time, JIT)
-  - Desemprego Estrutural - Resultado da maior automação do trabalho
+	- Toyotismo - Sistema de produção baseado na flexibilidade no uso de mão de obra e a produção com base na demanda (just in time, JIT)
+	- Desemprego Estrutural - Resultado da maior automação do trabalho
 - Quarta Revolução Industrial (ou Indústria 4.0) - A fase atual, caracterizada pelo uso da internet nas indústrias, além da integração de tecnologias desenvolvidas na terceira fase
-  - Volvismo - Sistema caracterizado pelo grande treinamento e flexibilidade do operário, que inclusive participa de decisões mais importantes da produção
+	- Volvismo - Sistema caracterizado pelo grande treinamento e flexibilidade do operário, que inclusive participa de decisões mais importantes da produção
 
 ---
 
@@ -393,8 +393,8 @@ Indústria no Mundo
 - Tigres Asiáticos - Países do sudeste asiático que tiveram grande crescimento industrial de exportação, sobretudo por investimentos internacionais, mão-de-obra barata e incentivos governamentais. São Coreia do Sul, Cingapura, Taiwan e Hong Kong (ex colônia britânica, hoje parte da China). Caracterizado por alta tecnologia
 - Novos Tigres Asiáticos - Crescimento industrial mais recente. São Filipinas, Indonésia, Malásia e Tailândia, e mais recentemente ainda o Vietnã
 - Brics - Aliança entre Brasil, Rússia, Índia, China e África do Sul, países em desenvolvimento com grande potencial econômico. Caracterizado por grande quantidade de recursos naturais e mão-de-obra
-  - China - País de destaque do Brics, com um crescimento muito expressivo por investimentos estatais nas indústrias nacionais e abertura para o capital estrangeiro
-    - Zonas Econômicas Especiais (ZEEs) - Regiões de incentivo estatal para a entrada de capital estrangeiro, com isenção de impostos, grande quantidade de mão de obra e mercado consumidor
+	- China - País de destaque do Brics, com um crescimento muito expressivo por investimentos estatais nas indústrias nacionais e abertura para o capital estrangeiro
+		- Zonas Econômicas Especiais (ZEEs) - Regiões de incentivo estatal para a entrada de capital estrangeiro, com isenção de impostos, grande quantidade de mão de obra e mercado consumidor
 ## Cap. 12
 Industrialização Brasileira - Ocorreu de forma tardia, gerando rápida urbanização
 - Período Colonial - Quase não houve desenvolvimento de atividades além da agropecuária, por restrições portuguesas para manter o Brasil como fonte de matéria-prima e consumidor de produtos manufaturados
@@ -402,14 +402,14 @@ Industrialização Brasileira - Ocorreu de forma tardia, gerando rápida urbaniz
 - Crise do Café - A crise do café e fim das oligarquias permitiu o maior desenvolvimento industrial
 - Governo Getúlio Vargas - Criou uma política de industrialização, com grandes investimentos estatais sobretudo nas indústrias de base para subsituir a importação. Criou a Petrobrás, o Vale do Rio Doce, a Companhia Hidrelétrica do São Francisco (Chesf) e a Companhia Siderúrgica Nacional, entre outros
 - Governo Juscelino Kubitschek (JK) - Houve a ampliação e consolidação das medidas de Vargas, com grande desenvolvimento industrial
-  - Plano de Metas - Política governamental que buscava acelerar o desenvolvimento econômico. Houve a abertura e incentivo ao capital estrangeiro (sobretudo no setor automobilístico e eletroeletrônico), por exemplo
+	- Plano de Metas - Política governamental que buscava acelerar o desenvolvimento econômico. Houve a abertura e incentivo ao capital estrangeiro (sobretudo no setor automobilístico e eletroeletrônico), por exemplo
 - Ditadura Militar - Aumentou ainda mais a internacionalização, com a entrada de bem mais empresas estrangeias, aumentando a dependência econômica
-  - Milagre Econômico - Período de grande crescimento econômico, causado pela construção de obras de infraestrutura e por empréstimos, mas não houve o crescimento social pela exclusão social
-  - Década Perdida - Crises econômicas que surgiram após o milagre, descentralizando o parque industrial brasileira, e aumentando o fluxo de indústrias do Sudeste para outros locais, como o Nordeste, estimulado por isenção de impostos
-    - Guerra do Yom Kippur (ou do Dia do Perdão) - Conflito armado entre países árabes contra Israel, que causou o aumento no preço do petróleo, gerando uma crise global que inclusive chegou ao Brasil
-    - Desindustrialização - Desvalorização e diminuição da produção industrial brasileira, sobretudo pela maior competitividade de produtos estrangeiros
+	- Milagre Econômico - Período de grande crescimento econômico, causado pela construção de obras de infraestrutura e por empréstimos, mas não houve o crescimento social pela exclusão social
+	- Década Perdida - Crises econômicas que surgiram após o milagre, descentralizando o parque industrial brasileira, e aumentando o fluxo de indústrias do Sudeste para outros locais, como o Nordeste, estimulado por isenção de impostos
+		- Guerra do Yom Kippur (ou do Dia do Perdão) - Conflito armado entre países árabes contra Israel, que causou o aumento no preço do petróleo, gerando uma crise global que inclusive chegou ao Brasil
+		- Desindustrialização - Desvalorização e diminuição da produção industrial brasileira, sobretudo pela maior competitividade de produtos estrangeiros
 - Globalização - Aumentou a entrada do capital estrangeiro, a privatização. O Brasil continua sendo um país de baixa importância no comércio industrial internacional, pela falta de infraestrutura de transporte e grande carga tributária, entre outros
-  - Desindustrialização - Queda do valor gerado por indústrias, ocorrendo no Brasil recentemente pela maior competitividade de produtos estrangeiros
+	- Desindustrialização - Queda do valor gerado por indústrias, ocorrendo no Brasil recentemente pela maior competitividade de produtos estrangeiros
 
 ---
 
@@ -446,27 +446,27 @@ Setor Terciário - Conjunto de atividades relacionadas ao comércio de mercadori
 Guerra Fria - Conflito ideológico entre a EUA (defendendo o capitalismo) e URSS (socialismo), chamadas de superpotências, mas sem haver conflito armado direto pela capacidade de destruição mútua (paz armada)
 - Bipolarização (ou Ordem Bipolar) - Divisão do mundo entre zonas de influência dos EUA e URSS
 - Sistemas Socioeconômicos
-  - Capitalismo - Defende o direito de propriedade e produçãoo privada e acúmulo de capital, com uma economia de mercado
-  - Socialismo - Defende a propriedade e produção estatais, com economia planificada
+	- Capitalismo - Defende o direito de propriedade e produçãoo privada e acúmulo de capital, com uma economia de mercado
+	- Socialismo - Defende a propriedade e produção estatais, com economia planificada
 - Blocos Militares
-  - Organização do Tratado do Atlântico Norte (Otan) - Acordo de ajuda militar entre os EUA e a Europa ocidental
-  - Pacto de Varsóvia - Acordo de ajuda entre a URSS e o leste europeu
+	- Organização do Tratado do Atlântico Norte (Otan) - Acordo de ajuda militar entre os EUA e a Europa ocidental
+	- Pacto de Varsóvia - Acordo de ajuda entre a URSS e o leste europeu
 - Políticas
-  - Plano Marshall - Investimento dos EUA para a recuperação da Europa ocidental pós-guerra, buscando garantir sua integração econômica
-  - Plano Colombo - Apoio econômico dos EUA para a recuperação do Japão, gerando grande crescimento econômico
-  - Conselho de Assistência Econômica Mútua (Comecom) - Criada pela URSS para realizar a integração econômica dos países socialistas, sendo uma resposta ao Plano Marshall
+	- Plano Marshall - Investimento dos EUA para a recuperação da Europa ocidental pós-guerra, buscando garantir sua integração econômica
+	- Plano Colombo - Apoio econômico dos EUA para a recuperação do Japão, gerando grande crescimento econômico
+	- Conselho de Assistência Econômica Mútua (Comecom) - Criada pela URSS para realizar a integração econômica dos países socialistas, sendo uma resposta ao Plano Marshall
 - Fim da Segunda Guerra Mundial
-  - Divisão da Alemanha - Houve a divisão da perdedora inicialmente entre os vencedores (EUA, URSS, França e Reino Unido), mas depois dividida entre um lado capitalista e outro socialista, com o mesmo sendo feito com Berlim
-    - Muro de Berlim - Construído pela URSS para separar Berlim capitalista da Alemanha socialista, sendo marco do conflito
-  - Descolonização Afro-Asiática - Enfraqueceu sobretudo a França e Reino Unido
+	- Divisão da Alemanha - Houve a divisão da perdedora inicialmente entre os vencedores (EUA, URSS, França e Reino Unido), mas depois dividida entre um lado capitalista e outro socialista, com o mesmo sendo feito com Berlim
+		- Muro de Berlim - Construído pela URSS para separar Berlim capitalista da Alemanha socialista, sendo marco do conflito
+	- Descolonização Afro-Asiática - Enfraqueceu sobretudo a França e Reino Unido
 - Cortina de Ferro - Metáfora para a divisão da Europa entre um lado capitalista (ocidente) e socialista (leste)
 - Corrida Armamentista - Disputa para a produção de armas, sobretudo nuclearesCorrida Espacial - Disputa tecnológica entre as potências para a exploração espacial. A URSS mandou o primeiro satélite e homem ao espaço, mas os EUA mandaram o primeiro homem a lua
 - Strategic Arms Limitation Talks (Salt) - Acordos entre os EUA e URSS que limitavam o uso de armas nucleares, amenizando a tensão
 - Fim - Houve a queda do muro de Berlim, dissolução da URSS, reunificação da Alemanha e fim do Pacto de Varsóvia
-  - Mikhail Gorbatchev - Último presidente soviético, assumiu durante período de crise econômica pelos gastos militares na corrida armamentista. Caracterizado pela abertura econômica, desarmamento e aproximação dos EUA
-    - Glasnost e Perestroika - Medidas criadas de transparência política e reestruturação econômica. Contudo, gerou insatisfação de conservadores, sofrendo um golpe de Estado, mas que foi combatido pela população
-  - Dissolução da URSS - Houve a independência de todas as repúblicas que formavam a URSS, causando sua dissolução. Contudo, gerou problemas territoriais que permanecem até hoje
-  - Comunidade dos Estados Independentes (CEI) - Organização criada de apoio mútuo entre antigos membros da URSS, mas que não tem muito efeito. Não houve a participação da Estônia, Letônia e Lituânia
+	- Mikhail Gorbatchev - Último presidente soviético, assumiu durante período de crise econômica pelos gastos militares na corrida armamentista. Caracterizado pela abertura econômica, desarmamento e aproximação dos EUA
+		- Glasnost e Perestroika - Medidas criadas de transparência política e reestruturação econômica. Contudo, gerou insatisfação de conservadores, sofrendo um golpe de Estado, mas que foi combatido pela população
+	- Dissolução da URSS - Houve a independência de todas as repúblicas que formavam a URSS, causando sua dissolução. Contudo, gerou problemas territoriais que permanecem até hoje
+	- Comunidade dos Estados Independentes (CEI) - Organização criada de apoio mútuo entre antigos membros da URSS, mas que não tem muito efeito. Não houve a participação da Estônia, Letônia e Lituânia
 
 ---
 
@@ -542,7 +542,7 @@ Haiti
 Colômbia
 - Frente Nacional - Organização formada por forças políticas para governar o país e combater sua instabilidade
 - Forças Armadas Revolucionárias da Colômbia (Farc) - Criada após a Frente Nacional, sendo contra ela e a favor de um regime socialista, gerando conflitos internos e realizando práticas terroristas
-  - Narcotráfico - Se envolveram com o narcotráfico para obter financiamento, se tornaram os principais distribuidores na Colômbia e exportadores para os EUA
+	- Narcotráfico - Se envolveram com o narcotráfico para obter financiamento, se tornaram os principais distribuidores na Colômbia e exportadores para os EUA
 - Plano Colômbia - Criado pela Colômbia com apoio dos EUA para combater o narcotráfico e o Farc como um todo, que foi enfraquecido. Eventualmente houve um acordo de paz com eles. Contudo, outros grupos como a ELN ainda não assinaram paz
 
 ---
@@ -575,15 +575,15 @@ Curdos (ou Curdistão) - Nação sem Estado localizado no Oriente Médio, na Tur
 Questão Israel-Palestina - Conflito territorial religioso entre o Estado de Israel (judeu) e da Palestina (muçulmano)
 - Expulsão dos Judeus - Ocorreu com a ocupação do local pelo Império Romano, havendo a ocupação pelos palestinos
 - Domínio Britânico - A palestina se tornou colônia britânica
-  - Sionismo - Migrações de judeus para a região da Palestina, sobretudo durante o domínio britânico e segunda guerra mundial
+	- Sionismo - Migrações de judeus para a região da Palestina, sobretudo durante o domínio britânico e segunda guerra mundial
 - Partilha da ONU - Pelo enfraquecimento da Inglaterra, a ONU criou uma divisão entre um Estado árabe e outro judeu
 - Guerra da Independência - Conflito entre Israel e Jordânia, Egito, Síria, Líbano e Iraque, pela insatisfação com a decisão da ONU. A faixa de Gaza e a Cisjordânia foi ocupada pelos árabes, e Jerusalém foi dividida. A Palestina foi invadida
 - Guerra dos Seis Dias - Reivindicação israelense à guerra anterior, conquistando a Cisjordânia, faixa de Gaza, península da Sinai, as colinas de Golã (da Síria) e Jerusalém
 - Guerra do Yom Kippur - Tentativa dos países árabes de reconquistar os territórios perdidos, mas houve vitória israelense com o apoio dos EUA
-  - Choque do Petróleo - Os países da Opep (Organização dos Países Exportadores de Petróleo), na maioria árabes, aumentaram o preço do petróleo para desestabilizar Israel e seus aliados (como os EUA), gerando uma crise mundial
-  - Yom Kippur (ou Dia do Perdão) - Feriado sagrado para os judeus, o dia em que ocorreu a invasão
-  - Acordo de Camp David - Houve a devolução da península do Sinai ao Egito em troca de paz
+	- Choque do Petróleo - Os países da Opep (Organização dos Países Exportadores de Petróleo), na maioria árabes, aumentaram o preço do petróleo para desestabilizar Israel e seus aliados (como os EUA), gerando uma crise mundial
+	- Yom Kippur (ou Dia do Perdão) - Feriado sagrado para os judeus, o dia em que ocorreu a invasão
+	- Acordo de Camp David - Houve a devolução da península do Sinai ao Egito em troca de paz
 - Organização para a Libertação da Palestina (OLP) - Entidade liderada inicialmente por Arafat, senod a principal na luta palestina
-  - Autoridade Nacional Palestina (ANP) - Governo provisório palestino
-  - Acordo de Olso - Acordo intermediado pelos EUA entre Israel e a OLP, garantindo o controle da Faixa de Gaza e Cisjordânia para a palestina, mas gerou insatisfação nas organizações terroristas e eventualmente foi quebrado, com a criação de assentamentos e um muro ao redor da Cisjordânia por Israel na Palestina
+	- Autoridade Nacional Palestina (ANP) - Governo provisório palestino
+	- Acordo de Olso - Acordo intermediado pelos EUA entre Israel e a OLP, garantindo o controle da Faixa de Gaza e Cisjordânia para a palestina, mas gerou insatisfação nas organizações terroristas e eventualmente foi quebrado, com a criação de assentamentos e um muro ao redor da Cisjordânia por Israel na Palestina
 - Hamas - Principal organização terrorista da palestina, com o objetivo de destruir Israel. Atualmente controlam a Faixa de Gaza

@@ -29,12 +29,12 @@ Teóricos do Estado
 - Nicolau Maquiavel - Separa política de moral, defendendo o realismo político (entendendo a política como ela é), defendendo que mais importante do que ser é parecer ser. Escreveu O Príncipe  
 - Jean Bodin e Jean Jacques Bossuet - Defendiam a teoria do direito divino, dizendo que o rei era escolhido por Deus e deveria ser respeitado. Justificativa para o absolutismo  
 - Thomas Hobbes - Escreveu O Leviatã. Defendia que o Estado veio de um pacto social para garantir a paz, necessitando de poder absoluto para isso  
-  - Jusnaturalismo - Direitos naturais e inalienáveis do homem  
+	- Jusnaturalismo - Direitos naturais e inalienáveis do homem  
 - John Locke - Defendia o liberalismo político, direito à propriedade privada e liberdade de expressão, garantida pelo Estado, que deveria ser democrático. Separou sociedade política (Estado) da sociedade civil (propriedade e herança)  
 - Montesquieu - Criou os três poderes  
-  - Executivo - É a presidência, executa  
-  - Legislativo - Responsável por elaborar leis. Levou ao surgimento do congresso, responsável pelos impostos, território, forças armadas, acordos internacionais, etc, sendo também responsável pela vigilância dos demais poderes   
-  - Judiciário - Julga crimes e conflitos entre cidadãos  
+	- Executivo - É a presidência, executa  
+	- Legislativo - Responsável por elaborar leis. Levou ao surgimento do congresso, responsável pelos impostos, território, forças armadas, acordos internacionais, etc, sendo também responsável pela vigilância dos demais poderes   
+	- Judiciário - Julga crimes e conflitos entre cidadãos  
 - Rousseau - Defendia um contrato social entre o povo e um Estado, mais ainda garantindo liberdade e igualdade, além de um governo democrático direto, diferente de Hobbes. Defendia que para haver igualdade, era necessário liberdade, sendo contra a propriedade privada  
 - Benjamin Constant - Defendia que a igualdade ameaçava a liberdade, resultado da diferença de classes  
 - Hegel - Defendia que não existe povo sem Estado, personificado pelo monarca  
@@ -49,10 +49,10 @@ Governo - Agrupamento que ocupa temporariamente o exercício do poder do Estado
 
 Tipos de Estado
 - Monarquia - O Estado é conduzido por uma pessoa. Inicialmente era apenas chefia militar, por exemplo, mas depois foi se fortalecendo até o absolutismo. Posteriormente, surgiram a monarquia constitucional e parlamentarista (o rei apenas reina, o primeiro-ministro governa)  
-  - Império - Todo imperador é rei, mas nem todo rei é imperador. O imperador era visto como único, perfeito e necessário para a salvação do mundo  
+	- Império - Todo imperador é rei, mas nem todo rei é imperador. O imperador era visto como único, perfeito e necessário para a salvação do mundo  
 - República - Um chefe de Estado (ou um grupo de pessoas) é eleito por eleição popular, que pode ser direta ou indireta. Pode ser presidencialista, com um presidente que é chefe de Estado e do governo, ou pode ser parlamentarista, com presidente e primeiro-ministro  
 - Federação - Autonomia das províncias internas, mas com um governo nacional da união. Também pode ser usado para designar organizações supranacionais federativas, como a ONU  
-  - Unitarismo (ou Centralismo) - Oposto da federação, as províncias não possuem autonomia
+	- Unitarismo (ou Centralismo) - Oposto da federação, as províncias não possuem autonomia
 
 ---
 
@@ -117,8 +117,8 @@ Tipos de Democracia por Partido
 
 Governos de Aristóteles - Defende que todos possuem uma forma pura, visando o interesse comum e uma forma impura. Ele diz que a democracia tem a melhor forma impura e a pior forma pura
 - Democracia - Governo do povo  
-  - Democracia Moderada - Forma pura  
-  - Demagogia - Governo de vantagem para o pobre, forma impura  
+	- Democracia Moderada - Forma pura  
+	- Demagogia - Governo de vantagem para o pobre, forma impura  
 - Monarquia - Governo de apenas uma pessoa, sendo a versão impura a tirania (vantagem para o monarca)  
 - Aristocracia - Governo da classe dominante, sendo a impura a oligarquia (vantagem para a classe dominante)
 
@@ -134,15 +134,15 @@ Tipos de Ditadura por Objetivo
 Tipos de Ditadura por Nível - Ocorre pelo nível de controle e infiltramento na sociedade
 - Autoritária - Caracterizada pela censura, manipulação de eleições e partidos, repressão militar, sociedade apolítica e contentamento da elite  
 - Totalitária - Caracterizado por uma ideologia única, sem partidos, forte propaganda nacionalista, culto ao líder e controle de comportamentos sociais e pensamentos (inclusive na vida privada). Ex: Alemanha nazista, URSS stalinista, coreia do norte comunista  
-  - Totalitarismo Fascista - Tem como base a classe média, defendendo propriedade privada e controle estatal da economia e com superioridade racial, sendo contra a igualdade  
-  - Totalitarismo Comunismo - Tem como base a massa proletária e rural, sendo contra a propriedade privada e classes sociais, defendendo a industrialização e sendo a favor da igualdade
+	- Totalitarismo Fascista - Tem como base a classe média, defendendo propriedade privada e controle estatal da economia e com superioridade racial, sendo contra a igualdade  
+	- Totalitarismo Comunismo - Tem como base a massa proletária e rural, sendo contra a propriedade privada e classes sociais, defendendo a industrialização e sendo a favor da igualdade
 ## Cap. 5
 Tipos de Estado
 - Liberal - Defende a mínima intervenção do Estado na economia, buscando o desenvolvimento econômico. Defende, por exemplo, a privatização  
 - Social (ou Welfare State) - Defende a presença de rede de políticas sociais  
 - Governos Socialistas - Contra o capitalismo e suas relações de domínio pela propriedade privada  
 - Socialismo Científico - Defende o governo do proletariado, como forma de transição para as transformações necessárias para o comunismo, reforçando a composição popular do Estado. Depois dele, haveria o desaparecimento do Estado. Idealizado por Karl Marx  
-  - Democratização - Para o Estado socialista, inclui o voto universal, abolição da propriedade privada e classes sociais, descentralização do Estado, controle do povo de órgãos políticos e democracia direta, minimizando representantes eleitos, além desses podendo ter seu poder revogado  
+	- Democratização - Para o Estado socialista, inclui o voto universal, abolição da propriedade privada e classes sociais, descentralização do Estado, controle do povo de órgãos políticos e democracia direta, minimizando representantes eleitos, além desses podendo ter seu poder revogado  
 - Socialismo Utópico - Permite a propriedade privada e classes sociais, mas busca a melhor distribuição de renda (bem-estar social), com reformas sociais, mutualismo e um partido político único para chegar ao poder  
 - Social-Democracia - Parecido ao utópico, mas defende a pluralidade de partidos e serve como transição ao socialismo científico  
 - Anarquismo - Defende o fim imediato do Estado, propriedade privada e classes sociais, com a auto-organização da sociedade e da economia, garantindo a igualdade
@@ -152,7 +152,7 @@ Tipos de Estado
 Revolução - Processo em que um grupo social entra em confronto com as autoridades políticas atuais, por uma necessidade social, visando tomar o poder, derrubar esses do poder ou substituí-los, gerando diversas, rápidas e grandes mudanças políticas, econômicas e sociais, sendo considerado fonte de mudanças na história. Ex: revolução francesa, russa
 - Revolução Burguesa - Marcada pela tomada do poder pela burguesia, implementando diversas transformações sociais, econômicas e políticas. Eram contra a concentração de poder (monarquia) e os monopólios, e influenciaram na revolução industrial e fortalecimento do capital  
 - Revolução Socialista - Busca a substituição do capitalismo pelo socialismo, substituindo relações de domínio por mutualismo. Não há uma visão única, pela necessidade ou não de outros países socialistas, por exemplo  
-  - Marx - Para ele, é necessário a ditadura do proletariado, aliança entre os operários e camponeses, fim da propriedade privada e planificação da economia, também defendendo a violência nesse processo
+	- Marx - Para ele, é necessário a ditadura do proletariado, aliança entre os operários e camponeses, fim da propriedade privada e planificação da economia, também defendendo a violência nesse processo
 
 ---
 
@@ -160,7 +160,7 @@ Materialismo Histórico-Dialético - Método de análise defendido por Marx em q
 ## Cap. 6
 Movimentos Sociais - Comportamentos organizados por um grupo com valores comuns que buscam alguma mudança ou não mudança. Para ser movimento social, precisa haver organização, com uma identidade e objetivo comum no grupo. Pode ser controlado pelo Estado por meio de negociações ou violência. Pode resultar na criação de partidos e outras organizações. Ex: greves
 - Reivindicativos (ou Reformistas) - Mudanças nas normas, funções e destinação de recursos. Ex: Movimento dos Trabalhadores Rurais sem Terra (MST)  
-  - Igualitários - Buscam garantir a igualdade de direitos, combatendo desigualdade e discriminação. Ex: movimento feminista, antirracista, LGBTQIA+  
+	- Igualitários - Buscam garantir a igualdade de direitos, combatendo desigualdade e discriminação. Ex: movimento feminista, antirracista, LGBTQIA+  
 - Conservadores - São contra uma mudança estabelecida ou a ser estabelecida  
 - Políticos - Mudanças na participação política. Ex: movimento contra o apartheid  
 - de Classe (ou Revolucionários) - Mais extremo, mudando a ordem social e as relações de classe e produção. Ex: cartismo  
@@ -223,7 +223,7 @@ Língua - Meio de comunicação internalizado para definir o mundo, contribuindo
 
 Dominação Cultural - Da mesma forma que culturas podem ser impostas e aculturadas, a memória coletiva também pode, criando relações de poder nela. Por isso, pode também haver a perda de culturas e memórias
 - Patrimônio Cultural (ou Histórico e Artístico) - Bens que contribuem para a preservação e imortalização de uma cultura, podendo ser material ou imaterial (como línguas, danças), sendo importante sua valorização
-  - Instituições de Preservação Cultural - Instituições que tem como objetivo a preservação dos patrimônios culturais. Ex: Unesco, Iphan
+	- Instituições de Preservação Cultural - Instituições que tem como objetivo a preservação dos patrimônios culturais. Ex: Unesco, Iphan
 ## Cap. 9
 Mídia - Meios de comunicação e grande escala e distância. Ex: internet, televisão, rádio, telefone
 Sociedade Midiática - Nossa sociedade, em que há uma forte presença das mídia em nosso cotidiano
@@ -236,33 +236,33 @@ Meios de Comunicação em Massa - Meios de comunicação em que há bem menos pr
 ## Cap. 10
 Formação do Estado Brasileiro
 - Brasil Colonial - Caracterizado pela economia agrária, escravidão, concentração de renda e domínio da metrópole
-  - Capitanias Hereditárias - Divisão da colônia entre capitães-donatários, que serviam como governadores. Não deu certo
-  - Governo-Geral - Poder sobre todo o território colonial, acima das capitanias
-  - Câmaras Municipais - As mais locais, tomando conta dos problemas do local
+	- Capitanias Hereditárias - Divisão da colônia entre capitães-donatários, que serviam como governadores. Não deu certo
+	- Governo-Geral - Poder sobre todo o território colonial, acima das capitanias
+	- Câmaras Municipais - As mais locais, tomando conta dos problemas do local
 - Monarquia - Era constitucional, mas com muito poder ainda centralizado na mão do imperador, que escolhia os governadores, por exemplo
-  - Revoltas - Contra a centralização política. Ex: Revolução Praieira
-  - Poder Moderador - Criado por Dom Pedro I, dando poder quase absoluto a ele, podendo interferir nas decisões dos outros poderes
-  - Parlamentarismo às Avessas - Sistema parlamentar praticado no Brasil, mas em que o rei elegia o primeiro-ministro
-  - Lei Áurea - Aboliu a escravidão, substituindo o trabalho por mão-de-obra assalariada
+	- Revoltas - Contra a centralização política. Ex: Revolução Praieira
+	- Poder Moderador - Criado por Dom Pedro I, dando poder quase absoluto a ele, podendo interferir nas decisões dos outros poderes
+	- Parlamentarismo às Avessas - Sistema parlamentar praticado no Brasil, mas em que o rei elegia o primeiro-ministro
+	- Lei Áurea - Aboliu a escravidão, substituindo o trabalho por mão-de-obra assalariada
 - República - Implementada após um golpe de Estado por Deodoro da Fonseca. Caracterizada pelo federalismo (maior autonomia dos estados)
-  - Oligarquia - Período caracterizado pelo domínio do Estado pelos coronéis (elite agrária), com eleições fraudadas (voto de cabresto)
-  - Revolução de 1930 - Golpe de Estado que acabou com o período oligárquico, criando um regime autoritário liderado por Getúlio Vargas, caracterizado por políticas trabalhistas e industrialização, além do período de segunda guerra e guerra fria
-  - Juscelino Kubitschek - Presidente eleito após Vargas, caracterizado por forte crescimento econômico
-  - Ditadura Militar - Ditadura autoritária implementada nos anos 60
-    - Milagre Econômico - Grande crescimento econômico durante a ditadura militar, mas foi seguido de crise
-  - "Diretas Já" - Movimento de combate ao voto indireto
+	- Oligarquia - Período caracterizado pelo domínio do Estado pelos coronéis (elite agrária), com eleições fraudadas (voto de cabresto)
+	- Revolução de 1930 - Golpe de Estado que acabou com o período oligárquico, criando um regime autoritário liderado por Getúlio Vargas, caracterizado por políticas trabalhistas e industrialização, além do período de segunda guerra e guerra fria
+	- Juscelino Kubitschek - Presidente eleito após Vargas, caracterizado por forte crescimento econômico
+	- Ditadura Militar - Ditadura autoritária implementada nos anos 60
+		- Milagre Econômico - Grande crescimento econômico durante a ditadura militar, mas foi seguido de crise
+	- "Diretas Já" - Movimento de combate ao voto indireto
 
 ---
 
 Poder Executivo - Desempenhado pelo presidente federal
 - Presidente - Chefe de Estado, eleito por voto direto a cada 4 anos, junto com o vice-presidente. Responsável pela administração federal
-  - Vice-Presidente - Responsável por substituir o presidente na sua ausência e ou auxiliá-lo
+	- Vice-Presidente - Responsável por substituir o presidente na sua ausência e ou auxiliá-lo
 - Ministro de Estado (ou Ministro-Chefe) - Escolhido pelo presidente, responsável por liderar seu ministério
-  - Ministérios - Órgãos federais atrelados à certos setores, implementando políticas para seus setores
+	- Ministérios - Órgãos federais atrelados à certos setores, implementando políticas para seus setores
 Poder Legislativo - Desempenhado pelo congresso nacional
 - Congresso Nacional - Formado pela câmara dos deputados e o senado federal
-  - Câmara dos Deputados - Formado pelos deputados, eleitos de forma proporcional à população do estado que representam
-  - Senado Federal - Formado pelos senadores, sendo 3 por estado
+	- Câmara dos Deputados - Formado pelos deputados, eleitos de forma proporcional à população do estado que representam
+	- Senado Federal - Formado pelos senadores, sendo 3 por estado
 ## Cap. 11
 Indústria Cultural - Cultura criada pelas classes dominantes com o intuito de atingir as massas ao máximo
 - Theodor Adorno e Max Horkheimer (Escola de Frankfurt) - Criaram o termo. Para eles, a indústria cultural contribui para a desumanização, por silenciar o pensamento crítico e a individualidade. Além disso, diziam que a cultura de massas é produto da indústria cultural
@@ -281,7 +281,7 @@ Cultura das Massas - Cultura padronizada e massificada
 - Regimes Autoritários - Força sua cultura pela censura e controle de atividades
 - Regimes Liberais - Sistemas privados buscam agradar ao máximo o público pelo divertimento, buscando o lucro máximo, ainda havendo a monopolização e baixo investimento culturas em todos os sistemas
 - Desintegração do Poder Cultural - Uma ideia é avaliada por sua rentabilidade (sistema privado) ou oportunidade política (do Estado), e depois é manipulada na parte técnica, havendo a despersonalização da invenção em si e a racionalização da produção
-  - Contradição Invenção-Padronização - Há a padronização na produção cultural, mas as massas buscam a personalidade e originalidade
+	- Contradição Invenção-Padronização - Há a padronização na produção cultural, mas as massas buscam a personalidade e originalidade
 ## Cap. 12
 Folclore - Tipo de cultura popular caracterizada por ser a memória cultural (costumes, lendas, manifestações, pratos, danças) mais remota de um povo, fazendo parte de um inconsciente coletivo e contribuindo para a identidade nacional
 Sociedade Midiática - Levou à transformação do folclore em um produto de consumo, tratado como mercadoria pelas elites, como na indústria cultural, levando a perda de diversidade e legitimidade
@@ -301,7 +301,7 @@ Atenas e Roma - Onde foi criado o primeiro conceito de direito humano, com a cid
 Revolução Burguesa - Caracterizada pela transição do absolutismo e domínio da Igreja para o capitalismo, havendo a valorização da igualdade natural, propriedade privada, liberdade e autonomia, em vez de uma hierarquia baseada na nascença
 - Bodin e Bossuet - Criaram a teoria do direito divino, defendendo que o monarca absoluto foi escolhido por Deus para governar, justificando o absolutismo
 - Thomas Hobbes - Defendia que o ser humano é mal por natureza, sendo necessário um Estado para garantir a ordem, servindo de justificativa para o absolutismo
-  - Jusnaturalismo Hobbesiano - Os humanos trocam parte de sua liberdade para uma pessoa com poder absoluto, que ajuda a garantir seus direitos
+	- Jusnaturalismo Hobbesiano - Os humanos trocam parte de sua liberdade para uma pessoa com poder absoluto, que ajuda a garantir seus direitos
 - Jean-Jacques Rousseau - Defende que o ser humano é bom por natureza, mas é corrompido
 - Nicolau Maquiavel - Defende a separação da política e religião, buscando entender a política como ela é, e não como devia ser
 Revolução Inglesa - Acabou com o absolutismo britânico, iniciando uma monarquia parlamentarista
@@ -324,15 +324,15 @@ Luta Atual por Direitos Humanos (ou Direitos de Terceira Geração) - Tem maior 
 ## Cap. 14
 Cultura Brasileira - Caracterizada por ser bem heterogênea, com diversidade de costumes, tradições e hábitos diferentes, sendo uma mistura de cultura popular e erudita e de regionalismos, formada pela interação de diversos povos
 - Cultura de Massas - Consequência do capitalismo, podendo gerar a padronização de culturas nos meios de comunicação, onde ocorrem a maioria da transmissão de informações, pelo maior número de receptores do que produtores. No Brasil, é caracterizada pela rivalidade entre a nacional (nacionalismo cultural) e a internacional
-  - Cinema - Há a maior hegemonia da cultura de massa internacional, sobretudo dos estados unidos, enfraquecento o cinema nacional
-  - Música - Há a maior hegemonia da nacional. Contudo, ainda sofre com a padronização da indústria cultural
-    - Sertanejo - Principal exemplo de padronização, havendo a perda de temas do Sertão e críticas para conflitos amorosos, se tornando uma mercadoria que busca apenas seduzir, e não gerar reflexão ou pensamento
+	- Cinema - Há a maior hegemonia da cultura de massa internacional, sobretudo dos estados unidos, enfraquecento o cinema nacional
+	- Música - Há a maior hegemonia da nacional. Contudo, ainda sofre com a padronização da indústria cultural
+		- Sertanejo - Principal exemplo de padronização, havendo a perda de temas do Sertão e críticas para conflitos amorosos, se tornando uma mercadoria que busca apenas seduzir, e não gerar reflexão ou pensamento
 - Meios de Comunicação de Massa - No Brasil, há destaque para a televisão, em declínio, serviços de streaming, em crescimento, substituindo ela (por exemplo, a criação da globoplay), e as redes sociais. Dependem da publicidade para gerarem lucro
-  - Colonialismo Cultural - Ocorre quando a maioria das agências de notícias menores acabam repetindo notícias de agentes maiores, que podem inclusive ser internacionais, desvalorizando 
-  - Internet - Crucial para os meios de comunicação de massa, que vem crescendo no país com o aumento do acesso à internet
+	- Colonialismo Cultural - Ocorre quando a maioria das agências de notícias menores acabam repetindo notícias de agentes maiores, que podem inclusive ser internacionais, desvalorizando 
+	- Internet - Crucial para os meios de comunicação de massa, que vem crescendo no país com o aumento do acesso à internet
 - Leitura - Pode servir como resistência à cultura de massa, pela sua variedade e presença de conteúdos diferenciados. Contudo, é muito fraca no Brasil
 - Religião - Predominância do cristianismo. Também sofre com a indústria cultural, pela busca da aderência de novos fiéis
-  - Sincretismo Religioso - Existência simultânea de práticas religiosas distintas. Ex: prática de vestir branco no Ano Novo (origem candomblé, mas praticada por muitas pessoas de outras religiões)
+	- Sincretismo Religioso - Existência simultânea de práticas religiosas distintas. Ex: prática de vestir branco no Ano Novo (origem candomblé, mas praticada por muitas pessoas de outras religiões)
 
 ---
 
@@ -352,18 +352,18 @@ Sociologia no Brasil
 
 Sociólogos Brasileiros
 - Geração de 1930 - Durante o governo de Vargas
-  - Gilberto Freyre - Escreveu Casa Grande & Senzala, onde ele defende a mestiçagem e mistura de culturas e etnias no Brasil positiva, contribuindo para a formação do povo brasileiro. Contudo, também defendia a democracia racial
-    - Democracia Racial - Visão em que há igualdade social e econômica entre todas as raças
-  - Fernando de Azevedo - Sociólogo que reforçava a ideia de Freyre da união de etnias e culturas diferentes
-  - Sérgio Buarque de Holanda - Escreveu Raízes do Brasil, procurando entender a identidade do brasileiro, atribuindo o (sobretudo as elites) ao conceito de homem cordial. Além disso, critica a democracia racial de Freyre
-    - Homem Cordial - Indivíduo que age conforme as emoções e afeto, e não pela ação racional, sendo inprevisível e podendo levar a priorização de interesses populares (como a família e amigos) do que o interesse comum
-  - Caio Prado Júnior - Escreveu Formação do Brasil Contemporâneo, analisando a evolução da sociedade brasileira sob uma visão marxista, focada nas diferentes classes
+	- Gilberto Freyre - Escreveu Casa Grande & Senzala, onde ele defende a mestiçagem e mistura de culturas e etnias no Brasil positiva, contribuindo para a formação do povo brasileiro. Contudo, também defendia a democracia racial
+		- Democracia Racial - Visão em que há igualdade social e econômica entre todas as raças
+	- Fernando de Azevedo - Sociólogo que reforçava a ideia de Freyre da união de etnias e culturas diferentes
+	- Sérgio Buarque de Holanda - Escreveu Raízes do Brasil, procurando entender a identidade do brasileiro, atribuindo o (sobretudo as elites) ao conceito de homem cordial. Além disso, critica a democracia racial de Freyre
+		- Homem Cordial - Indivíduo que age conforme as emoções e afeto, e não pela ação racional, sendo inprevisível e podendo levar a priorização de interesses populares (como a família e amigos) do que o interesse comum
+	- Caio Prado Júnior - Escreveu Formação do Brasil Contemporâneo, analisando a evolução da sociedade brasileira sob uma visão marxista, focada nas diferentes classes
 - Missão Francesa - Contratação de sociólogos franceses pela USP para o Brasil
-  - Claude Lévi-Strauss - Trouxe a ideia de relativismo cultural, defendendo a diversidade cultural e rejeitando a ideia de culturas superiores e inferiores
+	- Claude Lévi-Strauss - Trouxe a ideia de relativismo cultural, defendendo a diversidade cultural e rejeitando a ideia de culturas superiores e inferiores
 - Segunda Geração - Caracterizado pelo período de Guerra Fria e pós-guerras mundiais
-  - Florestan Fernandes - Financiado pela ONU, analisou as relações sociais de classe no Brasil, defendendo a ideia de que não houveram revoluções de classe no Brasil (como a revolução burguesa) e a marginalização dos negros
-  - Celso Furtado - Estuda a história da realidade brasileira, tendo como principal ideia o subdesenvolvimento sendo resultado de relações internacionais
-  - Darcy Ribeiro - Caracerizado pelas contribuições no estudo das populações indígenas
+	- Florestan Fernandes - Financiado pela ONU, analisou as relações sociais de classe no Brasil, defendendo a ideia de que não houveram revoluções de classe no Brasil (como a revolução burguesa) e a marginalização dos negros
+	- Celso Furtado - Estuda a história da realidade brasileira, tendo como principal ideia o subdesenvolvimento sendo resultado de relações internacionais
+	- Darcy Ribeiro - Caracerizado pelas contribuições no estudo das populações indígenas
 
 ## Auguste Comte, Emile Durkheim, Max Weber
 Sociologia - Ciência que surgiu no cenário de Revolução Francesa e Revolução Industrial, pelas grandes mudanças na vida social das pessoas, principalmente na industrialização e urbanização
@@ -433,7 +433,7 @@ Karl Marx - Filósofo contrário ao idealismo de Hegel, sendo materialista
 		- Proletários - Possuem somente a força de trabalho. Ex: operários
 		- Burguesia (ou Capitalistas) - Os que possuem o capital e detém os meios de produção, explorando os proletários
 	- Classe em si - A classe social em si
-    - Classe para si - Grupo com consciência de serem uma classe, crucial para a luta de classes
-    - Luta de Classes - “Motor da história”, defende que a história é resultado de conflitos entre classes sociais dominantes e oprimidas, causando mudanças
+		- Classe para si - Grupo com consciência de serem uma classe, crucial para a luta de classes
+		- Luta de Classes - “Motor da história”, defende que a história é resultado de conflitos entre classes sociais dominantes e oprimidas, causando mudanças
 	- Alienação - O trabalhador é alienado do produto (produz mas não detém, nem sabendo o que é), do seu trabalho (que é forçado, apenas para sobrevivência) e de sua essência (o trabalho é inumano e repetitivo, com o trabalhador só se sentindo humano fora do trabalho), com o trabalhador não se enxergando no processo produtivo
 	- Mais-Valia - Diferença entre o valor do produto produzido e o salário pago ao trabalhador. De onde vem o lucro do dono do meio de produção
