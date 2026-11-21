@@ -50,6 +50,13 @@ Marcha ao Oeste - Expansão territorial dos EUA ao oeste, influenciada pelo cres
 - Destino Manifesto - Ideologia que defendia que os EUA foram predestinados por Deus a conquistar o oeste  
 - Guerra de Secessão - Guerra civil entre o norte (idustrializado) e sul (grandes latifúndios) do país acerca da abolição ou não da escravidão. Acabou com a abolição, mas os negros ainda sofriam muito preconceito e tinham direitos limitados  
 	- Klu Klux Klan (KKK) - Grupo racista de ódio formando durante a guerra
+## Primeiro Reinado
+Primeiro Reinado - Reinado de Dom Pedro I, que assumiu o controle do Brasil após o retorno de Dom João VI à Portugal
+- Independência - Houve um "arranjo político" para declarar independência, mas as mesmas estruturas sociais foram mantidas
+- Assembleia Constituinte - Foi criada para a elaboração de uma constituição, mas foi dissolvida por D. Pedro, que acabou criando-a
+- Constituição - Caracterizada pelo autoritarismo pela criação do poder moderador, que controlava os 3 poderes
+	- Confederação do Equador - Movimento liderado por Frei Caneca em Pernambuco contra a constituição autoritária
+- Guerra da Cisplatina - Conflito entre Brasil e Argentina pela região da Cisplatina, que eventualmente se tornou o Uruguai independente
 ## Cap. 3
 Período Regencial - Após a retirada de Dom Pedro I, com governos provisórios aguardando a maioridade de Dom Pedro II
 - Movimentos Regenciais
@@ -57,8 +64,10 @@ Período Regencial - Após a retirada de Dom Pedro I, com governos provisórios 
 	- Balaiada - Na Bahia, pelo mesmo motivo  
 	- Sabinada - Também na Bahia, pelo aumento de impostos  
 	- Farroupilha - No Rio Grande do Sul, pelo aumento de impostos. Era movimento separatista  
-	- Revolução Praieira - Em Pernambuco, inspirado pela primavera dos povos, com valores de liberalismo e federalismo, sendo contra a deposição do governador de Pernambuco e o poder moderador  
-- Golpe da Maioridade - Golpe que levou Dom Pedro II ao poder  
+	- Revolução Praieira - Em Pernambuco, inspirado pela primavera dos povos, com valores de liberalismo e federalismo, sendo contra a deposição do governador de Pernambuco e o poder moderador
+	- Revolta dos Malês
+- Ato Adicional - Ementa constitucional que criou o município neutro e levou à regência una, com o fim da regência trina
+- Golpe da Maioridade - Golpe liderado por liberais que levou Dom Pedro II ao poder antes de atingir a maioridade
 Segundo Reinado - Reinado de Dom Pedro II. Ocorreu a estabilidade política do Estado, pelas vitórias contra movimentos durante o período regencial
 - Política - Era um parlamentarismo “às avessas”, em que o monarca possui mais autoridade que o primeiro-ministro, além de ser escolhido pelo mesmo, diferente do parlamentarismo normal, como o britânico. Isso era feito por meio do poder moderador, que dava poder absoluto ao monarca  
 	- Conselho de Estado - Escolhido pelo imperador, auxiliando-o  
