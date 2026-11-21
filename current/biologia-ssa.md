@@ -344,8 +344,11 @@ Tecidos Vegetais
 		- Protoderme - Origina a epiderme (tecido de revestimento), sendo a mais externa
 		- Meristema Fundamental - Origina os tecidos parenquimatosos e de sustentação
 		- Procâmbio - Origina os tecidos vasculares
-		- Meristema Apical - Fica na extremidade, realiza o crescimento
-	- Meristema Secundário - Crescimento lateral
+		- Meristema Apical - Fica na extremidade, realiza o crescimento por divisão celular
+	- Meristema Secundário - Crescimento lateral (ou latitudinal) a partir do primário
+		- Súber
+		- Felogênio
+		- Feloderma
 - Adultos
 	- de Revestimento - Epiderme e periderme
 		- Estômatos - Estruturas na epiderme que abrem para eliminar água
@@ -357,8 +360,9 @@ Tecidos Vegetais
 		- Amilífero
 		- Aquífero
 	- Condutor
-		- Xilema - Conduz a seiva bruta
-		- Floema - Seiva elaborada
+		- Xilema - Conduz a seiva bruta (ou inorgânica)
+		- Floema - Seiva elaborada (ou orgânica)
+		- Câmbio - Camada que separa o xilema do floema
 	- de Sustentação
 		- Colênquima - Composta por células vivas
 		- Esclerênquima - Composta por células mortas
