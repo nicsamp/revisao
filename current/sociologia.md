@@ -173,7 +173,8 @@ Cidadania - Caracterizada pela coletividade, inclusão, igualdade de direitos e 
 ## Cap. 7
 Cultura - Toda produção humana material e imaterial. Contribui para a identidade e comportamento de um grupo social, por ser compartilhada e adquirida de forma coletiva, podendo também mudar ao longo do tempo
 - Endoculturação - Fenômeno de assimilação da cultura desde o nascimento
-- Aculturação - Apropriação e ressignificação de uma cultura por outra
+- Aculturação - Apropriação e ressignificação de uma cultura por outra, havendo sobreposição de cultural
+- Transculturação - Convivência de diversas culturas ao mesmo tempo, mas sem haver sobreposição
 - Alteridade - Capacidade de enxergar o outro com base na cultura dele, e não a sua
 - Relativismo Cultural - Visão em que todas as culturas são equivalentes
 - Etnocentrismo - Visão de superioridade de uma cultura sobre a outra
@@ -223,7 +224,7 @@ Língua - Meio de comunicação internalizado para definir o mundo, contribuindo
 
 Dominação Cultural - Da mesma forma que culturas podem ser impostas e aculturadas, a memória coletiva também pode, criando relações de poder nela. Por isso, pode também haver a perda de culturas e memórias
 - Patrimônio Cultural (ou Histórico e Artístico) - Bens que contribuem para a preservação e imortalização de uma cultura, podendo ser material ou imaterial (como línguas, danças), sendo importante sua valorização
-	- Instituições de Preservação Cultural - Instituições que tem como objetivo a preservação dos patrimônios culturais. Ex: Unesco, Iphan
+	- Instituições de Preservação Cultural - Instituições que tem como objetivo a preservação e definição dos patrimônios culturais, que é um processo político. Ex: Unesco (mundial), Iphan (Brasil)
 ## Cap. 9
 Mídia - Meios de comunicação e grande escala e distância. Ex: internet, televisão, rádio, telefone
 Sociedade Midiática - Nossa sociedade, em que há uma forte presença das mídia em nosso cotidiano
