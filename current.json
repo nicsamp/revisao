@@ -2,81 +2,153 @@
     {
         "materia": "biologia-1",
         "caps": [
+            "cap. 2",
+            "cap. 3",
+            "cap. 4",
+            "cap. 5",
+            "cap. 6",
+            "cap. 7",
+            "cap. 8",
+            "cap. 9",
+            "cap. 10",
+            "cap. 11",
+            "cap. 12",
             "cap. 13",
             "cap. 14",
             "cap. 15 e 16"
         ]
     },
     {
-        "materia": "biologia-2",
+        "materia": "biologia-ssa",
         "caps": [
-            "cap. 11",
-            "cap. 12",
-            "cap. 13"
+            "taxonomia",
+            "vírus",
+            "bactérias",
+            "fungos",
+            "micoses",
+            "algas",
+            "plantas",
+            "angiospermas",
+            "histologia vegetal"
         ]
     },
     {
         "materia": "educacao-fisica",
         "caps": [
-            "práticas corporais de aventura",
-            "jogos cooperativos e de salão"
+            "ginástica não competitiva e benefícios da atividade física",
+            "esportes",
+            "lutas",
+            "práticas corporais de aventura"
         ]
     },
     {
         "materia": "filosofia",
         "caps": [
-            "cap. 2 (livro d)"
+            "cap. 1",
+            "cap. 2",
+            "cap. 3"
         ]
     },
     {
         "materia": "geografia",
         "caps": [
+            "cap. 1",
+            "cap. 2",
+            "cap. 3",
+            "cap. 4",
+            "cap. 5",
+            "cap. 6",
+            "cap. 7",
+            "cap. 8",
+            "cap. 9",
+            "cap. 10",
+            "cap. 11",
+            "cap. 12",
             "cap. 14",
             "cap. 15",
             "cap. 16",
             "cap. 17",
-            "cap. 18"
+            "cap. 18",
+            "cap. 20",
+            "cap. 21"
         ]
     },
     {
         "materia": "historia",
         "caps": [
-            "cap. 12",
-            "cap. 13",
-            "cap. 14",
-            "cap. 15"
+            "cap. 1",
+            "cap. 2",
+            "primeiro reinado",
+            "cap. 3",
+            "revolução francesa",
+            "cap. 4",
+            "cap. 5",
+            "cap. 6",
+            "cap. 7",
+            "cap. 8"
         ]
     },
     {
         "materia": "literatura",
         "caps": [
-            "cap. 8",
-            "cap. 9",
-            "cap. 10"
+            "cap. 1"
         ]
     },
     {
         "materia": "portugues",
         "caps": [
+            "cap. 1",
+            "cap. 5",
+            "cap. 6",
+            "cap. 8",
+            "cap. 10",
+            "cap. 11",
+            "cap. 12",
+            "cap. 13",
             "cap. 14",
-            "cap. 15",
             "cap. 16",
             "cap. 17",
-            "cap. 18"
+            "cap. 18",
+            "cap. 19",
+            "cap. 20"
+        ]
+    },
+    {
+        "materia": "politica-brasileira",
+        "caps": [
+            "governo federal"
         ]
     },
     {
         "materia": "redacao",
         "caps": [
-            "cap. 6",
-            "cap. 7"
+            "cap. 2",
+            "cap. 3",
+            "cap. 4",
+            "cap. 5",
+            "cap. 6"
         ]
     },
     {
         "materia": "sociologia",
         "caps": [
+            "cap. 1",
+            "cap. 2",
+            "cap. 3",
+            "cap. 4",
+            "cap. 5",
+            "cap. 6",
+            "cap. 7",
+            "cap. 8",
+            "cap. 9",
+            "cap. 10",
+            "cap. 11",
             "cap. 12",
-            "cap. 13"
+            "cap. 13",
+            "cap. 14",
+            "cap. 15",
+            "auguste comte, emile durkheim, max weber",
+            "karl marx"
         ]
     }
 ]

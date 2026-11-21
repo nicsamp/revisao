@@ -317,6 +317,15 @@ Angiospermas - Possuem flores e fruto
 		- Pseudofrutos - Ocorre quando a parte comestível da fruta se desenvolve em outra parte da flor, como receptáculo, pedúnculo ou cálice. Ex: caju
 			- Infrutescência - Formados por vários frutos pequenos de flores diferentes. Ex: abacaxi
 			- Fruto Múltiplo (ou Agregado) - Formado por uma flor com vários ovários. Ex: morango
+		- por Pericarpo
+			- Secos - Pericarpo pobre em água, com os nutrientes concentrados na semente. Ex: castanha
+			- Carnosos - Pericarpo rico em água e nutrientes. Ex: mamão
+		- por Deiscência - Ocorre quando o fruto se abre quando está maduro
+			- Deiscentes - Realizam deiscência
+			- Indeiscentes - Não realizam
+		- por Número de Sementes
+			- Monospérmicos - Apenas uma semente
+			- Polispérmicos - Várias sementes
 - Tipos de Angiospermas - Pelo número de cotilédones na semente
 	- Monocotiledônias (ou Liliopsida) - Apenas 1 cotilédone. Ex: milho
 		- Folhas - Tem nervuras paralelas
@@ -328,3 +337,28 @@ Angiospermas - Possuem flores e fruto
 		- Caule - Tronco ou haste. Tem vasos condutores em círculo
 		- Raiz - Pivotante
 		- Flor - É tetrâmera ou pentâmera (múltiplo de 4 ou 5)
+## Histologia Vegetal
+Tecidos Vegetais
+- Embrionários
+	- Meristema Primário - Responsável pelo crescimento longitudinal. Fica nas extremidades das raízes e caule
+		- Protoderme - Origina a epiderme (tecido de revestimento), sendo a mais externa
+		- Meristema Fundamental - Origina os tecidos parenquimatosos e de sustentação
+		- Procâmbio - Origina os tecidos vasculares
+		- Meristema Apical - Fica na extremidade, realiza o crescimento
+	- Meristema Secundário - Crescimento lateral
+- Adultos
+	- de Revestimento - Epiderme e periderme
+		- Estômatos - Estruturas na epiderme que abrem para eliminar água
+			- Células-Guarda
+			- Ostíolo
+		- Súber
+	- Parenquimatoso - Responsável pelo preenchimento e armazenamento
+		- Aerífero (ou Aerênquima)
+		- Amilífero
+		- Aquífero
+	- Condutor
+		- Xilema - Conduz a seiva bruta
+		- Floema - Seiva elaborada
+	- de Sustentação
+		- Colênquima - Composta por células vivas
+		- Esclerênquima - Composta por células mortas

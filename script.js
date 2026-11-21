@@ -25,7 +25,7 @@ async function getRawMarkdown(configPath) {
     let config = await (await getFile(configPath)).json();
     for (const discipline of config) {
         let markdown = await (await getFile(`current/${discipline.materia}.md`)).text();
-        rawMarkdown += markdown.match(/^.*$/m)[0] + '\n'; // Add the first line (title) of the markdown file
+        rawMarkdown += '\n' + markdown.match(/^.*$/m)[0]; // Add the first line (title) of the markdown file
         let wantedChapters = discipline.caps;
         let rawChapters = markdown.match(/(^## )([\s\S]*?)(?=$(?![\r\n])|^## )/gm);
         rawChapters.forEach((chapter) => {
