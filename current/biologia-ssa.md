@@ -233,7 +233,7 @@ Angiospermas - Possuem flores e fruto
 - Raiz - Parte terrestre da planta. Realiza a fixação ao solo e extração de água e sais minerais
 	- Coifa - Estrutura na ponta da raiz para proteção
 	- Zona de Alongamento - Responsável pelo crescimento da raiz
-	- Zona Pilífera - Absorção de água
+	- Zona Pilífera - Absorção de água, por meio de pelos
 	- Zona Suberosa - Ramificação de raízes
 	- Tipos de Sistemas de Raízes
 		- Pivotante (ou Axial) - Composta por uma raiz principal com ramificações para os lados
@@ -346,22 +346,28 @@ Tecidos Vegetais
 		- Procâmbio - Origina os tecidos vasculares
 		- Meristema Apical - Fica na extremidade, realiza o crescimento por divisão celular
 	- Meristema Secundário - Crescimento lateral (ou latitudinal) a partir do primário
-		- Súber
-		- Felogênio
-		- Feloderma
+		- Felogênio - Tecido que produz a feloderme (para dentro) e o súber (para fora)
 - Adultos
-	- de Revestimento - Epiderme e periderme
-		- Estômatos - Estruturas na epiderme que abrem para eliminar água
-			- Células-Guarda
-			- Ostíolo
-		- Súber
-	- Parenquimatoso - Responsável pelo preenchimento e armazenamento
-		- Aerífero (ou Aerênquima)
-		- Amilífero
-		- Aquífero
-	- Condutor
-		- Xilema - Conduz a seiva bruta (ou inorgânica)
-		- Floema - Seiva elaborada (ou orgânica)
+	- de Revestimento
+		- Epiderme - Função de isolar e proteger os tecidos internos
+			- Cutícula - Camada externa da epiderme, tem função impermeabilizante, evitando a perda de água
+			- Estômatos - Especializações na epiderme que abrem para a transpiração e troca de gases, composta por células-guarda uma cavidade (ostíolo)
+				- Hidratódios - Estômatos modificados que eliminam o excesso de líquido
+			- Pelos - Especializações que evitam a perda de água por evaporação nas folhas
+		- Periderme - Formado pela feloderme, felogênio e súber. Substitui a epiderme em caules com crescimento secundário
+			- Súber (ou Felema) - Estrutura de células mortas e impermeabilizadas. Ex: tronco
+			- Feloderme - Função de preenchimento, sendo parenquimatoso
+	- Parenquimatoso (ou Parênquima) - Responsável pelo preenchimento e armazenamento
+		- de Armazenamento - Armazena substâncias
+			- Aerífero (ou Aerênquima) - Acumula ar
+			- Amilífero - Acumula amido
+			- Aquífero - Acumula água
+		- Mesófilo Foliar - Região entre a epiderme superior e inferior com células ricas em cloroplastos
+			- Parênquima Paliçádico - Não tem espaços internos
+			- Parênquima Lacunoso - Tem espaços preenchidos por ar
+	- Condutor - Responsável pelo transporte de substâncias
+		- Xilema - Conduz a seiva bruta (ou inorgânica). Formado por células mortas lignificadas
+		- Floema - Seiva elaborada (ou orgânica). Formado por células vivas e alongadas
 		- Câmbio - Camada que separa o xilema do floema
 	- de Sustentação
 		- Colênquima - Composta por células vivas
