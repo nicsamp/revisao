@@ -182,3 +182,58 @@ Cinema Brasileiro - Caracterizado pela forte influência do cinema estadunidense
 - Chanchadas - Caracterizadas pela comédia, musicalidade e paródias. Destaque para Grande Otelo e Oscarito
 - Cinema Novo - Caracterizado pela crítica e análise do subdesenvolvimento brasileiro. Destaque para o diretor Glauber Rocha
 - Embrafilme - Agência estatal de apoio ao cinema brasileiro, eventualmente extinta, com a crise no setor
+
+## Romantismo
+Romantismo - Corrente muito extensa que valoriza os sentimentos, sobretudo o amoroso, além da liberdade de criação, rompendo com padrões estéticos, com a beleza sendo mais subjetiva. Utiliza o exagero de sentimentos, tom confessional, o amor idealizado e como cura junto com a mulher
+- Contexto Histórico - Revolução industrial e francesa (com ideais de liberdade e igualdade) e revolução cultural
+- Romantismo Português - Surgiu no período de questionamento ao absolutismo, com ideais de liberdade
+	- Autores - Almeida Garret, Camilo Castelo Branco
+
+---
+
+Romantismo no Brasil - Surgiu no contexto de chegada da Família Real (havendo o estímulo para a imprensa e educação nacionais), independência do Brasil e movimentos abolicionistas
+- Poesia
+	- 1ª Geração (ou Geração Nacionalista) - Foco em construir uma identidade nacional brasileira, com símbolos nacionais como o indígena e a natureza. Retratava o amor idealizado e o sofrimento amoroso
+		- Gonçalves de Magalhães - Escritor de poesia que iniciou o romantismo no Brasil
+		-  Gonçalves Dias - Principal escritor romântico no Brasil de poesia. Nas suas obras, há uma mistura de razão e sentimento. Escreveu I-Juca Pirama
+	- 2ª Geração (ou Geração Ultrarromântica) - Não falavam da vida social. Características de exagero sentimental, idealização máxima do amor e mulher, egocentrismo, melancolia, dualismo do amor e sofrimento
+		- Casimiro de Abreu - Fala muito de situações cotidianas, com uma temática recorrente de saudade da infância, vida, sensualidade e medo do amor
+		- Álvares de Azevedo - Referência da 2a geração romântica. Tem muita contradição em suas obras, além de morte, sofrimento amoroso, solidão e ironia. Não idealizava a mulher. Suas obras possuem duas faces, uma do bem (face de Ariel) e uma do mal (face de Caliban)
+	- 3ª Geração (ou Geração Condoreira) - Buscava se manifestar contra questões sociais e políticas da época (poesia social ou de engajamento), sobretudo da escravidão. A pátria não era idealizada como na 1a geração, sendo bem criticada. Tem menos dramaticidade e exagero que fases anteriores
+		- Castro Alves - Chamado de poeta dos escravizados, principal poeta da 3a geração. Criticava muito a situação social do Brasil. Antecipou o realismo. Menos dramaticidade e exagero que gerações anteriores
+			- Os Escravos - Sua principal obra, fala muito sobre a realidade dos escravizados, denunciando sobretudo o tráfico de escravos
+- Prosa (ou Romance) - Texto longo narrativo, caracterizado por questões sociais, triângulos amorosos, amor impossível, bem vs mal, amor e mulher idealizados, costumes da elite, estrutura simples, e identidade nacional, incluindo características do povo brasileiro
+	- Folhetins - Capítulos de determinada obra veiculados em jornais, responsável pelo crescimento do romance no Brasil
+	- Herói Romântico - Os protagonistas, retratados como belos, corajosos e puros. Já o que não amava era retratado como feio, covarde e impuro
+	- Tipos de Romance
+		- Indianista - Protagonismo dos povos nativos, além de serem idealizados, com uma vida simples, boa, pura e inocente (modelo do “bom selvagem”)
+		- Histórico - Idealizavam o passado do país
+		- Regionalista - Retratava a vida rural
+		- Urbana (ou de Costumes) - Retratavam a vida nas grandes cidades (principalmente Rio de Janeiro)
+	- Autores
+		- Joaquim Manuel de Macedo - Primeiro autor de prosa romântica no país
+		- José de Alencar - Principal romancista brasileiro, escrevia em todos os tipos de romance. Em suas obras, há o prevalecimento do amor, oposição entre o amor e dinheiro críticas aos comportamentos de casamento da burguesia
+			- Senhora - Conta a história de amor entre Aurélia e Fernando Seixas. Aurélia, de uma família humilde, quer casar com Fernando Seixas, com o que parece amor perfeito. Mas, ele a abandona por outra mulher, por um dote (pagamento obrigatório ao marido) maior. Depois disso, Aurélia ganha uma herança inesperada e se torna rica. Com isso, ela se vinga de Fernando por oferecer um dote maior ainda, mas só se ele falar sim antes de ver a mulher. Ele aceita, por estar com muitas dívidas e fica muito feliz ao se deparar com Aurélia. Mas, Aurélia diz que, sendo vendido, pertence a ela como um objeto, com uma relação privada de ódio. Fernando eventualmente consegue devolver o valor do dote, para resgatar sua dignidade. Mas, nesse momento, os dois se entregam ao amor e vivem felizes
+		- Manuel de Antônio Almeida - Quebra um pouco com o romantismo, por não idealizar o amor (mas ainda valoriza-o) e a mulher, além de falar sobre a vida das camadas sociais mais inferiores, e não a elite
+
+---  
+
+Tipos de Personagens
+- Planos - Personagens superficiais, sendo fácil deduzir suas trajetórias
+- Esféricos - Possuem profundidades psicológica, sendo possível perceber seus pensamentos e sentimentos, sendo mais complexos e imprevisíveis
+## Realismo
+## Cap. 2
+
+Realismo - Movimento literário caracterizado pela visão objetiva e racional da realidade, mostrando a realidade como ela realmente é
+- Contexto - Revolução industrial e científica, monarquia escravista brasileira
+
+---
+
+Realismo no Brasil
+- Machado de Assis - Principal literário realista brasileiro, caracterizado pela preocupação com a retratação do caráter e comportamento humano. Sua produção literária é dividida em duas fases
+	- Fase Romântica (ou Imatura) - Seus primeiros livros e contos, mais voltados ao Romantismo. Suas obras possuíam menos profundidade psicológica e mais dramaticidade, além de mais estética romântica e não possuir muitas críticas sociais
+	- Fase Realista (ou Madura) - Segunda fase das obras de Machado de Assis, com inovações literárias que levaram ao surgimento do realismo. Caracterizado pela narrativa não-linear, análise psicológica, críticas sociais, pessimismo, humor, personagens realistas
+		- Memórias Póstumas de Brás Cubas - Livro que marcou o início da fase realista. É uma autobiografia do personagem Brás Cubas, falando sobre sua vida depois de morrer, como seu amor jovem, Marcela, suas aventuras cursando em Direito em Portugal, sua amizade com o filósofo Quincas Borba, tudo isso com ironia e sarcasmo
+		- Dom Casmurro - História narrada por Bentinho, inicialmente falando sobre sua história, falando da sua ida para o seminário, seu casamento com Capitu e de Escobar com Sancha, depois falando de sua desconfiança da fidelidade de Capitu, principalmente após o nascimento de seu filho Ezequiel, onde vê muitas semelhanças à Escobar, além da maior convivência com ele de acordo com Bentinho, eventualmente se separando
+- Joaquim Nabuco - Escritor pernambucano de grande destaque. Caracterizado por defender o fim da escravidão, argumentando de ganhos sociais e econômicos para o país, além de questões humanitárias e éticas. Ele criticava e denunciava ela em suas obras. Contudo, ele dizia que a vinda de pessoas escravizadas originou o povo brasileiro, a partir da miscigenação
+## Naturalismo [NÃO FEITO]

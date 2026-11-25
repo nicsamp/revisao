@@ -64,6 +64,7 @@
             "cap. 10",
             "cap. 11",
             "cap. 12",
+            "cap. 13",
             "cap. 14",
             "cap. 15",
             "cap. 16",
@@ -91,7 +92,10 @@
     {
         "materia": "literatura",
         "caps": [
-            "cap. 1"
+            "cap. 1",
+            "romantismo",
+            "realismo",
+            "naturalismo"
         ]
     },
     {
