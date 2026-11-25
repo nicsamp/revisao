@@ -1,12 +1,10 @@
 Todo:
 Sistema Nervoso
-Modais de Transporte
 
 ---
 
 In progress:
 Plantas
-Literatura Revisão
 
 ---
 
@@ -20,6 +18,6 @@ Genealogias
 
 Seg: Bio 2
 Ter: Bio 1, Bio SSA, Liter, Socio, *Geo*
-Qua: *Edf*, Hist, *Filos*
+Qua: *Edf*, *Hist*, *Filos*
 Qui: *Geo*, *Port*
-Sex: Bio 2, Hist
+Sex: Bio 2, *Hist*

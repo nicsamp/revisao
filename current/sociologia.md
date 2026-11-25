@@ -158,12 +158,13 @@ Revolução - Processo em que um grupo social entra em confronto com as autorida
 
 Materialismo Histórico-Dialético - Método de análise defendido por Marx em que a história e suas transformações são resultado de contradições (dialética), que geram mudanças, que geram novas contradições, com processo constante de movimento
 ## Cap. 6
-Movimentos Sociais - Comportamentos organizados por um grupo com valores comuns que buscam alguma mudança ou não mudança. Para ser movimento social, precisa haver organização, com uma identidade e objetivo comum no grupo. Pode ser controlado pelo Estado por meio de negociações ou violência. Pode resultar na criação de partidos e outras organizações. Ex: greves
-- Reivindicativos (ou Reformistas) - Mudanças nas normas, funções e destinação de recursos. Ex: Movimento dos Trabalhadores Rurais sem Terra (MST)  
-	- Igualitários - Buscam garantir a igualdade de direitos, combatendo desigualdade e discriminação. Ex: movimento feminista, antirracista, LGBTQIA+  
+Movimentos Sociais - Comportamentos organizados por um grupo com valores comuns que buscam alguma mudança ou não mudança, pressionando o Estado. Para ser movimento social, precisa haver organização, com uma identidade e objetivo comum no grupo. Pode ser controlado pelo Estado por meio de negociações ou violência. Pode resultar na criação de partidos e outras organizações. Ex: greves
+- Reivindicativos - Mudanças nas normas, funções e destinação de recursos. Ex: Movimento dos Trabalhadores Rurais sem Terra (MST)  
+	- Igualitários (ou Novos Movimentos Sociais) - Buscam garantir a igualdade de direitos, combatendo desigualdade e discriminação e com pautas identitárias, sendo a mais comum atualmente. Ex: movimento feminista, antirracista, LGBTQIA+  
 - Conservadores - São contra uma mudança estabelecida ou a ser estabelecida  
 - Políticos - Mudanças na participação política. Ex: movimento contra o apartheid  
-- de Classe (ou Revolucionários) - Mais extremo, mudando a ordem social e as relações de classe e produção. Ex: cartismo  
+- de Classe (ou Revolucionários ou Tradicionais) - Mais extremo, mudando a ordem social e as relações de classe e produção. Ex: cartismo  
+- Reformistas - Visam voltar a um passado anterior
 - Legitimidade - Um movimento pode ser legítimo ou não, baseado no consenso da população, que pode afetar na necessidade de uso da força
 
 ---
