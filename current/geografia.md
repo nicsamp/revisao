@@ -419,6 +419,25 @@ Industrialização Brasileira por Regiões
 - Nordeste - Cresceu mais recentemente por incentivos Estatais, e a criação da Superintendência do Desenvolvimento do Nordeste (Sudene)
 - Norte - Destaque para Manaus, também por inventivos estatais
 - Centro-Oeste - Bem pequena, com destaque para a agroindústria
+## Cap. 13
+Transporte - Atividade caracterizada pela circulação de mercadorias, pessoas, capital e serviços, sendo parte do setor terciário
+Modais de Transporte - Tipos de transporte
+- Rodoviário - Transporte por veículos em rodovias. É o mais flexível e tem boa velocidade, mas alto custo de combustível e manutenção. É o principal no Brasil, diferente de outros países
+- Hidroviário (ou Aquaviário) - Transporte por embarcações em rios (fluvial), oceanos (marítimo) e lagos (lacustre). Tem baixo custo e muita alta capacidade de carga para longas distâncias, mas baixa velocidade. Mais comum em rios no Brasil
+    - Cabotagem - Transporte marítimo de porto a porto, sendo muito comum no Brasil
+    - Organização Marítima Internacional (IMO) - Organização que regula o transporte hidroviário
+- Ferroviário - Transporte por trens em ferrovias. Tem baixo custo e alto volume de carga, mas alto custo de construção de infraestrutura. Mais comum em países desenvolvidos, onde é usado no transporte de passageiros
+- Aeroviário - Transporte por aeronaves. É o mais seguro e rápido, mas é o mais custoso e tem baixo volume de carga. Usado sobretudo para transporte de pessoas e cargas emergenciais ou de alto valor
+    - Convenção de Montreal - Convenção internacional que regula o transporte aeroviário
+- Dutoviário - Transporte por tubulações. Tem baixo custo, mas baixa flexibilidade, apenas funciona para cargas específicas e tem risco de vazamento. Não possuem legislação internacional
+    - Oleoduto - Transporta petróleo e derivados
+    - Gasoduto - Transporta gás natural
+    - Aqueoduto - Transporta água
+    - Mineroduto - Transporta minérios
+
+---
+
+Intermodais (ou Multimodais) - Utilização de vários modais no transporte de algo, sendo mais vantajoso
 ## Cap. 14 []
 Setor Terciário - Conjunto de atividades relacionadas ao comércio de mercadorias ou prestação de serviços, sendo o principal do mundo e do Brasil, sobretudo pela urbanização
 - Comércio - Troca de bens materias e imateriais
