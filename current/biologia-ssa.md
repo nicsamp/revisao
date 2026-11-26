@@ -227,6 +227,7 @@ Tipos de Plantas
 ---
 
 Criptógamas - Plantas com órgãos reprodutivos ocultos, são as briófitas e pteridófitas
+Traqueófitas - Plantas com vasos condutores, são as pteridófitas e fanerógamas
 Fanerógamas - Órgãos reprodutivos evidentes, sendo as gimno e angiospermas
 ## Angiospermas
 Angiospermas - Possuem flores e fruto
@@ -347,9 +348,10 @@ Tecidos Vegetais
 		- Meristema Apical - Fica na extremidade, realiza o crescimento por divisão celular
 	- Meristema Secundário - Crescimento lateral (ou latitudinal) a partir do primário
 		- Felogênio - Tecido que produz a feloderme (para dentro) e o súber (para fora)
+		- Câmbio - Tecido que origina e separa o xilema (para dentro) do floema (para fora), formado a partir do procâmbio
 - Adultos
 	- de Revestimento
-		- Epiderme - Função de isolar e proteger os tecidos internos
+		- Epiderme (ou Protoderme) - Função de isolar e proteger os tecidos internos
 			- Cutícula - Camada externa da epiderme, tem função impermeabilizante, evitando a perda de água
 			- Estômatos - Especializações na epiderme que abrem para a transpiração e troca de gases, composta por células-guarda uma cavidade (ostíolo)
 				- Hidratódios - Estômatos modificados que eliminam o excesso de líquido
@@ -357,18 +359,20 @@ Tecidos Vegetais
 		- Periderme - Formado pela feloderme, felogênio e súber. Substitui a epiderme em caules com crescimento secundário
 			- Súber (ou Felema) - Estrutura de células mortas e impermeabilizadas. Ex: tronco
 			- Feloderme - Função de preenchimento, sendo parenquimatoso
+		- Casca - Junção da periderme com o floema
 	- Parenquimatoso (ou Parênquima) - Responsável pelo preenchimento e armazenamento
-		- de Armazenamento - Armazena substâncias
-			- Aerífero (ou Aerênquima) - Acumula ar
-			- Amilífero - Acumula amido
-			- Aquífero - Acumula água
-		- Mesófilo Foliar - Região entre a epiderme superior e inferior com células ricas em cloroplastos
+		- Clorênquima (ou Parênquima Clorofiliano) - Formado por células ricas em cloroplastos, realizando fotossíntese. Fica no mesófilo foliar (região entre a epiderme superior e inferior)
 			- Parênquima Paliçádico - Não tem espaços internos
-			- Parênquima Lacunoso - Tem espaços preenchidos por ar
+			- Parênquima Lacunoso - Tem espaços preenchidos por ar, com função de armazenar substâncias
+				- Aerífero (ou Aerênquima) - Acumula ar
+				- Amilífero - Acumula amido
+				- Aquífero (ou Hidrênquima) - Acumula água
+		- Parênquima Medular - Fica no centro do caule ou raiz (medula)
 	- Condutor - Responsável pelo transporte de substâncias
-		- Xilema - Conduz a seiva bruta (ou inorgânica). Formado por células mortas lignificadas
-		- Floema - Seiva elaborada (ou orgânica). Formado por células vivas e alongadas
-		- Câmbio - Camada que separa o xilema do floema
+		- Xilema - Conduz a seiva bruta (ou inorgânica, água e sais minerais). Formado por células mortas lignificadas
+			- Macronutrientes - Principais sais minerais cruciais para a planta. São N, P, K, Ca, Mg, S
+			- Micronutrientes - Sais menos importantes
+		- Floema - Seiva elaborada (ou orgânica, onde a glicose formada pela fotossíntese é distribuída). Formado por células vivas e alongadas
 	- de Sustentação
-		- Colênquima - Composta por células vivas
-		- Esclerênquima - Composta por células mortas
+		- Colênquima - Composta por células vivas e alongadas com parede celular grossa. Fica próxima a epiderme
+		- Esclerênquima - Composta por células mortas, sendo mais rígido e espesso que a clorênquima
