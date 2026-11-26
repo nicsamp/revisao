@@ -236,4 +236,14 @@ Realismo no Brasil
 		- Memórias Póstumas de Brás Cubas - Livro que marcou o início da fase realista. É uma autobiografia do personagem Brás Cubas, falando sobre sua vida depois de morrer, como seu amor jovem, Marcela, suas aventuras cursando em Direito em Portugal, sua amizade com o filósofo Quincas Borba, tudo isso com ironia e sarcasmo
 		- Dom Casmurro - História narrada por Bentinho, inicialmente falando sobre sua história, falando da sua ida para o seminário, seu casamento com Capitu e de Escobar com Sancha, depois falando de sua desconfiança da fidelidade de Capitu, principalmente após o nascimento de seu filho Ezequiel, onde vê muitas semelhanças à Escobar, além da maior convivência com ele de acordo com Bentinho, eventualmente se separando
 - Joaquim Nabuco - Escritor pernambucano de grande destaque. Caracterizado por defender o fim da escravidão, argumentando de ganhos sociais e econômicos para o país, além de questões humanitárias e éticas. Ele criticava e denunciava ela em suas obras. Contudo, ele dizia que a vinda de pessoas escravizadas originou o povo brasileiro, a partir da miscigenação
-## Naturalismo [NÃO FEITO]
+## Naturalismo
+Naturalismo - Movimento caracterizado como uma forma mais radical do realismo, influenciado pelo determinismo (o meio determina o homem, que não tem livre-arbítrio) e positivismo (a ciência leva à verdade)
+- Características - Objetividade científica, impessoalidade e retrato fiel da realidade, descrição detalhada, com muita denúncia social (pobreza, violência, desigualdade, crime), animalização de personagens (que são movidos por instintos), linguagem coloquial
+ ---
+
+Naturalismo no Brasil
+- Contexto - Proclamação da república
+- Aluísio de Azevedo - Primeiro escritor naturalista brasileiro, com a obra O Mulato
+	- O Cortiço - Principal obra de Aluísio, 
+- Raul Pompeia - Outro escritor de destaque, escreveu O Ateneu
+- Adolfo Caminha - Obra caracterizada pela forte crítica social
